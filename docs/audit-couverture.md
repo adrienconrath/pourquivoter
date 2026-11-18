@@ -83,7 +83,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | École et jeunesse | Bruno Retailleau | 68 | 68 | 2 | 1 | Non relue |
 | École et jeunesse | Marine Le Pen | 51 | 51 | 2 | 0 | Non relue |
 | École et jeunesse | Éric Zemmour | 21 | 21 | 2 | 0 | Non relue |
-| Santé et accès aux soins | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
+| Santé et accès aux soins | Jean-Luc Mélenchon | 0 | 1126 | 11 | 3 | Relue |
 | Santé et accès aux soins | François Ruffin | 60 | 60 | 1 | 0 | Non relue |
 | Santé et accès aux soins | Fabien Roussel | 54 | 54 | 3 | 0 | Non relue |
 | Santé et accès aux soins | Marine Tondelier | 53 | 53 | 1 | 0 | Non relue |
