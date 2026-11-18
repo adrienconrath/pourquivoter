@@ -29,7 +29,7 @@ retraites|tondelier|27|27|1|1|0|0|insuffisant|non
 retraites|glucksmann|24|24|1|2|0|0|insuffisant|non
 retraites|attal|103|103|4|4|1|1|insuffisant|non
 retraites|philippe|302|302|10|4|2|2|a_approfondir|non
-retraites|lisnard|15|15|1|1|0|0|insuffisant|non
+retraites|lisnard|15|945|13|10|4|3|controle_qualitatif|relue
 retraites|retailleau|196|196|6|3|2|1|insuffisant|non
 retraites|le-pen|357|357|10|5|4|2|a_approfondir|non
 retraites|zemmour|41|41|1|1|0|0|insuffisant|non
@@ -57,7 +57,7 @@ travail|le-pen|140|140|3|1|1|0|insuffisant|non
 travail|zemmour|12|1103|14|11|5|1|controle_qualitatif|relue
 industrie|melenchon|0|1151|18|12|3|5|controle_qualitatif|relue
 industrie|ruffin|45|45|2|2|0|0|insuffisant|non
-industrie|roussel|14|14|1|1|0|0|insuffisant|non
+industrie|roussel|14|997|14|9|3|3|controle_qualitatif|relue
 industrie|tondelier|65|65|2|1|0|1|insuffisant|non
 industrie|glucksmann|33|33|1|1|0|0|insuffisant|non
 industrie|attal|15|15|1|1|0|0|insuffisant|non

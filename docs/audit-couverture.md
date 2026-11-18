@@ -35,7 +35,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Retraites | Raphaël Glucksmann | 24 | 24 | 2 | 0 | Non relue |
 | Retraites | Gabriel Attal | 103 | 103 | 4 | 1 | Non relue |
 | Retraites | Édouard Philippe | 302 | 302 | 4 | 2 | Non relue |
-| Retraites | David Lisnard | 15 | 15 | 1 | 0 | Non relue |
+| Retraites | David Lisnard | 15 | 945 | 10 | 4 | Relue |
 | Retraites | Bruno Retailleau | 196 | 196 | 3 | 2 | Non relue |
 | Retraites | Marine Le Pen | 357 | 357 | 5 | 4 | Non relue |
 | Retraites | Éric Zemmour | 41 | 41 | 1 | 0 | Non relue |
@@ -63,7 +63,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Travail et salaires | Éric Zemmour | 12 | 1103 | 11 | 5 | Relue |
 | Industrie et entreprises | Jean-Luc Mélenchon | 0 | 1151 | 12 | 3 | Relue |
 | Industrie et entreprises | François Ruffin | 45 | 45 | 2 | 0 | Non relue |
-| Industrie et entreprises | Fabien Roussel | 14 | 14 | 1 | 0 | Non relue |
+| Industrie et entreprises | Fabien Roussel | 14 | 997 | 9 | 3 | Relue |
 | Industrie et entreprises | Marine Tondelier | 65 | 65 | 1 | 0 | Non relue |
 | Industrie et entreprises | Raphaël Glucksmann | 33 | 33 | 1 | 0 | Non relue |
 | Industrie et entreprises | Gabriel Attal | 15 | 15 | 1 | 0 | Non relue |
