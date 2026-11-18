@@ -220,9 +220,9 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Agriculture et alimentation | Fabien Roussel | 0 | 1093 | 11 | 3 | Relue |
 | Agriculture et alimentation | Marine Tondelier | 77 | 77 | 1 | 0 | Non relue |
 | Agriculture et alimentation | Raphaël Glucksmann | 0 | 918 | 11 | 3 | Relue |
-| Agriculture et alimentation | Gabriel Attal | 43 | 43 | 2 | 0 | Non relue |
+| Agriculture et alimentation | Gabriel Attal | 43 | 1101 | 16 | 6 | Relue |
 | Agriculture et alimentation | Édouard Philippe | 26 | 1076 | 11 | 4 | Relue |
-| Agriculture et alimentation | David Lisnard | 42 | 42 | 2 | 0 | Non relue |
+| Agriculture et alimentation | David Lisnard | 42 | 967 | 9 | 3 | Relue |
 | Agriculture et alimentation | Bruno Retailleau | 65 | 65 | 2 | 1 | Non relue |
 | Agriculture et alimentation | Marine Le Pen | 0 | 1161 | 16 | 4 | Relue |
 | Agriculture et alimentation | Éric Zemmour | 0 | 1189 | 13 | 5 | Relue |
