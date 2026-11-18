@@ -81,7 +81,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | École et jeunesse | Édouard Philippe | 116 | 116 | 1 | 0 | Non relue |
 | École et jeunesse | David Lisnard | 182 | 182 | 4 | 2 | Non relue |
 | École et jeunesse | Bruno Retailleau | 68 | 68 | 2 | 1 | Non relue |
-| École et jeunesse | Marine Le Pen | 51 | 51 | 2 | 0 | Non relue |
+| École et jeunesse | Marine Le Pen | 51 | 1103 | 10 | 3 | Relue |
 | École et jeunesse | Éric Zemmour | 21 | 991 | 10 | 6 | Relue |
 | Protection de l’enfance | Jean-Luc Mélenchon | 0 | 956 | 15 | 3 | Relue |
 | Protection de l’enfance | François Ruffin | 0 | 917 | 12 | 3 | Relue |
@@ -168,7 +168,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Institutions et démocratie | Gabriel Attal | 15 | 1219 | 15 | 4 | Relue |
 | Institutions et démocratie | Édouard Philippe | 14 | 994 | 10 | 4 | Relue |
 | Institutions et démocratie | David Lisnard | 15 | 1023 | 11 | 4 | Relue |
-| Institutions et démocratie | Bruno Retailleau | 51 | 51 | 1 | 0 | Non relue |
+| Institutions et démocratie | Bruno Retailleau | 51 | 1103 | 14 | 4 | Relue |
 | Institutions et démocratie | Marine Le Pen | 20 | 1011 | 12 | 4 | Relue |
 | Institutions et démocratie | Éric Zemmour | 0 | 1055 | 11 | 4 | Relue |
 | Égalité et droits | Jean-Luc Mélenchon | 0 | 962 | 12 | 4 | Relue |

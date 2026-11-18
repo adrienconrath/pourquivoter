@@ -75,7 +75,7 @@ ecole|attal|151|151|5|4|1|2|insuffisant|non
 ecole|philippe|116|116|4|1|0|1|insuffisant|non
 ecole|lisnard|182|182|6|4|2|1|insuffisant|non
 ecole|retailleau|68|68|3|2|1|0|insuffisant|non
-ecole|le-pen|51|51|2|2|0|0|insuffisant|non
+ecole|le-pen|51|1103|13|10|3|2|controle_qualitatif|relue
 ecole|zemmour|21|991|15|10|6|3|controle_qualitatif|relue
 enfance|melenchon|0|956|14|15|3|2|controle_qualitatif|relue
 enfance|ruffin|0|917|14|12|3|1|controle_qualitatif|relue
@@ -162,7 +162,7 @@ institutions|glucksmann|13|1029|14|10|3|1|controle_qualitatif|relue
 institutions|attal|15|1219|15|15|4|2|controle_qualitatif|relue
 institutions|philippe|14|994|13|10|4|1|controle_qualitatif|relue
 institutions|lisnard|15|1023|14|11|4|2|controle_qualitatif|relue
-institutions|retailleau|51|51|2|1|0|0|insuffisant|non
+institutions|retailleau|51|1103|17|14|4|1|controle_qualitatif|relue
 institutions|le-pen|20|1011|14|12|4|2|controle_qualitatif|relue
 institutions|zemmour|0|1055|13|11|4|1|controle_qualitatif|relue
 droits|melenchon|0|962|14|12|4|1|controle_qualitatif|relue
