@@ -105,7 +105,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Santé et accès aux soins | Bruno Retailleau | 112 | 112 | 2 | 1 | Non relue |
 | Santé et accès aux soins | Marine Le Pen | 118 | 118 | 2 | 1 | Non relue |
 | Santé et accès aux soins | Éric Zemmour | 66 | 66 | 2 | 0 | Non relue |
-| Logement | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
+| Logement | Jean-Luc Mélenchon | 0 | 1034 | 11 | 3 | Relue |
 | Logement | François Ruffin | 178 | 178 | 4 | 1 | Non relue |
 | Logement | Fabien Roussel | 130 | 130 | 2 | 1 | Non relue |
 | Logement | Marine Tondelier | 12 | 12 | 1 | 0 | Non relue |
@@ -116,7 +116,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Logement | Bruno Retailleau | 256 | 256 | 4 | 2 | Non relue |
 | Logement | Marine Le Pen | 154 | 154 | 2 | 3 | Non relue |
 | Logement | Éric Zemmour | 61 | 61 | 2 | 1 | Non relue |
-| Fonction publique | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
+| Fonction publique | Jean-Luc Mélenchon | 0 | 1088 | 11 | 4 | Relue |
 | Fonction publique | François Ruffin | 41 | 41 | 2 | 0 | Non relue |
 | Fonction publique | Fabien Roussel | 119 | 119 | 3 | 1 | Non relue |
 | Fonction publique | Marine Tondelier | 86 | 86 | 2 | 1 | Non relue |

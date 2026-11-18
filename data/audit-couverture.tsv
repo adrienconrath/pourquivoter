@@ -99,7 +99,7 @@ sante|lisnard|56|56|2|1|0|0|insuffisant|non
 sante|retailleau|112|112|4|2|1|2|insuffisant|non
 sante|le-pen|118|118|3|2|1|1|insuffisant|non
 sante|zemmour|66|66|2|2|0|1|insuffisant|non
-logement|melenchon|0|0|0|0|0|0|vide|non
+logement|melenchon|0|1034|13|11|3|4|controle_qualitatif|relue
 logement|ruffin|178|178|6|4|1|2|insuffisant|non
 logement|roussel|130|130|5|2|1|1|insuffisant|non
 logement|tondelier|12|12|1|1|0|0|insuffisant|non
@@ -110,7 +110,7 @@ logement|lisnard|171|171|4|2|2|0|insuffisant|non
 logement|retailleau|256|256|8|4|2|1|a_approfondir|non
 logement|le-pen|154|154|5|2|3|0|insuffisant|non
 logement|zemmour|61|61|2|2|1|0|insuffisant|non
-services|melenchon|0|0|0|0|0|0|vide|non
+services|melenchon|0|1088|14|11|4|2|controle_qualitatif|relue
 services|ruffin|41|41|1|2|0|0|insuffisant|non
 services|roussel|119|119|4|3|1|1|insuffisant|non
 services|tondelier|86|86|3|2|1|0|insuffisant|non
