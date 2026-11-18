@@ -10,7 +10,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Dette et déficit | François Ruffin | 175 | 962 | 12 | 5 | Relue |
 | Dette et déficit | Fabien Roussel | 17 | 1034 | 15 | 5 | Relue |
 | Dette et déficit | Marine Tondelier | 17 | 1034 | 10 | 4 | Relue |
-| Dette et déficit | Raphaël Glucksmann | 858 | 858 | 17 | 3 | Non relue |
+| Dette et déficit | Raphaël Glucksmann | 858 | 1097 | 13 | 4 | Relue |
 | Dette et déficit | Gabriel Attal | 849 | 1054 | 18 | 5 | Relue |
 | Dette et déficit | Édouard Philippe | 233 | 1145 | 11 | 4 | Relue |
 | Dette et déficit | David Lisnard | 200 | 1070 | 10 | 4 | Relue |
