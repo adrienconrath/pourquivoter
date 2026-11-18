@@ -174,3 +174,16 @@ zem-fisc-accise : 53/200
 Les minutages ont également été retirés des titres du catalogue de sources. Les journaux de recherche gardent leurs repères internes. Contrôles du générateur, de couverture et des budgets regroupés réussis après intégration.
 
 CORRECTION PRIORITAIRE : chapitres mel-prix-richesses et mel-prix-besoins regroupés comme un livre unique, 166/200 mots (résumé + Détails). Résumé Mélenchon recentré sur salaire/prix, références PPL/blog ; les garanties et gratuités restent détaillées sans suppression. Orientation débarrassée d’une répétition du transfert profits/revenus déjà expliqué dans le financement.
+
+Comptages après intégration :
+- melenchon : résumé 63 mots ; total 899 mots.
+- attal : résumé 66 mots ; total 845 mots.
+- glucksmann : résumé 58 mots ; total 1051 mots.
+- le-pen : résumé 67 mots ; total 848 mots.
+- lisnard : résumé 60 mots ; total 800 mots.
+- philippe : résumé 71 mots ; total 776 mots.
+- retailleau : résumé 69 mots ; total 966 mots.
+- roussel : résumé 73 mots ; total 731 mots.
+- ruffin : résumé 60 mots ; total 946 mots.
+- tondelier : résumé 61 mots ; total 836 mots.
+- zemmour : résumé 73 mots ; total 808 mots.

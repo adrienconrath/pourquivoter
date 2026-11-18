@@ -170,3 +170,16 @@ zemmour|zem-dette-qde|71/200
 Contrôles réussis : 11/11 résumés uniques, chaque résumé sous 100 mots, 6 colonnes, champs valides, toutes références existantes, budgets documentaires respectés. Contrôle du générateur et audit de couverture réussis après intégration. La dernière réserve du résumé de Mélenchon a été retirée pour éviter un antécédent ambigu ; les objections restent développées dans les détails. Le sigle de La France insoumise et le rôle du pacte Dutreil ont été explicités.
 
 Contrôle complémentaire : les chapitres du programme-livre Mélenchon ont été regroupés et la synthèse a été ajustée. Résumé et détails restent sous 200 mots pour ce livre ; le document budgétaire et les entretiens sont contrôlés séparément. Les instruments et conditions ont été conservés.
+
+Comptages après intégration :
+- melenchon : résumé 55 mots ; total 918 mots.
+- attal : résumé 73 mots ; total 1059 mots.
+- glucksmann : résumé 71 mots ; total 1059 mots.
+- le-pen : résumé 72 mots ; total 933 mots.
+- lisnard : résumé 77 mots ; total 980 mots.
+- philippe : résumé 60 mots ; total 1096 mots.
+- retailleau : résumé 78 mots ; total 1104 mots.
+- roussel : résumé 61 mots ; total 1002 mots.
+- ruffin : résumé 56 mots ; total 933 mots.
+- tondelier : résumé 61 mots ; total 963 mots.
+- zemmour : résumé 59 mots ; total 1047 mots.

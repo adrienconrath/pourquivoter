@@ -4,7 +4,7 @@ Relecture éditoriale défense — 18 novembre 2026
 Français simplifié ; archives et projets collectifs identifiés, critiques attribuées et réponses conservées. Les redites de prudence et les minutages visibles ont été supprimés. Les durées réelles (dix mois de service, plusieurs mois de formation, six mois après élection) restent présentes.
 Les résumés comparent des orientations explicites de candidats présents, avec les références des deux positions. La comparaison Lisnard/Le Pen a été remplacée par Lisnard/Mélenchon : rester dans l’Alliance ne suffit pas à prouver une divergence avec un retrait du seul commandement.
 
-Comptages finaux (mots séparés par espaces ; résumé + détails) :
+Comptages de la livraison éditoriale (mots séparés par espaces ; résumé + détails) :
 melenchon: résumé 60 mots ; total 968 mots ; 21 paragraphes de détails.
 ruffin: résumé 62 mots ; total 829 mots ; 13 paragraphes de détails.
 attal: résumé 66 mots ; total 1000 mots ; 15 paragraphes de détails.
@@ -27,3 +27,16 @@ Les réponses des candidats ne sont pas attribuées aux seuls rapports critiques
 Validation : six colonnes par ligne, IDs sources existants, exactement un résumé de moins de 100 mots pour chacune des 11 cases, aucun minutage dans texte ou kind. Contrôle du générateur et audit de couverture réussis après intégration.
 
 Relecture d’intégration : formulation de la priorité climatique clarifiée et libellés de recherche remplacés. Le cahier collectif du PCF a été daté de mai. Un paragraphe issu de la recherche Europe déjà relue rappelle la base commune de juillet demandant une sortie immédiate de l’OTAN, distincte du cahier antérieur et d’un calendrier présidentiel personnel. Référence existante rou-eu-congres, moins de 60 mots.
+
+Comptages après intégration :
+- melenchon : résumé 60 mots ; total 973 mots.
+- ruffin : résumé 62 mots ; total 829 mots.
+- attal : résumé 66 mots ; total 1000 mots.
+- glucksmann : résumé 65 mots ; total 834 mots.
+- lisnard : résumé 62 mots ; total 744 mots.
+- philippe : résumé 51 mots ; total 784 mots.
+- roussel : résumé 61 mots ; total 869 mots.
+- tondelier : résumé 63 mots ; total 881 mots.
+- retailleau : résumé 60 mots ; total 919 mots.
+- le-pen : résumé 71 mots ; total 980 mots.
+- zemmour : résumé 48 mots ; total 938 mots.
