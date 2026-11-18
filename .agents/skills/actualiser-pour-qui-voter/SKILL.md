@@ -1,0 +1,23 @@
+---
+name: actualiser-pour-qui-voter
+description: Actualiser ou auditer l’édition française de Pour qui voter ? avec une recherche par candidature et par thème, des affirmations traçables, des chiffrages attribués et un comparatif GitHub Pages vérifié sur mobile et ordinateur.
+---
+
+# Actualiser Pour qui voter ?
+
+Travaille dans le dépôt `pourquivoter`. Lis le README et les tables éditoriales avant de modifier le site. L’objectif est de permettre une comparaison neutre des propositions pour la présidentielle française de 2027 avec des textes concis, des sources directement accessibles et une navigation simple.
+
+## Refaire le relevé
+
+1. Confirme auprès du Conseil constitutionnel si la liste officielle est publiée. Avant sa publication, vérifie les annonces, investitures, primaires, retraits et éventuelles conditions d’éligibilité avec leurs dates. Vérifie les décisions judiciaires aux sources institutionnelles et attribue clairement les interprétations. Actualise le périmètre en fonction des changements documentés, avec une explication si la sélection reste partielle. Après publication, couvre toutes les candidatures officielles.
+2. Pour chaque profil, recoupe Wikipédia avec une biographie institutionnelle ou de campagne en cas de divergence. Vérifie date de naissance, parti, mandats exercés, liens de campagne et de parti. Pour un nouveau portrait, vérifie l’identité, l’origine, l’auteur et la licence sur la fiche du fichier. Enregistre un WebP optimisé et précise les adaptations dans les crédits.
+3. Examine systématiquement chaque couple thème–personnalité, en partant du site officiel, des livrets datés, des conférences, entretiens ou débats et des documents parlementaires. Vérifie les mises à jour, corrections et propositions abandonnées. Recoupe avec des médias de sensibilités différentes et avec les analyses spécialisées disponibles. Pour les recherches lacunaires, varie les termes et remonte des index à la publication originale. N’utilise les index comme sources directes que si tu identifies clairement leur rôle dans le texte.
+4. Décris ce qui distingue la logique politique de chaque position. Distingue le programme 2027, la déclaration, le projet de parti, le bilan et l’archive. Attribue les critiques à leur auteur, distingue tribune et expertise et examine la réponse éventuelle du candidat. Présente les mêmes types de contre-arguments selon les mêmes critères de preuve. Une question ouverte doit apparaître comme telle.
+5. Pour chaque mesure économique, recherche son coût, son rendement et qui paie. Précise l’année, le périmètre, l’assiette, les hypothèses, les effets bruts ou nets et la contrepartie lorsque les sources le permettent. Distingue un stock de dette, un déficit annuel et une économie par rapport à un scénario. Sépare les montants annuels des montants cumulés, les euros bruts des euros nets et les hypothèses de campagne des estimations externes. Évite d’additionner des chiffres de périmètres différents. Laisse la lacune visible si le chiffrage, le financement ou la critique reste à établir.
+
+## Enregistrer et contrôler l’édition
+
+- Ajoute les références dans `data/sources.tsv`. Utilise une URL directe HTTPS, un titre permettant d’identifier l’auteur et le document, puis le type de publication. Favorise sections, pages PDF et liens durables. Relis chaque affirmation avec sa source et suis les liens de référence avant d’éditer. Propose des reformulations originales et courtes.
+- Mets chaque affirmation dans `data/positions.tsv`, avec un champ `orientation`, `mesure`, `financement` ou `critique` et ses propres identifiants de sources. Les références multiples sont séparées par une virgule. Le générateur rend chaque affirmation dans un élément `data-sources` et expose ses références via un menu accessible au clavier et au toucher ainsi qu’au survol. Garde les faits hors des textes d’interface.
+- Garde un français accessible, un ordre stable et une palette neutre. Ajoute ou fusionne des thèmes si les enjeux ont changé. Teste les filtres à plusieurs thèmes et personnalités, la recherche, les liens partageables, les cas sans données, les portraits, les menus de sources et le parcours sans JavaScript. Vérifie sur ordinateur et sur téléphone ainsi qu’au clavier, sans débordement horizontal.
+- Date la fin du relevé dans `data/edition.txt`. Le pied de page indique séparément la date de génération. Exécute `python3 scripts/build.py --check` puis `python3 scripts/build.py`. Examine la couverture par thème, les liens et le diff avant de publier. Si l’utilisateur a demandé une publication, vérifie le déploiement GitHub Pages et ouvre le site public. À la remise, indique la couverture et les lacunes restantes.
