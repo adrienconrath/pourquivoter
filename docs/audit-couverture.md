@@ -237,7 +237,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Europe | Bruno Retailleau | 829 | 829 | 23 | 3 | Non relue |
 | Europe | Marine Le Pen | 944 | 944 | 26 | 4 | Non relue |
 | Europe | Éric Zemmour | 832 | 832 | 28 | 3 | Non relue |
-| Défense et diplomatie | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
+| Défense et diplomatie | Jean-Luc Mélenchon | 0 | 1142 | 17 | 4 | Relue |
 | Défense et diplomatie | François Ruffin | 0 | 970 | 10 | 3 | Relue |
 | Défense et diplomatie | Fabien Roussel | 18 | 932 | 10 | 3 | Relue |
 | Défense et diplomatie | Marine Tondelier | 29 | 1038 | 10 | 5 | Relue |
