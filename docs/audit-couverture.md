@@ -203,7 +203,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Énergie | David Lisnard | 29 | 29 | 1 | 0 | Non relue |
 | Énergie | Bruno Retailleau | 54 | 54 | 1 | 0 | Non relue |
 | Énergie | Marine Le Pen | 46 | 46 | 3 | 0 | Non relue |
-| Énergie | Éric Zemmour | 24 | 24 | 1 | 0 | Non relue |
+| Énergie | Éric Zemmour | 24 | 1069 | 13 | 5 | Relue |
 | Transports | Jean-Luc Mélenchon | 0 | 1015 | 10 | 3 | Relue |
 | Transports | François Ruffin | 13 | 1088 | 12 | 4 | Relue |
 | Transports | Fabien Roussel | 4 | 965 | 8 | 3 | Relue |
