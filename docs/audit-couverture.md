@@ -127,7 +127,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Fonction publique | Bruno Retailleau | 122 | 122 | 3 | 1 | Non relue |
 | Fonction publique | Marine Le Pen | 74 | 74 | 2 | 1 | Non relue |
 | Fonction publique | Éric Zemmour | 97 | 97 | 3 | 1 | Non relue |
-| Immigration et asile | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
+| Immigration et asile | Jean-Luc Mélenchon | 0 | 1117 | 13 | 4 | Relue |
 | Immigration et asile | François Ruffin | 182 | 182 | 4 | 3 | Non relue |
 | Immigration et asile | Fabien Roussel | 53 | 53 | 1 | 0 | Non relue |
 | Immigration et asile | Marine Tondelier | 52 | 52 | 1 | 0 | Non relue |
