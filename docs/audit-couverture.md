@@ -237,7 +237,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Territoires et outre-mer | Bruno Retailleau | 0 | 0 | 0 | 0 | Non relue |
 | Territoires et outre-mer | Marine Le Pen | 0 | 0 | 0 | 0 | Non relue |
 | Territoires et outre-mer | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
-| Europe | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
+| Europe | Jean-Luc Mélenchon | 0 | 862 | 12 | 4 | Relue |
 | Europe | François Ruffin | 776 | 776 | 22 | 3 | Non relue |
 | Europe | Fabien Roussel | 915 | 915 | 21 | 4 | Non relue |
 | Europe | Marine Tondelier | 950 | 950 | 20 | 4 | Non relue |
