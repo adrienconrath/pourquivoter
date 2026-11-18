@@ -120,12 +120,12 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Sécurité | Fabien Roussel | 137 | 137 | 3 | 1 | Non relue |
 | Sécurité | Marine Tondelier | 27 | 27 | 1 | 0 | Non relue |
 | Sécurité | Raphaël Glucksmann | 18 | 18 | 1 | 0 | Non relue |
-| Sécurité | Gabriel Attal | 27 | 27 | 2 | 0 | Non relue |
+| Sécurité | Gabriel Attal | 27 | 1350 | 23 | 4 | Relue |
 | Sécurité | Édouard Philippe | 35 | 35 | 1 | 0 | Non relue |
 | Sécurité | David Lisnard | 17 | 17 | 1 | 0 | Non relue |
-| Sécurité | Bruno Retailleau | 0 | 1012 | 11 | 5 | Relue |
+| Sécurité | Bruno Retailleau | 0 | 1063 | 12 | 5 | Relue |
 | Sécurité | Marine Le Pen | 29 | 1029 | 14 | 3 | Relue |
-| Sécurité | Éric Zemmour | 13 | 13 | 1 | 0 | Non relue |
+| Sécurité | Éric Zemmour | 13 | 1068 | 12 | 5 | Relue |
 | Justice | François Ruffin | 0 | 0 | 0 | 0 | Non relue |
 | Justice | Fabien Roussel | 0 | 0 | 0 | 0 | Non relue |
 | Justice | Marine Tondelier | 71 | 71 | 2 | 0 | Non relue |
@@ -160,7 +160,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Climat et adaptation | Fabien Roussel | 98 | 98 | 3 | 0 | Non relue |
 | Climat et adaptation | Marine Tondelier | 108 | 108 | 3 | 1 | Non relue |
 | Climat et adaptation | Raphaël Glucksmann | 209 | 209 | 4 | 2 | Non relue |
-| Climat et adaptation | Gabriel Attal | 10 | 10 | 1 | 0 | Non relue |
+| Climat et adaptation | Gabriel Attal | 10 | 1180 | 21 | 4 | Relue |
 | Climat et adaptation | Édouard Philippe | 21 | 21 | 1 | 0 | Non relue |
 | Climat et adaptation | David Lisnard | 17 | 17 | 1 | 0 | Non relue |
 | Climat et adaptation | Bruno Retailleau | 59 | 59 | 2 | 1 | Non relue |
@@ -194,7 +194,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Agriculture et alimentation | Édouard Philippe | 26 | 26 | 1 | 0 | Non relue |
 | Agriculture et alimentation | David Lisnard | 42 | 42 | 2 | 0 | Non relue |
 | Agriculture et alimentation | Bruno Retailleau | 65 | 65 | 2 | 1 | Non relue |
-| Agriculture et alimentation | Marine Le Pen | 0 | 0 | 0 | 0 | Non relue |
+| Agriculture et alimentation | Marine Le Pen | 0 | 1161 | 16 | 4 | Relue |
 | Agriculture et alimentation | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
 | Territoires et outre-mer | François Ruffin | 0 | 0 | 0 | 0 | Non relue |
 | Territoires et outre-mer | Fabien Roussel | 26 | 26 | 2 | 0 | Non relue |
@@ -224,14 +224,14 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Défense et diplomatie | Édouard Philippe | 16 | 16 | 1 | 0 | Non relue |
 | Défense et diplomatie | David Lisnard | 27 | 27 | 1 | 0 | Non relue |
 | Défense et diplomatie | Bruno Retailleau | 0 | 0 | 0 | 0 | Non relue |
-| Défense et diplomatie | Marine Le Pen | 0 | 0 | 0 | 0 | Non relue |
+| Défense et diplomatie | Marine Le Pen | 0 | 1133 | 12 | 4 | Relue |
 | Défense et diplomatie | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
 | Culture et médias | François Ruffin | 24 | 24 | 2 | 0 | Non relue |
 | Culture et médias | Fabien Roussel | 0 | 0 | 0 | 0 | Non relue |
 | Culture et médias | Marine Tondelier | 58 | 58 | 2 | 0 | Non relue |
 | Culture et médias | Raphaël Glucksmann | 94 | 94 | 3 | 1 | Non relue |
 | Culture et médias | Gabriel Attal | 0 | 1109 | 13 | 4 | Relue |
-| Culture et médias | Édouard Philippe | 0 | 0 | 0 | 0 | Non relue |
+| Culture et médias | Édouard Philippe | 0 | 1035 | 13 | 4 | Relue |
 | Culture et médias | David Lisnard | 0 | 926 | 12 | 4 | Relue |
 | Culture et médias | Bruno Retailleau | 0 | 0 | 0 | 0 | Non relue |
 | Culture et médias | Marine Le Pen | 57 | 57 | 1 | 1 | Non relue |

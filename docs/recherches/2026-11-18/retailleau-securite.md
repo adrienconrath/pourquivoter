@@ -47,3 +47,5 @@ Inconnues précises et limites :
 - Périodebudgétaire des moins2Md€ nonexplicite.
 - Réponsepersonnelle de Retailleau àl'étudeIPP etàCarolineLequesne nonretrouvée. Sa réponse surétablissementsmoinschers vient des questionsfranceinfo et sa justificationconstitutionnelle duFigaro, elles ne sontpas présentées comme réponseauxchercheurs.
 - Sources2025 explicitementdistinguees des annonces2026/programme2027, siteofficiel sourceàjourprioritaire pourâge15.
+
+Complément pédagogique de relecture : définition du JAP depuis Justice.fr, référence repere-jap, sans nouvel engagement attribué au candidat.
