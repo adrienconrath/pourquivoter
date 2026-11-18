@@ -196,7 +196,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Énergie | Jean-Luc Mélenchon | 0 | 996 | 12 | 4 | Relue |
 | Énergie | François Ruffin | 24 | 24 | 1 | 0 | Non relue |
 | Énergie | Fabien Roussel | 248 | 248 | 4 | 2 | Non relue |
-| Énergie | Marine Tondelier | 11 | 11 | 2 | 0 | Non relue |
+| Énergie | Marine Tondelier | 11 | 1128 | 11 | 4 | Relue |
 | Énergie | Raphaël Glucksmann | 91 | 91 | 1 | 0 | Non relue |
 | Énergie | Gabriel Attal | 111 | 111 | 2 | 1 | Non relue |
 | Énergie | Édouard Philippe | 13 | 13 | 1 | 0 | Non relue |
