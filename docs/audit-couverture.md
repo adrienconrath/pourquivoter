@@ -67,7 +67,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Industrie et entreprises | Marine Tondelier | 65 | 980 | 8 | 3 | Relue |
 | Industrie et entreprises | Raphaël Glucksmann | 33 | 1009 | 8 | 4 | Relue |
 | Industrie et entreprises | Gabriel Attal | 15 | 1076 | 11 | 4 | Relue |
-| Industrie et entreprises | Édouard Philippe | 90 | 90 | 2 | 1 | Non relue |
+| Industrie et entreprises | Édouard Philippe | 90 | 977 | 10 | 3 | Relue |
 | Industrie et entreprises | David Lisnard | 22 | 1080 | 12 | 4 | Relue |
 | Industrie et entreprises | Bruno Retailleau | 16 | 1194 | 20 | 3 | Relue |
 | Industrie et entreprises | Marine Le Pen | 93 | 93 | 3 | 1 | Non relue |
