@@ -234,7 +234,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Territoires et outre-mer | Gabriel Attal | 47 | 47 | 2 | 0 | Non relue |
 | Territoires et outre-mer | Édouard Philippe | 85 | 85 | 3 | 0 | Non relue |
 | Territoires et outre-mer | David Lisnard | 37 | 37 | 2 | 0 | Non relue |
-| Territoires et outre-mer | Bruno Retailleau | 0 | 0 | 0 | 0 | Non relue |
+| Territoires et outre-mer | Bruno Retailleau | 0 | 1099 | 12 | 3 | Relue |
 | Territoires et outre-mer | Marine Le Pen | 0 | 0 | 0 | 0 | Non relue |
 | Territoires et outre-mer | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
 | Europe | Jean-Luc Mélenchon | 0 | 862 | 12 | 4 | Relue |
