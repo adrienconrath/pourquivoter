@@ -1,0 +1,37 @@
+Audit du couple retraites|glucksmann, 18 novembre 2026. Aucun fichier suivi modifié. Lecture skill actualiser-pour-qui-voter, case actuelle (une seule ligne) et catalogue. Référence défense consultée via catalogue et logique demandée dans brief.
+
+Requêtes réellement faites (moteur web) :
+- Raphaël Glucksmann retraites âge 62 64 Haut conseil pilotage financement 2026
+- Place publique Acte I retraites Haut conseil pilotage cotisations
+- site.pourquijevote.com/transcripts Glucksmann retraite 62 cotisation
+- site.dixipolis.com Glucksmann retraite 62 octobre 2026
+- Glucksmann retraites espérance vie bonne santé critique économiste 2026
+- Glucksmann retraites 62 ans financement 2026 CFDT critique
+- Glucksmann retraites 2026 Bompard mensonge
+- Glucksmann retraite 60 ans Binet octobre 2026
+- retraite espérance vie bonne santé cadres ouvriers 10 ans Drees 2026 35 ans
+
+Sources réellement ouvertes/lues :
+https://pourquijevote.com/transcripts : index consulté, recherche moteur ciblée après chargement pauvre.
+https://dixipolis.com/presidentielle-2027 : index consulté, chargement pauvre. https://dixipolis.com/video/171350 échoue ; miroir https://dixipolis.vercel.app/video/171350 intégral lisible : RMC 5 octobre 2026. Passages réellement relus 12:52–16:02 : âge référence, décote, effort des retraites confortables, taux plein plus tardif. Journaliste anonyme 3 : ne pas lui inventer un nom. Déclarations sur nombre d’années de cotisation figurent dans une QUESTION ; la réponse ne chiffre pas les annuités. 13:43–14:14 : dispute sur 10 ans de différence de santé vs 3/2 ans de longévité à la retraite ; ne pas présenter l’un comme réfutation automatique de l’autre, indicateurs différents.
+https://pourquijevote.com/transcripts/6b28d9c9-16f5-4e91-acc0-31983f3ac1a5 : franceinfo 4 juin 2026, 12:58–15:50 ; passage réel distingue journalistes et candidat, Bompard cité par journaliste 14:21, réponse personnelle 14:28 ; refus des 60 ans général mais pas de paramètres précis, durée et pénibilité 15:23. Réutilisation gluck-fisc-pqv.
+https://pourquijevote.com/transcripts/1e208c59-3c8a-41dc-962a-d37589e4c6dd : RTL Grand Jury 31 mai 2026, 34:40–36:45 ; diarisation étiquette souvent candidat « Invité », pas RG ; contexte questions/réponses confirme attribution. Pas d’écoute indépendante de l’audio durant cet audit, citations sensibles recoupées par LCP et RMC sur l’architecture, pas de citation longue reprise.
+https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i : page officielle et lien Drive effectivement ouvert https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view?usp=sharing. Lecteur web Drive pauvre. Programme intégral local /tmp/pqv-deep/gluck-europe-acte.pdf (vrai PDF 88 pages), texte /tmp/pqv-deep/gluck-europe-acte.txt relu chapitre 19 page imprimée43 : abrogation, pensions décentes, parcours hachés/pénibilité, Haut Conseil, plan cotisants. Le fichier /tmp/pqv-deep/place-publique-acte.pdf est HTML, écart détecté, non exploité comme PDF.
+https://lcp.fr/actualites/glucksmann-face-a-royal-divisions-sur-lfi-lycees-ce-qu-il-faut-retenir-du-dernier-debat : lecture rubrique retraites, article 5 octobre sur débat4oct. Réutilisation gluck-imm-lcp. Correction attribution : baisse âge taux plein 67 vers65/66 est Faure/Guedj, PAS engagement Glucksmann.
+https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme : lecture présentation26mai2026, non ajouté (pas nécessaire).
+https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann : lecture rubrique retraites, confirmation plus tard si santé meilleure, non ajouté au texte pour éviter répétition.
+https://www.senioractu.com/Raphael-Glucksmann-remporte-la-primaire-au-premier-tour-ce-qu-il-prevoit-pour-votre-depart-a-la-retraite-votre-pension_a28149.html : lecture sections retraites et pensions, article11oct misàjour12oct. Utilisé pour questions fiscales encore ouvertes, sans reprendre son calcul par génération ni son résumé sur tout droit courant.
+https://www.lefigaro.fr/conjoncture/retraite-salaires-fiscalite-que-contient-le-programme-economique-de-raphael-glucksmann-20261012 : lu partie accessible, suite abonnés inaccessible ; non cité dans fiche (quota source25 mots et apport déjà recoupé).
+https://www.ccomptes.fr/sites/default/files/2025-04/20250410-Impacts-du-systeme-de-retraites-sur-la-competitivite-et-lemploi.pdf : lecture p15 imprimée (indexPDF14), limites indicateurs santé et écarts longévité à65ans. Expertise générale antérieure, pas évaluation de Glucksmann, dit explicitement.
+https://www.lemonde.fr/politique/article/2026/06/20/temps-passes-a-la-retraite-et-incapacite-la-double-peine-des-ouvriers_6705285_823448.html : passage réel entièrement lu, non résumé moteur seul. Important : 9,3 vs14,2 années retraite sans incapacité CHEZ HOMMES, 3ans évoqués ensuite chez FEMMES employées/cadres ; résumé moteur ambigu corrigé. Synthèse79 mots, aucune citation exacte, sous plafond100.
+https://www.dailymotion.com/video/xbxavem : entretien BFMTV annoncé16nov2026 dans description (date relative affichée incohérente ignorée). Transcription19:21–22:18 relue. Proposition60ans est SophieBinet, pas Glucksmann. Son15Md sans horizon et recettes cotisation ne deviennent PAS financement du candidat. Fiche reprend désaccord syndical argumenté repos/pénibilité, pas chiffrage syndical non comparable.
+
+Consultations infructueuses / non probantes :
+https://www.vie-publique.fr/files/rapport/pdf/297428.pdf : index initial95pages accessible, accès ultérieur503 ; tentativecurl retourneHTML. Ne pas citer5,8Md ni autres chiffres sans passage relu, non repris.
+https://www.cor-retraites.fr/sites/default/files/2026-06/RA_2026_def.pdf : service indisponible, non utilisé.
+https://www.cfdt.fr/sinformer/congres-cfdt-2026/rapport-d-activite-agir-pour-des-retraites-avec-plus-de-justice-sociale-et-de-liberte-de-choix :403, non utilisé.
+Comparateurs remontés (programmes2027, monpresident2027, comparatif2027, Devorsine) utilisés uniquement comme pistes, aucune donnée attribuée sans recoupement. Devorsine mélange notamment un fonds de pension dont attribution au candidat n’a pas été établie ; écart écarté.
+
+Financement : recherche programmes + interventions + presse spécialisée. Établis : emploi/immigration légale/entréejeunes comme assiette, effort plus tardif pour tauxplein des favorisés. Pas d’enveloppe annuelle de réforme Glucksmann, rendement par levier, coût pénibilité, seuil retraite aisée, décote cible, annuités ni trajectoire de transition publiés dans corpus réellement lu. Pas d’affirmation qu’il n’en aurait jamais parlé. Trois objections distinctes documentées : politique Bompard avec réponse, faisabilité indicateur santé Cour sans réponse précise trouvée, perspective60ans CGT avec réponse générale antérieure. Échange journalistique RMC supplémentaire sur financement, pas substitut aux critiques indépendantes. Limite : pas de chiffrage contradictoire propre au projet2027 vérifié ; aucun coût d’un autre candidat recyclé.
+
+Relecture parent : GrandJury31mai récupéré HTTP200 Accept-Encodingidentity puis texte réellement lu autourfemme de ménage/67ans. La formulation orale sur le tauxplein à67 n’est pas transformée en description du droit : fiche retient son exemple de bénéficiaire et demande de départs adaptés. RéponsegénéraleGlucksmann retirée du blocBinet pour conserver distinction chronologique et éviter répétition.
