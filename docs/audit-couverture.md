@@ -107,7 +107,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Santé et accès aux soins | Éric Zemmour | 66 | 1087 | 12 | 4 | Relue |
 | Logement | Jean-Luc Mélenchon | 0 | 1034 | 11 | 3 | Relue |
 | Logement | François Ruffin | 178 | 178 | 4 | 1 | Non relue |
-| Logement | Fabien Roussel | 130 | 130 | 2 | 1 | Non relue |
+| Logement | Fabien Roussel | 130 | 1110 | 11 | 3 | Relue |
 | Logement | Marine Tondelier | 12 | 1092 | 13 | 4 | Relue |
 | Logement | Raphaël Glucksmann | 46 | 999 | 9 | 4 | Relue |
 | Logement | Gabriel Attal | 154 | 154 | 2 | 0 | Non relue |
