@@ -58,7 +58,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Travail et salaires | Gabriel Attal | 97 | 97 | 2 | 1 | Non relue |
 | Travail et salaires | Édouard Philippe | 46 | 46 | 2 | 0 | Non relue |
 | Travail et salaires | David Lisnard | 18 | 1091 | 14 | 4 | Relue |
-| Travail et salaires | Bruno Retailleau | 39 | 39 | 1 | 0 | Non relue |
+| Travail et salaires | Bruno Retailleau | 39 | 1104 | 11 | 3 | Relue |
 | Travail et salaires | Marine Le Pen | 140 | 140 | 1 | 1 | Non relue |
 | Travail et salaires | Éric Zemmour | 12 | 1103 | 11 | 5 | Relue |
 | Industrie et entreprises | Jean-Luc Mélenchon | 0 | 1151 | 12 | 3 | Relue |
@@ -111,7 +111,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Logement | Marine Tondelier | 12 | 1092 | 13 | 4 | Relue |
 | Logement | Raphaël Glucksmann | 46 | 46 | 3 | 0 | Non relue |
 | Logement | Gabriel Attal | 154 | 154 | 2 | 0 | Non relue |
-| Logement | Édouard Philippe | 40 | 40 | 1 | 0 | Non relue |
+| Logement | Édouard Philippe | 40 | 982 | 9 | 4 | Relue |
 | Logement | David Lisnard | 171 | 171 | 2 | 2 | Non relue |
 | Logement | Bruno Retailleau | 256 | 256 | 4 | 2 | Non relue |
 | Logement | Marine Le Pen | 154 | 154 | 2 | 3 | Non relue |
@@ -163,7 +163,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Institutions et démocratie | Jean-Luc Mélenchon | 0 | 1101 | 14 | 6 | Relue |
 | Institutions et démocratie | François Ruffin | 47 | 47 | 3 | 0 | Non relue |
 | Institutions et démocratie | Fabien Roussel | 0 | 941 | 10 | 4 | Relue |
-| Institutions et démocratie | Marine Tondelier | 40 | 40 | 2 | 0 | Non relue |
+| Institutions et démocratie | Marine Tondelier | 40 | 857 | 9 | 3 | Relue |
 | Institutions et démocratie | Raphaël Glucksmann | 13 | 1029 | 10 | 3 | Relue |
 | Institutions et démocratie | Gabriel Attal | 15 | 1219 | 15 | 4 | Relue |
 | Institutions et démocratie | Édouard Philippe | 14 | 994 | 10 | 4 | Relue |

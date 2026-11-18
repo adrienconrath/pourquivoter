@@ -52,7 +52,7 @@ travail|glucksmann|33|966|13|10|4|1|controle_qualitatif|relue
 travail|attal|97|97|3|2|1|1|insuffisant|non
 travail|philippe|46|46|2|2|0|0|insuffisant|non
 travail|lisnard|18|1091|15|14|4|2|controle_qualitatif|relue
-travail|retailleau|39|39|2|1|0|1|insuffisant|non
+travail|retailleau|39|1104|14|11|3|3|controle_qualitatif|relue
 travail|le-pen|140|140|3|1|1|0|insuffisant|non
 travail|zemmour|12|1103|14|11|5|1|controle_qualitatif|relue
 industrie|melenchon|0|1151|18|12|3|5|controle_qualitatif|relue
@@ -105,7 +105,7 @@ logement|roussel|130|130|5|2|1|1|insuffisant|non
 logement|tondelier|12|1092|14|13|4|2|controle_qualitatif|relue
 logement|glucksmann|46|46|2|3|0|0|insuffisant|non
 logement|attal|154|154|5|2|0|1|insuffisant|non
-logement|philippe|40|40|1|1|0|0|insuffisant|non
+logement|philippe|40|982|13|9|4|1|controle_qualitatif|relue
 logement|lisnard|171|171|4|2|2|0|insuffisant|non
 logement|retailleau|256|256|8|4|2|1|a_approfondir|non
 logement|le-pen|154|154|5|2|3|0|insuffisant|non
@@ -157,7 +157,7 @@ justice|zemmour|179|179|5|5|4|0|insuffisant|non
 institutions|melenchon|0|1101|16|14|6|1|controle_qualitatif|relue
 institutions|ruffin|47|47|2|3|0|0|insuffisant|non
 institutions|roussel|0|941|14|10|4|1|controle_qualitatif|relue
-institutions|tondelier|40|40|2|2|0|0|insuffisant|non
+institutions|tondelier|40|857|13|9|3|1|controle_qualitatif|relue
 institutions|glucksmann|13|1029|14|10|3|1|controle_qualitatif|relue
 institutions|attal|15|1219|15|15|4|2|controle_qualitatif|relue
 institutions|philippe|14|994|13|10|4|1|controle_qualitatif|relue
