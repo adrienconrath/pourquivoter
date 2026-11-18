@@ -86,7 +86,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Protection de l’enfance | Jean-Luc Mélenchon | 0 | 956 | 15 | 3 | Relue |
 | Protection de l’enfance | François Ruffin | 0 | 917 | 12 | 3 | Relue |
 | Protection de l’enfance | Fabien Roussel | 0 | 832 | 8 | 3 | Relue |
-| Protection de l’enfance | Marine Tondelier | 0 | 872 | 8 | 4 | Relue |
+| Protection de l’enfance | Marine Tondelier | 0 | 903 | 9 | 4 | Relue |
 | Protection de l’enfance | Raphaël Glucksmann | 0 | 820 | 7 | 3 | Relue |
 | Protection de l’enfance | Gabriel Attal | 0 | 1019 | 19 | 4 | Relue |
 | Protection de l’enfance | Édouard Philippe | 0 | 926 | 9 | 4 | Relue |
@@ -174,7 +174,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Égalité et droits | Jean-Luc Mélenchon | 0 | 962 | 12 | 4 | Relue |
 | Égalité et droits | François Ruffin | 20 | 20 | 1 | 0 | Non relue |
 | Égalité et droits | Fabien Roussel | 21 | 21 | 1 | 0 | Non relue |
-| Égalité et droits | Marine Tondelier | 16 | 16 | 1 | 0 | Non relue |
+| Égalité et droits | Marine Tondelier | 16 | 972 | 11 | 4 | Relue |
 | Égalité et droits | Raphaël Glucksmann | 49 | 49 | 3 | 0 | Non relue |
 | Égalité et droits | Gabriel Attal | 12 | 1077 | 17 | 4 | Relue |
 | Égalité et droits | Édouard Philippe | 12 | 1047 | 14 | 4 | Relue |
