@@ -50,17 +50,17 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Impôts et patrimoine | Bruno Retailleau | 845 | 996 | 16 | 5 | Relue |
 | Impôts et patrimoine | Marine Le Pen | 1016 | 1040 | 15 | 5 | Relue |
 | Impôts et patrimoine | Éric Zemmour | 925 | 957 | 15 | 5 | Relue |
-| Travail et salaires | Jean-Luc Mélenchon | 0 | 1012 | 11 | 3 | Relue |
-| Travail et salaires | François Ruffin | 98 | 1065 | 12 | 3 | Relue |
-| Travail et salaires | Fabien Roussel | 72 | 947 | 10 | 3 | Relue |
-| Travail et salaires | Marine Tondelier | 145 | 1002 | 9 | 4 | Relue |
-| Travail et salaires | Raphaël Glucksmann | 33 | 966 | 10 | 4 | Relue |
-| Travail et salaires | Gabriel Attal | 97 | 1102 | 16 | 4 | Relue |
-| Travail et salaires | Édouard Philippe | 46 | 937 | 10 | 3 | Relue |
-| Travail et salaires | David Lisnard | 18 | 1091 | 14 | 4 | Relue |
-| Travail et salaires | Bruno Retailleau | 39 | 1104 | 11 | 3 | Relue |
-| Travail et salaires | Marine Le Pen | 140 | 1012 | 7 | 3 | Relue |
-| Travail et salaires | Éric Zemmour | 12 | 1103 | 11 | 5 | Relue |
+| Travail et salaires | Jean-Luc Mélenchon | 0 | 827 | 13 | 6 | Relue |
+| Travail et salaires | François Ruffin | 98 | 1016 | 13 | 3 | Relue |
+| Travail et salaires | Fabien Roussel | 72 | 985 | 11 | 3 | Relue |
+| Travail et salaires | Marine Tondelier | 145 | 1055 | 10 | 4 | Relue |
+| Travail et salaires | Raphaël Glucksmann | 33 | 967 | 11 | 5 | Relue |
+| Travail et salaires | Gabriel Attal | 97 | 1095 | 17 | 4 | Relue |
+| Travail et salaires | Édouard Philippe | 46 | 943 | 11 | 6 | Relue |
+| Travail et salaires | David Lisnard | 18 | 1122 | 15 | 4 | Relue |
+| Travail et salaires | Bruno Retailleau | 39 | 1139 | 12 | 3 | Relue |
+| Travail et salaires | Marine Le Pen | 140 | 1035 | 8 | 4 | Relue |
+| Travail et salaires | Éric Zemmour | 12 | 1119 | 12 | 5 | Relue |
 | Industrie et entreprises | Jean-Luc Mélenchon | 0 | 1151 | 12 | 3 | Relue |
 | Industrie et entreprises | François Ruffin | 45 | 1071 | 11 | 3 | Relue |
 | Industrie et entreprises | Fabien Roussel | 14 | 997 | 9 | 3 | Relue |

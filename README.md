@@ -1,6 +1,6 @@
 # Pour qui voter ?
 
-Comparateur indépendant des propositions pour la présidentielle française de 2027. Les fiches se lisent en français et chaque affirmation éditoriale renvoie à ses sources. Le site est servi par [GitHub Pages](https://adrienconrath.github.io/pourquivoter/).
+Comparateur indépendant des propositions pour la présidentielle française de 2027. Les fiches se lisent en français et chaque affirmation éditoriale renvoie à ses sources. Le site est publié sur [pourquivoter.fyi](https://pourquivoter.fyi/) avec GitHub Pages.
 
 ## Générer le site
 
