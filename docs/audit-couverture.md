@@ -122,7 +122,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Fonction publique | Marine Tondelier | 86 | 891 | 8 | 3 | Relue |
 | Fonction publique | Raphaël Glucksmann | 147 | 147 | 4 | 1 | Non relue |
 | Fonction publique | Gabriel Attal | 123 | 123 | 5 | 2 | Non relue |
-| Fonction publique | Édouard Philippe | 118 | 118 | 2 | 1 | Non relue |
+| Fonction publique | Édouard Philippe | 118 | 973 | 8 | 4 | Relue |
 | Fonction publique | David Lisnard | 67 | 1105 | 14 | 4 | Relue |
 | Fonction publique | Bruno Retailleau | 122 | 122 | 3 | 1 | Non relue |
 | Fonction publique | Marine Le Pen | 74 | 922 | 11 | 4 | Relue |
