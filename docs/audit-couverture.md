@@ -50,7 +50,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Impôts et patrimoine | Bruno Retailleau | 845 | 845 | 19 | 3 | Non relue |
 | Impôts et patrimoine | Marine Le Pen | 1016 | 1016 | 15 | 4 | Non relue |
 | Impôts et patrimoine | Éric Zemmour | 925 | 925 | 19 | 3 | Non relue |
-| Travail et salaires | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
+| Travail et salaires | Jean-Luc Mélenchon | 0 | 1012 | 11 | 3 | Relue |
 | Travail et salaires | François Ruffin | 98 | 98 | 4 | 0 | Non relue |
 | Travail et salaires | Fabien Roussel | 72 | 72 | 4 | 0 | Non relue |
 | Travail et salaires | Marine Tondelier | 145 | 145 | 2 | 1 | Non relue |
