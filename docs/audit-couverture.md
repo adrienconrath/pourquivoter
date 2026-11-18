@@ -237,17 +237,17 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Territoires et outre-mer | Bruno Retailleau | 0 | 1099 | 12 | 3 | Relue |
 | Territoires et outre-mer | Marine Le Pen | 0 | 1062 | 11 | 3 | Relue |
 | Territoires et outre-mer | Éric Zemmour | 0 | 1036 | 10 | 2 | Relue |
-| Europe | Jean-Luc Mélenchon | 0 | 862 | 12 | 4 | Relue |
-| Europe | François Ruffin | 776 | 1143 | 17 | 5 | Relue |
-| Europe | Fabien Roussel | 915 | 1096 | 17 | 5 | Relue |
-| Europe | Marine Tondelier | 950 | 1091 | 17 | 5 | Relue |
-| Europe | Raphaël Glucksmann | 995 | 1014 | 15 | 5 | Relue |
-| Europe | Gabriel Attal | 885 | 1003 | 12 | 5 | Relue |
-| Europe | Édouard Philippe | 983 | 1057 | 14 | 3 | Relue |
-| Europe | David Lisnard | 789 | 1128 | 14 | 4 | Relue |
-| Europe | Bruno Retailleau | 829 | 1095 | 22 | 5 | Relue |
-| Europe | Marine Le Pen | 944 | 1087 | 19 | 5 | Relue |
-| Europe | Éric Zemmour | 832 | 1046 | 20 | 4 | Relue |
+| Europe | Jean-Luc Mélenchon | 0 | 667 | 13 | 4 | Relue |
+| Europe | François Ruffin | 776 | 962 | 18 | 5 | Relue |
+| Europe | Fabien Roussel | 915 | 981 | 19 | 5 | Relue |
+| Europe | Marine Tondelier | 950 | 1035 | 18 | 5 | Relue |
+| Europe | Raphaël Glucksmann | 995 | 945 | 16 | 5 | Relue |
+| Europe | Gabriel Attal | 885 | 930 | 13 | 5 | Relue |
+| Europe | Édouard Philippe | 983 | 885 | 15 | 3 | Relue |
+| Europe | David Lisnard | 789 | 1028 | 15 | 4 | Relue |
+| Europe | Bruno Retailleau | 829 | 1038 | 23 | 5 | Relue |
+| Europe | Marine Le Pen | 944 | 955 | 20 | 5 | Relue |
+| Europe | Éric Zemmour | 832 | 952 | 21 | 4 | Relue |
 | Défense et diplomatie | Jean-Luc Mélenchon | 0 | 973 | 17 | 4 | Relue |
 | Défense et diplomatie | François Ruffin | 0 | 829 | 12 | 3 | Relue |
 | Défense et diplomatie | Fabien Roussel | 18 | 869 | 12 | 3 | Relue |
