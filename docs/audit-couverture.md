@@ -175,7 +175,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Égalité et droits | François Ruffin | 20 | 1076 | 13 | 5 | Relue |
 | Égalité et droits | Fabien Roussel | 21 | 1016 | 16 | 3 | Relue |
 | Égalité et droits | Marine Tondelier | 16 | 972 | 11 | 4 | Relue |
-| Égalité et droits | Raphaël Glucksmann | 49 | 49 | 3 | 0 | Non relue |
+| Égalité et droits | Raphaël Glucksmann | 49 | 998 | 10 | 3 | Relue |
 | Égalité et droits | Gabriel Attal | 12 | 1077 | 17 | 4 | Relue |
 | Égalité et droits | Édouard Philippe | 12 | 1047 | 14 | 4 | Relue |
 | Égalité et droits | David Lisnard | 0 | 970 | 10 | 3 | Relue |
@@ -191,7 +191,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Climat et adaptation | Édouard Philippe | 21 | 801 | 8 | 3 | Relue |
 | Climat et adaptation | David Lisnard | 17 | 974 | 11 | 4 | Relue |
 | Climat et adaptation | Bruno Retailleau | 59 | 59 | 2 | 1 | Non relue |
-| Climat et adaptation | Marine Le Pen | 49 | 49 | 2 | 0 | Non relue |
+| Climat et adaptation | Marine Le Pen | 49 | 1108 | 15 | 4 | Relue |
 | Climat et adaptation | Éric Zemmour | 0 | 1013 | 9 | 4 | Relue |
 | Énergie | Jean-Luc Mélenchon | 0 | 996 | 12 | 4 | Relue |
 | Énergie | François Ruffin | 24 | 1090 | 9 | 4 | Relue |
