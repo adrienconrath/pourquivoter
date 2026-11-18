@@ -137,7 +137,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Immigration et asile | David Lisnard | 49 | 1061 | 13 | 5 | Relue |
 | Immigration et asile | Bruno Retailleau | 119 | 119 | 4 | 1 | Non relue |
 | Immigration et asile | Marine Le Pen | 157 | 157 | 4 | 2 | Non relue |
-| Immigration et asile | Éric Zemmour | 90 | 90 | 4 | 0 | Non relue |
+| Immigration et asile | Éric Zemmour | 90 | 995 | 11 | 4 | Relue |
 | Sécurité | Jean-Luc Mélenchon | 0 | 1106 | 12 | 3 | Relue |
 | Sécurité | François Ruffin | 109 | 1014 | 9 | 5 | Relue |
 | Sécurité | Fabien Roussel | 137 | 850 | 7 | 3 | Relue |
