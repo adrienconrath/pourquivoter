@@ -74,7 +74,7 @@ ecole|glucksmann|58|1006|14|12|4|2|controle_qualitatif|relue
 ecole|attal|151|151|5|4|1|2|insuffisant|non
 ecole|philippe|116|116|4|1|0|1|insuffisant|non
 ecole|lisnard|182|182|6|4|2|1|insuffisant|non
-ecole|retailleau|68|68|3|2|1|0|insuffisant|non
+ecole|retailleau|68|1038|15|14|4|3|controle_qualitatif|relue
 ecole|le-pen|51|1103|13|10|3|2|controle_qualitatif|relue
 ecole|zemmour|21|991|15|10|6|3|controle_qualitatif|relue
 enfance|melenchon|0|956|14|15|3|2|controle_qualitatif|relue
@@ -98,7 +98,7 @@ sante|philippe|35|1029|12|9|4|2|controle_qualitatif|relue
 sante|lisnard|56|1076|12|14|4|2|controle_qualitatif|relue
 sante|retailleau|112|112|4|2|1|2|insuffisant|non
 sante|le-pen|118|118|3|2|1|1|insuffisant|non
-sante|zemmour|66|66|2|2|0|1|insuffisant|non
+sante|zemmour|66|1087|15|12|4|3|controle_qualitatif|relue
 logement|melenchon|0|1034|13|11|3|4|controle_qualitatif|relue
 logement|ruffin|178|178|6|4|1|2|insuffisant|non
 logement|roussel|130|130|5|2|1|1|insuffisant|non
@@ -117,7 +117,7 @@ services|tondelier|86|86|3|2|1|0|insuffisant|non
 services|glucksmann|147|147|4|4|1|0|insuffisant|non
 services|attal|123|123|5|5|2|1|insuffisant|non
 services|philippe|118|118|4|2|1|1|insuffisant|non
-services|lisnard|67|67|3|3|1|0|insuffisant|non
+services|lisnard|67|1105|15|14|4|3|controle_qualitatif|relue
 services|retailleau|122|122|4|3|1|2|insuffisant|non
 services|le-pen|74|74|2|2|1|0|insuffisant|non
 services|zemmour|97|97|3|3|1|0|insuffisant|non

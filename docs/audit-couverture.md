@@ -80,7 +80,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | École et jeunesse | Gabriel Attal | 151 | 151 | 4 | 1 | Non relue |
 | École et jeunesse | Édouard Philippe | 116 | 116 | 1 | 0 | Non relue |
 | École et jeunesse | David Lisnard | 182 | 182 | 4 | 2 | Non relue |
-| École et jeunesse | Bruno Retailleau | 68 | 68 | 2 | 1 | Non relue |
+| École et jeunesse | Bruno Retailleau | 68 | 1038 | 14 | 4 | Relue |
 | École et jeunesse | Marine Le Pen | 51 | 1103 | 10 | 3 | Relue |
 | École et jeunesse | Éric Zemmour | 21 | 991 | 10 | 6 | Relue |
 | Protection de l’enfance | Jean-Luc Mélenchon | 0 | 956 | 15 | 3 | Relue |
@@ -104,7 +104,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Santé et accès aux soins | David Lisnard | 56 | 1076 | 14 | 4 | Relue |
 | Santé et accès aux soins | Bruno Retailleau | 112 | 112 | 2 | 1 | Non relue |
 | Santé et accès aux soins | Marine Le Pen | 118 | 118 | 2 | 1 | Non relue |
-| Santé et accès aux soins | Éric Zemmour | 66 | 66 | 2 | 0 | Non relue |
+| Santé et accès aux soins | Éric Zemmour | 66 | 1087 | 12 | 4 | Relue |
 | Logement | Jean-Luc Mélenchon | 0 | 1034 | 11 | 3 | Relue |
 | Logement | François Ruffin | 178 | 178 | 4 | 1 | Non relue |
 | Logement | Fabien Roussel | 130 | 130 | 2 | 1 | Non relue |
@@ -123,7 +123,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Fonction publique | Raphaël Glucksmann | 147 | 147 | 4 | 1 | Non relue |
 | Fonction publique | Gabriel Attal | 123 | 123 | 5 | 2 | Non relue |
 | Fonction publique | Édouard Philippe | 118 | 118 | 2 | 1 | Non relue |
-| Fonction publique | David Lisnard | 67 | 67 | 3 | 1 | Non relue |
+| Fonction publique | David Lisnard | 67 | 1105 | 14 | 4 | Relue |
 | Fonction publique | Bruno Retailleau | 122 | 122 | 3 | 1 | Non relue |
 | Fonction publique | Marine Le Pen | 74 | 74 | 2 | 1 | Non relue |
 | Fonction publique | Éric Zemmour | 97 | 97 | 3 | 1 | Non relue |
