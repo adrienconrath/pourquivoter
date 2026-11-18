@@ -116,13 +116,13 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Immigration et asile | Bruno Retailleau | 119 | 119 | 4 | 1 | Non relue |
 | Immigration et asile | Marine Le Pen | 157 | 157 | 4 | 2 | Non relue |
 | Immigration et asile | Éric Zemmour | 90 | 90 | 4 | 0 | Non relue |
-| Sécurité | François Ruffin | 109 | 109 | 1 | 1 | Non relue |
-| Sécurité | Fabien Roussel | 137 | 137 | 3 | 1 | Non relue |
+| Sécurité | François Ruffin | 109 | 1014 | 9 | 5 | Relue |
+| Sécurité | Fabien Roussel | 137 | 850 | 7 | 3 | Relue |
 | Sécurité | Marine Tondelier | 27 | 1065 | 12 | 4 | Relue |
-| Sécurité | Raphaël Glucksmann | 18 | 18 | 1 | 0 | Non relue |
+| Sécurité | Raphaël Glucksmann | 18 | 1204 | 10 | 4 | Relue |
 | Sécurité | Gabriel Attal | 27 | 1352 | 23 | 4 | Relue |
-| Sécurité | Édouard Philippe | 35 | 35 | 1 | 0 | Non relue |
-| Sécurité | David Lisnard | 17 | 17 | 1 | 0 | Non relue |
+| Sécurité | Édouard Philippe | 35 | 1095 | 11 | 5 | Relue |
+| Sécurité | David Lisnard | 17 | 995 | 14 | 3 | Relue |
 | Sécurité | Bruno Retailleau | 0 | 1063 | 12 | 5 | Relue |
 | Sécurité | Marine Le Pen | 29 | 1029 | 14 | 3 | Relue |
 | Sécurité | Éric Zemmour | 13 | 1068 | 12 | 5 | Relue |
