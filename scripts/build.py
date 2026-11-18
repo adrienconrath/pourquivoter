@@ -153,14 +153,13 @@ def comparison(theme, people, entries):
             )
         else:
             content = '<p class="missing">Position à documenter pour cette édition.</p>'
-        read = '<button type="button" class="read-position" hidden>Lire la fiche <span aria-hidden="true">↗</span></button>' if fields else ""
         cards.append(f"""
           <article class="position" id="position-{key}-{person_key}" data-person="{person_key}" aria-label="{escape(person["name"])} · {escape(theme["name"])}"{" data-empty" if not fields else ""}>
             <div class="position-person">{portrait(person)}<div>
               <h4><a href="profils/{person_key}.html">{escape(person["name"])}</a></h4>
               {claim(person["party"], f"bio-{person_key}")}
             </div></div>
-            {read}<div class="position-content">{content}</div>
+            <div class="position-content">{content}</div>
           </article>""")
     return f'''
         <section class="theme-panel" id="theme-{key}" data-theme="{key}">

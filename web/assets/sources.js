@@ -49,7 +49,7 @@ if (typeof HTMLElement.prototype.showPopover === "function") {
       active = trigger;
       trigger.setAttribute("aria-expanded", "true");
       trigger.setAttribute("aria-controls", overlay.id);
-      (trigger.closest("dialog") ?? document.body).append(overlay);
+      document.body.append(overlay);
       overlay.replaceChildren(...[...trigger.nextElementSibling.childNodes].map(node => node.cloneNode(true)));
       overlay.showPopover();
       placeOverlay();
@@ -94,5 +94,4 @@ if (typeof HTMLElement.prototype.showPopover === "function") {
   document.addEventListener("scroll", event => {
     if (event.target !== overlay) closeSource();
   }, {capture: true});
-  document.querySelector("#position-dialog")?.addEventListener("close", closeSource);
 }

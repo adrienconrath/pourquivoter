@@ -14,7 +14,6 @@ const themePicker = document.querySelector(".theme-picker");
 const themeButtons = [...themePicker.querySelectorAll("button")];
 const clearThemes = document.querySelector("#clear-themes");
 const closeColumns = document.querySelector("#close-columns");
-const dialog = document.querySelector("#position-dialog");
 const resultCount = document.querySelector("#result-count");
 const emptyThemes = document.querySelector("#empty-themes");
 
@@ -68,8 +67,6 @@ function updateBoard() {
       cell.hidden = collapsed;
       if (collapsed) cell.setAttribute("aria-hidden", "true");
       else cell.removeAttribute("aria-hidden");
-      const read = cell.querySelector(".read-position");
-      if (read) read.hidden = collapsed;
       row.append(cell);
     }
   }
@@ -129,18 +126,6 @@ closeColumns.addEventListener("click", () => {
   updateBoard();
   board.scrollLeft = columnScroll.scrollLeft = 0;
   candidateChoices[0].focus({preventScroll: true});
-});
-
-board.addEventListener("click", event => {
-  const read = event.target.closest(".read-position");
-  if (!read) return;
-  const article = read.closest(".position");
-  const theme = article.closest(".theme-panel");
-  dialog.querySelector("#dialog-theme").textContent = theme.querySelector("h3").textContent;
-  dialog.querySelector("#dialog-title").textContent = article.querySelector("h4").textContent;
-  dialog.querySelector(".dialog-content").replaceChildren(article.querySelector(".position-content").cloneNode(true));
-  dialog.showModal();
-  dialog.scrollTop = 0;
 });
 
 window.addEventListener("popstate", readSelection);
