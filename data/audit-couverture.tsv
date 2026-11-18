@@ -22,7 +22,7 @@ prix|lisnard|45|967|12|10|4|2|controle_qualitatif|relue
 prix|retailleau|44|1106|13|13|3|1|controle_qualitatif|relue
 prix|le-pen|155|993|12|9|4|2|controle_qualitatif|relue
 prix|zemmour|119|887|13|9|3|3|controle_qualitatif|relue
-retraites|melenchon|0|0|0|0|0|0|vide|non
+retraites|melenchon|0|991|12|12|4|2|controle_qualitatif|relue
 retraites|ruffin|45|45|2|3|0|0|insuffisant|non
 retraites|roussel|77|77|3|1|0|1|insuffisant|non
 retraites|tondelier|27|27|1|1|0|0|insuffisant|non
@@ -121,7 +121,7 @@ immigration|lisnard|49|49|2|2|0|0|insuffisant|non
 immigration|retailleau|119|119|4|4|1|1|insuffisant|non
 immigration|le-pen|157|157|5|4|2|2|insuffisant|non
 immigration|zemmour|90|90|4|4|0|1|insuffisant|non
-securite|melenchon|0|0|0|0|0|0|vide|non
+securite|melenchon|0|1106|14|12|3|2|controle_qualitatif|relue
 securite|ruffin|109|1014|16|9|5|2|controle_qualitatif|relue
 securite|roussel|137|850|14|7|3|2|controle_qualitatif|relue
 securite|tondelier|27|1065|16|12|4|1|controle_qualitatif|relue

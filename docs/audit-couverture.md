@@ -28,7 +28,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Coût de la vie | Bruno Retailleau | 44 | 1106 | 13 | 3 | Relue |
 | Coût de la vie | Marine Le Pen | 155 | 993 | 9 | 4 | Relue |
 | Coût de la vie | Éric Zemmour | 119 | 887 | 9 | 3 | Relue |
-| Retraites | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
+| Retraites | Jean-Luc Mélenchon | 0 | 991 | 12 | 4 | Relue |
 | Retraites | François Ruffin | 45 | 45 | 3 | 0 | Non relue |
 | Retraites | Fabien Roussel | 77 | 77 | 1 | 0 | Non relue |
 | Retraites | Marine Tondelier | 27 | 27 | 1 | 0 | Non relue |
@@ -127,7 +127,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Immigration et asile | Bruno Retailleau | 119 | 119 | 4 | 1 | Non relue |
 | Immigration et asile | Marine Le Pen | 157 | 157 | 4 | 2 | Non relue |
 | Immigration et asile | Éric Zemmour | 90 | 90 | 4 | 0 | Non relue |
-| Sécurité | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
+| Sécurité | Jean-Luc Mélenchon | 0 | 1106 | 12 | 3 | Relue |
 | Sécurité | François Ruffin | 109 | 1014 | 9 | 5 | Relue |
 | Sécurité | Fabien Roussel | 137 | 850 | 7 | 3 | Relue |
 | Sécurité | Marine Tondelier | 27 | 1065 | 12 | 4 | Relue |
