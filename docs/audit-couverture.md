@@ -6,17 +6,17 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 
 | Thème | Personnalité | Mots avant | Mots actuels | Sources | Paragraphes critiques | Relecture |
 | --- | --- | ---: | ---: | ---: | ---: | --- |
-| Dette et déficit | Jean-Luc Mélenchon | 0 | 984 | 11 | 3 | Relue |
-| Dette et déficit | François Ruffin | 175 | 962 | 12 | 5 | Relue |
-| Dette et déficit | Fabien Roussel | 17 | 1034 | 15 | 5 | Relue |
-| Dette et déficit | Marine Tondelier | 17 | 1034 | 10 | 4 | Relue |
-| Dette et déficit | Raphaël Glucksmann | 858 | 1097 | 13 | 4 | Relue |
-| Dette et déficit | Gabriel Attal | 849 | 1054 | 18 | 5 | Relue |
-| Dette et déficit | Édouard Philippe | 233 | 1145 | 11 | 4 | Relue |
-| Dette et déficit | David Lisnard | 200 | 1070 | 10 | 4 | Relue |
-| Dette et déficit | Bruno Retailleau | 290 | 1091 | 13 | 5 | Relue |
-| Dette et déficit | Marine Le Pen | 295 | 995 | 11 | 4 | Relue |
-| Dette et déficit | Éric Zemmour | 138 | 1080 | 11 | 6 | Relue |
+| Dette et déficit | Jean-Luc Mélenchon | 0 | 994 | 12 | 3 | Relue |
+| Dette et déficit | François Ruffin | 175 | 933 | 13 | 5 | Relue |
+| Dette et déficit | Fabien Roussel | 17 | 1002 | 16 | 6 | Relue |
+| Dette et déficit | Marine Tondelier | 17 | 963 | 11 | 4 | Relue |
+| Dette et déficit | Raphaël Glucksmann | 858 | 1059 | 14 | 4 | Relue |
+| Dette et déficit | Gabriel Attal | 849 | 1059 | 19 | 5 | Relue |
+| Dette et déficit | Édouard Philippe | 233 | 1096 | 12 | 5 | Relue |
+| Dette et déficit | David Lisnard | 200 | 980 | 11 | 4 | Relue |
+| Dette et déficit | Bruno Retailleau | 290 | 1104 | 14 | 6 | Relue |
+| Dette et déficit | Marine Le Pen | 295 | 933 | 12 | 4 | Relue |
+| Dette et déficit | Éric Zemmour | 138 | 1047 | 12 | 7 | Relue |
 | Coût de la vie | Jean-Luc Mélenchon | 0 | 1075 | 10 | 5 | Relue |
 | Coût de la vie | François Ruffin | 18 | 1061 | 8 | 3 | Relue |
 | Coût de la vie | Fabien Roussel | 49 | 803 | 8 | 3 | Relue |
@@ -248,17 +248,17 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Europe | Bruno Retailleau | 829 | 1095 | 22 | 5 | Relue |
 | Europe | Marine Le Pen | 944 | 1087 | 19 | 5 | Relue |
 | Europe | Éric Zemmour | 832 | 1046 | 20 | 4 | Relue |
-| Défense et diplomatie | Jean-Luc Mélenchon | 0 | 1142 | 17 | 4 | Relue |
-| Défense et diplomatie | François Ruffin | 0 | 970 | 10 | 3 | Relue |
-| Défense et diplomatie | Fabien Roussel | 18 | 932 | 10 | 3 | Relue |
-| Défense et diplomatie | Marine Tondelier | 29 | 1038 | 10 | 5 | Relue |
-| Défense et diplomatie | Raphaël Glucksmann | 12 | 1004 | 12 | 3 | Relue |
-| Défense et diplomatie | Gabriel Attal | 17 | 1096 | 15 | 3 | Relue |
-| Défense et diplomatie | Édouard Philippe | 16 | 947 | 11 | 3 | Relue |
-| Défense et diplomatie | David Lisnard | 27 | 850 | 7 | 4 | Relue |
-| Défense et diplomatie | Bruno Retailleau | 0 | 922 | 10 | 3 | Relue |
-| Défense et diplomatie | Marine Le Pen | 0 | 1133 | 12 | 4 | Relue |
-| Défense et diplomatie | Éric Zemmour | 0 | 1112 | 12 | 3 | Relue |
+| Défense et diplomatie | Jean-Luc Mélenchon | 0 | 973 | 17 | 4 | Relue |
+| Défense et diplomatie | François Ruffin | 0 | 829 | 12 | 3 | Relue |
+| Défense et diplomatie | Fabien Roussel | 18 | 869 | 12 | 3 | Relue |
+| Défense et diplomatie | Marine Tondelier | 29 | 881 | 11 | 5 | Relue |
+| Défense et diplomatie | Raphaël Glucksmann | 12 | 834 | 13 | 3 | Relue |
+| Défense et diplomatie | Gabriel Attal | 17 | 1000 | 16 | 3 | Relue |
+| Défense et diplomatie | Édouard Philippe | 16 | 784 | 12 | 3 | Relue |
+| Défense et diplomatie | David Lisnard | 27 | 744 | 8 | 4 | Relue |
+| Défense et diplomatie | Bruno Retailleau | 0 | 919 | 11 | 3 | Relue |
+| Défense et diplomatie | Marine Le Pen | 0 | 980 | 13 | 4 | Relue |
+| Défense et diplomatie | Éric Zemmour | 0 | 938 | 13 | 3 | Relue |
 | Culture et médias | Jean-Luc Mélenchon | 0 | 1062 | 14 | 4 | Relue |
 | Culture et médias | François Ruffin | 24 | 852 | 9 | 4 | Relue |
 | Culture et médias | Fabien Roussel | 0 | 1053 | 12 | 3 | Relue |

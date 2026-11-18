@@ -128,11 +128,6 @@ POSITION_FIELDS = (
     ("critique", "Critiques, réponses et points à vérifier"),
 )
 
-MISSING_FIELDS = {
-    "financement": "Chiffrage ou financement non établi dans les sources citées ici.",
-}
-
-
 def position_field(field, label, records):
     if records:
         body = "".join(
@@ -141,8 +136,6 @@ def position_field(field, label, records):
             for record in records
         )
         body = f'<ul class="position-notes">{body}</ul>'
-    elif field in MISSING_FIELDS:
-        body = f'<p class="missing">{MISSING_FIELDS[field]}</p>'
     else:
         return ""
     return f'<section class="position-field position-{field}"><h5>{label}</h5>{body}</section>'
