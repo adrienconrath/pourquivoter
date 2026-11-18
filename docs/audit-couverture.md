@@ -157,7 +157,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Justice | Gabriel Attal | 93 | 93 | 3 | 1 | Non relue |
 | Justice | Édouard Philippe | 131 | 131 | 5 | 2 | Non relue |
 | Justice | David Lisnard | 117 | 117 | 4 | 1 | Non relue |
-| Justice | Bruno Retailleau | 86 | 86 | 1 | 1 | Non relue |
+| Justice | Bruno Retailleau | 86 | 1063 | 14 | 4 | Relue |
 | Justice | Marine Le Pen | 0 | 1130 | 12 | 3 | Relue |
 | Justice | Éric Zemmour | 179 | 179 | 5 | 4 | Non relue |
 | Institutions et démocratie | Jean-Luc Mélenchon | 0 | 1101 | 14 | 6 | Relue |
