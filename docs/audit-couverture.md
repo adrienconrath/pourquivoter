@@ -55,7 +55,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Travail et salaires | Fabien Roussel | 72 | 947 | 10 | 3 | Relue |
 | Travail et salaires | Marine Tondelier | 145 | 145 | 2 | 1 | Non relue |
 | Travail et salaires | Raphaël Glucksmann | 33 | 966 | 10 | 4 | Relue |
-| Travail et salaires | Gabriel Attal | 97 | 97 | 2 | 1 | Non relue |
+| Travail et salaires | Gabriel Attal | 97 | 1102 | 16 | 4 | Relue |
 | Travail et salaires | Édouard Philippe | 46 | 937 | 10 | 3 | Relue |
 | Travail et salaires | David Lisnard | 18 | 1091 | 14 | 4 | Relue |
 | Travail et salaires | Bruno Retailleau | 39 | 1104 | 11 | 3 | Relue |
@@ -263,7 +263,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Culture et médias | François Ruffin | 24 | 852 | 9 | 4 | Relue |
 | Culture et médias | Fabien Roussel | 0 | 1053 | 12 | 3 | Relue |
 | Culture et médias | Marine Tondelier | 58 | 928 | 9 | 4 | Relue |
-| Culture et médias | Raphaël Glucksmann | 94 | 94 | 3 | 1 | Non relue |
+| Culture et médias | Raphaël Glucksmann | 94 | 1067 | 11 | 4 | Relue |
 | Culture et médias | Gabriel Attal | 0 | 1109 | 13 | 4 | Relue |
 | Culture et médias | Édouard Philippe | 0 | 1035 | 13 | 4 | Relue |
 | Culture et médias | David Lisnard | 0 | 926 | 12 | 4 | Relue |
