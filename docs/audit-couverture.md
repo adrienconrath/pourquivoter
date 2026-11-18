@@ -43,7 +43,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Impôts et patrimoine | François Ruffin | 836 | 836 | 13 | 3 | Non relue |
 | Impôts et patrimoine | Fabien Roussel | 842 | 842 | 21 | 3 | Non relue |
 | Impôts et patrimoine | Marine Tondelier | 895 | 895 | 18 | 3 | Non relue |
-| Impôts et patrimoine | Raphaël Glucksmann | 878 | 878 | 23 | 4 | Non relue |
+| Impôts et patrimoine | Raphaël Glucksmann | 878 | 1044 | 15 | 5 | Relue |
 | Impôts et patrimoine | Gabriel Attal | 1000 | 1092 | 21 | 5 | Relue |
 | Impôts et patrimoine | Édouard Philippe | 916 | 1090 | 17 | 5 | Relue |
 | Impôts et patrimoine | David Lisnard | 952 | 952 | 23 | 4 | Non relue |
