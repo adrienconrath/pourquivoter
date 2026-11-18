@@ -128,7 +128,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Fonction publique | Marine Le Pen | 74 | 922 | 11 | 4 | Relue |
 | Fonction publique | Éric Zemmour | 97 | 1067 | 11 | 4 | Relue |
 | Immigration et asile | Jean-Luc Mélenchon | 0 | 1117 | 13 | 4 | Relue |
-| Immigration et asile | François Ruffin | 182 | 182 | 4 | 3 | Non relue |
+| Immigration et asile | François Ruffin | 182 | 1010 | 10 | 4 | Relue |
 | Immigration et asile | Fabien Roussel | 53 | 917 | 8 | 4 | Relue |
 | Immigration et asile | Marine Tondelier | 52 | 1009 | 11 | 3 | Relue |
 | Immigration et asile | Raphaël Glucksmann | 65 | 1017 | 12 | 3 | Relue |
