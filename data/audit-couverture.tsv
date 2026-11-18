@@ -1,12 +1,12 @@
 # Longueur indicative : ne prouve ni exhaustivité ni exactitude.
 # theme|personne|mots_avant|mots_actuels|blocs|sources_distinctes|critiques|financement|priorite|recherche_revue
-dette|ruffin|175|175|7|3|2|2|insuffisant|non
-dette|roussel|17|17|1|1|0|0|insuffisant|non
-dette|tondelier|17|17|1|2|0|0|insuffisant|non
+dette|ruffin|175|962|15|12|5|6|controle_qualitatif|relue
+dette|roussel|17|1034|13|15|5|3|controle_qualitatif|relue
+dette|tondelier|17|1034|14|10|4|3|controle_qualitatif|relue
 dette|glucksmann|858|858|10|17|3|3|controle_qualitatif|non
 dette|attal|849|849|11|25|3|2|controle_qualitatif|non
-dette|philippe|233|233|7|2|1|2|insuffisant|non
-dette|lisnard|200|200|7|7|3|2|insuffisant|non
+dette|philippe|233|1145|15|11|4|3|controle_qualitatif|relue
+dette|lisnard|200|1070|13|10|4|2|controle_qualitatif|relue
 dette|retailleau|290|290|9|4|3|2|a_approfondir|non
 dette|le-pen|295|295|9|5|4|2|a_approfondir|non
 dette|zemmour|138|138|5|2|1|2|insuffisant|non
@@ -227,11 +227,11 @@ culture|glucksmann|94|94|3|3|1|0|insuffisant|non
 culture|attal|0|1109|14|13|4|2|controle_qualitatif|relue
 culture|philippe|0|1035|13|13|4|2|controle_qualitatif|relue
 culture|lisnard|0|926|13|12|4|3|controle_qualitatif|relue
-culture|retailleau|0|0|0|0|0|0|vide|non
+culture|retailleau|0|864|12|10|4|2|controle_qualitatif|relue
 culture|le-pen|57|57|2|1|1|0|insuffisant|non
 culture|zemmour|45|45|2|1|0|1|insuffisant|non
 numerique|ruffin|40|40|2|2|0|0|insuffisant|non
-numerique|roussel|0|0|0|0|0|0|vide|non
+numerique|roussel|0|851|13|12|4|1|controle_qualitatif|relue
 numerique|tondelier|35|35|1|2|0|0|insuffisant|non
 numerique|glucksmann|53|53|2|2|0|0|insuffisant|non
 numerique|attal|79|79|3|3|0|1|insuffisant|non

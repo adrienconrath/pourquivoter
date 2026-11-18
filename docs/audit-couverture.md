@@ -6,13 +6,13 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 
 | Thème | Personnalité | Mots avant | Mots actuels | Sources | Paragraphes critiques | Relecture |
 | --- | --- | ---: | ---: | ---: | ---: | --- |
-| Dette et déficit | François Ruffin | 175 | 175 | 3 | 2 | Non relue |
-| Dette et déficit | Fabien Roussel | 17 | 17 | 1 | 0 | Non relue |
-| Dette et déficit | Marine Tondelier | 17 | 17 | 2 | 0 | Non relue |
+| Dette et déficit | François Ruffin | 175 | 962 | 12 | 5 | Relue |
+| Dette et déficit | Fabien Roussel | 17 | 1034 | 15 | 5 | Relue |
+| Dette et déficit | Marine Tondelier | 17 | 1034 | 10 | 4 | Relue |
 | Dette et déficit | Raphaël Glucksmann | 858 | 858 | 17 | 3 | Non relue |
 | Dette et déficit | Gabriel Attal | 849 | 849 | 25 | 3 | Non relue |
-| Dette et déficit | Édouard Philippe | 233 | 233 | 2 | 1 | Non relue |
-| Dette et déficit | David Lisnard | 200 | 200 | 7 | 3 | Non relue |
+| Dette et déficit | Édouard Philippe | 233 | 1145 | 11 | 4 | Relue |
+| Dette et déficit | David Lisnard | 200 | 1070 | 10 | 4 | Relue |
 | Dette et déficit | Bruno Retailleau | 290 | 290 | 4 | 3 | Non relue |
 | Dette et déficit | Marine Le Pen | 295 | 295 | 5 | 4 | Non relue |
 | Dette et déficit | Éric Zemmour | 138 | 138 | 2 | 1 | Non relue |
@@ -233,11 +233,11 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Culture et médias | Gabriel Attal | 0 | 1109 | 13 | 4 | Relue |
 | Culture et médias | Édouard Philippe | 0 | 1035 | 13 | 4 | Relue |
 | Culture et médias | David Lisnard | 0 | 926 | 12 | 4 | Relue |
-| Culture et médias | Bruno Retailleau | 0 | 0 | 0 | 0 | Non relue |
+| Culture et médias | Bruno Retailleau | 0 | 864 | 10 | 4 | Relue |
 | Culture et médias | Marine Le Pen | 57 | 57 | 1 | 1 | Non relue |
 | Culture et médias | Éric Zemmour | 45 | 45 | 1 | 0 | Non relue |
 | Numérique et IA | François Ruffin | 40 | 40 | 2 | 0 | Non relue |
-| Numérique et IA | Fabien Roussel | 0 | 0 | 0 | 0 | Non relue |
+| Numérique et IA | Fabien Roussel | 0 | 851 | 12 | 4 | Relue |
 | Numérique et IA | Marine Tondelier | 35 | 35 | 2 | 0 | Non relue |
 | Numérique et IA | Raphaël Glucksmann | 53 | 53 | 2 | 0 | Non relue |
 | Numérique et IA | Gabriel Attal | 79 | 79 | 3 | 0 | Non relue |
