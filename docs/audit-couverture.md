@@ -214,7 +214,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Transports | David Lisnard | 15 | 15 | 1 | 0 | Non relue |
 | Transports | Bruno Retailleau | 0 | 1046 | 12 | 3 | Relue |
 | Transports | Marine Le Pen | 0 | 1040 | 13 | 4 | Relue |
-| Transports | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
+| Transports | Éric Zemmour | 0 | 1093 | 12 | 3 | Relue |
 | Agriculture et alimentation | Jean-Luc Mélenchon | 0 | 1107 | 15 | 5 | Relue |
 | Agriculture et alimentation | François Ruffin | 50 | 50 | 3 | 0 | Non relue |
 | Agriculture et alimentation | Fabien Roussel | 0 | 1093 | 11 | 3 | Relue |
