@@ -239,8 +239,8 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Territoires et outre-mer | Éric Zemmour | 0 | 1036 | 10 | 2 | Relue |
 | Europe | Jean-Luc Mélenchon | 0 | 862 | 12 | 4 | Relue |
 | Europe | François Ruffin | 776 | 776 | 22 | 3 | Non relue |
-| Europe | Fabien Roussel | 915 | 912 | 21 | 4 | Non relue |
-| Europe | Marine Tondelier | 950 | 950 | 20 | 4 | Non relue |
+| Europe | Fabien Roussel | 915 | 1096 | 17 | 5 | Relue |
+| Europe | Marine Tondelier | 950 | 1091 | 17 | 5 | Relue |
 | Europe | Raphaël Glucksmann | 995 | 1014 | 15 | 5 | Relue |
 | Europe | Gabriel Attal | 885 | 1003 | 12 | 5 | Relue |
 | Europe | Édouard Philippe | 983 | 1057 | 14 | 3 | Relue |
