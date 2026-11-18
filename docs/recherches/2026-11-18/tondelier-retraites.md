@@ -1,0 +1,50 @@
+Audit retraites|tondelier — 18 novembre 2026
+Périmètre unique ; aucun fichier suivi modifié. Skill lu : .agents/skills/actualiser-pour-qui-voter/SKILL.md. Données courantes : une seule mesure sous vert ; catalogue vérifié avant nouveaux identifiants. Référence réutilisée vert et gluck-ret-cour-emploi (URL PDF identique).
+
+REQUÊTES RÉELLEMENT EFFECTUÉES (moteur web)
+Marine Tondelier retraites 60 ans 2026 financement
+Marine Tondelier retraites 62 ans 2026 cotisations
+"Tondelier" "retraites" "2026" site:rtl.fr
+"Tondelier" "retraites" "2026" site:bfmtv.com
+"Tondelier" "retraites" cotisations financement 2025
+"Tondelier" "retraites" 60 ans site:tf1info.fr
+site:dixipolis.com "Tondelier" "retraites"
+retraites cotisations hausse Medef 2025 coût travail emploi Cour comptes allègements
+retraites points capitalisation différence COR répartition points
+"Tondelier" "retraites" "62" "60" interview
+"retraites" "exonérations" "compensées" "Tondelier"
+site:agirc-arrco.fr "répartition" "points"
+"Marine Tondelier" "10 juin 2026" retraite
+site:marinetondelier.fr "21 priorités" "retraite"
+site:service-public.gouv.fr retraite âge légal taux plein trimestres 2026
+Les comparateurs renvoyés par les moteurs ont servi de pistes, jamais de preuve indépendante. Bouzou a été trouvé via RTL, l'entretien franceinfo via recherche de formulations 62/60 et le LCI via exonérations/cotisations.
+
+URL EFFECTIVEMENT OUVERTES ET PASSAGES RELUS
+https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf — PDF ouvert web et texte local /tmp/pqv-docs/vert-miroir.txt relu. Chapitre31 p116–117 ; fiscalité p67. 60 ans = priorité carrières précoces/pénibles ; le texte comporte un slash et une formulation redondante, ne pas fabriquer un calendrier universel. 0,2 POINT par an, non 0,2 % relatif. +1 point pour les salaires supérieurs au plafond, formulation exacte du document ; assiette détaillée de cette sélection à préciser. Le parti écrit à tort « allocation spécifique » pour ASPA ; intitulé officiel corrigé en allocation de solidarité. Programme collectif, non contrat personnel intégral démontré. P117 prévoit indexation différenciée ; p67 explicite sous-indexation plus hautes pensions et suppression abattement 10 %.
+https://pourquijevote.com/transcripts — catalogue réellement consulté HTTP/BeautifulSoup, sélection 85 534 transcriptions affichée le jour de l'audit. Ne vaut pas contrôle du contenu de chacune.
+https://pourquijevote.com/transcripts/963ce894-1be3-48cc-8386-de9f555eba25 — franceinfo 10 juin2026, passage15:14–19:38 relu intégralement. 15:23–15:48 âge62 personnel et différenciation ; 15:48 question journalistique citant Nicolas Dufourcq (transcrit Dufour), pas parole de Tondelier. 16:03–17:34 réponse projections, immigration et cotisations ; 17:35–18:17 relance démographie. Pas de reprise du chiffre contestable67,6 ni de la projection climat50 %, ni des3,6millions attribués au Medef sans source indépendante. Citation exacte retenue11mots. Le transcript marque parfois Invité/Présentateur de façon imparfaite ; attribution revue sur la continuité de questions/réponses, pas sur le résumé automatique.
+https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/patrick-bruel-devant-la-justice-affaire-lyhanna-presidentielle-2027-le-8h30-franceinfo-de-marine-tondelier_8030270.html — lien origine contrôlé mais outil web indisponible. Audio d'origine identifié dans transcript (proxycast.radiofrance.fr, fichier22076-10.06.2026-ITEMA_24546571) ; NON écouté, limite conservée.
+https://pourquijevote.com/transcripts/8c7d58cd-08c8-47d4-88f8-5dcde25a79df — LCI4nov2026, passage21:41–28:14 lu dans texte intégral. Questions du retraité Roger Peret distinctes des réponses de Tondelier à23:47. 25:02–26:58 héritages = transition dont bâti scolaire2Md/an, non retraites. Transcription incohérente sur premier taux héritage2 % puis10 % : aucun taux repris. 26:58–28:14 cotisations/exonérations. 10 % est baisse des exonérations, pas baisse du taux des cotisations, pas10points. Promesse d'équilibre « cette année » ; pas preuve financement de toutes réformes futures. Citation3mots.
+https://pourquijevote.com/transcripts/92be97e0-5162-4459-8cd6-383431acee6b — BFMTV12nov2026 parcouru et recherche retraite/cotisation. Aucun développement technique supplémentaire de retraites identifié ; ne pas déduire absence d'autres déclarations.
+https://dixipolis.com/presidentielle-2027 — index lu puis fiche Marine Tondelier sélectionnée.
+https://dixipolis.com/politicien/marine-tondelier — outil web timeout, HTTP Python réussi, métadonnées et vidéos récentes lus.
+https://dixipolis.com/video/226158 — BFMTV Vous Présidente12nov2026 ; web inaccessible puis HTTP avec Accept-Encoding:identity réussi (premier essai brotli échoué). Transcript715tours de parole, recherche retraites/cotisations et passages contextuels. Origine YouTube https://www.youtube.com/watch?v=7thkhaSxiUA identifiée. Passage2:11:58–2:12:22 sur création Sécurité sociale1945, pas financement détaillé d'une réforme. 31:02–32:46 concerne coût patronal SMIC ; aucun transfert de chiffres vers retraites. Pas de nouvelle ligne tirée du seul résumé IA. Dixipolis effectivement utilisé en corpus contradictoire, même sans nouvel engagement thématique exploitable.
+https://www.rtl.fr/actu/politique/c-est-prendre-des-gens-pour-des-imbeciles-sur-rtl-l-essayiste-nicolas-bouzou-tacle-les-propositions-de-revenir-a-la-retraite-a-62-ans-7900665941 — article entier lu,28août2026. Bouzou cite expressément Tondelier et2autres ; démographie/déficit et indexation âge sur espérance de vie. Opinion d'économiste, pas rapport de chiffrage du programme. Aucune réponse directe de Tondelier à Bouzou trouvée.
+https://www.tf1info.fr/politique/fin-de-l-abattement-fiscal-pour-les-retraites-ce-gouvernement-ne-regarde-jamais-du-cote-des-plus-riches-selon-marine-tondelier-sur-tf1-2366481.html — outil web403 puis HTTP/BeautifulSoup réussi, corps article lu. Date22avril2025. Opposition personnelle à suppression abattement ; ses nombres18,5millions/500000 ne sont pas validés indépendamment et ne sont pas repris. Divergence avec p67juillet2026 explicitée, sans inventer arbitrage ultérieur.
+https://www.ccomptes.fr/fr/publications/impacts-du-systeme-de-retraites-sur-la-competitivite-et-lemploi — synthèse10avril2025 lue, effets emploi/coût et ni emploi ni retraite.
+https://www.ccomptes.fr/sites/default/files/2025-04/20250410-Impacts-du-systeme-de-retraites-sur-la-competitivite-et-lemploi.pdf — PDF ouvert, source existante gluck-ret-cour-emploi réutilisée.
+https://www.ccomptes.fr/sites/default/files/2025-02/20250220-Situation-financiere-et-perspectives-du-systeme-de%20retraites_0.pdf — PDF95pages lu sur passagesp76–77 (tableau8p76, indexPDF75). Rendement brut point2025 : salariale plafonnée6,2Md ; patronale plafonnée4,8 ; salariale déplafonnée7,6 ; patronale déplafonnée6,2. Pas additionné. Incidence réduction générale/compensation État mentionnée dans original. Deux mécanismes différents : coût patronal et pouvoir d'achat salarial. Simulations Mesange7Md généralisées non appliquées au candidat ; aucun chiffre d'emplois perdu repris.
+https://www.agirc-arrco.fr/storage/2025/04/Fiches_VIP_AA_maj_avril2025-1.pdf — PDF lu p1, mention explicite répartition ET points. Attention URLavril2025 mais contenu affiche prestations2025 : ne pas dater les chiffres de réserves à partir du chemin. Aucun de ces stocks n'est repris.
+https://www.service-public.gouv.fr/particuliers/vosdroits/F14044 — fiche vérifiée14août2026, conditions taux plein/décote et tableau trimestres lus.
+https://www.service-public.gouv.fr/particuliers/actualites/A18825 — suspension jusqu'en2028 et calendrier applicable septembre2026 lus.
+https://www.service-public.gouv.fr/particuliers/actualites/A15703?lang=fr — montantMico2026 et conditions lus ;903,93€brut pour carrière entièrement cotisée, pas toute petite pension automatiquement garantie.
+https://www.service-public.gouv.fr/particuliers/vosdroits/F16871 — ASPA définition institutionnelle lue.
+https://www.cor-retraites.fr/reunions-du-cor/repartition-reserves-capitalisation-quels-enjeux-pour-retraites — service indisponible ; non utilisée comme preuve.
+https://marinetondelier.fr — page d'accueil accessible, lien/le-programme identifié ; https://marinetondelier.fr/le-programme bloqué challenge JavaScript, non utilisé comme contenu relu.
+
+CRITIQUES ET CONTRÔLES
+Trois objections économiques distinctes documentées : vieillissement/déficit (Bouzou, candidat expressément visé), coûts patronaux/compétitivité (Cour générale), pouvoir d'achat si hausse salariale (Cour générale). Plus question contradictoire franceinfo et divergence fiscale personnelle/parti. Aucun faux adversaire et aucune réponse directe inventée. Pas de critique participative présentée comme expertise.
+Quatre sources institutionnelles pour pédagogie et droit ; pas de confusion suspension/abrogation, âge/tauxplein, point/%, stock/flux, coût2025/rendement2027. Exemple4€ est calcul pédagogique explicitement identifié, pas estimation officielle.
+LIMITES PRÉCISES : coût total annuel d'abrogation + départs60 + revalorisations non chiffré proprement dans corpus retenu ; nouvelle durée d'assurance, calendrier60, seuil hautes pensions et partage des hausses salariés/employeurs non établis ; réallocation exonérations entre État/caisses non détaillée ; transfert assurances-vie et garanties aux épargnants non expliqué ; adoption personnelle de chaque détail collectif non démontrée. Pas d'écoute audio/vidéo originale intégrale. Les entretiens personnels sont sourcés comme transcriptions contrôlées contextuellement, sans certifier tous les mots automatiques.
+
+Relecture parent : chapitre collectif p.116–117 effectivement relu, notamment remplacement de l’épargne retraite et des assurances-vie par fonds CDC, formulation atypique du parti conservée comme telle. Paragraphes redondants raccourcis pour limiter la synthèse du même programme. Service Public suspension et article RTL/Bouzou ouverts et relus. L’âge légal, les trimestres et le financement du déficit courant restent distincts.

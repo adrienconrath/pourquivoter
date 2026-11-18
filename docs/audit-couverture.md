@@ -31,7 +31,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Retraites | Jean-Luc Mélenchon | 0 | 991 | 12 | 4 | Relue |
 | Retraites | François Ruffin | 45 | 45 | 3 | 0 | Non relue |
 | Retraites | Fabien Roussel | 77 | 77 | 1 | 0 | Non relue |
-| Retraites | Marine Tondelier | 27 | 27 | 1 | 0 | Non relue |
+| Retraites | Marine Tondelier | 27 | 1078 | 12 | 5 | Relue |
 | Retraites | Raphaël Glucksmann | 24 | 894 | 9 | 3 | Relue |
 | Retraites | Gabriel Attal | 103 | 103 | 4 | 1 | Non relue |
 | Retraites | Édouard Philippe | 302 | 302 | 4 | 2 | Non relue |
