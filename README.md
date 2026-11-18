@@ -12,7 +12,7 @@ python3 scripts/build.py
 python3 -m http.server --directory dist 8000
 ```
 
-Ouvrir [localhost:8000](http://localhost:8000). Le HTML contient le comparateur et les sources. JavaScript ajoute les filtres et enregistre la sélection dans l’URL. Les ressources graphiques et les polices sont servies localement. Les crédits et licences des portraits figurent sur chaque profil.
+Ouvrir [localhost:8000](http://localhost:8000). Le HTML contient le comparateur et les sources. JavaScript ouvre les colonnes des candidatures choisies, empile les thèmes et enregistre la sélection dans l’URL. Les ressources graphiques et les polices sont servies localement. Les crédits et licences des portraits sont accessibles par l’icône ⓘ de chaque photo.
 
 ## Mettre à jour une édition
 
@@ -21,7 +21,7 @@ Suivre le [skill d’actualisation](.agents/skills/actualiser-pour-qui-voter/SKI
 - `data/profils.tsv` contient l’identité, la date de naissance, le parcours, le statut et les liens officiels.
 - `data/portraits.tsv` contient les crédits, les pages d’origine et les licences.
 - `data/themes.tsv` contient l’ordre de lecture, les catégories et les questions de comparaison.
-- `data/positions.tsv` contient une affirmation par ligne et par champ. Chaque entrée documentée comprend au moins une proposition ou une déclaration.
+- `data/positions.tsv` contient une affirmation par ligne. Plusieurs affirmations peuvent alimenter la même rubrique avec des références distinctes. Chaque entrée documentée comprend au moins une proposition ou une déclaration.
 - `data/sources.tsv` contient les identifiants, titres, types et URL des références.
 - `data/edition.txt` indique la date d’arrêt des recherches. La date de génération est calculée au moment de la construction, dans le fuseau Europe/Paris.
 

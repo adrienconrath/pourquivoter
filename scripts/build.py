@@ -91,19 +91,53 @@ def profile(person, snapshot):
     key, name = person["id"], person["name"]
     image = portraits[key]
     profiles_links = link(sources[f"bio-{key}"]["url"], "Wikipédia")
+    credit = (
+        '<details class="citation photo-credit"><summary aria-label="Crédit photo">ⓘ</summary>'
+        '<div class="citation-panel"><strong>Crédit photo</strong><ul><li>'
+        f'{link(image["url"], image["credit"])} · {link(image["license"], "Licence")}'
+        '<small>Portrait recadré, en niveaux de gris et au format WebP.</small>'
+        '</li></ul></div></details>'
+    )
     for field, label in (("campaign", "Campagne"), ("party_url", "Parti")):
         if person[field]:
             profiles_links += link(person[field], label)
     return f'''
       <article class="profile" id="profil-{key}">
-        {portrait(person)}
+        <div class="profile-image">{portrait(person)}{credit}</div>
         <div class="profile-body"><h3>{escape(name)}</h3>
         {claim(f'{person["party"]} · {age(person["birth"], snapshot)} ans', f"bio-{key}")}
         <div class="status">{claim(person["status"], person["status_refs"])}</div>
         <div class="bio">{claim(person["bio"], f"bio-{key}")}</div>
-        <div class="profile-links">{profiles_links}</div>
-        <small class="credit">{link(image["url"], image["credit"])} · {link(image["license"], "Licence")} · adapté (WebP, cadrage et niveaux de gris).</small></div>
+        <div class="profile-links">{profiles_links}</div></div>
       </article>'''
+
+
+POSITION_FIELDS = (
+    ("orientation", "Orientation"),
+    ("explication", "En clair"),
+    ("mesure", "Mesures et mise en œuvre"),
+    ("financement", "Chiffrage et financement"),
+    ("critique", "Critiques, réponses et points à vérifier"),
+)
+
+MISSING_FIELDS = {
+    "financement": "Chiffrage ou financement non établi dans les sources citées ici.",
+}
+
+
+def position_field(field, label, records):
+    if records:
+        body = "".join(
+            f'<li><span class="evidence">{escape(record["kind"])}</span>'
+            f'{claim(record["text"], record["refs"])}</li>'
+            for record in records
+        )
+        body = f'<ul class="position-notes">{body}</ul>'
+    elif field in MISSING_FIELDS:
+        body = f'<p class="missing">{MISSING_FIELDS[field]}</p>'
+    else:
+        return ""
+    return f'<section class="position-field position-{field}"><h5>{label}</h5>{body}</section>'
 
 
 def comparison(theme, people, entries):
@@ -111,35 +145,27 @@ def comparison(theme, people, entries):
     cards = []
     for person in people.values():
         person_key = person["id"]
-        fields = entries.get((key, person_key), {})
+        fields = entries.get((key, person_key))
         if fields:
-            content = [f'<span class="evidence">{escape(fields["mesure"]["kind"])}</span>']
-            for field, label in (("orientation", "Orientation"), ("mesure", "Proposition"), ("financement", "Chiffrage et financement"), ("critique", "Critiques et limites")):
-                value = fields.get(field)
-                if value:
-                    body = claim(value["text"], value["refs"])
-                elif field == "financement":
-                    body = '<p class="missing">Chiffrage ou financement non établi dans les sources citées ici.</p>'
-                elif field == "critique":
-                    body = '<p class="missing">Critique documentée à compléter.</p>'
-                else:
-                    continue
-                content.append(f'<div class="position-field"><h5>{label}</h5>{body}</div>')
+            content = "".join(
+                position_field(field, label, fields.get(field, []))
+                for field, label in POSITION_FIELDS
+            )
         else:
-            content = ['<p class="missing">Position à documenter pour cette édition.</p>']
-        cards.append(f'''
-          <article class="position" data-person="{person_key}"{" data-empty" if not fields else ""}>
+            content = '<p class="missing">Position à documenter pour cette édition.</p>'
+        read = '<button type="button" class="read-position" hidden>Lire la fiche <span aria-hidden="true">↗</span></button>' if fields else ""
+        cards.append(f"""
+          <article class="position" id="position-{key}-{person_key}" data-person="{person_key}" aria-label="{escape(person["name"])} · {escape(theme["name"])}"{" data-empty" if not fields else ""}>
             <div class="position-person">{portrait(person)}<div>
               <h4><a href="#profil-{person_key}">{escape(person["name"])}</a></h4>
               {claim(person["party"], f"bio-{person_key}")}
-            </div></div><div class="position-content">{"".join(content)}</div>
-          </article>''')
-    count = sum((key, person) in entries for person in people)
+            </div></div>
+            {read}<div class="position-content">{content}</div>
+          </article>""")
     return f'''
         <section class="theme-panel" id="theme-{key}" data-theme="{key}">
           <header class="theme-heading">
             <div><h3>{escape(theme["name"])}</h3><p>{escape(theme["question"])}</p></div>
-            <span class="coverage">{count}/{len(people)} documentées</span>
           </header>
           <div class="positions">{"".join(cards)}</div>
         </section>'''
@@ -171,17 +197,20 @@ def validate():
             raise ValueError(f"Source du statut manquante : {key}")
     for source in all_sources.values():
         https(source["url"])
-    entries = defaultdict(dict)
+    entries = defaultdict(lambda: defaultdict(list))
+    seen = set()
+    valid_fields = {field for field, _ in POSITION_FIELDS}
     for record in rows("positions", "theme person field kind refs text"):
         theme, key, field = (record[name] for name in ("theme", "person", "field"))
         pair = theme, key
-        if (theme not in themes or key not in people
-                or field not in {"orientation", "mesure", "financement", "critique"}
-                or field in entries[pair] or not record["text"] or not record["kind"]):
+        claim_key = (theme, key, field, record["text"])
+        if (theme not in themes or key not in people or field not in valid_fields
+                or claim_key in seen or not record["text"] or not record["kind"]):
             raise ValueError(f"Position invalide ou dupliquée : {pair}, {field}")
         if not set(record["refs"].split(",")) <= all_sources.keys():
             raise ValueError(f'Source inconnue : {record["refs"]}')
-        entries[pair][field] = record
+        seen.add(claim_key)
+        entries[pair][field].append(record)
     if any("mesure" not in values for values in entries.values()):
         raise ValueError("Chaque position documentée doit avoir une proposition ou une déclaration.")
     return people, themes, all_sources, images, entries
@@ -192,12 +221,17 @@ def build(snapshot, generated):
     for theme in themes.values():
         groups[theme["group"]].append(theme)
     filters = "".join(
-        f'<fieldset><legend>{escape(group)}</legend><div class="theme-options">' +
-        "".join(f'<label><input type="checkbox" name="theme" value="{t["id"]}"><span>{escape(t["name"])}</span></label>' for t in options) +
-        '</div></fieldset>' for group, options in groups.items()
+        f'<section class="theme-stack"><h3>{escape(group)}</h3><div class="theme-options">' +
+        "".join(
+            f'<button type="button" data-theme-toggle="{t["id"]}" aria-pressed="false">'
+            f'{escape(t["name"])}</button>' for t in options
+        ) + '</div></section>' for group, options in groups.items()
     )
-    people_filters = "".join(
-        f'<label><input type="checkbox" name="person" value="{p["id"]}" checked><span>{escape(p["name"])}</span></label>'
+    column_headers = "".join(
+        f'<button type="button" class="column-header" data-person="{p["id"]}" aria-expanded="false" '
+        f'aria-label="Ouvrir la colonne de {escape(p["name"])}">{portrait(p)}'
+        f'<span class="column-ident"><strong>{escape(p["name"])}</strong>'
+        f'<small>{escape(p["party"])}</small></span><span class="column-toggle" aria-hidden="true">+</span></button>'
         for p in people.values()
     )
     timeline = "".join(
@@ -206,23 +240,24 @@ def build(snapshot, generated):
     )
     body = (ROOT / "web/index.html").read_text(encoding="utf-8")
     replacements = dict(
-        themes=len(themes), people=len(people), entries=len(entries), timeline=timeline,
+        themes=len(themes), people=len(people), timeline=timeline,
         profiles="".join(profile(p, snapshot) for p in people.values()),
-        theme_filters=filters, people_filters=people_filters,
+        theme_filters=filters, column_headers=column_headers,
         comparisons="".join(comparison(t, people, entries) for t in themes.values()),
         snapshot=f'<time datetime="{snapshot}">{word_date(snapshot)}</time>',
         generated=f'<time datetime="{generated}">{word_date(generated)}</time>',
         law=claim("Le Conseil constitutionnel doit publier la liste officielle au plus tard le 26 mars 2027. Cette édition suit une sélection de personnalités.", "loi,calendrier"),
-        directory="".join(
-            f'<li id="source-{key}">{link(s["url"], s["title"])} <small>{escape(s["kind"])}</small></li>'
-            for key, s in sorted(sources.items(), key=lambda item: item[1]["title"].casefold())
-        ),
     )
     DIST.mkdir(exist_ok=True)
     shutil.copytree(ROOT / "web/assets", DIST / "assets", dirs_exist_ok=True)
     (DIST / "index.html").write_text(re.sub(r"\{\{(\w+)\}\}", lambda m: str(replacements[m[1]]), body), encoding="utf-8")
     (DIST / ".nojekyll").touch()
-    print(f"{len(people)} profils · {len(themes)} thèmes · {len(entries)} comparaisons documentées · {len(sources)} sources")
+    notes = sum(len(records) for fields in entries.values() for records in fields.values())
+    analyses = sum(len(fields.get("critique", [])) for fields in entries.values())
+    print(
+        f"{len(people)} profils · {len(themes)} thèmes · {len(entries)} comparaisons documentées · "
+        f"{notes} notes, dont {analyses} points critiques · {len(sources)} sources"
+    )
 
 
 if __name__ == "__main__":

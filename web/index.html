@@ -13,7 +13,7 @@
   <a class="skip" href="#contenu">Aller au contenu</a>
   <header class="top"><div class="wrap nav">
     <a class="brand" href="#contenu"><span class="brand-mark" aria-hidden="true">◎</span> Pour qui voter&nbsp;?</a>
-    <nav aria-label="Navigation principale"><a href="#comparer">Comparer</a><a href="#profils">Profils</a><a href="#methode">Méthode</a></nav>
+    <nav aria-label="Navigation principale"><a href="#comparer">Comparer</a><a href="#profils">Profils</a></nav>
   </div></header>
   <main id="contenu">
     <section class="hero">
@@ -31,25 +31,17 @@
         </div>
       </div>
     </section>
-    <section class="wrap compare-section" id="comparer" aria-labelledby="compare-title">
-      <div class="section-head"><h2 id="compare-title">Comparer les propositions</h2><p>Choisissez vos thèmes et les personnalités à afficher.</p></div>
-      <noscript><p>Les comparaisons complètes sont disponibles ci-dessous. Activez JavaScript pour les filtrer.</p></noscript>
-      <div class="compare-layout">
-        <aside class="filters" hidden aria-label="Filtres de comparaison">
-          <form id="filters">
-            <div class="filter-title"><h3>Thèmes</h3><button id="reset-filters" type="button">Réinitialiser</button></div>
-            <label class="theme-search">Rechercher un thème<input id="theme-search" type="search" placeholder="Ex. logement"></label>
-            <div class="theme-filters">{{theme_filters}}</div>
-            <details id="people-filter">
-              <summary>Personnalités <span id="people-count"></span></summary>
-              <div class="selection-actions"><button type="button" data-select="all">Tout sélectionner</button><button type="button" data-select="none">Tout retirer</button></div>
-              <fieldset class="people-options"><legend class="sr">Personnalités à afficher</legend>{{people_filters}}</fieldset>
-            </details>
-          </form>
-        </aside>
-        <div id="results">
-          <div class="result-toolbar" hidden><p id="result-count" role="status"></p><label><input id="documented" type="checkbox"> Positions documentées</label></div>
-          <div id="empty-results" class="empty" hidden><h3>Aucun résultat à afficher</h3><p>Modifiez les thèmes ou les personnalités sélectionnés.</p></div>
+    <section class="wide compare-section" id="comparer" aria-labelledby="compare-title">
+      <div class="section-head"><h2 id="compare-title">Comparer les propositions</h2><p>Sélectionnez les thèmes, puis cliquez sur les portraits pour ouvrir ou fermer les colonnes.</p></div>
+      <div class="theme-picker" hidden aria-label="Choisir les thèmes">{{theme_filters}}</div>
+      <div class="compare-actions" hidden>
+        <p id="result-count" role="status"></p>
+        <button id="close-columns" type="button">Fermer les colonnes</button>
+      </div>
+      <p id="empty-themes" class="empty" hidden>Choisissez un thème pour afficher les propositions.</p>
+      <div class="compare-board" id="results" role="region" tabindex="0" aria-label="Tableau de comparaison">
+        <div class="compare-sheet">
+          <div class="candidate-columns" hidden>{{column_headers}}</div>
           {{comparisons}}
         </div>
       </div>
@@ -57,15 +49,13 @@
     <section class="profile-section" id="profils" aria-labelledby="profile-title">
       <div class="wrap"><div class="section-head"><h2 id="profile-title">Les profils</h2>{{law}}</div><div class="profile-grid">{{profiles}}</div></div>
     </section>
-    <section class="wrap method" id="methode" aria-labelledby="method-title">
-      <div class="section-head"><h2 id="method-title">Méthode et sources</h2><p>Recherches arrêtées le {{snapshot}}.</p></div>
-      <div class="method-grid">
-        <div><h3>Lire les comparaisons</h3><p>Les propositions de campagne, les positions de parti et les archives sont identifiées dans les fiches. Un montant annoncé reste attribué à son auteur. Le symbole ↗ ouvre les références au survol, au clavier ou au toucher.</p></div>
-        <div><h3>Comprendre les lacunes</h3><p>Cette édition contient {{entries}} comparaisons documentées. Les cases à documenter signalent une limite du relevé. Les questions de financement et les critiques sont signalées quand les sources consultées permettent de les préciser.</p></div>
-      </div>
-      <details class="directory"><summary>Consulter le répertoire des sources</summary><ul>{{directory}}</ul></details>
-    </section>
   </main>
-  <footer><div class="wrap foot"><a class="brand" href="#contenu"><span class="brand-mark" aria-hidden="true">◎</span> Pour qui voter&nbsp;?</a><span>Site généré le {{generated}}</span><a href="https://github.com/adrienconrath/pourquivoter">Dépôt public ↗</a></div></footer>
+  <dialog id="position-dialog" aria-labelledby="dialog-title">
+    <div class="dialog-head"><div><p id="dialog-theme"></p><h2 id="dialog-title"></h2></div>
+      <form method="dialog"><button aria-label="Fermer la fiche">✕</button></form>
+    </div>
+    <div class="dialog-content"></div>
+  </dialog>
+  <footer><div class="wrap foot"><a class="brand" href="#contenu"><span class="brand-mark" aria-hidden="true">◎</span> Pour qui voter&nbsp;?</a><span>Site généré le {{generated}}</span></div></footer>
 </body>
 </html>

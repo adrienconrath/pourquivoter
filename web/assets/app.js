@@ -1,120 +1,237 @@
-const filters = document.querySelector("#filters");
-const themeInputs = [...filters.querySelectorAll('[name="theme"]')];
-const personInputs = [...filters.querySelectorAll('[name="person"]')];
-const panels = [...document.querySelectorAll(".theme-panel")];
-const documented = document.querySelector("#documented");
-const search = document.querySelector("#theme-search");
+const board = document.querySelector(".compare-board");
+const headers = document.querySelector(".candidate-columns");
+const columns = new Map([...headers.children].map(button => [button.dataset.person, button]));
+const themes = [...document.querySelectorAll(".theme-panel")].map(panel => ({
+  id: panel.dataset.theme,
+  panel,
+  row: panel.querySelector(".positions"),
+  cells: new Map([...panel.querySelectorAll(".position")].map(card => [card.dataset.person, card])),
+}));
+const themePicker = document.querySelector(".theme-picker");
+const themeButtons = [...themePicker.querySelectorAll("button")];
+const closeColumns = document.querySelector("#close-columns");
+const dialog = document.querySelector("#position-dialog");
 const resultCount = document.querySelector("#result-count");
-const personCount = document.querySelector("#people-count");
-const empty = document.querySelector("#empty-results");
+const emptyThemes = document.querySelector("#empty-themes");
 
-function normalize(text) {
-  return text.toLocaleLowerCase("fr").normalize("NFD").replace(/\p{Diacritic}/gu, "");
-}
+const defaultPeople = matchMedia("(max-width: 670px)").matches ? ["attal"] : ["attal", "glucksmann"];
+let expanded = [];
+let selected = new Set();
 
-function checkedValues(inputs) {
-  return inputs.filter(input => input.checked).map(input => input.value);
-}
-
-function restore() {
+function readSelection() {
   const params = new URLSearchParams(location.search);
-  const themes = (params.get("themes") ?? "dette").split(",");
-  const people = params.has("profils") ? params.get("profils").split(",") : null;
-  const direct = location.hash.slice(7);
-  for (const input of themeInputs) {
-    input.checked = themes.includes(input.value) || (location.hash.startsWith("#theme-") && direct === input.value);
-  }
-  for (const input of personInputs) input.checked = people === null || people.includes(input.value);
-  documented.checked = params.get("sources") === "1";
-  render();
+  const matched = document.getElementById(location.hash.slice(1));
+  const linkedTheme = matched?.closest(".theme-panel")?.dataset.theme;
+  const linkedPerson = matched?.classList.contains("position") ? matched.dataset.person : null;
+  selected = new Set((params.get("themes") ?? linkedTheme ?? "dette").split(","));
+  if (linkedTheme) selected.add(linkedTheme);
+  expanded = params.has("profils")
+    ? [...new Set(params.get("profils").split(",").filter(person => columns.has(person)))]
+    : defaultPeople.filter(person => columns.has(person));
+  if (linkedPerson && !expanded.includes(linkedPerson)) expanded.unshift(linkedPerson);
+  updateBoard();
+  if (matched?.classList.contains("position")) matched.scrollIntoView({block: "nearest", inline: "nearest"});
 }
 
-function render() {
-  const themes = checkedValues(themeInputs);
-  const people = checkedValues(personInputs);
-  let visible = 0;
-  for (const panel of panels) {
-    let matches = 0;
-    for (const article of panel.querySelectorAll(".position")) {
-      const show = people.includes(article.dataset.person) && (!documented.checked || !article.hasAttribute("data-empty"));
-      article.hidden = !show;
-      if (show) matches++;
-    }
-    panel.hidden = !themes.includes(panel.dataset.theme) || matches === 0;
-    if (!panel.hidden) visible += matches;
-  }
-  empty.hidden = visible !== 0;
-  resultCount.textContent = `${visible} ${visible === 1 ? "résultat" : "résultats"} · ${themes.length} ${themes.length === 1 ? "thème" : "thèmes"}`;
-  personCount.textContent = `(${people.length}/${personInputs.length})`;
-}
-
-function save() {
+function saveSelection() {
   const url = new URL(location.href);
-  const themes = checkedValues(themeInputs);
-  const people = checkedValues(personInputs);
-  url.searchParams.set("themes", themes.join(","));
-  if (people.length === personInputs.length) url.searchParams.delete("profils");
-  else url.searchParams.set("profils", people.join(","));
-  if (documented.checked) url.searchParams.set("sources", "1");
-  else url.searchParams.delete("sources");
-  if (url.hash.startsWith("#theme-")) url.hash = "#comparer";
+  url.searchParams.set("themes", [...selected].join(","));
+  url.searchParams.set("profils", expanded.join(","));
+  url.searchParams.delete("rubrique");
+  url.searchParams.delete("sources");
+  if (url.hash.startsWith("#position-") || url.hash.startsWith("#theme-")) url.hash = "#comparer";
   history.replaceState(null, "", url);
-  render();
 }
 
-filters.addEventListener("submit", event => event.preventDefault());
-filters.addEventListener("change", event => {
-  if (event.target.matches('[name="theme"], [name="person"]')) save();
-});
-documented.addEventListener("change", save);
-search.addEventListener("input", () => {
-  const query = normalize(search.value.trim());
-  for (const fieldset of document.querySelectorAll(".theme-filters fieldset")) {
-    let matches = 0;
-    for (const label of fieldset.querySelectorAll("label")) {
-      label.hidden = !normalize(label.textContent).includes(query);
-      if (!label.hidden) matches++;
+function updateBoard() {
+  const open = new Set(expanded);
+  const order = [...expanded, ...[...columns.keys()].filter(person => !open.has(person))];
+  board.style.setProperty("--tracks", order.map(person => open.has(person) ? "var(--open-track)" : "var(--closed-track)").join(" "));
+  for (const person of order) {
+    const button = columns.get(person);
+    const isOpen = open.has(person);
+    const name = button.querySelector("strong").textContent;
+    button.setAttribute("aria-expanded", String(isOpen));
+    button.setAttribute("aria-label", (isOpen ? "Fermer la colonne de " : "Ouvrir la colonne de ") + name);
+    button.title = name;
+    button.querySelector(".column-toggle").textContent = isOpen ? "−" : "+";
+    headers.append(button);
+  }
+  for (const {id, panel, row, cells} of themes) {
+    panel.hidden = !selected.has(id);
+    for (const person of order) {
+      const cell = cells.get(person);
+      const collapsed = !open.has(person);
+      cell.toggleAttribute("data-collapsed", collapsed);
+      if (collapsed) cell.setAttribute("aria-hidden", "true");
+      else cell.removeAttribute("aria-hidden");
+      const read = cell.querySelector(".read-position");
+      if (read) read.hidden = collapsed;
+      row.append(cell);
     }
-    fieldset.hidden = matches === 0;
+  }
+  for (const button of themeButtons) {
+    button.setAttribute("aria-pressed", String(selected.has(button.dataset.themeToggle)));
+  }
+  const count = themes.filter(theme => selected.has(theme.id)).length;
+  emptyThemes.hidden = count > 0;
+  closeColumns.disabled = expanded.length === 0;
+  resultCount.textContent = `${expanded.length} ${expanded.length === 1 ? "colonne ouverte" : "colonnes ouvertes"} · ${count} ${count === 1 ? "thème" : "thèmes"}`;
+}
+
+themePicker.addEventListener("click", event => {
+  const button = event.target.closest("[data-theme-toggle]");
+  if (!button) return;
+  const theme = button.dataset.themeToggle;
+  const opening = !selected.has(theme);
+  if (opening) selected.add(theme);
+  else selected.delete(theme);
+  saveSelection();
+  updateBoard();
+  if (opening) {
+    const panel = document.getElementById("theme-" + theme);
+    board.scrollTop = panel.offsetTop - headers.offsetHeight;
   }
 });
-filters.addEventListener("click", event => {
-  const select = event.target.dataset.select;
-  if (!select) return;
-  for (const input of personInputs) input.checked = select === "all";
-  save();
+
+headers.addEventListener("click", event => {
+  const button = event.target.closest(".column-header");
+  if (!button) return;
+  const person = button.dataset.person;
+  const opening = !expanded.includes(person);
+  expanded = opening ? [person, ...expanded] : expanded.filter(item => item !== person);
+  saveSelection();
+  updateBoard();
+  if (opening) board.scrollLeft = 0;
+  button.focus({preventScroll: true});
 });
-document.querySelector("#reset-filters").addEventListener("click", () => {
-  history.replaceState(null, "", location.pathname + "#comparer");
-  search.value = "";
-  search.dispatchEvent(new Event("input"));
-  restore();
+
+closeColumns.addEventListener("click", () => {
+  expanded = [];
+  saveSelection();
+  updateBoard();
+  board.scrollLeft = 0;
+  headers.firstElementChild.focus({preventScroll: true});
 });
-window.addEventListener("popstate", restore);
+
+board.addEventListener("click", event => {
+  const read = event.target.closest(".read-position");
+  if (!read) return;
+  const article = read.closest(".position");
+  const theme = article.closest(".theme-panel");
+  dialog.querySelector("#dialog-theme").textContent = theme.querySelector("h3").textContent;
+  dialog.querySelector("#dialog-title").textContent = article.querySelector("h4").textContent;
+  dialog.querySelector(".dialog-content").replaceChildren(article.querySelector(".position-content").cloneNode(true));
+  dialog.showModal();
+  dialog.scrollTop = 0;
+});
+
+window.addEventListener("popstate", readSelection);
 window.addEventListener("hashchange", () => {
-  if (location.hash.startsWith("#theme-")) restore();
+  if (location.hash.startsWith("#theme-") || location.hash.startsWith("#position-")) readSelection();
 });
 
-document.addEventListener("pointerover", event => {
-  const citation = event.target.closest(".citation");
-  if (!citation || citation.contains(event.relatedTarget)) return;
-  const {left} = citation.getBoundingClientRect();
-  citation.style.setProperty("--citation-offset", `${Math.max(12 - left, -250)}px`);
-});
-document.addEventListener("pointerout", event => {
-  const citation = event.target.closest(".citation");
-  if (!citation || citation.contains(event.relatedTarget)) return;
-  citation.removeAttribute("data-dismissed");
-});
-document.addEventListener("keydown", event => {
-  if (event.key !== "Escape") return;
-  for (const citation of document.querySelectorAll(".citation[open], .citation:hover")) {
-    if (citation.contains(document.activeElement)) citation.querySelector("summary").focus();
-    citation.open = false;
-    citation.dataset.dismissed = "";
+board.classList.add("is-interactive");
+readSelection();
+headers.hidden = false;
+themePicker.hidden = false;
+document.querySelector(".compare-actions").hidden = false;
+
+if (typeof HTMLElement.prototype.showPopover === "function") {
+  const overlay = document.createElement("div");
+  overlay.className = "source-overlay";
+  overlay.id = "source-overlay";
+  overlay.popover = "manual";
+  document.body.append(overlay);
+
+  let active;
+  let pinned = false;
+  let closeTimer;
+
+  function stopClosing() {
+    clearTimeout(closeTimer);
   }
-});
 
-restore();
-document.querySelector(".filters").hidden = false;
-document.querySelector(".result-toolbar").hidden = false;
+  function closeSource() {
+    stopClosing();
+    if (!active) return;
+    active.removeAttribute("aria-expanded");
+    active.removeAttribute("aria-controls");
+    overlay.hidePopover();
+    active = null;
+    pinned = false;
+  }
+
+  function queueClose() {
+    stopClosing();
+    if (!pinned) closeTimer = setTimeout(closeSource, 180);
+  }
+
+  function placeOverlay() {
+    const anchor = active.getBoundingClientRect();
+    const below = innerHeight - anchor.bottom - 8;
+    const above = anchor.top - 8;
+    overlay.style.maxHeight = `${Math.max(80, Math.max(above, below))}px`;
+    const {width, height} = overlay.getBoundingClientRect();
+    const left = Math.max(8, Math.min(anchor.right - width + 10, innerWidth - width - 8));
+    const top = height > below && above > below
+      ? anchor.top - height + 1
+      : Math.max(8, Math.min(anchor.bottom - 1, innerHeight - height - 8));
+    overlay.style.left = `${left}px`;
+    overlay.style.top = `${top}px`;
+  }
+
+  function openSource(trigger, keepOpen = false) {
+    stopClosing();
+    if (active !== trigger) {
+      closeSource();
+      active = trigger;
+      trigger.setAttribute("aria-expanded", "true");
+      trigger.setAttribute("aria-controls", overlay.id);
+      (trigger.closest("dialog") ?? document.body).append(overlay);
+      overlay.replaceChildren(...[...trigger.nextElementSibling.childNodes].map(node => node.cloneNode(true)));
+      overlay.showPopover();
+      placeOverlay();
+    }
+    pinned = keepOpen;
+  }
+
+  document.addEventListener("pointerover", event => {
+    const trigger = event.target.closest(".citation summary");
+    if (event.pointerType === "mouse" && trigger && !pinned) openSource(trigger);
+  });
+  document.addEventListener("pointerout", event => {
+    if (active?.contains(event.target) && !active.contains(event.relatedTarget) && !overlay.contains(event.relatedTarget)) {
+      queueClose();
+    }
+  });
+  overlay.addEventListener("pointerenter", stopClosing);
+  overlay.addEventListener("pointerleave", event => {
+    if (!active?.contains(event.relatedTarget)) queueClose();
+  });
+  document.addEventListener("click", event => {
+    const trigger = event.target.closest(".citation summary");
+    if (!trigger) {
+      if (!overlay.contains(event.target)) closeSource();
+      return;
+    }
+    event.preventDefault();
+    if (active === trigger && pinned) closeSource();
+    else {
+      openSource(trigger, true);
+      if (event.detail === 0) overlay.querySelector("a")?.focus();
+    }
+  });
+  document.addEventListener("keydown", event => {
+    if (event.key !== "Escape" || !active) return;
+    event.preventDefault();
+    const trigger = active;
+    closeSource();
+    trigger.focus({preventScroll: true});
+  });
+  window.addEventListener("resize", closeSource);
+  document.addEventListener("scroll", event => {
+    if (event.target !== overlay) closeSource();
+  }, {capture: true});
+  dialog.addEventListener("close", closeSource);
+}
