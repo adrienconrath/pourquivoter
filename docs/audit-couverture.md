@@ -87,7 +87,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Protection de l’enfance | François Ruffin | 0 | 917 | 12 | 3 | Relue |
 | Protection de l’enfance | Fabien Roussel | 0 | 832 | 8 | 3 | Relue |
 | Protection de l’enfance | Marine Tondelier | 0 | 872 | 8 | 4 | Relue |
-| Protection de l’enfance | Raphaël Glucksmann | 0 | 0 | 0 | 0 | Non relue |
+| Protection de l’enfance | Raphaël Glucksmann | 0 | 820 | 7 | 3 | Relue |
 | Protection de l’enfance | Gabriel Attal | 0 | 1019 | 19 | 4 | Relue |
 | Protection de l’enfance | Édouard Philippe | 0 | 0 | 0 | 0 | Non relue |
 | Protection de l’enfance | David Lisnard | 0 | 0 | 0 | 0 | Non relue |
