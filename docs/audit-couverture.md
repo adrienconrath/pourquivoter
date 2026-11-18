@@ -166,7 +166,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Institutions et démocratie | Marine Tondelier | 40 | 40 | 2 | 0 | Non relue |
 | Institutions et démocratie | Raphaël Glucksmann | 13 | 1029 | 10 | 3 | Relue |
 | Institutions et démocratie | Gabriel Attal | 15 | 15 | 1 | 0 | Non relue |
-| Institutions et démocratie | Édouard Philippe | 14 | 14 | 1 | 0 | Non relue |
+| Institutions et démocratie | Édouard Philippe | 14 | 994 | 10 | 4 | Relue |
 | Institutions et démocratie | David Lisnard | 15 | 15 | 2 | 0 | Non relue |
 | Institutions et démocratie | Bruno Retailleau | 51 | 51 | 1 | 0 | Non relue |
 | Institutions et démocratie | Marine Le Pen | 20 | 20 | 2 | 0 | Non relue |
