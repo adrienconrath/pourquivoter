@@ -15,7 +15,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Dette et déficit | David Lisnard | 200 | 1070 | 10 | 4 | Relue |
 | Dette et déficit | Bruno Retailleau | 290 | 1091 | 13 | 5 | Relue |
 | Dette et déficit | Marine Le Pen | 295 | 995 | 11 | 4 | Relue |
-| Dette et déficit | Éric Zemmour | 138 | 138 | 2 | 1 | Non relue |
+| Dette et déficit | Éric Zemmour | 138 | 1080 | 11 | 6 | Relue |
 | Coût de la vie | François Ruffin | 18 | 1061 | 8 | 3 | Relue |
 | Coût de la vie | Fabien Roussel | 49 | 803 | 8 | 3 | Relue |
 | Coût de la vie | Marine Tondelier | 65 | 990 | 9 | 4 | Relue |
