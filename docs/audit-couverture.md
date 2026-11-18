@@ -130,7 +130,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Immigration et asile | Jean-Luc Mélenchon | 0 | 1117 | 13 | 4 | Relue |
 | Immigration et asile | François Ruffin | 182 | 182 | 4 | 3 | Non relue |
 | Immigration et asile | Fabien Roussel | 53 | 53 | 1 | 0 | Non relue |
-| Immigration et asile | Marine Tondelier | 52 | 52 | 1 | 0 | Non relue |
+| Immigration et asile | Marine Tondelier | 52 | 1009 | 11 | 3 | Relue |
 | Immigration et asile | Raphaël Glucksmann | 65 | 65 | 4 | 0 | Non relue |
 | Immigration et asile | Gabriel Attal | 121 | 121 | 2 | 1 | Non relue |
 | Immigration et asile | Édouard Philippe | 179 | 179 | 3 | 2 | Non relue |
