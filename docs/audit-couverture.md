@@ -90,7 +90,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Protection de l’enfance | Raphaël Glucksmann | 0 | 820 | 7 | 3 | Relue |
 | Protection de l’enfance | Gabriel Attal | 0 | 1019 | 19 | 4 | Relue |
 | Protection de l’enfance | Édouard Philippe | 0 | 926 | 9 | 4 | Relue |
-| Protection de l’enfance | David Lisnard | 0 | 0 | 0 | 0 | Non relue |
+| Protection de l’enfance | David Lisnard | 0 | 1021 | 11 | 3 | Relue |
 | Protection de l’enfance | Bruno Retailleau | 0 | 0 | 0 | 0 | Non relue |
 | Protection de l’enfance | Marine Le Pen | 0 | 955 | 8 | 3 | Relue |
 | Protection de l’enfance | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
@@ -259,7 +259,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Défense et diplomatie | Bruno Retailleau | 0 | 922 | 10 | 3 | Relue |
 | Défense et diplomatie | Marine Le Pen | 0 | 1133 | 12 | 4 | Relue |
 | Défense et diplomatie | Éric Zemmour | 0 | 1112 | 12 | 3 | Relue |
-| Culture et médias | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
+| Culture et médias | Jean-Luc Mélenchon | 0 | 1062 | 14 | 4 | Relue |
 | Culture et médias | François Ruffin | 24 | 24 | 2 | 0 | Non relue |
 | Culture et médias | Fabien Roussel | 0 | 1053 | 12 | 3 | Relue |
 | Culture et médias | Marine Tondelier | 58 | 58 | 2 | 0 | Non relue |
