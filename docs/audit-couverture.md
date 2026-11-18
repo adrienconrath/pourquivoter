@@ -131,7 +131,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Immigration et asile | François Ruffin | 182 | 182 | 4 | 3 | Non relue |
 | Immigration et asile | Fabien Roussel | 53 | 917 | 8 | 4 | Relue |
 | Immigration et asile | Marine Tondelier | 52 | 1009 | 11 | 3 | Relue |
-| Immigration et asile | Raphaël Glucksmann | 65 | 65 | 4 | 0 | Non relue |
+| Immigration et asile | Raphaël Glucksmann | 65 | 1017 | 12 | 3 | Relue |
 | Immigration et asile | Gabriel Attal | 121 | 121 | 2 | 1 | Non relue |
 | Immigration et asile | Édouard Philippe | 179 | 179 | 3 | 2 | Non relue |
 | Immigration et asile | David Lisnard | 49 | 1061 | 13 | 5 | Relue |
@@ -223,7 +223,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Agriculture et alimentation | Gabriel Attal | 43 | 1101 | 16 | 6 | Relue |
 | Agriculture et alimentation | Édouard Philippe | 26 | 1076 | 11 | 4 | Relue |
 | Agriculture et alimentation | David Lisnard | 42 | 967 | 9 | 3 | Relue |
-| Agriculture et alimentation | Bruno Retailleau | 65 | 65 | 2 | 1 | Non relue |
+| Agriculture et alimentation | Bruno Retailleau | 65 | 1034 | 19 | 4 | Relue |
 | Agriculture et alimentation | Marine Le Pen | 0 | 1161 | 16 | 4 | Relue |
 | Agriculture et alimentation | Éric Zemmour | 0 | 1189 | 13 | 5 | Relue |
 | Territoires et outre-mer | Jean-Luc Mélenchon | 0 | 961 | 9 | 2 | Relue |
