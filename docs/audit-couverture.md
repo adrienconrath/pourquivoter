@@ -72,7 +72,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Industrie et entreprises | Bruno Retailleau | 16 | 16 | 1 | 0 | Non relue |
 | Industrie et entreprises | Marine Le Pen | 93 | 93 | 3 | 1 | Non relue |
 | Industrie et entreprises | Éric Zemmour | 0 | 945 | 9 | 4 | Relue |
-| École et jeunesse | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
+| École et jeunesse | Jean-Luc Mélenchon | 0 | 950 | 7 | 4 | Relue |
 | École et jeunesse | François Ruffin | 16 | 16 | 1 | 0 | Non relue |
 | École et jeunesse | Fabien Roussel | 153 | 153 | 3 | 1 | Non relue |
 | École et jeunesse | Marine Tondelier | 12 | 12 | 1 | 0 | Non relue |
