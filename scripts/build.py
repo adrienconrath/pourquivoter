@@ -56,16 +56,23 @@ def source_refs(refs):
 
 def claim(value, refs):
     ids = source_refs(refs)
-    preview = "".join(
-        f'<li>{link(sources[key]["url"], sources[key]["title"])}'
+    return (
+        f'<div class="claim" data-sources="{escape(" ".join(ids))}">{escape(value)}</div>'
+    )
+
+
+def source_section(refs, extra=""):
+    ids = list(dict.fromkeys(refs))
+    for key in ids:
+        source_refs(key)
+    items = "".join(
+        f'<li data-source-id="{key}">{link(sources[key]["url"], sources[key]["title"])}'
         f'<small>{escape(sources[key]["kind"])}</small></li>' for key in ids
     )
     return (
-        f'<div class="claim" data-sources="{escape(" ".join(ids))}">{escape(value)} '
-        f'<details class="citation"><summary aria-label="Afficher les sources de cette affirmation">'
-        f'<span aria-hidden="true">↗</span></summary>'
-        f'<div class="citation-panel"><strong>Sources de cette affirmation</strong><ul>{preview}</ul></div>'
-        f'</details></div>'
+        '<details class="disclosure position-sources"><summary>Sources'
+        f'<span class="source-count">{len(ids) + bool(extra)}</span></summary>'
+        f'<ol class="source-list">{items}{extra}</ol></details>'
     )
 
 
@@ -90,25 +97,26 @@ def word_date(day):
 def profile(person, snapshot):
     key, name = person["id"], person["name"]
     image = portraits[key]
-    profiles_links = link(sources[f"bio-{key}"]["url"], "Wikipédia")
+    profiles_links = ""
     credit = (
-        '<details class="citation photo-credit"><summary aria-label="Crédit photo">ⓘ</summary>'
-        '<div class="citation-panel"><strong>Crédit photo</strong><ul><li>'
-        f'{link(image["url"], image["credit"])} · {link(image["license"], "Licence")}'
-        '<small>Portrait recadré, en niveaux de gris et au format WebP.</small>'
-        '</li></ul></div></details>'
+        '<li class="portrait-credit">'
+        f'Photo : {link(image["url"], image["credit"])} · {link(image["license"], "Licence")}'
+        '<small>Portrait recadré au format WebP.</small></li>'
     )
     for field, label in (("campaign", "Campagne"), ("party_url", "Parti")):
         if person[field]:
             profiles_links += link(person[field], label)
     return f'''
       <article class="profile">
-        <div class="profile-image">{portrait(person, "../assets")}{credit}</div>
+        <div class="profile-image">{portrait(person, "../assets")}</div>
         <div class="profile-body"><h1>{escape(name)}</h1>
         {claim(f'{person["party"]} · {age(person["birth"], snapshot)} ans', f"bio-{key}")}
         <div class="status">{claim(person["status"], person["status_refs"])}</div>
         <div class="bio">{claim(person["bio"], f"bio-{key}")}</div>
-        <div class="profile-links">{profiles_links}</div></div>
+        <div class="profile-links">{profiles_links}</div>
+        <div class="profile-note">{claim("La liste officielle des candidatures doit être publiée au plus tard le 26 mars 2027. Cette édition présente une sélection de personnalités.", "loi,calendrier")}</div>
+        {source_section([f"bio-{key}", *person["status_refs"].split(","), "loi", "calendrier"], credit)}
+        </div>
       </article>'''
 
 
@@ -147,16 +155,31 @@ def comparison(theme, people, entries):
         person_key = person["id"]
         fields = entries.get((key, person_key))
         if fields:
-            content = "".join(
-                position_field(field, label, fields.get(field, []))
-                for field, label in POSITION_FIELDS
+            summary = fields.get("resume", fields.get("orientation", []))
+            intro = "".join(claim(record["text"], record["refs"]) for record in summary)
+            measures = [record for field in ("mesure", "orientation", "explication")
+                        for record in fields.get(field, [])]
+            details = (
+                position_field("mesure", "Mesures", measures)
+                + position_field("financement", "Financement", fields.get("financement", []))
+                + position_field("critique", "Points à vérifier", fields.get("critique", []))
+            )
+            refs = [f"bio-{person_key}", *(
+                ref for records in fields.values() for record in records
+                for ref in record["refs"].split(",")
+            )]
+            content = (
+                f'<div class="position-summary">{intro}</div>'
+                '<details class="disclosure position-details"><summary>Détails</summary>'
+                f'<div class="details-content">{details}</div></details>'
+                + source_section(refs)
             )
         else:
             content = '<p class="missing">Position à documenter pour cette édition.</p>'
         cards.append(f"""
           <article class="position" id="position-{key}-{person_key}" data-person="{person_key}" aria-label="{escape(person["name"])} · {escape(theme["name"])}"{" data-empty" if not fields else ""}>
             <div class="position-person">{portrait(person)}<div>
-              <h4><a href="profils/{person_key}.html">{escape(person["name"])}</a></h4>
+              <h4>{escape(person["name"])}</h4>
               {claim(person["party"], f"bio-{person_key}")}
             </div></div>
             <div class="position-content">{content}</div>
@@ -198,7 +221,7 @@ def validate():
         https(source["url"])
     entries = defaultdict(lambda: defaultdict(list))
     seen = set()
-    valid_fields = {field for field, _ in POSITION_FIELDS}
+    valid_fields = {"resume", *(field for field, _ in POSITION_FIELDS)}
     for record in rows("positions", "theme person field kind refs text"):
         theme, key, field = (record[name] for name in ("theme", "person", "field"))
         pair = theme, key
@@ -208,10 +231,14 @@ def validate():
             raise ValueError(f"Position invalide ou dupliquée : {pair}, {field}")
         if not set(record["refs"].split(",")) <= all_sources.keys():
             raise ValueError(f'Source inconnue : {record["refs"]}')
+        if field == "resume" and len(record["text"].split()) >= 100:
+            raise ValueError(f"Résumé de moins de 100 mots attendu : {pair}")
         seen.add(claim_key)
         entries[pair][field].append(record)
     if any("mesure" not in values for values in entries.values()):
         raise ValueError("Chaque position documentée doit avoir une proposition ou une déclaration.")
+    if any(len(values.get("resume", [])) > 1 for values in entries.values()):
+        raise ValueError("Chaque position doit avoir un seul résumé.")
     return people, themes, all_sources, images, entries
 
 
@@ -235,7 +262,10 @@ def build(snapshot, generated):
     column_headers = "".join(
         f'<div class="column-header" data-person="{p["id"]}">{portrait(p)}'
         f'<span class="column-ident"><strong>{escape(p["name"])}</strong>'
-        f'<small>{escape(p["party"])}</small></span></div>'
+        f'<small>{escape(p["party"])}</small></span>'
+        f'<button type="button" class="column-close" data-close-person="{p["id"]}" '
+        f'aria-label="Retirer {escape(p["name"])} de la comparaison" '
+        f'title="Retirer {escape(p["name"])} de la comparaison"><span aria-hidden="true">×</span></button></div>'
         for p in people.values()
     )
     timeline = "".join(
@@ -249,10 +279,10 @@ def build(snapshot, generated):
         comparisons="".join(comparison(t, people, entries) for t in themes.values()),
         snapshot=f'<time datetime="{snapshot}">{word_date(snapshot)}</time>',
         generated=f'<time datetime="{generated}">{word_date(generated)}</time>',
-        law=claim("Le Conseil constitutionnel doit publier la liste officielle au plus tard le 26 mars 2027. Cette édition suit une sélection de personnalités.", "loi,calendrier"),
     )
     DIST.mkdir(exist_ok=True)
-    shutil.copytree(ROOT / "web/assets", DIST / "assets", dirs_exist_ok=True)
+    shutil.rmtree(DIST / "assets", ignore_errors=True)
+    shutil.copytree(ROOT / "web/assets", DIST / "assets")
     def render(template, values):
         return re.sub(r"\{\{(\w+)\}\}", lambda match: values[match[1]], template)
 
@@ -267,7 +297,6 @@ def build(snapshot, generated):
         page = render(profile_template, dict(
             name=escape(person["name"]),
             profile=profile(person, snapshot),
-            law=replacements["law"],
             generated=replacements["generated"],
         ))
         (profile_dir / f'{person["id"]}.html').write_text(page, encoding="utf-8")

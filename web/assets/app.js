@@ -120,6 +120,16 @@ candidatePicker.addEventListener("click", event => {
   button.focus({preventScroll: true});
 });
 
+headers.addEventListener("click", event => {
+  const button = event.target.closest("[data-close-person]");
+  if (!button) return;
+  const person = button.dataset.closePerson;
+  expanded = expanded.filter(item => item !== person);
+  saveSelection();
+  updateBoard();
+  candidateChoices.find(choice => choice.dataset.person === person)?.focus({preventScroll: true});
+});
+
 closeColumns.addEventListener("click", () => {
   expanded = [];
   saveSelection();
