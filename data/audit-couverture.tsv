@@ -121,7 +121,7 @@ securite|retailleau|0|1063|15|12|5|2|controle_qualitatif|relue
 securite|le-pen|29|1029|12|14|3|2|controle_qualitatif|relue
 securite|zemmour|13|1068|17|12|5|3|controle_qualitatif|relue
 justice|ruffin|0|0|0|0|0|0|vide|non
-justice|roussel|0|0|0|0|0|0|vide|non
+justice|roussel|0|1144|16|13|3|2|controle_qualitatif|relue
 justice|tondelier|71|71|3|2|0|1|insuffisant|non
 justice|glucksmann|7|7|1|1|0|0|insuffisant|non
 justice|attal|93|93|3|3|1|0|insuffisant|non
@@ -148,7 +148,7 @@ droits|attal|12|12|1|1|0|0|insuffisant|non
 droits|philippe|12|12|1|1|0|0|insuffisant|non
 droits|lisnard|0|0|0|0|0|0|vide|non
 droits|retailleau|0|0|0|0|0|0|vide|non
-droits|le-pen|0|0|0|0|0|0|vide|non
+droits|le-pen|0|1161|16|15|4|1|controle_qualitatif|relue
 droits|zemmour|0|0|0|0|0|0|vide|non
 climat|ruffin|115|115|4|2|0|2|insuffisant|non
 climat|roussel|98|98|3|3|0|1|insuffisant|non
@@ -189,7 +189,7 @@ agriculture|philippe|26|26|1|1|0|0|insuffisant|non
 agriculture|lisnard|42|42|2|2|0|0|insuffisant|non
 agriculture|retailleau|65|65|2|2|1|0|insuffisant|non
 agriculture|le-pen|0|1161|16|16|4|2|controle_qualitatif|relue
-agriculture|zemmour|0|0|0|0|0|0|vide|non
+agriculture|zemmour|0|1189|16|13|5|2|controle_qualitatif|relue
 territoires|ruffin|0|0|0|0|0|0|vide|non
 territoires|roussel|26|26|1|2|0|0|insuffisant|non
 territoires|tondelier|19|19|1|1|0|0|insuffisant|non
@@ -213,7 +213,7 @@ europe|zemmour|832|832|11|28|3|1|controle_qualitatif|non
 defense|ruffin|0|970|13|10|3|2|controle_qualitatif|relue
 defense|roussel|18|932|12|10|3|1|controle_qualitatif|relue
 defense|tondelier|29|1038|12|10|5|2|controle_qualitatif|relue
-defense|glucksmann|12|1002|12|11|3|3|controle_qualitatif|relue
+defense|glucksmann|12|1004|12|12|3|3|controle_qualitatif|relue
 defense|attal|17|1096|15|15|3|2|controle_qualitatif|relue
 defense|philippe|16|947|13|11|3|1|controle_qualitatif|relue
 defense|lisnard|27|850|13|7|4|1|controle_qualitatif|relue
@@ -221,7 +221,7 @@ defense|retailleau|0|922|14|10|3|2|controle_qualitatif|relue
 defense|le-pen|0|1133|15|12|4|2|controle_qualitatif|relue
 defense|zemmour|0|1112|18|12|3|4|controle_qualitatif|relue
 culture|ruffin|24|24|1|2|0|0|insuffisant|non
-culture|roussel|0|0|0|0|0|0|vide|non
+culture|roussel|0|1053|13|12|3|2|controle_qualitatif|relue
 culture|tondelier|58|58|3|2|0|1|insuffisant|non
 culture|glucksmann|94|94|3|3|1|0|insuffisant|non
 culture|attal|0|1109|14|13|4|2|controle_qualitatif|relue

@@ -127,7 +127,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Sécurité | Marine Le Pen | 29 | 1029 | 14 | 3 | Relue |
 | Sécurité | Éric Zemmour | 13 | 1068 | 12 | 5 | Relue |
 | Justice | François Ruffin | 0 | 0 | 0 | 0 | Non relue |
-| Justice | Fabien Roussel | 0 | 0 | 0 | 0 | Non relue |
+| Justice | Fabien Roussel | 0 | 1144 | 13 | 3 | Relue |
 | Justice | Marine Tondelier | 71 | 71 | 2 | 0 | Non relue |
 | Justice | Raphaël Glucksmann | 7 | 7 | 1 | 0 | Non relue |
 | Justice | Gabriel Attal | 93 | 93 | 3 | 1 | Non relue |
@@ -154,7 +154,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Égalité et droits | Édouard Philippe | 12 | 12 | 1 | 0 | Non relue |
 | Égalité et droits | David Lisnard | 0 | 0 | 0 | 0 | Non relue |
 | Égalité et droits | Bruno Retailleau | 0 | 0 | 0 | 0 | Non relue |
-| Égalité et droits | Marine Le Pen | 0 | 0 | 0 | 0 | Non relue |
+| Égalité et droits | Marine Le Pen | 0 | 1161 | 15 | 4 | Relue |
 | Égalité et droits | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
 | Climat et adaptation | François Ruffin | 115 | 115 | 2 | 0 | Non relue |
 | Climat et adaptation | Fabien Roussel | 98 | 98 | 3 | 0 | Non relue |
@@ -195,7 +195,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Agriculture et alimentation | David Lisnard | 42 | 42 | 2 | 0 | Non relue |
 | Agriculture et alimentation | Bruno Retailleau | 65 | 65 | 2 | 1 | Non relue |
 | Agriculture et alimentation | Marine Le Pen | 0 | 1161 | 16 | 4 | Relue |
-| Agriculture et alimentation | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
+| Agriculture et alimentation | Éric Zemmour | 0 | 1189 | 13 | 5 | Relue |
 | Territoires et outre-mer | François Ruffin | 0 | 0 | 0 | 0 | Non relue |
 | Territoires et outre-mer | Fabien Roussel | 26 | 26 | 2 | 0 | Non relue |
 | Territoires et outre-mer | Marine Tondelier | 19 | 19 | 1 | 0 | Non relue |
@@ -219,7 +219,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Défense et diplomatie | François Ruffin | 0 | 970 | 10 | 3 | Relue |
 | Défense et diplomatie | Fabien Roussel | 18 | 932 | 10 | 3 | Relue |
 | Défense et diplomatie | Marine Tondelier | 29 | 1038 | 10 | 5 | Relue |
-| Défense et diplomatie | Raphaël Glucksmann | 12 | 1002 | 11 | 3 | Relue |
+| Défense et diplomatie | Raphaël Glucksmann | 12 | 1004 | 12 | 3 | Relue |
 | Défense et diplomatie | Gabriel Attal | 17 | 1096 | 15 | 3 | Relue |
 | Défense et diplomatie | Édouard Philippe | 16 | 947 | 11 | 3 | Relue |
 | Défense et diplomatie | David Lisnard | 27 | 850 | 7 | 4 | Relue |
@@ -227,7 +227,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Défense et diplomatie | Marine Le Pen | 0 | 1133 | 12 | 4 | Relue |
 | Défense et diplomatie | Éric Zemmour | 0 | 1112 | 12 | 3 | Relue |
 | Culture et médias | François Ruffin | 24 | 24 | 2 | 0 | Non relue |
-| Culture et médias | Fabien Roussel | 0 | 0 | 0 | 0 | Non relue |
+| Culture et médias | Fabien Roussel | 0 | 1053 | 12 | 3 | Relue |
 | Culture et médias | Marine Tondelier | 58 | 58 | 2 | 0 | Non relue |
 | Culture et médias | Raphaël Glucksmann | 94 | 94 | 3 | 1 | Non relue |
 | Culture et médias | Gabriel Attal | 0 | 1109 | 13 | 4 | Relue |
