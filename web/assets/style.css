@@ -7,6 +7,7 @@
 html{scroll-behavior:smooth;scroll-padding-top:24px}
 body{display:flex;flex-direction:column;min-height:100vh;margin:0;background:var(--paper);color:var(--ink);font:16px/1.55 var(--sans)}
 main{flex:1}
+.research-banner{padding:7px 16px;background:#e9dfcb;border-bottom:1px solid #cabea5;color:#463d2c;font-size:.78rem;line-height:1.4;text-align:center;text-wrap:pretty}
 a{color:inherit;text-underline-offset:.22em}
 button,input{font:inherit;color:inherit}
 button,summary,input[type=checkbox]{cursor:pointer}
