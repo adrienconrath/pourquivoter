@@ -216,7 +216,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Transports | Marine Le Pen | 0 | 1040 | 13 | 4 | Relue |
 | Transports | Éric Zemmour | 0 | 1093 | 12 | 3 | Relue |
 | Agriculture et alimentation | Jean-Luc Mélenchon | 0 | 1107 | 15 | 5 | Relue |
-| Agriculture et alimentation | François Ruffin | 50 | 50 | 3 | 0 | Non relue |
+| Agriculture et alimentation | François Ruffin | 50 | 917 | 9 | 5 | Relue |
 | Agriculture et alimentation | Fabien Roussel | 0 | 1093 | 11 | 3 | Relue |
 | Agriculture et alimentation | Marine Tondelier | 77 | 77 | 1 | 0 | Non relue |
 | Agriculture et alimentation | Raphaël Glucksmann | 0 | 918 | 11 | 3 | Relue |
