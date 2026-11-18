@@ -268,7 +268,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Culture et médias | Édouard Philippe | 0 | 1035 | 13 | 4 | Relue |
 | Culture et médias | David Lisnard | 0 | 926 | 12 | 4 | Relue |
 | Culture et médias | Bruno Retailleau | 0 | 864 | 10 | 4 | Relue |
-| Culture et médias | Marine Le Pen | 57 | 57 | 1 | 1 | Non relue |
+| Culture et médias | Marine Le Pen | 57 | 960 | 10 | 4 | Relue |
 | Culture et médias | Éric Zemmour | 45 | 1002 | 12 | 4 | Relue |
 | Numérique et IA | Jean-Luc Mélenchon | 0 | 1084 | 11 | 3 | Relue |
 | Numérique et IA | François Ruffin | 40 | 973 | 8 | 4 | Relue |
