@@ -40,7 +40,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Retraites | Marine Le Pen | 357 | 1098 | 11 | 5 | Relue |
 | Retraites | Éric Zemmour | 41 | 996 | 11 | 4 | Relue |
 | Impôts et patrimoine | Jean-Luc Mélenchon | 0 | 971 | 10 | 3 | Relue |
-| Impôts et patrimoine | François Ruffin | 836 | 836 | 13 | 3 | Non relue |
+| Impôts et patrimoine | François Ruffin | 836 | 1128 | 10 | 5 | Relue |
 | Impôts et patrimoine | Fabien Roussel | 842 | 842 | 21 | 3 | Non relue |
 | Impôts et patrimoine | Marine Tondelier | 895 | 895 | 18 | 3 | Non relue |
 | Impôts et patrimoine | Raphaël Glucksmann | 878 | 1044 | 15 | 5 | Relue |
