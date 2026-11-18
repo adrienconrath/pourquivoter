@@ -154,7 +154,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Justice | Fabien Roussel | 0 | 1144 | 14 | 3 | Relue |
 | Justice | Marine Tondelier | 71 | 925 | 12 | 5 | Relue |
 | Justice | Raphaël Glucksmann | 7 | 1105 | 11 | 4 | Relue |
-| Justice | Gabriel Attal | 93 | 93 | 3 | 1 | Non relue |
+| Justice | Gabriel Attal | 93 | 1102 | 20 | 4 | Relue |
 | Justice | Édouard Philippe | 131 | 131 | 5 | 2 | Non relue |
 | Justice | David Lisnard | 117 | 117 | 4 | 1 | Non relue |
 | Justice | Bruno Retailleau | 86 | 1063 | 14 | 4 | Relue |
