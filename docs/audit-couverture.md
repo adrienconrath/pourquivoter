@@ -28,17 +28,17 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Coût de la vie | Bruno Retailleau | 44 | 966 | 14 | 3 | Relue |
 | Coût de la vie | Marine Le Pen | 155 | 848 | 11 | 5 | Relue |
 | Coût de la vie | Éric Zemmour | 119 | 808 | 11 | 4 | Relue |
-| Retraites | Jean-Luc Mélenchon | 0 | 991 | 12 | 4 | Relue |
-| Retraites | François Ruffin | 45 | 1106 | 11 | 4 | Relue |
-| Retraites | Fabien Roussel | 77 | 1048 | 11 | 5 | Relue |
-| Retraites | Marine Tondelier | 27 | 1078 | 12 | 5 | Relue |
-| Retraites | Raphaël Glucksmann | 24 | 894 | 9 | 3 | Relue |
-| Retraites | Gabriel Attal | 103 | 1117 | 15 | 4 | Relue |
-| Retraites | Édouard Philippe | 302 | 1079 | 13 | 4 | Relue |
-| Retraites | David Lisnard | 15 | 945 | 10 | 4 | Relue |
-| Retraites | Bruno Retailleau | 196 | 1072 | 16 | 3 | Relue |
-| Retraites | Marine Le Pen | 357 | 1098 | 11 | 5 | Relue |
-| Retraites | Éric Zemmour | 41 | 996 | 11 | 4 | Relue |
+| Retraites | Jean-Luc Mélenchon | 0 | 979 | 13 | 6 | Relue |
+| Retraites | François Ruffin | 45 | 1097 | 12 | 5 | Relue |
+| Retraites | Fabien Roussel | 77 | 1022 | 12 | 6 | Relue |
+| Retraites | Marine Tondelier | 27 | 1116 | 13 | 5 | Relue |
+| Retraites | Raphaël Glucksmann | 24 | 790 | 10 | 3 | Relue |
+| Retraites | Gabriel Attal | 103 | 1167 | 16 | 4 | Relue |
+| Retraites | Édouard Philippe | 302 | 1039 | 14 | 4 | Relue |
+| Retraites | David Lisnard | 15 | 907 | 11 | 5 | Relue |
+| Retraites | Bruno Retailleau | 196 | 1106 | 17 | 3 | Relue |
+| Retraites | Marine Le Pen | 357 | 1083 | 12 | 5 | Relue |
+| Retraites | Éric Zemmour | 41 | 1019 | 12 | 4 | Relue |
 | Impôts et patrimoine | Jean-Luc Mélenchon | 0 | 971 | 10 | 3 | Relue |
 | Impôts et patrimoine | François Ruffin | 836 | 1128 | 10 | 5 | Relue |
 | Impôts et patrimoine | Fabien Roussel | 842 | 1107 | 19 | 3 | Relue |
