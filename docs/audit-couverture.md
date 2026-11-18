@@ -53,7 +53,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Travail et salaires | Jean-Luc Mélenchon | 0 | 1012 | 11 | 3 | Relue |
 | Travail et salaires | François Ruffin | 98 | 1065 | 12 | 3 | Relue |
 | Travail et salaires | Fabien Roussel | 72 | 947 | 10 | 3 | Relue |
-| Travail et salaires | Marine Tondelier | 145 | 145 | 2 | 1 | Non relue |
+| Travail et salaires | Marine Tondelier | 145 | 1002 | 9 | 4 | Relue |
 | Travail et salaires | Raphaël Glucksmann | 33 | 966 | 10 | 4 | Relue |
 | Travail et salaires | Gabriel Attal | 97 | 1102 | 16 | 4 | Relue |
 | Travail et salaires | Édouard Philippe | 46 | 937 | 10 | 3 | Relue |
@@ -120,7 +120,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Fonction publique | François Ruffin | 41 | 1069 | 11 | 4 | Relue |
 | Fonction publique | Fabien Roussel | 119 | 984 | 13 | 5 | Relue |
 | Fonction publique | Marine Tondelier | 86 | 891 | 8 | 3 | Relue |
-| Fonction publique | Raphaël Glucksmann | 147 | 147 | 4 | 1 | Non relue |
+| Fonction publique | Raphaël Glucksmann | 147 | 825 | 12 | 3 | Relue |
 | Fonction publique | Gabriel Attal | 123 | 1099 | 18 | 5 | Relue |
 | Fonction publique | Édouard Philippe | 118 | 973 | 8 | 4 | Relue |
 | Fonction publique | David Lisnard | 67 | 1105 | 14 | 4 | Relue |
@@ -185,7 +185,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Climat et adaptation | Jean-Luc Mélenchon | 0 | 1035 | 12 | 3 | Relue |
 | Climat et adaptation | François Ruffin | 115 | 1098 | 11 | 3 | Relue |
 | Climat et adaptation | Fabien Roussel | 98 | 1042 | 13 | 4 | Relue |
-| Climat et adaptation | Marine Tondelier | 108 | 1052 | 16 | 4 | Relue |
+| Climat et adaptation | Marine Tondelier | 108 | 1071 | 16 | 4 | Relue |
 | Climat et adaptation | Raphaël Glucksmann | 209 | 209 | 4 | 2 | Non relue |
 | Climat et adaptation | Gabriel Attal | 10 | 1180 | 21 | 4 | Relue |
 | Climat et adaptation | Édouard Philippe | 21 | 801 | 8 | 3 | Relue |

@@ -47,7 +47,7 @@ fiscalite|zemmour|925|925|11|19|3|2|controle_qualitatif|non
 travail|melenchon|0|1012|12|11|3|2|controle_qualitatif|relue
 travail|ruffin|98|1065|14|12|3|2|controle_qualitatif|relue
 travail|roussel|72|947|12|10|3|1|controle_qualitatif|relue
-travail|tondelier|145|145|5|2|1|1|insuffisant|non
+travail|tondelier|145|1002|19|9|4|4|controle_qualitatif|relue
 travail|glucksmann|33|966|13|10|4|1|controle_qualitatif|relue
 travail|attal|97|1102|16|16|4|2|controle_qualitatif|relue
 travail|philippe|46|937|13|10|3|2|controle_qualitatif|relue
@@ -114,7 +114,7 @@ services|melenchon|0|1088|14|11|4|2|controle_qualitatif|relue
 services|ruffin|41|1069|13|11|4|1|controle_qualitatif|relue
 services|roussel|119|984|16|13|5|3|controle_qualitatif|relue
 services|tondelier|86|891|14|8|3|2|controle_qualitatif|relue
-services|glucksmann|147|147|4|4|1|0|insuffisant|non
+services|glucksmann|147|825|12|12|3|2|controle_qualitatif|relue
 services|attal|123|1099|16|18|5|3|controle_qualitatif|relue
 services|philippe|118|973|14|8|4|2|controle_qualitatif|relue
 services|lisnard|67|1105|15|14|4|3|controle_qualitatif|relue
@@ -179,7 +179,7 @@ droits|zemmour|0|1131|17|14|5|2|controle_qualitatif|relue
 climat|melenchon|0|1035|14|12|3|2|controle_qualitatif|relue
 climat|ruffin|115|1098|15|11|3|2|controle_qualitatif|relue
 climat|roussel|98|1042|17|13|4|3|controle_qualitatif|relue
-climat|tondelier|108|1052|16|16|4|2|controle_qualitatif|relue
+climat|tondelier|108|1071|17|16|4|3|controle_qualitatif|relue
 climat|glucksmann|209|209|7|4|2|2|insuffisant|non
 climat|attal|10|1180|15|21|4|2|controle_qualitatif|relue
 climat|philippe|21|801|11|8|3|2|controle_qualitatif|relue
