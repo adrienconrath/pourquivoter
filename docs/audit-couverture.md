@@ -152,8 +152,8 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Égalité et droits | Raphaël Glucksmann | 49 | 49 | 3 | 0 | Non relue |
 | Égalité et droits | Gabriel Attal | 12 | 12 | 1 | 0 | Non relue |
 | Égalité et droits | Édouard Philippe | 12 | 12 | 1 | 0 | Non relue |
-| Égalité et droits | David Lisnard | 0 | 0 | 0 | 0 | Non relue |
-| Égalité et droits | Bruno Retailleau | 0 | 0 | 0 | 0 | Non relue |
+| Égalité et droits | David Lisnard | 0 | 970 | 10 | 3 | Relue |
+| Égalité et droits | Bruno Retailleau | 0 | 1136 | 13 | 3 | Relue |
 | Égalité et droits | Marine Le Pen | 0 | 1161 | 15 | 4 | Relue |
 | Égalité et droits | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
 | Climat et adaptation | François Ruffin | 115 | 115 | 2 | 0 | Non relue |
