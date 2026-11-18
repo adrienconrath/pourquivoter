@@ -77,7 +77,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | École et jeunesse | Fabien Roussel | 153 | 153 | 3 | 1 | Non relue |
 | École et jeunesse | Marine Tondelier | 12 | 992 | 10 | 3 | Relue |
 | École et jeunesse | Raphaël Glucksmann | 58 | 1006 | 12 | 4 | Relue |
-| École et jeunesse | Gabriel Attal | 151 | 151 | 4 | 1 | Non relue |
+| École et jeunesse | Gabriel Attal | 151 | 957 | 23 | 3 | Relue |
 | École et jeunesse | Édouard Philippe | 116 | 927 | 10 | 4 | Relue |
 | École et jeunesse | David Lisnard | 182 | 182 | 4 | 2 | Non relue |
 | École et jeunesse | Bruno Retailleau | 68 | 1038 | 14 | 4 | Relue |
