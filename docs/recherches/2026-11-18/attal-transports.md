@@ -1,0 +1,47 @@
+Audit transports|attal — 18 novembre 2026. Livrables uniquement /tmp ; aucun fichier suivi modifié. Skill local lu ; case transports Attal et référence défense Attal lues ; catalogue parcouru pour réemploi des IDs.
+
+Requêtes réellement effectuées sur moteur web :
+- Gabriel Attal voiture électrique 10000 euros septembre 2026 transports leasing
+- Gabriel Attal transports train vélo ferroviaire 2026 carburant
+- leasing social 2026 Hermine 401 millions voitures disponibles Le Monde
+- site.iddri.org leasing social 2024 Hermine leçons succès
+- site.i4ce.org leasing social recharge ménages modestes 2026
+- Gabriel Attal transports vélo 2024 2026 FUB budget
+- site:pourquijevote.com/transcripts "Attal" "carburant" "2026"
+- site:dixipolis.com/video "Attal" "électrique"
+- site:pourquijevote.com/transcripts "Attal" "23 septembre 2026"
+
+URL réellement ouvertes et passages lus :
+https://attalpresident.fr/programme/mesures/plan-messmer-2 — totalité du contenu substantiel, notamment Changer les usages et sécuriser les matières premières ; leasing occasion ET bonus occasion explicitement distincts. Réemploi att-en.
+https://attalpresident.fr/programme/mesures/aide-professionnels-vehicule — totalité fiche, aide ciblée et entreprises sans charges/impôts ; réemploi att-mobilite.
+https://attalpresident.fr/actualites/gabriel-attal-presente-ses-mesures-pour-la-jeunesse-et-l-avenir-de-la-france — section Écologie et énergie ; page publiée 11 octobre, meeting 10 octobre. Réemploi att-jeunesse. 10 000 euros est prix voiture et non loyer.
+https://attalpresident.fr/actualites/gabriel-attal-sur-bfm-tv-le-plus-juste-c-est-d-accompagner-ceux-qui-travaillent — page 21 septembre, corroboration politique aide ciblée.
+https://attalpresident.fr/actualites/gabriel-attal-sur-rtl-je-suis-candidat-pour-gagner-cette-election-presidentielle — page 25 septembre, carburants et électrification ; simple corroboration, pas nouvelle référence conservée.
+https://pourquijevote.com/transcripts — index ouvert effectivement ; mention transcriptions automatiques imparfaites.
+https://pourquijevote.com/transcripts/e6a16c37-0ad5-455a-9b56-1940f592c1fe — entretien franceinfo 9 septembre 2026, passage réel 13:43–15:27 lu, hors résumé automatique. Journaliste demande baisse des taxes ; Attal répond à 14:07–14:25 coût et répercussion ; 14:25 électrification à long terme ; 14:54 priorité travailleurs contraints ; 15:04 dispositif existant. Attention diarisation morcelle artificiellement des mots entre « Locuteur » et Attal ; seuls arguments suivis intelligibles repris. 10 milliards bénéfices Total est énoncé par journaliste à 14:43, pas un chiffrage d’Attal : non retenu. Lien origine franceinfo ouvert via clic, accès restreint dans outil. Pas de prétention d’écoute audio/visionnage.
+https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-de-gabriel-attal_8161526.html — échec outil (restricted URL).
+https://pourquijevote.com/transcripts/58c1f44b-edc4-478a-8608-dedf2472fab2 — entretien BFM 6 août 2026 ; paragraphes réels après introduction, intégralité séquence carburants lue. Revoir plafonds revenus et encourager plafonnement distributeurs sont bien propos Attal ; pas de seuil nouveau. Chapitrage automatique donne repères approximatifs 2–4 minutes ; aucune citation chronométrée fabriquée. Évite résumer les superprofits en promesse de taxe : Attal rappelle une décision passée puis préfère le plafonnement des prix.
+https://dixipolis.com/presidentielle-2027 — index effectivement ouvert. Lien fiche candidat https://dixipolis.com/politicien/gabriel-attal tenté deux fois : timeout.
+https://dixipolis.com/video/226324 — LCI, 13 novembre 2026, face petits patrons/professions libérales : transcription ouverte et parcourue ; recherche mots électrique/voiture sans résultat dans page ; passages territoriaux et retraites 1:10–1:17 relus. Pas de mesure mobilité supplémentaire établie ici. Ne pas prendre le résumé de ce comparateur pour programme ni cette absence lexicale pour absence générale de position.
+https://www.info.gouv.fr/actualite/declaration-de-politique-generale-de-gabriel-attal-au-senat — archive 31 janvier 2024, transcription officielle, paragraphes transports lignes 455–473 : autonomie rurale, leasing, alternatives train/transports commun/vélo et engagements investissements SERM/ferroviaire. Archive personnelle, pas promesse 2027.
+https://www.economie.gouv.fr/particuliers/voyager-et-se-deplacer/vehicules-electriques-pouvez-vous-beneficier-du-leasing-social — fiche 12 juin 2026 lue, montant/revenu/trajet/contrat/neuf et exclusion occasion. 200 TTC mois, trois ans minimum, RFR16880 par part, >8000 km professionnels annuels OU trajet>10km. Ne pas confondre kilomètres et condition de revenus.
+https://www.ecologie.gouv.fr/leasing-social — ouverture tentée, 503 ; source institutionnelle Bercy utilisée à la place.
+https://www.ecologie.gouv.fr/sites/default/files/documents/2026-04%20-%2016%20Flash%20info_LeasingSocial2026%20AAF_VF.pdf — tentative ouverture, 503 ; résultat moteur affiche enveloppe401M€, pas utilisé comme document lu. Budget retenu finalement via Les Numériques, contenu effectivement lu.
+https://www.lemonde.fr/planete/article/2026/11/02/voitures-electriques-la-troisieme-edition-du-leasing-social-peine-a-atteindre-les-50-000-beneficiaires_6805260_3244.html — contenu au-delà titre réellement lu, lignes343–356 : 39000/50000, disponibilité et batteries, financement401M€ CEE. Réemploi leasing-monde-offre ; synthèse fiche finale issue de cet article :64mots (critique uniquement). Aucune citation verbatim.
+https://www.lemonde.fr/planete/article/2026/04/25/voitures-electriques-des-beneficiaires-du-leasing-social-enthousiastes-mais-qui-pointent-les-limites-du-dispositif_6683166_3244.html — passages344–358 lus : loyers, assurance, recharge et organisation longs trajets. Non réutilisé en fiche finale (autres critiques plus structurantes).
+https://www.iddri.org/fr/publications-et-evenements/billet-de-blog/premiere-edition-du-leasing-social-lecons-dun-succes-mal — texte substantiel entier lu, 4 avril2024, Mascaro/Hermine. Recommandations déciles1–4, maintien véhicule10ans, pas engagement d’un même ménage10ans ; coût public et gouvernance, report modal/covoiturage. Fiche distingue expertise archive et dispositif2027 non défini.
+https://reseauactionclimat.org/wp-content/uploads/2024/10/recommandations-leasing-social-octobre-2024.pdf — PDF12pages ouvert ; pages5–8 papier particulièrement lues pour critiques/frais et six ans ; page12 contacts T&E/RAC vérifiés. Attention première recommandation résumée en12 mesures mais liste13 : non repris. Critique durée concerne séjour véhicule dans dispositif, pas contrat obligatoire6ans pour chaque ménage.
+https://www.i4ce.org/budget-2027-recommandations-i4ce-climat/?trk=public_post_comment-text — 4 septembre2026 ; section Mobilité individuelle lue de bout en bout, notamment crédit relais3ans et recharge hors domicile/conventionnement et prix. Contexte indépendant, pas critique nominative du candidat.
+
+Contrôles et limites :
+- Huit nouvelles références ; IDs existants att-en, att-mobilite, att-jeunesse, leasing-monde-offre réemployés.
+- Explication location vs achat et calcul150x36=5400 explicitement pédagogique ; aucune promesse de loyer150 attribuée au candidat.
+- Divergence repérée et volontairement non aplatie : Bercy indique jusqu’à9500€ d’aide2026 tandis que Monde2nov mentionne6500€ hors exceptions ; les périmètres/base-exceptions ne sont pas résolus ici. Aucun montant d’aide unitaire2026 repris dans fiche pour éviter faux rapprochement.
+- Coût individuel aide carburant, durée, plafonds futurs, volumes et budgets primes/leasing/bornes/poids lourds non établis dans annonces retenues ; ne dit pas « n’a jamais parlé ».
+- Quatre objections indépendantes documentées : production disponible ; ciblage/précarité et durée ; contrats/coût public ; recharge/sortie de leasing. Pas de réponse nominative trouvée à l’Iddri2024, au briefing2024, à I4CEsept2026 ou au Monde novembre2026 ; aucune orientation générale présentée comme réponse à ces textes.
+- BFM/franceinfo apportent réponses personnelles aux critiques sur urgence/coût fiscal ; la question journalistique n’est pas traitée comme expertise.
+- Recherches alternatives train/vélo/ferroviaire remontent discours officiel2024 mais pas nouvelle programmation2027 détaillée. Pas d’affirmation d’absence absolue sur aérien, autoroutes, SNCF ou ZFE.
+- Format contrôlé :14blocs, environ1010mots après ultime correction ; six champs par ligne ; thème transports et profil attal exclusivement.
+
+Complément final lu : https://www.lesnumeriques.com/voiture-electrique/leasing-social-2026-renault-et-peugeot-ferment-les-commandes-une-seule-marque-francaise-resiste-n264006.html — Aymeric Geoffre-Rouland,30octobre2026 ; texte127–151 effectivement lu. Financement401M€ CEE ligne150 appuie seulement repère public, aucune promesse de campagne transférée au média.
+Contrôle final budgets conservateurs comptant TOUS les mots des paragraphes entiers attachés : att-en196 ; att-trans-imt24 161 ; att-trans-bercy26 158 ; att-trans-fi26 156 ; att-trans-bfm26 <155 ; att-jeunesse155 ; att-mobilite117 ; att-trans-rac24 86 ; att-trans-i4ce26 79 ; att-trans-dpg24 76 ; leasing-monde-offre64 ; att-trans-numeriques26 40. Aucun dépassement200 ni100Monde. Les deux financements scindés pour distinguer lacunes du projet appuyées aux primaires et budget public existant appuyé au média.

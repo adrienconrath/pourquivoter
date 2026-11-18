@@ -209,7 +209,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Transports | Fabien Roussel | 4 | 965 | 8 | 3 | Relue |
 | Transports | Marine Tondelier | 218 | 945 | 9 | 4 | Relue |
 | Transports | Raphaël Glucksmann | 104 | 1025 | 10 | 3 | Relue |
-| Transports | Gabriel Attal | 528 | 528 | 6 | 2 | Non relue |
+| Transports | Gabriel Attal | 528 | 1011 | 12 | 4 | Relue |
 | Transports | Édouard Philippe | 6 | 980 | 14 | 3 | Relue |
 | Transports | David Lisnard | 15 | 898 | 10 | 3 | Relue |
 | Transports | Bruno Retailleau | 0 | 1046 | 12 | 3 | Relue |
