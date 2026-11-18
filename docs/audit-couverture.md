@@ -52,7 +52,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Impôts et patrimoine | Éric Zemmour | 925 | 925 | 19 | 3 | Non relue |
 | Travail et salaires | Jean-Luc Mélenchon | 0 | 1012 | 11 | 3 | Relue |
 | Travail et salaires | François Ruffin | 98 | 98 | 4 | 0 | Non relue |
-| Travail et salaires | Fabien Roussel | 72 | 72 | 4 | 0 | Non relue |
+| Travail et salaires | Fabien Roussel | 72 | 947 | 10 | 3 | Relue |
 | Travail et salaires | Marine Tondelier | 145 | 145 | 2 | 1 | Non relue |
 | Travail et salaires | Raphaël Glucksmann | 33 | 966 | 10 | 4 | Relue |
 | Travail et salaires | Gabriel Attal | 97 | 97 | 2 | 1 | Non relue |
@@ -125,7 +125,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Fonction publique | Édouard Philippe | 118 | 118 | 2 | 1 | Non relue |
 | Fonction publique | David Lisnard | 67 | 1105 | 14 | 4 | Relue |
 | Fonction publique | Bruno Retailleau | 122 | 122 | 3 | 1 | Non relue |
-| Fonction publique | Marine Le Pen | 74 | 74 | 2 | 1 | Non relue |
+| Fonction publique | Marine Le Pen | 74 | 922 | 11 | 4 | Relue |
 | Fonction publique | Éric Zemmour | 97 | 97 | 3 | 1 | Non relue |
 | Immigration et asile | Jean-Luc Mélenchon | 0 | 1117 | 13 | 4 | Relue |
 | Immigration et asile | François Ruffin | 182 | 182 | 4 | 3 | Non relue |
@@ -152,7 +152,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Justice | Jean-Luc Mélenchon | 0 | 1023 | 9 | 3 | Relue |
 | Justice | François Ruffin | 0 | 968 | 8 | 5 | Relue |
 | Justice | Fabien Roussel | 0 | 1144 | 14 | 3 | Relue |
-| Justice | Marine Tondelier | 71 | 71 | 2 | 0 | Non relue |
+| Justice | Marine Tondelier | 71 | 925 | 12 | 5 | Relue |
 | Justice | Raphaël Glucksmann | 7 | 1105 | 11 | 4 | Relue |
 | Justice | Gabriel Attal | 93 | 93 | 3 | 1 | Non relue |
 | Justice | Édouard Philippe | 131 | 131 | 5 | 2 | Non relue |
@@ -239,7 +239,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Territoires et outre-mer | Éric Zemmour | 0 | 1036 | 10 | 2 | Relue |
 | Europe | Jean-Luc Mélenchon | 0 | 862 | 12 | 4 | Relue |
 | Europe | François Ruffin | 776 | 776 | 22 | 3 | Non relue |
-| Europe | Fabien Roussel | 915 | 915 | 21 | 4 | Non relue |
+| Europe | Fabien Roussel | 915 | 912 | 21 | 4 | Non relue |
 | Europe | Marine Tondelier | 950 | 950 | 20 | 4 | Non relue |
 | Europe | Raphaël Glucksmann | 995 | 995 | 21 | 4 | Non relue |
 | Europe | Gabriel Attal | 885 | 885 | 12 | 4 | Non relue |
