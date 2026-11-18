@@ -110,7 +110,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Logement | Fabien Roussel | 130 | 1110 | 11 | 3 | Relue |
 | Logement | Marine Tondelier | 12 | 1092 | 13 | 4 | Relue |
 | Logement | Raphaël Glucksmann | 46 | 999 | 9 | 4 | Relue |
-| Logement | Gabriel Attal | 154 | 154 | 2 | 0 | Non relue |
+| Logement | Gabriel Attal | 154 | 1057 | 15 | 5 | Relue |
 | Logement | Édouard Philippe | 40 | 982 | 9 | 4 | Relue |
 | Logement | David Lisnard | 171 | 171 | 2 | 2 | Non relue |
 | Logement | Bruno Retailleau | 256 | 256 | 4 | 2 | Non relue |
