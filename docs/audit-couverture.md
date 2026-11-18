@@ -112,7 +112,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Logement | Raphaël Glucksmann | 46 | 999 | 9 | 4 | Relue |
 | Logement | Gabriel Attal | 154 | 1057 | 15 | 5 | Relue |
 | Logement | Édouard Philippe | 40 | 982 | 9 | 4 | Relue |
-| Logement | David Lisnard | 171 | 171 | 2 | 2 | Non relue |
+| Logement | David Lisnard | 171 | 989 | 16 | 3 | Relue |
 | Logement | Bruno Retailleau | 256 | 256 | 4 | 2 | Non relue |
 | Logement | Marine Le Pen | 154 | 1000 | 11 | 4 | Relue |
 | Logement | Éric Zemmour | 61 | 1083 | 11 | 4 | Relue |
