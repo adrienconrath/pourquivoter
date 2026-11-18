@@ -33,7 +33,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Retraites | Fabien Roussel | 77 | 1048 | 11 | 5 | Relue |
 | Retraites | Marine Tondelier | 27 | 1078 | 12 | 5 | Relue |
 | Retraites | Raphaël Glucksmann | 24 | 894 | 9 | 3 | Relue |
-| Retraites | Gabriel Attal | 103 | 103 | 4 | 1 | Non relue |
+| Retraites | Gabriel Attal | 103 | 1117 | 15 | 4 | Relue |
 | Retraites | Édouard Philippe | 302 | 302 | 4 | 2 | Non relue |
 | Retraites | David Lisnard | 15 | 945 | 10 | 4 | Relue |
 | Retraites | Bruno Retailleau | 196 | 196 | 3 | 2 | Non relue |
