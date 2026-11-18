@@ -103,7 +103,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Santé et accès aux soins | Édouard Philippe | 35 | 1029 | 9 | 4 | Relue |
 | Santé et accès aux soins | David Lisnard | 56 | 1076 | 14 | 4 | Relue |
 | Santé et accès aux soins | Bruno Retailleau | 112 | 1016 | 12 | 4 | Relue |
-| Santé et accès aux soins | Marine Le Pen | 118 | 118 | 2 | 1 | Non relue |
+| Santé et accès aux soins | Marine Le Pen | 118 | 1061 | 11 | 3 | Relue |
 | Santé et accès aux soins | Éric Zemmour | 66 | 1087 | 12 | 4 | Relue |
 | Logement | Jean-Luc Mélenchon | 0 | 1034 | 11 | 3 | Relue |
 | Logement | François Ruffin | 178 | 178 | 4 | 1 | Non relue |
