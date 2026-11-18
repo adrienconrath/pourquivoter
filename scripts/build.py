@@ -227,11 +227,16 @@ def build(snapshot, generated):
             f'{escape(t["name"])}</button>' for t in options
         ) + '</div></section>' for group, options in groups.items()
     )
+    candidate_picker = "".join(
+        f'<button type="button" class="candidate-choice" data-person="{p["id"]}" aria-pressed="false" '
+        f'aria-label="Comparer {escape(p["name"])}" title="{escape(p["name"])}">{portrait(p)}'
+        '<span class="choice-mark" aria-hidden="true">✓</span></button>'
+        for p in people.values()
+    )
     column_headers = "".join(
-        f'<button type="button" class="column-header" data-person="{p["id"]}" aria-expanded="false" '
-        f'aria-label="Ouvrir la colonne de {escape(p["name"])}">{portrait(p)}'
+        f'<a class="column-header" data-person="{p["id"]}" href="profils/{p["id"]}.html">{portrait(p)}'
         f'<span class="column-ident"><strong>{escape(p["name"])}</strong>'
-        f'<small>{escape(p["party"])}</small></span><span class="column-toggle" aria-hidden="true">+</span></button>'
+        f'<small>{escape(p["party"])}</small></span></a>'
         for p in people.values()
     )
     timeline = "".join(
@@ -241,7 +246,7 @@ def build(snapshot, generated):
     body = (ROOT / "web/index.html").read_text(encoding="utf-8")
     replacements = dict(
         timeline=timeline,
-        theme_filters=filters, column_headers=column_headers,
+        theme_filters=filters, column_headers=column_headers, candidate_picker=candidate_picker,
         comparisons="".join(comparison(t, people, entries) for t in themes.values()),
         snapshot=f'<time datetime="{snapshot}">{word_date(snapshot)}</time>',
         generated=f'<time datetime="{generated}">{word_date(generated)}</time>',

@@ -26,13 +26,17 @@
       </div>
     </header>
     <section class="wide compare-section" id="comparer" aria-labelledby="compare-title">
-      <div class="section-head"><h2 id="compare-title">Comparer les propositions</h2><p>Choisissez les thèmes et cliquez sur les portraits pour ouvrir les colonnes.</p></div>
+      <div class="section-head"><h2 id="compare-title">Comparer les propositions</h2><p>Choisissez les thèmes et les candidats.</p></div>
       <div class="theme-picker" hidden aria-label="Choisir les thèmes">{{theme_filters}}</div>
+      <div class="candidate-picker" hidden role="group" aria-labelledby="candidate-picker-label">
+        <p id="candidate-picker-label">Sélectionnez des candidats à comparer</p>
+        <div class="candidate-choices">{{candidate_picker}}</div>
+      </div>
       <div class="compare-actions" hidden>
         <p id="result-count" role="status"></p>
         <div class="selection-actions">
           <button id="clear-themes" type="button">Désélectionner les thèmes</button>
-          <button id="close-columns" type="button">Fermer les colonnes</button>
+          <button id="close-columns" type="button">Désélectionner les candidats</button>
         </div>
       </div>
       <p id="empty-themes" class="empty" hidden>Choisissez un thème pour afficher les propositions.</p>

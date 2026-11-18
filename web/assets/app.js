@@ -1,6 +1,8 @@
 const board = document.querySelector(".compare-board");
 const columnScroll = document.querySelector(".column-scroll");
 const headers = document.querySelector(".candidate-columns");
+const candidatePicker = document.querySelector(".candidate-picker");
+const candidateChoices = [...candidatePicker.querySelectorAll(".candidate-choice")];
 const columns = new Map([...headers.children].map(button => [button.dataset.person, button]));
 const themes = [...document.querySelectorAll(".theme-panel")].map(panel => ({
   id: panel.dataset.theme,
@@ -16,7 +18,7 @@ const dialog = document.querySelector("#position-dialog");
 const resultCount = document.querySelector("#result-count");
 const emptyThemes = document.querySelector("#empty-themes");
 
-const defaultPeople = matchMedia("(max-width: 670px)").matches ? ["attal"] : ["attal", "glucksmann"];
+const defaultPeople = [];
 let expanded = [];
 let selected = new Set();
 
@@ -49,23 +51,21 @@ function saveSelection() {
 function updateBoard() {
   const open = new Set(expanded);
   const order = [...expanded, ...[...columns.keys()].filter(person => !open.has(person))];
-  board.parentElement.style.setProperty("--tracks", order.map(person => open.has(person) ? "var(--open-track)" : "var(--closed-track)").join(" "));
+  board.parentElement.style.setProperty("--tracks", expanded.map(() => "var(--open-track)").join(" "));
   for (const person of order) {
-    const button = columns.get(person);
-    const isOpen = open.has(person);
-    const name = button.querySelector("strong").textContent;
-    button.setAttribute("aria-expanded", String(isOpen));
-    button.setAttribute("aria-label", (isOpen ? "Fermer la colonne de " : "Ouvrir la colonne de ") + name);
-    button.title = name;
-    button.querySelector(".column-toggle").textContent = isOpen ? "−" : "+";
-    headers.append(button);
+    const header = columns.get(person);
+    header.hidden = !open.has(person);
+    headers.append(header);
+  }
+  for (const button of candidateChoices) {
+    button.setAttribute("aria-pressed", String(open.has(button.dataset.person)));
   }
   for (const {id, panel, row, cells} of themes) {
     panel.hidden = !selected.has(id);
     for (const person of order) {
       const cell = cells.get(person);
       const collapsed = !open.has(person);
-      cell.toggleAttribute("data-collapsed", collapsed);
+      cell.hidden = collapsed;
       if (collapsed) cell.setAttribute("aria-hidden", "true");
       else cell.removeAttribute("aria-hidden");
       const read = cell.querySelector(".read-position");
@@ -78,7 +78,7 @@ function updateBoard() {
   }
   const count = themes.filter(theme => selected.has(theme.id)).length;
   emptyThemes.hidden = count > 0;
-  board.hidden = columnScroll.hidden = count === 0;
+  board.hidden = columnScroll.hidden = count === 0 || expanded.length === 0;
   clearThemes.disabled = count === 0;
   closeColumns.disabled = expanded.length === 0;
   resultCount.textContent = `${expanded.length} ${expanded.length === 1 ? "colonne ouverte" : "colonnes ouvertes"} · ${count} ${count === 1 ? "thème" : "thèmes"}`;
@@ -111,8 +111,8 @@ function syncHorizontalScroll(from, to) {
 syncHorizontalScroll(board, columnScroll);
 syncHorizontalScroll(columnScroll, board);
 
-headers.addEventListener("click", event => {
-  const button = event.target.closest(".column-header");
+candidatePicker.addEventListener("click", event => {
+  const button = event.target.closest(".candidate-choice");
   if (!button) return;
   const person = button.dataset.person;
   const opening = !expanded.includes(person);
@@ -128,8 +128,7 @@ closeColumns.addEventListener("click", () => {
   saveSelection();
   updateBoard();
   board.scrollLeft = columnScroll.scrollLeft = 0;
-  if (columnScroll.hidden) themeButtons[0].focus({preventScroll: true});
-  else headers.firstElementChild.focus({preventScroll: true});
+  candidateChoices[0].focus({preventScroll: true});
 });
 
 board.addEventListener("click", event => {
@@ -152,4 +151,5 @@ window.addEventListener("hashchange", () => {
 board.classList.add("is-interactive");
 readSelection();
 themePicker.hidden = false;
+candidatePicker.hidden = false;
 document.querySelector(".compare-actions").hidden = false;
