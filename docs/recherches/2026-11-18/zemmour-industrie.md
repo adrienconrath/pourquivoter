@@ -1,0 +1,33 @@
+Audit industrie|zemmour réalisé le 18 novembre 2026. Fichiers suivis non modifiés. Brief, README, skill actualiser-pour-qui-voter, catalogue sources et données lus. Case initialement vide.
+
+Requêtes effectivement lancées avec moteur web :
+- Éric Zemmour industrie 2027 novembre 2026 entrepreneurs dirigeants chrétiens réindustrialisation
+- Zemmour industrie impôts production 2022 30 milliards Institut Montaigne
+- Zemmour 2026 industrie automobile 2035 souveraineté
+- Zemmour 2026 "industrie" "production" impôts
+- Zemmour industrie réindustrialisation programme 2027 entrepreneurs novembre 2026 entreprises
+- Zemmour industrie 2022 critiques protectionnisme entrepreneurs Echos usine nouvelle Franceinfo
+- Zemmour robotique immigration intelligence artificielle novembre 2026 industrie
+- Zemmour tarifs Chine 100% 2026 économie Franceinfo RTL
+- Zemmour réindustrialisation Bouzou 2022 protectionnisme coût consommateurs
+- "Des robots à la place des immigrés" Zemmour BFM 2026
+- "Zemmour" "centres de données" 2026
+- "Zemmour" "protectionnisme" "2026" RTL
+- "Zemmour" "30 milliards" "production" franceinfo
+
+Consultations réelles (web et récupération HTTPS Python requests avec BeautifulSoup, après erreurs intermittentes de web) :
+https://www.ericzemmour.fr/ : cinq priorités, annonce et titre audition EDC du 16/11. Version source locale zi-home.txt.
+https://pourquijevote.com/transcripts : index effectivement parcouru, zi-idx.txt.
+https://pourquijevote.com/transcripts/c94cec30-2346-4c89-b1cc-615887de6ce0 : transcript complet EDC lu. Le texte brut n'expose pas tous les horodatages, seulement le début et chapitres (industrie vers 25–28 min selon index existant). Pas d'horodatage précis inventé pour chaque phrase. Distinction question des EDC et réponse personnelle. Important : 91 fermetures/51 ouvertures est un chiffre apporté par le questionneur, non un chiffrage du candidat et non repris. La question porte sur durabilité et concurrence loyale ; Zemmour insiste sur loyauté, fiscalité, énergie et protectionnisme. Il corrige lui-même transposition en SURtransposition. L'accise est dite « 18 % » dans le transcript, taux non repris comme fait fiscal. Prix nucléaire 60/100/200 attribués au candidat ; unité de parole MW corrigée contextuellement en MWh comme le compte rendu JDF. Pas de reprise des comparaisons statistiques industrielles non vérifiées.
+https://pourquijevote.com/transcripts/1ff294a2-1a05-4837-9654-84df2aac01a3 : CNews 13/10/2026. 19:48–20:33 suppression impôts production, IS en compensation des niches ; 22:00–22:44 droits Chine au moins50% et critique règlement thermique. Pas assimilé à un taux d'IS de15% (archive2022).
+https://pourquijevote.com/transcripts/3974b537-d92a-49a4-9697-10e789c954d9 : Voix d'internet, 10/11/2026. 21:40–29:35 innovation, fiscalité, talents, rôle État/TGV/nucléaire. L'affirmation IPO Anthropic1400milliards appartient au questionneur, non reprise. 1:51:57–1:52:38 rejet de la seule croissance comme réponse aux dépenses, 1:52:38–1:55:29 robotique, soins, risques emploi/stages. L'absence de chiffrage est limitée à ces supports examinés.
+https://dixipolis.com/presidentielle-2027 : index effectivement ouvert par web.
+https://dixipolis.com/video/225941 : récupéré intégralement en HTTP200 avec Accept-Encoding:identity après erreur brotli, texte zi-dixi.txt. Même émission Voix d'internet, attribution relue. Ne pas compter comme deuxième déclaration indépendante.
+https://lejdf.fr/zemmour-devant-les-patrons-chretiens-lecole-de-la-iiie-republique-et-un-code-du-travail-de-cent-pages/ : texte intégral récupéré HTTP200 après web403, zi-jdf.txt. Compte rendu 16/11/2026 confirmant EDC, code travail100pages, droits50–100%, électricité ; presse engagée distinguée d'expertise indépendante.
+https://www.dailymotion.com/video/xbds3gy : RMC, Une proposition pour la France, Virginie Phulpin, 28/09/2026. Transcript lu, 00:27–00:36 extrait BFMTV, 00:49–01:24 précision assistance/présence humaine, 02:26–03:10 coût robots/formation/maintenance et automatisabilité, 03:12–03:59 limites exemple Japon/souveraineté. Ne pas reprendre la description du statut de candidature comme preuve officielle (contradiction temporelle avec annonce solennelle du10/11), ni le « exclusivement Chine/États-Unis » comme constat industriel exhaustif.
+https://www.ladepeche.fr/2026/09/19/vrai-ou-faux-presidentielle-2027-des-robots-a-la-place-des-immigres-pourquoi-la-proposition-deric-zemmour-est-loin-detre-realisable-13557464.php : Liza Cossard19/09, corps complet lu, limites de dextérité/prototypes, question dépendance importations, précision Zemmour sur X17/09. Synthèse moins de100mots, aucune citation longue.
+https://www.institutmontaigne.org/presidentielle-2022/legislatives-2022/reconquete/baisser-les-impots-de-production-de-30-milliards-deuros-supplementaires-2/ : corps complet récupéré HTTP200 après429 web, zi-montaigne.txt. Coût annuel central25,2Md€, baisse brute30Md€. Divergence interne : cartouche fourchette23,8–30, analyse centrale23,8–26,4 et scénario30. Fourchette omise pour éviter aplanissement. Réponse campagne baisse progressive, auto-financement espéré2027, non actualisé par Montaigne faute précisions. Ne pas présenter comme évaluation2027 ni comme coût de suppression de tous impôts production.
+https://www.rte-france.com/actualites/bilan-electrique-2025-conditions-sont-reunies-permettre-france-accelerer-electrification : texte officiel lu, +92,3TWh export net,5,4Md€ valorisation aux prix français. Critique de l'idée « bradé », pas estimation du programme Zemmour.
+https://france.representation.ec.europa.eu/informations-et-evenements/informations/lue-impose-des-droits-sur-les-vehicules-electriques-injustement-subventionnes-en-provenance-de-chine-2024-10-29_fr : tentative web403, contenu non utilisé.
+
+Limites conservées : pas de périmètre ni calendrier2027 détaillé pour suppression impôts production, contreparties locales/sociales, baisseIS et niches précises, coûts robots ou plan de R&D, pas de tarifs douaniers détaillés par produit et procédure européenne. Absence de réponse technique/financière détaillée vérifiée à RMC ; réponse sur distinction robots/soins humains documentée. Pas de fausse promesse de part de PIB industriel, de ministère ou fonds2027 importée du programme2022. Plan Knafo non utilisé pour chiffrer des mesures industrielles personnelles. Recherches médias variées faites mais résultats les plus substantiels lus : sources directes CNews/BFMTV via transcriptions, RMC, presse locale Dépêche, presse engagée JDF, expertise Montaigne et données RTE. Sources web inaccessibles reconsultées par HTTPS direct quand possible.

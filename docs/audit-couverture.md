@@ -65,7 +65,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Industrie et entreprises | David Lisnard | 22 | 22 | 3 | 0 | Non relue |
 | Industrie et entreprises | Bruno Retailleau | 16 | 16 | 1 | 0 | Non relue |
 | Industrie et entreprises | Marine Le Pen | 93 | 93 | 3 | 1 | Non relue |
-| Industrie et entreprises | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
+| Industrie et entreprises | Éric Zemmour | 0 | 945 | 9 | 4 | Relue |
 | École et jeunesse | François Ruffin | 16 | 16 | 1 | 0 | Non relue |
 | École et jeunesse | Fabien Roussel | 153 | 153 | 3 | 1 | Non relue |
 | École et jeunesse | Marine Tondelier | 12 | 12 | 1 | 0 | Non relue |
@@ -118,9 +118,9 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Immigration et asile | Éric Zemmour | 90 | 90 | 4 | 0 | Non relue |
 | Sécurité | François Ruffin | 109 | 109 | 1 | 1 | Non relue |
 | Sécurité | Fabien Roussel | 137 | 137 | 3 | 1 | Non relue |
-| Sécurité | Marine Tondelier | 27 | 27 | 1 | 0 | Non relue |
+| Sécurité | Marine Tondelier | 27 | 1065 | 12 | 4 | Relue |
 | Sécurité | Raphaël Glucksmann | 18 | 18 | 1 | 0 | Non relue |
-| Sécurité | Gabriel Attal | 27 | 1350 | 23 | 4 | Relue |
+| Sécurité | Gabriel Attal | 27 | 1352 | 23 | 4 | Relue |
 | Sécurité | Édouard Philippe | 35 | 35 | 1 | 0 | Non relue |
 | Sécurité | David Lisnard | 17 | 17 | 1 | 0 | Non relue |
 | Sécurité | Bruno Retailleau | 0 | 1063 | 12 | 5 | Relue |
@@ -199,7 +199,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Territoires et outre-mer | François Ruffin | 0 | 0 | 0 | 0 | Non relue |
 | Territoires et outre-mer | Fabien Roussel | 26 | 26 | 2 | 0 | Non relue |
 | Territoires et outre-mer | Marine Tondelier | 19 | 19 | 1 | 0 | Non relue |
-| Territoires et outre-mer | Raphaël Glucksmann | 0 | 0 | 0 | 0 | Non relue |
+| Territoires et outre-mer | Raphaël Glucksmann | 0 | 968 | 9 | 4 | Relue |
 | Territoires et outre-mer | Gabriel Attal | 47 | 47 | 2 | 0 | Non relue |
 | Territoires et outre-mer | Édouard Philippe | 85 | 85 | 3 | 0 | Non relue |
 | Territoires et outre-mer | David Lisnard | 37 | 37 | 2 | 0 | Non relue |
@@ -217,12 +217,12 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Europe | Marine Le Pen | 944 | 944 | 26 | 4 | Non relue |
 | Europe | Éric Zemmour | 832 | 832 | 28 | 3 | Non relue |
 | Défense et diplomatie | François Ruffin | 0 | 0 | 0 | 0 | Non relue |
-| Défense et diplomatie | Fabien Roussel | 18 | 18 | 1 | 0 | Non relue |
-| Défense et diplomatie | Marine Tondelier | 29 | 29 | 1 | 0 | Non relue |
-| Défense et diplomatie | Raphaël Glucksmann | 12 | 12 | 2 | 0 | Non relue |
+| Défense et diplomatie | Fabien Roussel | 18 | 932 | 10 | 3 | Relue |
+| Défense et diplomatie | Marine Tondelier | 29 | 1038 | 10 | 5 | Relue |
+| Défense et diplomatie | Raphaël Glucksmann | 12 | 1002 | 11 | 3 | Relue |
 | Défense et diplomatie | Gabriel Attal | 17 | 17 | 1 | 0 | Non relue |
 | Défense et diplomatie | Édouard Philippe | 16 | 16 | 1 | 0 | Non relue |
-| Défense et diplomatie | David Lisnard | 27 | 27 | 1 | 0 | Non relue |
+| Défense et diplomatie | David Lisnard | 27 | 850 | 7 | 4 | Relue |
 | Défense et diplomatie | Bruno Retailleau | 0 | 0 | 0 | 0 | Non relue |
 | Défense et diplomatie | Marine Le Pen | 0 | 1133 | 12 | 4 | Relue |
 | Défense et diplomatie | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |

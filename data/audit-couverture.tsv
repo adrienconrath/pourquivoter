@@ -59,7 +59,7 @@ industrie|philippe|90|90|3|2|1|1|insuffisant|non
 industrie|lisnard|22|22|2|3|0|1|insuffisant|non
 industrie|retailleau|16|16|1|1|0|0|insuffisant|non
 industrie|le-pen|93|93|3|3|1|0|insuffisant|non
-industrie|zemmour|0|0|0|0|0|0|vide|non
+industrie|zemmour|0|945|16|9|4|2|controle_qualitatif|relue
 ecole|ruffin|16|16|1|1|0|0|insuffisant|non
 ecole|roussel|153|153|5|3|1|1|insuffisant|non
 ecole|tondelier|12|12|1|1|0|0|insuffisant|non
@@ -112,9 +112,9 @@ immigration|le-pen|157|157|5|4|2|2|insuffisant|non
 immigration|zemmour|90|90|4|4|0|1|insuffisant|non
 securite|ruffin|109|109|3|1|1|0|insuffisant|non
 securite|roussel|137|137|5|3|1|1|insuffisant|non
-securite|tondelier|27|27|1|1|0|0|insuffisant|non
+securite|tondelier|27|1065|16|12|4|1|controle_qualitatif|relue
 securite|glucksmann|18|18|1|1|0|0|insuffisant|non
-securite|attal|27|1350|17|23|4|1|controle_qualitatif|relue
+securite|attal|27|1352|17|23|4|1|controle_qualitatif|relue
 securite|philippe|35|35|1|1|0|0|insuffisant|non
 securite|lisnard|17|17|1|1|0|0|insuffisant|non
 securite|retailleau|0|1063|15|12|5|2|controle_qualitatif|relue
@@ -193,7 +193,7 @@ agriculture|zemmour|0|0|0|0|0|0|vide|non
 territoires|ruffin|0|0|0|0|0|0|vide|non
 territoires|roussel|26|26|1|2|0|0|insuffisant|non
 territoires|tondelier|19|19|1|1|0|0|insuffisant|non
-territoires|glucksmann|0|0|0|0|0|0|vide|non
+territoires|glucksmann|0|968|15|9|4|3|controle_qualitatif|relue
 territoires|attal|47|47|2|2|0|0|insuffisant|non
 territoires|philippe|85|85|3|3|0|0|insuffisant|non
 territoires|lisnard|37|37|2|2|0|0|insuffisant|non
@@ -211,12 +211,12 @@ europe|retailleau|829|829|11|23|3|2|controle_qualitatif|non
 europe|le-pen|944|944|12|26|4|2|controle_qualitatif|non
 europe|zemmour|832|832|11|28|3|1|controle_qualitatif|non
 defense|ruffin|0|0|0|0|0|0|vide|non
-defense|roussel|18|18|1|1|0|0|insuffisant|non
-defense|tondelier|29|29|1|1|0|0|insuffisant|non
-defense|glucksmann|12|12|1|2|0|0|insuffisant|non
+defense|roussel|18|932|12|10|3|1|controle_qualitatif|relue
+defense|tondelier|29|1038|12|10|5|2|controle_qualitatif|relue
+defense|glucksmann|12|1002|12|11|3|3|controle_qualitatif|relue
 defense|attal|17|17|1|1|0|0|insuffisant|non
 defense|philippe|16|16|1|1|0|0|insuffisant|non
-defense|lisnard|27|27|1|1|0|0|insuffisant|non
+defense|lisnard|27|850|13|7|4|1|controle_qualitatif|relue
 defense|retailleau|0|0|0|0|0|0|vide|non
 defense|le-pen|0|1133|15|12|4|2|controle_qualitatif|relue
 defense|zemmour|0|0|0|0|0|0|vide|non
