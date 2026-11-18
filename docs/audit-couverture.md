@@ -245,8 +245,8 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Europe | Gabriel Attal | 885 | 1003 | 12 | 5 | Relue |
 | Europe | Édouard Philippe | 983 | 1057 | 14 | 3 | Relue |
 | Europe | David Lisnard | 789 | 789 | 19 | 3 | Non relue |
-| Europe | Bruno Retailleau | 829 | 829 | 23 | 3 | Non relue |
-| Europe | Marine Le Pen | 944 | 944 | 26 | 4 | Non relue |
+| Europe | Bruno Retailleau | 829 | 1095 | 22 | 5 | Relue |
+| Europe | Marine Le Pen | 944 | 1087 | 19 | 5 | Relue |
 | Europe | Éric Zemmour | 832 | 832 | 28 | 3 | Non relue |
 | Défense et diplomatie | Jean-Luc Mélenchon | 0 | 1142 | 17 | 4 | Relue |
 | Défense et diplomatie | François Ruffin | 0 | 970 | 10 | 3 | Relue |
