@@ -184,9 +184,9 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Égalité et droits | Éric Zemmour | 0 | 1131 | 14 | 5 | Relue |
 | Climat et adaptation | Jean-Luc Mélenchon | 0 | 1035 | 12 | 3 | Relue |
 | Climat et adaptation | François Ruffin | 115 | 1098 | 11 | 3 | Relue |
-| Climat et adaptation | Fabien Roussel | 98 | 1042 | 13 | 4 | Relue |
+| Climat et adaptation | Fabien Roussel | 98 | 1077 | 14 | 4 | Relue |
 | Climat et adaptation | Marine Tondelier | 108 | 1071 | 16 | 4 | Relue |
-| Climat et adaptation | Raphaël Glucksmann | 209 | 209 | 4 | 2 | Non relue |
+| Climat et adaptation | Raphaël Glucksmann | 209 | 1089 | 11 | 3 | Relue |
 | Climat et adaptation | Gabriel Attal | 10 | 1180 | 21 | 4 | Relue |
 | Climat et adaptation | Édouard Philippe | 21 | 801 | 8 | 3 | Relue |
 | Climat et adaptation | David Lisnard | 17 | 974 | 11 | 4 | Relue |
@@ -195,7 +195,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Climat et adaptation | Éric Zemmour | 0 | 1013 | 9 | 4 | Relue |
 | Énergie | Jean-Luc Mélenchon | 0 | 996 | 12 | 4 | Relue |
 | Énergie | François Ruffin | 24 | 1090 | 9 | 4 | Relue |
-| Énergie | Fabien Roussel | 248 | 248 | 4 | 2 | Non relue |
+| Énergie | Fabien Roussel | 248 | 1056 | 15 | 4 | Relue |
 | Énergie | Marine Tondelier | 11 | 1128 | 11 | 4 | Relue |
 | Énergie | Raphaël Glucksmann | 91 | 1110 | 10 | 4 | Relue |
 | Énergie | Gabriel Attal | 111 | 1079 | 15 | 4 | Relue |
@@ -207,7 +207,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Transports | Jean-Luc Mélenchon | 0 | 1015 | 10 | 3 | Relue |
 | Transports | François Ruffin | 13 | 1088 | 12 | 4 | Relue |
 | Transports | Fabien Roussel | 4 | 965 | 8 | 3 | Relue |
-| Transports | Marine Tondelier | 218 | 218 | 3 | 1 | Non relue |
+| Transports | Marine Tondelier | 218 | 945 | 9 | 4 | Relue |
 | Transports | Raphaël Glucksmann | 104 | 1025 | 10 | 3 | Relue |
 | Transports | Gabriel Attal | 528 | 528 | 6 | 2 | Non relue |
 | Transports | Édouard Philippe | 6 | 980 | 14 | 3 | Relue |

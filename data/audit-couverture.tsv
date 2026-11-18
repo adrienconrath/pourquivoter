@@ -178,9 +178,9 @@ droits|le-pen|0|1161|16|15|4|1|controle_qualitatif|relue
 droits|zemmour|0|1131|17|14|5|2|controle_qualitatif|relue
 climat|melenchon|0|1035|14|12|3|2|controle_qualitatif|relue
 climat|ruffin|115|1098|15|11|3|2|controle_qualitatif|relue
-climat|roussel|98|1042|17|13|4|3|controle_qualitatif|relue
+climat|roussel|98|1077|18|14|4|3|controle_qualitatif|relue
 climat|tondelier|108|1071|17|16|4|3|controle_qualitatif|relue
-climat|glucksmann|209|209|7|4|2|2|insuffisant|non
+climat|glucksmann|209|1089|17|11|3|3|controle_qualitatif|relue
 climat|attal|10|1180|15|21|4|2|controle_qualitatif|relue
 climat|philippe|21|801|11|8|3|2|controle_qualitatif|relue
 climat|lisnard|17|974|13|11|4|2|controle_qualitatif|relue
@@ -189,7 +189,7 @@ climat|le-pen|49|1108|14|15|4|2|controle_qualitatif|relue
 climat|zemmour|0|1013|13|9|4|1|controle_qualitatif|relue
 energie|melenchon|0|996|14|12|4|3|controle_qualitatif|relue
 energie|ruffin|24|1090|14|9|4|3|controle_qualitatif|relue
-energie|roussel|248|248|8|4|2|2|insuffisant|non
+energie|roussel|248|1056|16|15|4|4|controle_qualitatif|relue
 energie|tondelier|11|1128|15|11|4|2|controle_qualitatif|relue
 energie|glucksmann|91|1110|17|10|4|3|controle_qualitatif|relue
 energie|attal|111|1079|17|15|4|2|controle_qualitatif|relue
@@ -201,7 +201,7 @@ energie|zemmour|24|1069|15|13|5|3|controle_qualitatif|relue
 transports|melenchon|0|1015|12|10|3|2|controle_qualitatif|relue
 transports|ruffin|13|1088|16|12|4|3|controle_qualitatif|relue
 transports|roussel|4|965|13|8|3|2|controle_qualitatif|relue
-transports|tondelier|218|218|5|3|1|1|insuffisant|non
+transports|tondelier|218|945|13|9|4|2|controle_qualitatif|relue
 transports|glucksmann|104|1025|15|10|3|2|controle_qualitatif|relue
 transports|attal|528|528|11|6|2|2|a_approfondir|non
 transports|philippe|6|980|13|14|3|2|controle_qualitatif|relue
