@@ -76,7 +76,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | École et jeunesse | François Ruffin | 16 | 973 | 8 | 5 | Relue |
 | École et jeunesse | Fabien Roussel | 153 | 153 | 3 | 1 | Non relue |
 | École et jeunesse | Marine Tondelier | 12 | 992 | 10 | 3 | Relue |
-| École et jeunesse | Raphaël Glucksmann | 58 | 58 | 3 | 0 | Non relue |
+| École et jeunesse | Raphaël Glucksmann | 58 | 1006 | 12 | 4 | Relue |
 | École et jeunesse | Gabriel Attal | 151 | 151 | 4 | 1 | Non relue |
 | École et jeunesse | Édouard Philippe | 116 | 116 | 1 | 0 | Non relue |
 | École et jeunesse | David Lisnard | 182 | 182 | 4 | 2 | Non relue |
@@ -262,7 +262,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Culture et médias | Jean-Luc Mélenchon | 0 | 1062 | 14 | 4 | Relue |
 | Culture et médias | François Ruffin | 24 | 852 | 9 | 4 | Relue |
 | Culture et médias | Fabien Roussel | 0 | 1053 | 12 | 3 | Relue |
-| Culture et médias | Marine Tondelier | 58 | 58 | 2 | 0 | Non relue |
+| Culture et médias | Marine Tondelier | 58 | 928 | 9 | 4 | Relue |
 | Culture et médias | Raphaël Glucksmann | 94 | 94 | 3 | 1 | Non relue |
 | Culture et médias | Gabriel Attal | 0 | 1109 | 13 | 4 | Relue |
 | Culture et médias | Édouard Philippe | 0 | 1035 | 13 | 4 | Relue |
