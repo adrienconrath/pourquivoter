@@ -131,7 +131,7 @@ justice|retailleau|86|86|3|1|1|1|insuffisant|non
 justice|le-pen|0|0|0|0|0|0|vide|non
 justice|zemmour|179|179|5|5|4|0|insuffisant|non
 institutions|ruffin|47|47|2|3|0|0|insuffisant|non
-institutions|roussel|0|0|0|0|0|0|vide|non
+institutions|roussel|0|941|14|10|4|1|controle_qualitatif|relue
 institutions|tondelier|40|40|2|2|0|0|insuffisant|non
 institutions|glucksmann|13|13|1|1|0|0|insuffisant|non
 institutions|attal|15|15|1|1|0|0|insuffisant|non
@@ -171,7 +171,7 @@ energie|retailleau|54|54|2|1|0|0|insuffisant|non
 energie|le-pen|46|46|2|3|0|0|insuffisant|non
 energie|zemmour|24|24|1|1|0|0|insuffisant|non
 transports|ruffin|13|13|1|2|0|0|insuffisant|non
-transports|roussel|4|4|1|1|0|0|insuffisant|non
+transports|roussel|4|965|13|8|3|2|controle_qualitatif|relue
 transports|tondelier|218|218|5|3|1|1|insuffisant|non
 transports|glucksmann|104|104|3|2|1|0|insuffisant|non
 transports|attal|528|528|11|6|2|2|a_approfondir|non
@@ -183,7 +183,7 @@ transports|zemmour|0|0|0|0|0|0|vide|non
 agriculture|ruffin|50|50|2|3|0|0|insuffisant|non
 agriculture|roussel|0|1093|15|11|3|1|controle_qualitatif|relue
 agriculture|tondelier|77|77|3|1|0|1|insuffisant|non
-agriculture|glucksmann|0|0|0|0|0|0|vide|non
+agriculture|glucksmann|0|918|15|11|3|1|controle_qualitatif|relue
 agriculture|attal|43|43|2|2|0|0|insuffisant|non
 agriculture|philippe|26|26|1|1|0|0|insuffisant|non
 agriculture|lisnard|42|42|2|2|0|0|insuffisant|non
@@ -224,7 +224,7 @@ culture|ruffin|24|24|1|2|0|0|insuffisant|non
 culture|roussel|0|0|0|0|0|0|vide|non
 culture|tondelier|58|58|3|2|0|1|insuffisant|non
 culture|glucksmann|94|94|3|3|1|0|insuffisant|non
-culture|attal|0|0|0|0|0|0|vide|non
+culture|attal|0|1109|14|13|4|2|controle_qualitatif|relue
 culture|philippe|0|0|0|0|0|0|vide|non
 culture|lisnard|0|926|13|12|4|3|controle_qualitatif|relue
 culture|retailleau|0|0|0|0|0|0|vide|non

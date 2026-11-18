@@ -54,7 +54,7 @@ report = [
     "[le journal](../data/recherches.tsv). Les cases initialement vides ou de moins de "
     "600 mots restent repérables dans la colonne « Avant » après leur réécriture.",
     "",
-    "| Thème | Personnalité | Mots avant | Mots actuels | Sources | Critiques | Relecture |",
+    "| Thème | Personnalité | Mots avant | Mots actuels | Sources | Paragraphes critiques | Relecture |",
     "| --- | --- | ---: | ---: | ---: | ---: | --- |",
 ]
 for line in lines[2:]:

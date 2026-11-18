@@ -4,7 +4,7 @@ Les mots comptent uniquement le texte éditorial, sans les titres des sources. M
 
 Les détails des recherches et les inconnues sont consignés dans [le journal](../data/recherches.tsv). Les cases initialement vides ou de moins de 600 mots restent repérables dans la colonne « Avant » après leur réécriture.
 
-| Thème | Personnalité | Mots avant | Mots actuels | Sources | Critiques | Relecture |
+| Thème | Personnalité | Mots avant | Mots actuels | Sources | Paragraphes critiques | Relecture |
 | --- | --- | ---: | ---: | ---: | ---: | --- |
 | Dette et déficit | François Ruffin | 175 | 175 | 3 | 2 | Non relue |
 | Dette et déficit | Fabien Roussel | 17 | 17 | 1 | 0 | Non relue |
@@ -137,7 +137,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Justice | Marine Le Pen | 0 | 0 | 0 | 0 | Non relue |
 | Justice | Éric Zemmour | 179 | 179 | 5 | 4 | Non relue |
 | Institutions et démocratie | François Ruffin | 47 | 47 | 3 | 0 | Non relue |
-| Institutions et démocratie | Fabien Roussel | 0 | 0 | 0 | 0 | Non relue |
+| Institutions et démocratie | Fabien Roussel | 0 | 941 | 10 | 4 | Relue |
 | Institutions et démocratie | Marine Tondelier | 40 | 40 | 2 | 0 | Non relue |
 | Institutions et démocratie | Raphaël Glucksmann | 13 | 13 | 1 | 0 | Non relue |
 | Institutions et démocratie | Gabriel Attal | 15 | 15 | 1 | 0 | Non relue |
@@ -177,7 +177,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Énergie | Marine Le Pen | 46 | 46 | 3 | 0 | Non relue |
 | Énergie | Éric Zemmour | 24 | 24 | 1 | 0 | Non relue |
 | Transports | François Ruffin | 13 | 13 | 2 | 0 | Non relue |
-| Transports | Fabien Roussel | 4 | 4 | 1 | 0 | Non relue |
+| Transports | Fabien Roussel | 4 | 965 | 8 | 3 | Relue |
 | Transports | Marine Tondelier | 218 | 218 | 3 | 1 | Non relue |
 | Transports | Raphaël Glucksmann | 104 | 104 | 2 | 1 | Non relue |
 | Transports | Gabriel Attal | 528 | 528 | 6 | 2 | Non relue |
@@ -189,7 +189,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Agriculture et alimentation | François Ruffin | 50 | 50 | 3 | 0 | Non relue |
 | Agriculture et alimentation | Fabien Roussel | 0 | 1093 | 11 | 3 | Relue |
 | Agriculture et alimentation | Marine Tondelier | 77 | 77 | 1 | 0 | Non relue |
-| Agriculture et alimentation | Raphaël Glucksmann | 0 | 0 | 0 | 0 | Non relue |
+| Agriculture et alimentation | Raphaël Glucksmann | 0 | 918 | 11 | 3 | Relue |
 | Agriculture et alimentation | Gabriel Attal | 43 | 43 | 2 | 0 | Non relue |
 | Agriculture et alimentation | Édouard Philippe | 26 | 26 | 1 | 0 | Non relue |
 | Agriculture et alimentation | David Lisnard | 42 | 42 | 2 | 0 | Non relue |
@@ -230,7 +230,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Culture et médias | Fabien Roussel | 0 | 0 | 0 | 0 | Non relue |
 | Culture et médias | Marine Tondelier | 58 | 58 | 2 | 0 | Non relue |
 | Culture et médias | Raphaël Glucksmann | 94 | 94 | 3 | 1 | Non relue |
-| Culture et médias | Gabriel Attal | 0 | 0 | 0 | 0 | Non relue |
+| Culture et médias | Gabriel Attal | 0 | 1109 | 13 | 4 | Relue |
 | Culture et médias | Édouard Philippe | 0 | 0 | 0 | 0 | Non relue |
 | Culture et médias | David Lisnard | 0 | 926 | 12 | 4 | Relue |
 | Culture et médias | Bruno Retailleau | 0 | 0 | 0 | 0 | Non relue |
