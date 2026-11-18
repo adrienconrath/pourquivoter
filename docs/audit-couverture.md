@@ -170,7 +170,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Égalité et droits | David Lisnard | 0 | 970 | 10 | 3 | Relue |
 | Égalité et droits | Bruno Retailleau | 0 | 1136 | 13 | 3 | Relue |
 | Égalité et droits | Marine Le Pen | 0 | 1161 | 15 | 4 | Relue |
-| Égalité et droits | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
+| Égalité et droits | Éric Zemmour | 0 | 1131 | 14 | 5 | Relue |
 | Climat et adaptation | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | Climat et adaptation | François Ruffin | 115 | 115 | 2 | 0 | Non relue |
 | Climat et adaptation | Fabien Roussel | 98 | 98 | 3 | 0 | Non relue |
@@ -181,7 +181,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Climat et adaptation | David Lisnard | 17 | 17 | 1 | 0 | Non relue |
 | Climat et adaptation | Bruno Retailleau | 59 | 59 | 2 | 1 | Non relue |
 | Climat et adaptation | Marine Le Pen | 49 | 49 | 2 | 0 | Non relue |
-| Climat et adaptation | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
+| Climat et adaptation | Éric Zemmour | 0 | 1013 | 9 | 4 | Relue |
 | Énergie | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | Énergie | François Ruffin | 24 | 24 | 1 | 0 | Non relue |
 | Énergie | Fabien Roussel | 248 | 248 | 4 | 2 | Non relue |
@@ -201,7 +201,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Transports | Gabriel Attal | 528 | 528 | 6 | 2 | Non relue |
 | Transports | Édouard Philippe | 6 | 6 | 1 | 0 | Non relue |
 | Transports | David Lisnard | 15 | 15 | 1 | 0 | Non relue |
-| Transports | Bruno Retailleau | 0 | 0 | 0 | 0 | Non relue |
+| Transports | Bruno Retailleau | 0 | 1046 | 12 | 3 | Relue |
 | Transports | Marine Le Pen | 0 | 0 | 0 | 0 | Non relue |
 | Transports | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
 | Agriculture et alimentation | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |

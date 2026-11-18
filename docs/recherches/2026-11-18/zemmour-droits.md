@@ -1,0 +1,44 @@
+Couple droits|zemmour. Recherche du 18 novembre 2026. 17 blocs, environ 1130 mots de texte. Aucun fichier suivi modifié.
+
+Lectures préalables : /tmp/pqv-audit/agent-brief.md ; .agents/skills/actualiser-pour-qui-voter/SKILL.md ; lignes sources et positions existantes. Case vide. Lecture ciblée du programme 2022 déjà téléchargé sous /tmp/pqv-audit/zem-dette-2022.txt : p. 46 famille/PMA/GPA/sexe-genre, p.49 handicap, p.58-59 femmes ; la pagination imprimée est à relire sur PDF pour chaque ancrage si ajout en titre. Le texte handicap confirme expressément 15 000 places adultes et 50 000 AESH, leur formation et extension supérieur. Source canonique réutilisée zem-def-prog22. Ne pas convertir ces mesures en programme2027.
+
+Requêtes web réellement exécutées (familles, formulations exactes ou proches) :
+- Éric Zemmour femmes handicap PMA GPA programme 2022 égalité droits
+- Zemmour 2026 femmes handicap LGBT laïcité
+- Zemmour 2026 PMA GPA transgenre femmes handicap interview
+- Zemmour voile kippa 17 septembre 2026 BFMTV
+- Zemmour femmes égalité salariale 7 mars 2022 LCI bracelet violences
+- Zemmour handicap 15000 places déconjugaliser allocation 2022 coût
+- Zemmour PMA 2022 homosexuels mariage Têtu programme
+- Zemmour voile 2026 interdiction kippa Conseil constitutionnel critique
+- Zemmour handicap 2022 APF déconjugalisation 15000 places
+- site.lessurligneurs.eu Zemmour voile espace public
+- Zemmour femmes violences conjugales associations 2022 critique bracelet
+- Zemmour 2024 2025 IVG constitution droit avortement
+- site.echr.coe.int GPA reconnaissance filiation intérêt enfant France2019 avis
+- site:pourquijevote.com/transcripts « Zemmour face aux voix »
+- site:lessurligneurs.eu Zemmour kippa laïcité voile
+
+URL effectivement ouvertes/lues et contrôles :
+https://pourquijevote.com/transcripts : index ouvert. Recherche remontée à la transcription https://pourquijevote.com/transcripts/3974b537-d92a-49a4-9697-10e789c954d9 réellement ouverte, ainsi qu’au texte préalable identique /tmp/pqv-audit/zem-dette-internet.txt. Source déjà présente sous zem-fisc-pqv, réutilisée. La version https://pourquijevote.com/transcripts/90194773-4a8a-47d4-bbf5-66a0a0986a5a contient un décalage d’introduction (GPA à2:17:57 contre2:05:40), ne pas mélanger leurs minutages. Retenu uniquement3974 et ses heures. GPA à2:05:40–2:06:24 : question de Félicité/Marchepourlavie puis réponse personnelle de Zemmour, appelant à non-reconnaissance dans la loi, puis prohibition mondiale difficile. « Cet enfant » est son propre propos, et non une synthèse IA. Ne pas transformer en projet complet de refus de toute filiation, précision législative absente. Laïcité à1:56:51–1:59:02. Féminisme/natalité autre passage1:16:11–1:18:22, non retenu dans la fiche faute place et sans reprendre son interprétation de Beauvoir comme fait établi. Fin de vie1:31:58 et suivantes, laissée au thème santé/famille pour éviter doublon.
+https://dixipolis.com/presidentielle-2027 : index effectivement ouvert.
+https://dixipolis.com/video/225941 : tentative répétée, erreur d’accès ; aucun contenu prétendument lu sur cette page. Pourquijevote utilisé effectivement en remplacement pour cet échange.
+https://dixipolis.com/video/226252 : réellement ouvert, transcription générale du12novembre2026, attribution aux intervenants vérifiée avec /tmp/pqv-docs/dixi-oral.txt :3:17:39 question journaliste AESH ;3:17:42–3:18:37 réponse personnelle. Ne pas écrire que Zemmour annonce supprimer les AESH : ce passage ne le prouve pas. Ne pas attribuer à Zemmour les longs développements Mélenchon sur AESH vers la fin de ce Grand oral.
+https://www.ericzemmour.fr/priorites : effectivement lu ; préférence nationale prestations non contributives ; pas de chapitre exhaustif droits/femmes/handicap. Source existante zem-sec-priorites réutilisée.
+https://www.ericzemmour.fr/discours-femmes-avec-zemmour : date8mars2022 constatée malgré habillage du site2026. Discours primaire, opposition égalité/indifférenciation et « moindre violence » pour bracelet. Aucun propos privé ni accusation personnelle intégré comme mesure.
+https://www.dailymotion.com/video/xb952z6 : compte BFMTV, texte intégral1:38 lu. Kippa0:54–1:00, priorité policière1:01–1:12, croix0:10–0:17. Question du journaliste et réponse distinguées. Date17septembre recoupée avec compte rendu https://www.ladepeche.nc/2026/09/18/zemmour-je-serai-candidat (lu). Ce dernier contient une incohérence de chiffrage carburant hors de ce thème, non repris.
+https://lessurligneurs.eu/la-laicite-est-elle-vraiment-synonyme-de-discretion-dans-lespace-public-comme-le-dit-eric-zemmour/ : article entier ouvert ;27mars2025, Guillaume Baticle, relecture Benelbaz/Markus. Objection juridique documentée aux proposBFM20mars2025 et mécanisme général, pas une décision de justice surseptembre2026.
+https://hudoc.echr.coe.int/app/conversion/pdf?filename=Avis+consultatif+P16-2018-001.pdf&id=003-6380680-8364777&library=ECHR : communiqué PDF4pages lu. Avis10avril2019. Cas mère d’intention/père biologique déjà reconnu ; pas d’obligation de transcription, adoption possible, refus absolu incompatible avec intérêt enfant. Ce n’est ni légalisation obligatoire GPA ni réponse directement adressée au candidat.
+https://www.courdecassation.fr/toutes-les-actualites/2024/10/02/communique-gpa-controle-du-juge-sur-lapplication-en-france-des : résultat moteur intéressant mais ouverture n’a rendu qu’un bloc JS, non retenu.
+https://www.leparisien.fr/politique/eric-zemmour-toujours-oppose-au-mariage-pour-tous-23-04-2023-AXIHJA7V25GKXOSYKLNEHJMYGM.php : paragraphe réel lu, opposition idéologique maintenue ; abrogation dite pas prioritaire. Ne pas inventer promesse2027 d’annulation des mariages.
+https://tetu.com/2022/03/23/election-presidentielle-2022-podcast-president-iel-lgbt-spotify-invite-candidat-eric-zemmour-billet-critique/ : billet NicolasScheffer23mars2022 effectivement lu, passages verbatim du podcast et distinction des interlocutrices. Opinion attribuée, aucune statistique médicale ou causalité antisémitisme/islam reprise comme fait.
+https://madame.lefigaro.fr/societe/actu/presidentielle-2022-les-promesses-d-eric-zemmour-pour-les-femmes-20220404 : articleLéaMabilon lu, lignes294–334 environ ; égalité salaire principe sans détails, congé parental, réversion, permanences avocats, bracelets pour condamnés. Ne pas recopier son association erronée rubriqueGPA/PMA. Ne pas reprendre sa présentation d’un index parité sans recoupement du programme. L’article dit parfois simplement « hostile à la PMA » : préciser périmètre femmesseules/couplesfemmes.
+https://www.dailymotion.com/video/x8trs24 : GrandJury RTL3mars2024,46:42–48:12 lus. « Je n’aurais pas voté » (question sur inscriptionIVG), loi nonmenacée, Constitutionorganisationpouvoirs. À47:32 le déremboursement est une relance citant MARIONMARÉCHAL ; réponse47:40 « Ce n’était pas dans mon programme ». Pas d’invention d’un vote parlementaire de Zemmour.
+https://www.leparisien.fr/elections/presidentielle/presidentielle-eric-zemmour-vante-lecole-du-passe-et-suscite-la-polemique-sur-les-enfants-handicapes-15-01-2022-JQUK4LQW6JAUTATHN5TPSGJ24A.php : articleAFP15janvier2022 lu intégralement en passages203–226 : objectionsAbad/Cluzel et clarificationpasserelles personnalisées. Ne pas garder seule la polémique initiale en supprimant réponse.
+https://questions.assemblee-nationale.fr/dyn/opendata/RAPPANR5L17B0468-tIII-a43.html : rapportPerrineGoulet pourPLF2025 lu, sectionII.A.2 ; déconjugalisationeffective1octobre2023, coût280M2024/300M2025 (estimationsdu rapport), conservationanciencalculsi perdant. Pas coût additionnelZemmour2027.
+https://www.tf1info.fr/politique/2022-les-propositions-face-aux-francaises-2212365.html : résultat moteur et tentative ouverture403 ; pas retenu comme fondement.
+https://assets.nationbuilder.com/themes/61c071ce4764e8b1483d1a8c/attachments/original/1647354531/ez_programme%202022-final5.pdf?1647354531= : tentative outilweb échoue document13Mo ; lecture texte déjà téléchargé pour le programme, sourceexistante.
+
+Contrôles : toutes les lignespositions possèdent6champs. Toutesles références nouvelles URLHTTPS et doublonURL3974 retiré au profit de zem-fisc-pqv. Respect synthèse<200mots/document hors données éditoriales ; pas de contenuLeMonde retenu. Au moins3 objections identifiées : Surligneurs, CEDHrepèrejuridique, Têtuopinion, Abad/Cluzelcontradictionpolitique, journalisteAESH. Pas de réponseinventéeauxavisjuridiques.
+
+Limites exactes : absence de texte législatif2027 sur refus reconnaissanceGPA, absence de reconduction vérifiée des50kAESH/15kplaces, allocationshandicapétrangers exceptions et transition indéfinies, budget2027 dédié femmes/handicap/hébergement nonétabli. Ancien budgetAah déjàréalisé distingué du financementnouveau. Recherches horsprogramme variées n’autorisent pas à dire qu’il ne s’est jamais exprimé. Aucun élément privé ni condamnation horspropospolitiques intégrés.
