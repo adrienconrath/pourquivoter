@@ -200,7 +200,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Énergie | Raphaël Glucksmann | 91 | 91 | 1 | 0 | Non relue |
 | Énergie | Gabriel Attal | 111 | 111 | 2 | 1 | Non relue |
 | Énergie | Édouard Philippe | 13 | 905 | 11 | 4 | Relue |
-| Énergie | David Lisnard | 29 | 29 | 1 | 0 | Non relue |
+| Énergie | David Lisnard | 29 | 1109 | 13 | 5 | Relue |
 | Énergie | Bruno Retailleau | 54 | 54 | 1 | 0 | Non relue |
 | Énergie | Marine Le Pen | 46 | 46 | 3 | 0 | Non relue |
 | Énergie | Éric Zemmour | 24 | 1069 | 13 | 5 | Relue |
@@ -277,7 +277,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Numérique et IA | Raphaël Glucksmann | 53 | 53 | 2 | 0 | Non relue |
 | Numérique et IA | Gabriel Attal | 79 | 79 | 3 | 0 | Non relue |
 | Numérique et IA | Édouard Philippe | 47 | 47 | 2 | 0 | Non relue |
-| Numérique et IA | David Lisnard | 29 | 29 | 2 | 0 | Non relue |
+| Numérique et IA | David Lisnard | 29 | 1025 | 10 | 4 | Relue |
 | Numérique et IA | Bruno Retailleau | 26 | 1051 | 17 | 3 | Relue |
 | Numérique et IA | Marine Le Pen | 0 | 856 | 10 | 4 | Relue |
 | Numérique et IA | Éric Zemmour | 0 | 1082 | 9 | 4 | Relue |
