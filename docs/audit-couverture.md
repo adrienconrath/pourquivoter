@@ -119,7 +119,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Fonction publique | Jean-Luc Mélenchon | 0 | 1088 | 11 | 4 | Relue |
 | Fonction publique | François Ruffin | 41 | 1069 | 11 | 4 | Relue |
 | Fonction publique | Fabien Roussel | 119 | 119 | 3 | 1 | Non relue |
-| Fonction publique | Marine Tondelier | 86 | 86 | 2 | 1 | Non relue |
+| Fonction publique | Marine Tondelier | 86 | 891 | 8 | 3 | Relue |
 | Fonction publique | Raphaël Glucksmann | 147 | 147 | 4 | 1 | Non relue |
 | Fonction publique | Gabriel Attal | 123 | 123 | 5 | 2 | Non relue |
 | Fonction publique | Édouard Philippe | 118 | 118 | 2 | 1 | Non relue |
@@ -232,7 +232,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Territoires et outre-mer | Marine Tondelier | 19 | 951 | 8 | 3 | Relue |
 | Territoires et outre-mer | Raphaël Glucksmann | 0 | 968 | 9 | 4 | Relue |
 | Territoires et outre-mer | Gabriel Attal | 47 | 1182 | 17 | 4 | Relue |
-| Territoires et outre-mer | Édouard Philippe | 85 | 85 | 3 | 0 | Non relue |
+| Territoires et outre-mer | Édouard Philippe | 85 | 1131 | 12 | 4 | Relue |
 | Territoires et outre-mer | David Lisnard | 37 | 898 | 10 | 4 | Relue |
 | Territoires et outre-mer | Bruno Retailleau | 0 | 1099 | 12 | 3 | Relue |
 | Territoires et outre-mer | Marine Le Pen | 0 | 1062 | 11 | 3 | Relue |
