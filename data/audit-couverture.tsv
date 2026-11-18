@@ -91,7 +91,7 @@ enfance|zemmour|0|1152|15|13|5|2|controle_qualitatif|relue
 sante|melenchon|0|1126|14|11|3|3|controle_qualitatif|relue
 sante|ruffin|60|60|2|1|0|1|insuffisant|non
 sante|roussel|54|54|2|3|0|0|insuffisant|non
-sante|tondelier|53|53|2|1|0|0|insuffisant|non
+sante|tondelier|53|1081|18|10|3|5|controle_qualitatif|relue
 sante|glucksmann|30|931|13|8|3|3|controle_qualitatif|relue
 sante|attal|16|1098|16|15|4|4|controle_qualitatif|relue
 sante|philippe|35|1029|12|9|4|2|controle_qualitatif|relue
@@ -123,7 +123,7 @@ services|le-pen|74|74|2|2|1|0|insuffisant|non
 services|zemmour|97|97|3|3|1|0|insuffisant|non
 immigration|melenchon|0|1117|13|13|4|1|controle_qualitatif|relue
 immigration|ruffin|182|182|5|4|3|0|insuffisant|non
-immigration|roussel|53|53|2|1|0|0|insuffisant|non
+immigration|roussel|53|917|12|8|4|1|controle_qualitatif|relue
 immigration|tondelier|52|1009|15|11|3|2|controle_qualitatif|relue
 immigration|glucksmann|65|65|2|4|0|0|insuffisant|non
 immigration|attal|121|121|4|2|1|0|insuffisant|non

@@ -97,7 +97,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Santé et accès aux soins | Jean-Luc Mélenchon | 0 | 1126 | 11 | 3 | Relue |
 | Santé et accès aux soins | François Ruffin | 60 | 60 | 1 | 0 | Non relue |
 | Santé et accès aux soins | Fabien Roussel | 54 | 54 | 3 | 0 | Non relue |
-| Santé et accès aux soins | Marine Tondelier | 53 | 53 | 1 | 0 | Non relue |
+| Santé et accès aux soins | Marine Tondelier | 53 | 1081 | 10 | 3 | Relue |
 | Santé et accès aux soins | Raphaël Glucksmann | 30 | 931 | 8 | 3 | Relue |
 | Santé et accès aux soins | Gabriel Attal | 16 | 1098 | 15 | 4 | Relue |
 | Santé et accès aux soins | Édouard Philippe | 35 | 1029 | 9 | 4 | Relue |
@@ -129,7 +129,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Fonction publique | Éric Zemmour | 97 | 97 | 3 | 1 | Non relue |
 | Immigration et asile | Jean-Luc Mélenchon | 0 | 1117 | 13 | 4 | Relue |
 | Immigration et asile | François Ruffin | 182 | 182 | 4 | 3 | Non relue |
-| Immigration et asile | Fabien Roussel | 53 | 53 | 1 | 0 | Non relue |
+| Immigration et asile | Fabien Roussel | 53 | 917 | 8 | 4 | Relue |
 | Immigration et asile | Marine Tondelier | 52 | 1009 | 11 | 3 | Relue |
 | Immigration et asile | Raphaël Glucksmann | 65 | 65 | 4 | 0 | Non relue |
 | Immigration et asile | Gabriel Attal | 121 | 121 | 2 | 1 | Non relue |
