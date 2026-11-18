@@ -171,7 +171,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Institutions et démocratie | Bruno Retailleau | 51 | 51 | 1 | 0 | Non relue |
 | Institutions et démocratie | Marine Le Pen | 20 | 20 | 2 | 0 | Non relue |
 | Institutions et démocratie | Éric Zemmour | 0 | 1055 | 11 | 4 | Relue |
-| Égalité et droits | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
+| Égalité et droits | Jean-Luc Mélenchon | 0 | 962 | 12 | 4 | Relue |
 | Égalité et droits | François Ruffin | 20 | 20 | 1 | 0 | Non relue |
 | Égalité et droits | Fabien Roussel | 21 | 21 | 1 | 0 | Non relue |
 | Égalité et droits | Marine Tondelier | 16 | 16 | 1 | 0 | Non relue |
