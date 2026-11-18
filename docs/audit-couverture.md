@@ -242,7 +242,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Europe | Fabien Roussel | 915 | 912 | 21 | 4 | Non relue |
 | Europe | Marine Tondelier | 950 | 950 | 20 | 4 | Non relue |
 | Europe | Raphaël Glucksmann | 995 | 995 | 21 | 4 | Non relue |
-| Europe | Gabriel Attal | 885 | 885 | 12 | 4 | Non relue |
+| Europe | Gabriel Attal | 885 | 1003 | 12 | 5 | Relue |
 | Europe | Édouard Philippe | 983 | 983 | 22 | 4 | Non relue |
 | Europe | David Lisnard | 789 | 789 | 19 | 3 | Non relue |
 | Europe | Bruno Retailleau | 829 | 829 | 23 | 3 | Non relue |
