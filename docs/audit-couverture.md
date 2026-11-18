@@ -49,7 +49,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Impôts et patrimoine | David Lisnard | 952 | 1078 | 17 | 4 | Relue |
 | Impôts et patrimoine | Bruno Retailleau | 845 | 1105 | 15 | 5 | Relue |
 | Impôts et patrimoine | Marine Le Pen | 1016 | 1116 | 14 | 5 | Relue |
-| Impôts et patrimoine | Éric Zemmour | 925 | 925 | 19 | 3 | Non relue |
+| Impôts et patrimoine | Éric Zemmour | 925 | 1038 | 14 | 5 | Relue |
 | Travail et salaires | Jean-Luc Mélenchon | 0 | 1012 | 11 | 3 | Relue |
 | Travail et salaires | François Ruffin | 98 | 1065 | 12 | 3 | Relue |
 | Travail et salaires | Fabien Roussel | 72 | 947 | 10 | 3 | Relue |
@@ -243,7 +243,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Europe | Marine Tondelier | 950 | 950 | 20 | 4 | Non relue |
 | Europe | Raphaël Glucksmann | 995 | 995 | 21 | 4 | Non relue |
 | Europe | Gabriel Attal | 885 | 1003 | 12 | 5 | Relue |
-| Europe | Édouard Philippe | 983 | 983 | 22 | 4 | Non relue |
+| Europe | Édouard Philippe | 983 | 1057 | 14 | 3 | Relue |
 | Europe | David Lisnard | 789 | 789 | 19 | 3 | Non relue |
 | Europe | Bruno Retailleau | 829 | 829 | 23 | 3 | Non relue |
 | Europe | Marine Le Pen | 944 | 944 | 26 | 4 | Non relue |
