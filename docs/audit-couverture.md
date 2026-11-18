@@ -194,7 +194,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Climat et adaptation | Marine Le Pen | 49 | 49 | 2 | 0 | Non relue |
 | Climat et adaptation | Éric Zemmour | 0 | 1013 | 9 | 4 | Relue |
 | Énergie | Jean-Luc Mélenchon | 0 | 996 | 12 | 4 | Relue |
-| Énergie | François Ruffin | 24 | 24 | 1 | 0 | Non relue |
+| Énergie | François Ruffin | 24 | 1090 | 9 | 4 | Relue |
 | Énergie | Fabien Roussel | 248 | 248 | 4 | 2 | Non relue |
 | Énergie | Marine Tondelier | 11 | 1128 | 11 | 4 | Relue |
 | Énergie | Raphaël Glucksmann | 91 | 91 | 1 | 0 | Non relue |
