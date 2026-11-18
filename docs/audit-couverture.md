@@ -70,7 +70,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Industrie et entreprises | Édouard Philippe | 90 | 977 | 10 | 3 | Relue |
 | Industrie et entreprises | David Lisnard | 22 | 1080 | 12 | 4 | Relue |
 | Industrie et entreprises | Bruno Retailleau | 16 | 1194 | 20 | 3 | Relue |
-| Industrie et entreprises | Marine Le Pen | 93 | 93 | 3 | 1 | Non relue |
+| Industrie et entreprises | Marine Le Pen | 93 | 1044 | 10 | 3 | Relue |
 | Industrie et entreprises | Éric Zemmour | 0 | 945 | 9 | 4 | Relue |
 | École et jeunesse | Jean-Luc Mélenchon | 0 | 950 | 7 | 4 | Relue |
 | École et jeunesse | François Ruffin | 16 | 973 | 8 | 5 | Relue |
@@ -197,7 +197,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Énergie | François Ruffin | 24 | 1090 | 9 | 4 | Relue |
 | Énergie | Fabien Roussel | 248 | 248 | 4 | 2 | Non relue |
 | Énergie | Marine Tondelier | 11 | 1128 | 11 | 4 | Relue |
-| Énergie | Raphaël Glucksmann | 91 | 91 | 1 | 0 | Non relue |
+| Énergie | Raphaël Glucksmann | 91 | 1110 | 10 | 4 | Relue |
 | Énergie | Gabriel Attal | 111 | 111 | 2 | 1 | Non relue |
 | Énergie | Édouard Philippe | 13 | 905 | 11 | 4 | Relue |
 | Énergie | David Lisnard | 29 | 1109 | 13 | 5 | Relue |
