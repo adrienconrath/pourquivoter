@@ -57,7 +57,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Travail et salaires | Raphaël Glucksmann | 33 | 33 | 2 | 0 | Non relue |
 | Travail et salaires | Gabriel Attal | 97 | 97 | 2 | 1 | Non relue |
 | Travail et salaires | Édouard Philippe | 46 | 46 | 2 | 0 | Non relue |
-| Travail et salaires | David Lisnard | 18 | 18 | 1 | 0 | Non relue |
+| Travail et salaires | David Lisnard | 18 | 1091 | 14 | 4 | Relue |
 | Travail et salaires | Bruno Retailleau | 39 | 39 | 1 | 0 | Non relue |
 | Travail et salaires | Marine Le Pen | 140 | 140 | 1 | 1 | Non relue |
 | Travail et salaires | Éric Zemmour | 12 | 1103 | 11 | 5 | Relue |
