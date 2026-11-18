@@ -85,9 +85,9 @@ enfance|glucksmann|0|820|12|7|3|2|controle_qualitatif|relue
 enfance|attal|0|1019|12|19|4|1|controle_qualitatif|relue
 enfance|philippe|0|926|14|9|4|2|controle_qualitatif|relue
 enfance|lisnard|0|1021|13|11|3|3|controle_qualitatif|relue
-enfance|retailleau|0|0|0|0|0|0|vide|non
+enfance|retailleau|0|979|13|13|3|1|controle_qualitatif|relue
 enfance|le-pen|0|955|12|8|3|1|controle_qualitatif|relue
-enfance|zemmour|0|0|0|0|0|0|vide|non
+enfance|zemmour|0|1013|13|11|4|2|controle_qualitatif|relue
 sante|melenchon|0|1126|14|11|3|3|controle_qualitatif|relue
 sante|ruffin|60|60|2|1|0|1|insuffisant|non
 sante|roussel|54|54|2|3|0|0|insuffisant|non
@@ -207,7 +207,7 @@ transports|attal|528|528|11|6|2|2|a_approfondir|non
 transports|philippe|6|6|1|1|0|0|insuffisant|non
 transports|lisnard|15|15|1|1|0|0|insuffisant|non
 transports|retailleau|0|1046|15|12|3|2|controle_qualitatif|relue
-transports|le-pen|0|0|0|0|0|0|vide|non
+transports|le-pen|0|1040|15|13|4|1|controle_qualitatif|relue
 transports|zemmour|0|0|0|0|0|0|vide|non
 agriculture|melenchon|0|1107|16|15|5|2|controle_qualitatif|relue
 agriculture|ruffin|50|50|2|3|0|0|insuffisant|non
@@ -264,7 +264,7 @@ culture|lisnard|0|926|13|12|4|3|controle_qualitatif|relue
 culture|retailleau|0|864|12|10|4|2|controle_qualitatif|relue
 culture|le-pen|57|57|2|1|1|0|insuffisant|non
 culture|zemmour|45|45|2|1|0|1|insuffisant|non
-numerique|melenchon|0|0|0|0|0|0|vide|non
+numerique|melenchon|0|1084|17|11|3|1|controle_qualitatif|relue
 numerique|ruffin|40|40|2|2|0|0|insuffisant|non
 numerique|roussel|0|851|13|12|4|1|controle_qualitatif|relue
 numerique|tondelier|35|35|1|2|0|0|insuffisant|non

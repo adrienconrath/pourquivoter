@@ -91,9 +91,9 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Protection de l’enfance | Gabriel Attal | 0 | 1019 | 19 | 4 | Relue |
 | Protection de l’enfance | Édouard Philippe | 0 | 926 | 9 | 4 | Relue |
 | Protection de l’enfance | David Lisnard | 0 | 1021 | 11 | 3 | Relue |
-| Protection de l’enfance | Bruno Retailleau | 0 | 0 | 0 | 0 | Non relue |
+| Protection de l’enfance | Bruno Retailleau | 0 | 979 | 13 | 3 | Relue |
 | Protection de l’enfance | Marine Le Pen | 0 | 955 | 8 | 3 | Relue |
-| Protection de l’enfance | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
+| Protection de l’enfance | Éric Zemmour | 0 | 1013 | 11 | 4 | Relue |
 | Santé et accès aux soins | Jean-Luc Mélenchon | 0 | 1126 | 11 | 3 | Relue |
 | Santé et accès aux soins | François Ruffin | 60 | 60 | 1 | 0 | Non relue |
 | Santé et accès aux soins | Fabien Roussel | 54 | 54 | 3 | 0 | Non relue |
@@ -213,7 +213,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Transports | Édouard Philippe | 6 | 6 | 1 | 0 | Non relue |
 | Transports | David Lisnard | 15 | 15 | 1 | 0 | Non relue |
 | Transports | Bruno Retailleau | 0 | 1046 | 12 | 3 | Relue |
-| Transports | Marine Le Pen | 0 | 0 | 0 | 0 | Non relue |
+| Transports | Marine Le Pen | 0 | 1040 | 13 | 4 | Relue |
 | Transports | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
 | Agriculture et alimentation | Jean-Luc Mélenchon | 0 | 1107 | 15 | 5 | Relue |
 | Agriculture et alimentation | François Ruffin | 50 | 50 | 3 | 0 | Non relue |
@@ -270,7 +270,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Culture et médias | Bruno Retailleau | 0 | 864 | 10 | 4 | Relue |
 | Culture et médias | Marine Le Pen | 57 | 57 | 1 | 1 | Non relue |
 | Culture et médias | Éric Zemmour | 45 | 45 | 1 | 0 | Non relue |
-| Numérique et IA | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
+| Numérique et IA | Jean-Luc Mélenchon | 0 | 1084 | 11 | 3 | Relue |
 | Numérique et IA | François Ruffin | 40 | 40 | 2 | 0 | Non relue |
 | Numérique et IA | Fabien Roussel | 0 | 851 | 12 | 4 | Relue |
 | Numérique et IA | Marine Tondelier | 35 | 35 | 2 | 0 | Non relue |
