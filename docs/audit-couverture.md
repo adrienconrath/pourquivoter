@@ -6,7 +6,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 
 | Thème | Personnalité | Mots avant | Mots actuels | Sources | Paragraphes critiques | Relecture |
 | --- | --- | ---: | ---: | ---: | ---: | --- |
-| Dette et déficit | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
+| Dette et déficit | Jean-Luc Mélenchon | 0 | 984 | 11 | 3 | Relue |
 | Dette et déficit | François Ruffin | 175 | 962 | 12 | 5 | Relue |
 | Dette et déficit | Fabien Roussel | 17 | 1034 | 15 | 5 | Relue |
 | Dette et déficit | Marine Tondelier | 17 | 1034 | 10 | 4 | Relue |
