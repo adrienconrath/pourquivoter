@@ -5,7 +5,7 @@ dette|ruffin|175|962|15|12|5|6|controle_qualitatif|relue
 dette|roussel|17|1034|13|15|5|3|controle_qualitatif|relue
 dette|tondelier|17|1034|14|10|4|3|controle_qualitatif|relue
 dette|glucksmann|858|858|10|17|3|3|controle_qualitatif|non
-dette|attal|849|849|11|25|3|2|controle_qualitatif|non
+dette|attal|849|1054|15|18|5|4|controle_qualitatif|relue
 dette|philippe|233|1145|15|11|4|3|controle_qualitatif|relue
 dette|lisnard|200|1070|13|10|4|2|controle_qualitatif|relue
 dette|retailleau|290|1091|15|13|5|2|controle_qualitatif|relue
@@ -107,7 +107,7 @@ logement|glucksmann|46|999|15|9|4|3|controle_qualitatif|relue
 logement|attal|154|1057|17|15|5|1|controle_qualitatif|relue
 logement|philippe|40|982|13|9|4|1|controle_qualitatif|relue
 logement|lisnard|171|989|20|16|3|1|controle_qualitatif|relue
-logement|retailleau|256|256|8|4|2|1|a_approfondir|non
+logement|retailleau|256|1142|18|25|4|4|controle_qualitatif|relue
 logement|le-pen|154|1000|17|11|4|3|controle_qualitatif|relue
 logement|zemmour|61|1083|14|11|4|3|controle_qualitatif|relue
 services|melenchon|0|1088|14|11|4|2|controle_qualitatif|relue

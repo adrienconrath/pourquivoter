@@ -11,7 +11,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Dette et déficit | Fabien Roussel | 17 | 1034 | 15 | 5 | Relue |
 | Dette et déficit | Marine Tondelier | 17 | 1034 | 10 | 4 | Relue |
 | Dette et déficit | Raphaël Glucksmann | 858 | 858 | 17 | 3 | Non relue |
-| Dette et déficit | Gabriel Attal | 849 | 849 | 25 | 3 | Non relue |
+| Dette et déficit | Gabriel Attal | 849 | 1054 | 18 | 5 | Relue |
 | Dette et déficit | Édouard Philippe | 233 | 1145 | 11 | 4 | Relue |
 | Dette et déficit | David Lisnard | 200 | 1070 | 10 | 4 | Relue |
 | Dette et déficit | Bruno Retailleau | 290 | 1091 | 13 | 5 | Relue |
@@ -113,7 +113,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Logement | Gabriel Attal | 154 | 1057 | 15 | 5 | Relue |
 | Logement | Édouard Philippe | 40 | 982 | 9 | 4 | Relue |
 | Logement | David Lisnard | 171 | 989 | 16 | 3 | Relue |
-| Logement | Bruno Retailleau | 256 | 256 | 4 | 2 | Non relue |
+| Logement | Bruno Retailleau | 256 | 1142 | 25 | 4 | Relue |
 | Logement | Marine Le Pen | 154 | 1000 | 11 | 4 | Relue |
 | Logement | Éric Zemmour | 61 | 1083 | 11 | 4 | Relue |
 | Fonction publique | Jean-Luc Mélenchon | 0 | 1088 | 11 | 4 | Relue |
