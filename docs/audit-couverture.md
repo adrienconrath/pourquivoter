@@ -127,17 +127,17 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Fonction publique | Bruno Retailleau | 122 | 1031 | 14 | 4 | Relue |
 | Fonction publique | Marine Le Pen | 74 | 948 | 12 | 4 | Relue |
 | Fonction publique | Éric Zemmour | 97 | 1026 | 12 | 6 | Relue |
-| Immigration et asile | Jean-Luc Mélenchon | 0 | 1117 | 13 | 4 | Relue |
-| Immigration et asile | François Ruffin | 182 | 1010 | 10 | 4 | Relue |
-| Immigration et asile | Fabien Roussel | 53 | 917 | 8 | 4 | Relue |
-| Immigration et asile | Marine Tondelier | 52 | 1009 | 11 | 3 | Relue |
-| Immigration et asile | Raphaël Glucksmann | 65 | 1017 | 12 | 3 | Relue |
-| Immigration et asile | Gabriel Attal | 121 | 973 | 10 | 4 | Relue |
-| Immigration et asile | Édouard Philippe | 179 | 981 | 9 | 4 | Relue |
-| Immigration et asile | David Lisnard | 49 | 1061 | 13 | 5 | Relue |
-| Immigration et asile | Bruno Retailleau | 119 | 1113 | 18 | 4 | Relue |
-| Immigration et asile | Marine Le Pen | 157 | 1099 | 12 | 5 | Relue |
-| Immigration et asile | Éric Zemmour | 90 | 995 | 11 | 4 | Relue |
+| Immigration et asile | Jean-Luc Mélenchon | 0 | 823 | 14 | 4 | Relue |
+| Immigration et asile | François Ruffin | 182 | 762 | 11 | 4 | Relue |
+| Immigration et asile | Fabien Roussel | 53 | 634 | 9 | 4 | Relue |
+| Immigration et asile | Marine Tondelier | 52 | 769 | 12 | 3 | Relue |
+| Immigration et asile | Raphaël Glucksmann | 65 | 773 | 13 | 3 | Relue |
+| Immigration et asile | Gabriel Attal | 121 | 705 | 11 | 4 | Relue |
+| Immigration et asile | Édouard Philippe | 179 | 786 | 11 | 4 | Relue |
+| Immigration et asile | David Lisnard | 49 | 785 | 14 | 5 | Relue |
+| Immigration et asile | Bruno Retailleau | 119 | 880 | 19 | 4 | Relue |
+| Immigration et asile | Marine Le Pen | 157 | 906 | 13 | 5 | Relue |
+| Immigration et asile | Éric Zemmour | 90 | 810 | 12 | 4 | Relue |
 | Sécurité | Jean-Luc Mélenchon | 0 | 1106 | 12 | 3 | Relue |
 | Sécurité | François Ruffin | 109 | 1014 | 9 | 5 | Relue |
 | Sécurité | Fabien Roussel | 137 | 850 | 7 | 3 | Relue |
