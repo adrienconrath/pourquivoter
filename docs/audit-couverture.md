@@ -79,7 +79,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | École et jeunesse | Raphaël Glucksmann | 58 | 1006 | 12 | 4 | Relue |
 | École et jeunesse | Gabriel Attal | 151 | 957 | 23 | 3 | Relue |
 | École et jeunesse | Édouard Philippe | 116 | 927 | 10 | 4 | Relue |
-| École et jeunesse | David Lisnard | 182 | 182 | 4 | 2 | Non relue |
+| École et jeunesse | David Lisnard | 182 | 989 | 13 | 3 | Relue |
 | École et jeunesse | Bruno Retailleau | 68 | 1038 | 14 | 4 | Relue |
 | École et jeunesse | Marine Le Pen | 51 | 1103 | 10 | 3 | Relue |
 | École et jeunesse | Éric Zemmour | 21 | 991 | 10 | 6 | Relue |
