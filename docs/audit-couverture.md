@@ -73,7 +73,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Industrie et entreprises | Marine Le Pen | 93 | 93 | 3 | 1 | Non relue |
 | Industrie et entreprises | Éric Zemmour | 0 | 945 | 9 | 4 | Relue |
 | École et jeunesse | Jean-Luc Mélenchon | 0 | 950 | 7 | 4 | Relue |
-| École et jeunesse | François Ruffin | 16 | 16 | 1 | 0 | Non relue |
+| École et jeunesse | François Ruffin | 16 | 973 | 8 | 5 | Relue |
 | École et jeunesse | Fabien Roussel | 153 | 153 | 3 | 1 | Non relue |
 | École et jeunesse | Marine Tondelier | 12 | 992 | 10 | 3 | Relue |
 | École et jeunesse | Raphaël Glucksmann | 58 | 58 | 3 | 0 | Non relue |
@@ -189,7 +189,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Climat et adaptation | Raphaël Glucksmann | 209 | 209 | 4 | 2 | Non relue |
 | Climat et adaptation | Gabriel Attal | 10 | 1180 | 21 | 4 | Relue |
 | Climat et adaptation | Édouard Philippe | 21 | 21 | 1 | 0 | Non relue |
-| Climat et adaptation | David Lisnard | 17 | 17 | 1 | 0 | Non relue |
+| Climat et adaptation | David Lisnard | 17 | 974 | 11 | 4 | Relue |
 | Climat et adaptation | Bruno Retailleau | 59 | 59 | 2 | 1 | Non relue |
 | Climat et adaptation | Marine Le Pen | 49 | 49 | 2 | 0 | Non relue |
 | Climat et adaptation | Éric Zemmour | 0 | 1013 | 9 | 4 | Relue |
