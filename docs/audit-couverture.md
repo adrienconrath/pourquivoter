@@ -75,7 +75,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | École et jeunesse | Jean-Luc Mélenchon | 0 | 950 | 7 | 4 | Relue |
 | École et jeunesse | François Ruffin | 16 | 16 | 1 | 0 | Non relue |
 | École et jeunesse | Fabien Roussel | 153 | 153 | 3 | 1 | Non relue |
-| École et jeunesse | Marine Tondelier | 12 | 12 | 1 | 0 | Non relue |
+| École et jeunesse | Marine Tondelier | 12 | 992 | 10 | 3 | Relue |
 | École et jeunesse | Raphaël Glucksmann | 58 | 58 | 3 | 0 | Non relue |
 | École et jeunesse | Gabriel Attal | 151 | 151 | 4 | 1 | Non relue |
 | École et jeunesse | Édouard Philippe | 116 | 116 | 1 | 0 | Non relue |
