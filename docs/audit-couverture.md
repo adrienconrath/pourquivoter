@@ -95,7 +95,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Protection de l’enfance | Marine Le Pen | 0 | 955 | 8 | 3 | Relue |
 | Protection de l’enfance | Éric Zemmour | 0 | 1152 | 13 | 5 | Relue |
 | Santé et accès aux soins | Jean-Luc Mélenchon | 0 | 1126 | 11 | 3 | Relue |
-| Santé et accès aux soins | François Ruffin | 60 | 60 | 1 | 0 | Non relue |
+| Santé et accès aux soins | François Ruffin | 60 | 955 | 10 | 4 | Relue |
 | Santé et accès aux soins | Fabien Roussel | 54 | 1075 | 13 | 3 | Relue |
 | Santé et accès aux soins | Marine Tondelier | 53 | 1081 | 10 | 3 | Relue |
 | Santé et accès aux soins | Raphaël Glucksmann | 30 | 931 | 8 | 3 | Relue |
@@ -115,7 +115,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Logement | David Lisnard | 171 | 171 | 2 | 2 | Non relue |
 | Logement | Bruno Retailleau | 256 | 256 | 4 | 2 | Non relue |
 | Logement | Marine Le Pen | 154 | 154 | 2 | 3 | Non relue |
-| Logement | Éric Zemmour | 61 | 61 | 2 | 1 | Non relue |
+| Logement | Éric Zemmour | 61 | 1083 | 11 | 4 | Relue |
 | Fonction publique | Jean-Luc Mélenchon | 0 | 1088 | 11 | 4 | Relue |
 | Fonction publique | François Ruffin | 41 | 1069 | 11 | 4 | Relue |
 | Fonction publique | Fabien Roussel | 119 | 119 | 3 | 1 | Non relue |
