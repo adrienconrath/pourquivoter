@@ -96,7 +96,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Protection de l’enfance | Éric Zemmour | 0 | 1152 | 13 | 5 | Relue |
 | Santé et accès aux soins | Jean-Luc Mélenchon | 0 | 1126 | 11 | 3 | Relue |
 | Santé et accès aux soins | François Ruffin | 60 | 60 | 1 | 0 | Non relue |
-| Santé et accès aux soins | Fabien Roussel | 54 | 54 | 3 | 0 | Non relue |
+| Santé et accès aux soins | Fabien Roussel | 54 | 1075 | 13 | 3 | Relue |
 | Santé et accès aux soins | Marine Tondelier | 53 | 1081 | 10 | 3 | Relue |
 | Santé et accès aux soins | Raphaël Glucksmann | 30 | 931 | 8 | 3 | Relue |
 | Santé et accès aux soins | Gabriel Attal | 16 | 1098 | 15 | 4 | Relue |
@@ -201,7 +201,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Énergie | Gabriel Attal | 111 | 111 | 2 | 1 | Non relue |
 | Énergie | Édouard Philippe | 13 | 905 | 11 | 4 | Relue |
 | Énergie | David Lisnard | 29 | 1109 | 13 | 5 | Relue |
-| Énergie | Bruno Retailleau | 54 | 54 | 1 | 0 | Non relue |
+| Énergie | Bruno Retailleau | 54 | 1153 | 15 | 4 | Relue |
 | Énergie | Marine Le Pen | 46 | 1136 | 12 | 3 | Relue |
 | Énergie | Éric Zemmour | 24 | 1069 | 13 | 5 | Relue |
 | Transports | Jean-Luc Mélenchon | 0 | 1015 | 10 | 3 | Relue |

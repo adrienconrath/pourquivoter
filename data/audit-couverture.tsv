@@ -90,7 +90,7 @@ enfance|le-pen|0|955|12|8|3|1|controle_qualitatif|relue
 enfance|zemmour|0|1152|15|13|5|2|controle_qualitatif|relue
 sante|melenchon|0|1126|14|11|3|3|controle_qualitatif|relue
 sante|ruffin|60|60|2|1|0|1|insuffisant|non
-sante|roussel|54|54|2|3|0|0|insuffisant|non
+sante|roussel|54|1075|13|13|3|2|controle_qualitatif|relue
 sante|tondelier|53|1081|18|10|3|5|controle_qualitatif|relue
 sante|glucksmann|30|931|13|8|3|3|controle_qualitatif|relue
 sante|attal|16|1098|16|15|4|4|controle_qualitatif|relue
@@ -195,7 +195,7 @@ energie|glucksmann|91|91|4|1|0|1|insuffisant|non
 energie|attal|111|111|4|2|1|0|insuffisant|non
 energie|philippe|13|905|13|11|4|3|controle_qualitatif|relue
 energie|lisnard|29|1109|14|13|5|2|controle_qualitatif|relue
-energie|retailleau|54|54|2|1|0|0|insuffisant|non
+energie|retailleau|54|1153|16|15|4|1|controle_qualitatif|relue
 energie|le-pen|46|1136|14|12|3|4|controle_qualitatif|relue
 energie|zemmour|24|1069|15|13|5|3|controle_qualitatif|relue
 transports|melenchon|0|1015|12|10|3|2|controle_qualitatif|relue
