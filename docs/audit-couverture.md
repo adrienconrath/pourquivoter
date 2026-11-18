@@ -173,7 +173,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Institutions et démocratie | Éric Zemmour | 0 | 1055 | 11 | 4 | Relue |
 | Égalité et droits | Jean-Luc Mélenchon | 0 | 962 | 12 | 4 | Relue |
 | Égalité et droits | François Ruffin | 20 | 1076 | 13 | 5 | Relue |
-| Égalité et droits | Fabien Roussel | 21 | 21 | 1 | 0 | Non relue |
+| Égalité et droits | Fabien Roussel | 21 | 1016 | 16 | 3 | Relue |
 | Égalité et droits | Marine Tondelier | 16 | 972 | 11 | 4 | Relue |
 | Égalité et droits | Raphaël Glucksmann | 49 | 49 | 3 | 0 | Non relue |
 | Égalité et droits | Gabriel Attal | 12 | 1077 | 17 | 4 | Relue |
