@@ -208,7 +208,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Transports | François Ruffin | 13 | 1088 | 12 | 4 | Relue |
 | Transports | Fabien Roussel | 4 | 965 | 8 | 3 | Relue |
 | Transports | Marine Tondelier | 218 | 218 | 3 | 1 | Non relue |
-| Transports | Raphaël Glucksmann | 104 | 104 | 2 | 1 | Non relue |
+| Transports | Raphaël Glucksmann | 104 | 1025 | 10 | 3 | Relue |
 | Transports | Gabriel Attal | 528 | 528 | 6 | 2 | Non relue |
 | Transports | Édouard Philippe | 6 | 980 | 14 | 3 | Relue |
 | Transports | David Lisnard | 15 | 898 | 10 | 3 | Relue |
