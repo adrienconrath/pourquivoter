@@ -47,8 +47,8 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Impôts et patrimoine | Gabriel Attal | 1000 | 1092 | 21 | 5 | Relue |
 | Impôts et patrimoine | Édouard Philippe | 916 | 1090 | 17 | 5 | Relue |
 | Impôts et patrimoine | David Lisnard | 952 | 952 | 23 | 4 | Non relue |
-| Impôts et patrimoine | Bruno Retailleau | 845 | 845 | 19 | 3 | Non relue |
-| Impôts et patrimoine | Marine Le Pen | 1016 | 1016 | 15 | 4 | Non relue |
+| Impôts et patrimoine | Bruno Retailleau | 845 | 1105 | 15 | 5 | Relue |
+| Impôts et patrimoine | Marine Le Pen | 1016 | 1116 | 14 | 5 | Relue |
 | Impôts et patrimoine | Éric Zemmour | 925 | 925 | 19 | 3 | Non relue |
 | Travail et salaires | Jean-Luc Mélenchon | 0 | 1012 | 11 | 3 | Relue |
 | Travail et salaires | François Ruffin | 98 | 1065 | 12 | 3 | Relue |
