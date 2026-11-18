@@ -55,7 +55,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Travail et salaires | Fabien Roussel | 72 | 985 | 11 | 3 | Relue |
 | Travail et salaires | Marine Tondelier | 145 | 1055 | 10 | 4 | Relue |
 | Travail et salaires | Raphaël Glucksmann | 33 | 967 | 11 | 5 | Relue |
-| Travail et salaires | Gabriel Attal | 97 | 1095 | 17 | 4 | Relue |
+| Travail et salaires | Gabriel Attal | 97 | 1089 | 17 | 4 | Relue |
 | Travail et salaires | Édouard Philippe | 46 | 943 | 11 | 6 | Relue |
 | Travail et salaires | David Lisnard | 18 | 1122 | 15 | 4 | Relue |
 | Travail et salaires | Bruno Retailleau | 39 | 1139 | 12 | 3 | Relue |
@@ -72,17 +72,17 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Industrie et entreprises | Bruno Retailleau | 16 | 1194 | 20 | 3 | Relue |
 | Industrie et entreprises | Marine Le Pen | 93 | 1044 | 10 | 3 | Relue |
 | Industrie et entreprises | Éric Zemmour | 0 | 945 | 9 | 4 | Relue |
-| École et jeunesse | Jean-Luc Mélenchon | 0 | 950 | 7 | 4 | Relue |
-| École et jeunesse | François Ruffin | 16 | 973 | 8 | 5 | Relue |
-| École et jeunesse | Fabien Roussel | 153 | 1047 | 14 | 5 | Relue |
-| École et jeunesse | Marine Tondelier | 12 | 992 | 10 | 3 | Relue |
-| École et jeunesse | Raphaël Glucksmann | 58 | 1006 | 12 | 4 | Relue |
-| École et jeunesse | Gabriel Attal | 151 | 957 | 23 | 3 | Relue |
-| École et jeunesse | Édouard Philippe | 116 | 927 | 10 | 4 | Relue |
-| École et jeunesse | David Lisnard | 182 | 989 | 13 | 3 | Relue |
-| École et jeunesse | Bruno Retailleau | 68 | 1038 | 14 | 4 | Relue |
-| École et jeunesse | Marine Le Pen | 51 | 1103 | 10 | 3 | Relue |
-| École et jeunesse | Éric Zemmour | 21 | 991 | 10 | 6 | Relue |
+| École et jeunesse | Jean-Luc Mélenchon | 0 | 891 | 9 | 5 | Relue |
+| École et jeunesse | François Ruffin | 16 | 824 | 9 | 5 | Relue |
+| École et jeunesse | Fabien Roussel | 153 | 902 | 15 | 5 | Relue |
+| École et jeunesse | Marine Tondelier | 12 | 837 | 11 | 3 | Relue |
+| École et jeunesse | Raphaël Glucksmann | 58 | 899 | 14 | 4 | Relue |
+| École et jeunesse | Gabriel Attal | 151 | 896 | 24 | 3 | Relue |
+| École et jeunesse | Édouard Philippe | 116 | 802 | 11 | 4 | Relue |
+| École et jeunesse | David Lisnard | 182 | 915 | 14 | 3 | Relue |
+| École et jeunesse | Bruno Retailleau | 68 | 912 | 15 | 4 | Relue |
+| École et jeunesse | Marine Le Pen | 51 | 855 | 11 | 3 | Relue |
+| École et jeunesse | Éric Zemmour | 21 | 847 | 11 | 6 | Relue |
 | Protection de l’enfance | Jean-Luc Mélenchon | 0 | 956 | 15 | 3 | Relue |
 | Protection de l’enfance | François Ruffin | 0 | 917 | 12 | 3 | Relue |
 | Protection de l’enfance | Fabien Roussel | 0 | 832 | 8 | 3 | Relue |

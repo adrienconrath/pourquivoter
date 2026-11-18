@@ -150,8 +150,11 @@ def comparison(theme, people, entries):
         if fields:
             summary = fields.get("resume", fields.get("orientation", []))
             intro = "".join(claim(record["text"], record["refs"]) for record in summary)
-            measures = [record for field in ("mesure", "orientation", "explication")
-                        for record in fields.get(field, [])]
+            measures = sorted(
+                (record for field in ("orientation", "mesure", "explication")
+                 for record in fields.get(field, [])),
+                key=lambda record: record["sequence"],
+            )
             details = (
                 position_field("mesure", "Mesures", measures)
                 + position_field("financement", "Financement", fields.get("financement", []))
@@ -215,7 +218,8 @@ def validate():
     entries = defaultdict(lambda: defaultdict(list))
     seen = set()
     valid_fields = {"resume", *(field for field, _ in POSITION_FIELDS)}
-    for record in rows("positions", "theme person field kind refs text"):
+    for sequence, record in enumerate(rows("positions", "theme person field kind refs text")):
+        record["sequence"] = sequence
         theme, key, field = (record[name] for name in ("theme", "person", "field"))
         pair = theme, key
         claim_key = (theme, key, field, record["text"])
