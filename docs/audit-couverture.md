@@ -280,4 +280,4 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Numérique et IA | David Lisnard | 29 | 29 | 2 | 0 | Non relue |
 | Numérique et IA | Bruno Retailleau | 26 | 26 | 2 | 0 | Non relue |
 | Numérique et IA | Marine Le Pen | 0 | 856 | 10 | 4 | Relue |
-| Numérique et IA | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
+| Numérique et IA | Éric Zemmour | 0 | 1082 | 9 | 4 | Relue |
