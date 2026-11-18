@@ -133,7 +133,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Immigration et asile | Marine Tondelier | 52 | 1009 | 11 | 3 | Relue |
 | Immigration et asile | Raphaël Glucksmann | 65 | 1017 | 12 | 3 | Relue |
 | Immigration et asile | Gabriel Attal | 121 | 973 | 10 | 4 | Relue |
-| Immigration et asile | Édouard Philippe | 179 | 179 | 3 | 2 | Non relue |
+| Immigration et asile | Édouard Philippe | 179 | 981 | 9 | 4 | Relue |
 | Immigration et asile | David Lisnard | 49 | 1061 | 13 | 5 | Relue |
 | Immigration et asile | Bruno Retailleau | 119 | 1113 | 18 | 4 | Relue |
 | Immigration et asile | Marine Le Pen | 157 | 1099 | 12 | 5 | Relue |
