@@ -83,17 +83,17 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | École et jeunesse | Bruno Retailleau | 68 | 912 | 15 | 4 | Relue |
 | École et jeunesse | Marine Le Pen | 51 | 855 | 11 | 3 | Relue |
 | École et jeunesse | Éric Zemmour | 21 | 847 | 11 | 6 | Relue |
-| Protection de l’enfance | Jean-Luc Mélenchon | 0 | 956 | 15 | 3 | Relue |
-| Protection de l’enfance | François Ruffin | 0 | 917 | 12 | 3 | Relue |
-| Protection de l’enfance | Fabien Roussel | 0 | 832 | 8 | 3 | Relue |
-| Protection de l’enfance | Marine Tondelier | 0 | 967 | 10 | 4 | Relue |
-| Protection de l’enfance | Raphaël Glucksmann | 0 | 820 | 7 | 3 | Relue |
-| Protection de l’enfance | Gabriel Attal | 0 | 1019 | 19 | 4 | Relue |
-| Protection de l’enfance | Édouard Philippe | 0 | 926 | 9 | 4 | Relue |
-| Protection de l’enfance | David Lisnard | 0 | 1021 | 11 | 3 | Relue |
-| Protection de l’enfance | Bruno Retailleau | 0 | 979 | 13 | 3 | Relue |
-| Protection de l’enfance | Marine Le Pen | 0 | 955 | 8 | 3 | Relue |
-| Protection de l’enfance | Éric Zemmour | 0 | 1152 | 13 | 5 | Relue |
+| Protection de l’enfance | Jean-Luc Mélenchon | 0 | 886 | 16 | 3 | Relue |
+| Protection de l’enfance | François Ruffin | 0 | 820 | 13 | 3 | Relue |
+| Protection de l’enfance | Fabien Roussel | 0 | 712 | 9 | 3 | Relue |
+| Protection de l’enfance | Marine Tondelier | 0 | 857 | 11 | 4 | Relue |
+| Protection de l’enfance | Raphaël Glucksmann | 0 | 632 | 8 | 3 | Relue |
+| Protection de l’enfance | Gabriel Attal | 0 | 828 | 20 | 4 | Relue |
+| Protection de l’enfance | Édouard Philippe | 0 | 859 | 10 | 4 | Relue |
+| Protection de l’enfance | David Lisnard | 0 | 864 | 12 | 3 | Relue |
+| Protection de l’enfance | Bruno Retailleau | 0 | 818 | 14 | 3 | Relue |
+| Protection de l’enfance | Marine Le Pen | 0 | 800 | 9 | 3 | Relue |
+| Protection de l’enfance | Éric Zemmour | 0 | 918 | 14 | 5 | Relue |
 | Santé et accès aux soins | Jean-Luc Mélenchon | 0 | 1126 | 11 | 3 | Relue |
 | Santé et accès aux soins | François Ruffin | 60 | 955 | 10 | 4 | Relue |
 | Santé et accès aux soins | Fabien Roussel | 54 | 1075 | 13 | 3 | Relue |
