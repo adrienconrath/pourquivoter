@@ -109,7 +109,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Logement | François Ruffin | 178 | 178 | 4 | 1 | Non relue |
 | Logement | Fabien Roussel | 130 | 130 | 2 | 1 | Non relue |
 | Logement | Marine Tondelier | 12 | 1092 | 13 | 4 | Relue |
-| Logement | Raphaël Glucksmann | 46 | 46 | 3 | 0 | Non relue |
+| Logement | Raphaël Glucksmann | 46 | 999 | 9 | 4 | Relue |
 | Logement | Gabriel Attal | 154 | 154 | 2 | 0 | Non relue |
 | Logement | Édouard Philippe | 40 | 982 | 9 | 4 | Relue |
 | Logement | David Lisnard | 171 | 171 | 2 | 2 | Non relue |
@@ -161,7 +161,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Justice | Marine Le Pen | 0 | 1130 | 12 | 3 | Relue |
 | Justice | Éric Zemmour | 179 | 179 | 5 | 4 | Non relue |
 | Institutions et démocratie | Jean-Luc Mélenchon | 0 | 1101 | 14 | 6 | Relue |
-| Institutions et démocratie | François Ruffin | 47 | 47 | 3 | 0 | Non relue |
+| Institutions et démocratie | François Ruffin | 47 | 1042 | 8 | 4 | Relue |
 | Institutions et démocratie | Fabien Roussel | 0 | 941 | 10 | 4 | Relue |
 | Institutions et démocratie | Marine Tondelier | 40 | 857 | 9 | 3 | Relue |
 | Institutions et démocratie | Raphaël Glucksmann | 13 | 1029 | 10 | 3 | Relue |
@@ -202,7 +202,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Énergie | Édouard Philippe | 13 | 905 | 11 | 4 | Relue |
 | Énergie | David Lisnard | 29 | 1109 | 13 | 5 | Relue |
 | Énergie | Bruno Retailleau | 54 | 54 | 1 | 0 | Non relue |
-| Énergie | Marine Le Pen | 46 | 46 | 3 | 0 | Non relue |
+| Énergie | Marine Le Pen | 46 | 1136 | 12 | 3 | Relue |
 | Énergie | Éric Zemmour | 24 | 1069 | 13 | 5 | Relue |
 | Transports | Jean-Luc Mélenchon | 0 | 1015 | 10 | 3 | Relue |
 | Transports | François Ruffin | 13 | 1088 | 12 | 4 | Relue |

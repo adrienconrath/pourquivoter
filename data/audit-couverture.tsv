@@ -103,7 +103,7 @@ logement|melenchon|0|1034|13|11|3|4|controle_qualitatif|relue
 logement|ruffin|178|178|6|4|1|2|insuffisant|non
 logement|roussel|130|130|5|2|1|1|insuffisant|non
 logement|tondelier|12|1092|14|13|4|2|controle_qualitatif|relue
-logement|glucksmann|46|46|2|3|0|0|insuffisant|non
+logement|glucksmann|46|999|15|9|4|3|controle_qualitatif|relue
 logement|attal|154|154|5|2|0|1|insuffisant|non
 logement|philippe|40|982|13|9|4|1|controle_qualitatif|relue
 logement|lisnard|171|171|4|2|2|0|insuffisant|non
@@ -155,7 +155,7 @@ justice|retailleau|86|86|3|1|1|1|insuffisant|non
 justice|le-pen|0|1130|14|12|3|2|controle_qualitatif|relue
 justice|zemmour|179|179|5|5|4|0|insuffisant|non
 institutions|melenchon|0|1101|16|14|6|1|controle_qualitatif|relue
-institutions|ruffin|47|47|2|3|0|0|insuffisant|non
+institutions|ruffin|47|1042|14|8|4|2|controle_qualitatif|relue
 institutions|roussel|0|941|14|10|4|1|controle_qualitatif|relue
 institutions|tondelier|40|857|13|9|3|1|controle_qualitatif|relue
 institutions|glucksmann|13|1029|14|10|3|1|controle_qualitatif|relue
@@ -196,7 +196,7 @@ energie|attal|111|111|4|2|1|0|insuffisant|non
 energie|philippe|13|905|13|11|4|3|controle_qualitatif|relue
 energie|lisnard|29|1109|14|13|5|2|controle_qualitatif|relue
 energie|retailleau|54|54|2|1|0|0|insuffisant|non
-energie|le-pen|46|46|2|3|0|0|insuffisant|non
+energie|le-pen|46|1136|14|12|3|4|controle_qualitatif|relue
 energie|zemmour|24|1069|15|13|5|3|controle_qualitatif|relue
 transports|melenchon|0|1015|12|10|3|2|controle_qualitatif|relue
 transports|ruffin|13|1088|16|12|4|3|controle_qualitatif|relue
