@@ -82,7 +82,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | École et jeunesse | David Lisnard | 182 | 182 | 4 | 2 | Non relue |
 | École et jeunesse | Bruno Retailleau | 68 | 68 | 2 | 1 | Non relue |
 | École et jeunesse | Marine Le Pen | 51 | 51 | 2 | 0 | Non relue |
-| École et jeunesse | Éric Zemmour | 21 | 21 | 2 | 0 | Non relue |
+| École et jeunesse | Éric Zemmour | 21 | 991 | 10 | 6 | Relue |
 | Protection de l’enfance | Jean-Luc Mélenchon | 0 | 956 | 15 | 3 | Relue |
 | Protection de l’enfance | François Ruffin | 0 | 917 | 12 | 3 | Relue |
 | Protection de l’enfance | Fabien Roussel | 0 | 832 | 8 | 3 | Relue |
@@ -172,7 +172,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Institutions et démocratie | Marine Le Pen | 20 | 1011 | 12 | 4 | Relue |
 | Institutions et démocratie | Éric Zemmour | 0 | 1055 | 11 | 4 | Relue |
 | Égalité et droits | Jean-Luc Mélenchon | 0 | 962 | 12 | 4 | Relue |
-| Égalité et droits | François Ruffin | 20 | 20 | 1 | 0 | Non relue |
+| Égalité et droits | François Ruffin | 20 | 1076 | 13 | 5 | Relue |
 | Égalité et droits | Fabien Roussel | 21 | 21 | 1 | 0 | Non relue |
 | Égalité et droits | Marine Tondelier | 16 | 972 | 11 | 4 | Relue |
 | Égalité et droits | Raphaël Glucksmann | 49 | 49 | 3 | 0 | Non relue |
