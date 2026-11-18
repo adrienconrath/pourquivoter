@@ -93,7 +93,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Protection de l’enfance | David Lisnard | 0 | 1021 | 11 | 3 | Relue |
 | Protection de l’enfance | Bruno Retailleau | 0 | 979 | 13 | 3 | Relue |
 | Protection de l’enfance | Marine Le Pen | 0 | 955 | 8 | 3 | Relue |
-| Protection de l’enfance | Éric Zemmour | 0 | 1013 | 11 | 4 | Relue |
+| Protection de l’enfance | Éric Zemmour | 0 | 1152 | 13 | 5 | Relue |
 | Santé et accès aux soins | Jean-Luc Mélenchon | 0 | 1126 | 11 | 3 | Relue |
 | Santé et accès aux soins | François Ruffin | 60 | 60 | 1 | 0 | Non relue |
 | Santé et accès aux soins | Fabien Roussel | 54 | 54 | 3 | 0 | Non relue |
