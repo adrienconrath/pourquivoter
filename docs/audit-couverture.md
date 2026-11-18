@@ -159,7 +159,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Justice | David Lisnard | 117 | 1065 | 14 | 6 | Relue |
 | Justice | Bruno Retailleau | 86 | 1063 | 14 | 4 | Relue |
 | Justice | Marine Le Pen | 0 | 1130 | 12 | 3 | Relue |
-| Justice | Éric Zemmour | 179 | 179 | 5 | 4 | Non relue |
+| Justice | Éric Zemmour | 179 | 1096 | 12 | 7 | Relue |
 | Institutions et démocratie | Jean-Luc Mélenchon | 0 | 1101 | 14 | 6 | Relue |
 | Institutions et démocratie | François Ruffin | 47 | 1042 | 8 | 4 | Relue |
 | Institutions et démocratie | Fabien Roussel | 0 | 941 | 10 | 4 | Relue |
