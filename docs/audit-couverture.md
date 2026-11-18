@@ -66,7 +66,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Industrie et entreprises | Fabien Roussel | 14 | 997 | 9 | 3 | Relue |
 | Industrie et entreprises | Marine Tondelier | 65 | 65 | 1 | 0 | Non relue |
 | Industrie et entreprises | Raphaël Glucksmann | 33 | 33 | 1 | 0 | Non relue |
-| Industrie et entreprises | Gabriel Attal | 15 | 15 | 1 | 0 | Non relue |
+| Industrie et entreprises | Gabriel Attal | 15 | 1076 | 11 | 4 | Relue |
 | Industrie et entreprises | Édouard Philippe | 90 | 90 | 2 | 1 | Non relue |
 | Industrie et entreprises | David Lisnard | 22 | 22 | 3 | 0 | Non relue |
 | Industrie et entreprises | Bruno Retailleau | 16 | 16 | 1 | 0 | Non relue |
@@ -165,7 +165,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Institutions et démocratie | Fabien Roussel | 0 | 941 | 10 | 4 | Relue |
 | Institutions et démocratie | Marine Tondelier | 40 | 40 | 2 | 0 | Non relue |
 | Institutions et démocratie | Raphaël Glucksmann | 13 | 1029 | 10 | 3 | Relue |
-| Institutions et démocratie | Gabriel Attal | 15 | 15 | 1 | 0 | Non relue |
+| Institutions et démocratie | Gabriel Attal | 15 | 1219 | 15 | 4 | Relue |
 | Institutions et démocratie | Édouard Philippe | 14 | 994 | 10 | 4 | Relue |
 | Institutions et démocratie | David Lisnard | 15 | 15 | 2 | 0 | Non relue |
 | Institutions et démocratie | Bruno Retailleau | 51 | 51 | 1 | 0 | Non relue |
