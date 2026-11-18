@@ -62,7 +62,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Travail et salaires | Marine Le Pen | 140 | 140 | 1 | 1 | Non relue |
 | Travail et salaires | Éric Zemmour | 12 | 1103 | 11 | 5 | Relue |
 | Industrie et entreprises | Jean-Luc Mélenchon | 0 | 1151 | 12 | 3 | Relue |
-| Industrie et entreprises | François Ruffin | 45 | 45 | 2 | 0 | Non relue |
+| Industrie et entreprises | François Ruffin | 45 | 1071 | 11 | 3 | Relue |
 | Industrie et entreprises | Fabien Roussel | 14 | 997 | 9 | 3 | Relue |
 | Industrie et entreprises | Marine Tondelier | 65 | 65 | 1 | 0 | Non relue |
 | Industrie et entreprises | Raphaël Glucksmann | 33 | 1009 | 8 | 4 | Relue |
@@ -269,7 +269,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Culture et médias | David Lisnard | 0 | 926 | 12 | 4 | Relue |
 | Culture et médias | Bruno Retailleau | 0 | 864 | 10 | 4 | Relue |
 | Culture et médias | Marine Le Pen | 57 | 57 | 1 | 1 | Non relue |
-| Culture et médias | Éric Zemmour | 45 | 45 | 1 | 0 | Non relue |
+| Culture et médias | Éric Zemmour | 45 | 1002 | 12 | 4 | Relue |
 | Numérique et IA | Jean-Luc Mélenchon | 0 | 1084 | 11 | 3 | Relue |
 | Numérique et IA | François Ruffin | 40 | 973 | 8 | 4 | Relue |
 | Numérique et IA | Fabien Roussel | 0 | 851 | 12 | 4 | Relue |
