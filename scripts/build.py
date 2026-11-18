@@ -234,9 +234,9 @@ def build(snapshot, generated):
         for p in people.values()
     )
     column_headers = "".join(
-        f'<a class="column-header" data-person="{p["id"]}" href="profils/{p["id"]}.html">{portrait(p)}'
+        f'<div class="column-header" data-person="{p["id"]}">{portrait(p)}'
         f'<span class="column-ident"><strong>{escape(p["name"])}</strong>'
-        f'<small>{escape(p["party"])}</small></span></a>'
+        f'<small>{escape(p["party"])}</small></span></div>'
         for p in people.values()
     )
     timeline = "".join(
