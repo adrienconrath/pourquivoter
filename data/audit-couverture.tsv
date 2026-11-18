@@ -117,7 +117,7 @@ securite|glucksmann|18|18|1|1|0|0|insuffisant|non
 securite|attal|27|27|1|2|0|0|insuffisant|non
 securite|philippe|35|35|1|1|0|0|insuffisant|non
 securite|lisnard|17|17|1|1|0|0|insuffisant|non
-securite|retailleau|0|0|0|0|0|0|vide|non
+securite|retailleau|0|1012|14|11|5|2|controle_qualitatif|relue
 securite|le-pen|29|1029|12|14|3|2|controle_qualitatif|relue
 securite|zemmour|13|13|1|1|0|0|insuffisant|non
 justice|ruffin|0|0|0|0|0|0|vide|non
@@ -181,7 +181,7 @@ transports|retailleau|0|0|0|0|0|0|vide|non
 transports|le-pen|0|0|0|0|0|0|vide|non
 transports|zemmour|0|0|0|0|0|0|vide|non
 agriculture|ruffin|50|50|2|3|0|0|insuffisant|non
-agriculture|roussel|0|0|0|0|0|0|vide|non
+agriculture|roussel|0|1093|15|11|3|1|controle_qualitatif|relue
 agriculture|tondelier|77|77|3|1|0|1|insuffisant|non
 agriculture|glucksmann|0|0|0|0|0|0|vide|non
 agriculture|attal|43|43|2|2|0|0|insuffisant|non
@@ -238,5 +238,5 @@ numerique|attal|79|79|3|3|0|1|insuffisant|non
 numerique|philippe|47|47|2|2|0|0|insuffisant|non
 numerique|lisnard|29|29|1|2|0|0|insuffisant|non
 numerique|retailleau|26|26|1|2|0|0|insuffisant|non
-numerique|le-pen|0|0|0|0|0|0|vide|non
+numerique|le-pen|0|856|12|10|4|1|controle_qualitatif|relue
 numerique|zemmour|0|0|0|0|0|0|vide|non
