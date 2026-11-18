@@ -30,7 +30,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Coût de la vie | Éric Zemmour | 119 | 887 | 9 | 3 | Relue |
 | Retraites | Jean-Luc Mélenchon | 0 | 991 | 12 | 4 | Relue |
 | Retraites | François Ruffin | 45 | 1106 | 11 | 4 | Relue |
-| Retraites | Fabien Roussel | 77 | 77 | 1 | 0 | Non relue |
+| Retraites | Fabien Roussel | 77 | 1048 | 11 | 5 | Relue |
 | Retraites | Marine Tondelier | 27 | 1078 | 12 | 5 | Relue |
 | Retraites | Raphaël Glucksmann | 24 | 894 | 9 | 3 | Relue |
 | Retraites | Gabriel Attal | 103 | 103 | 4 | 1 | Non relue |
@@ -218,7 +218,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Agriculture et alimentation | Jean-Luc Mélenchon | 0 | 1107 | 15 | 5 | Relue |
 | Agriculture et alimentation | François Ruffin | 50 | 917 | 9 | 5 | Relue |
 | Agriculture et alimentation | Fabien Roussel | 0 | 1093 | 11 | 3 | Relue |
-| Agriculture et alimentation | Marine Tondelier | 77 | 77 | 1 | 0 | Non relue |
+| Agriculture et alimentation | Marine Tondelier | 77 | 934 | 12 | 4 | Relue |
 | Agriculture et alimentation | Raphaël Glucksmann | 0 | 918 | 11 | 3 | Relue |
 | Agriculture et alimentation | Gabriel Attal | 43 | 1101 | 16 | 6 | Relue |
 | Agriculture et alimentation | Édouard Philippe | 26 | 1076 | 11 | 4 | Relue |
@@ -275,7 +275,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Numérique et IA | Fabien Roussel | 0 | 851 | 12 | 4 | Relue |
 | Numérique et IA | Marine Tondelier | 35 | 851 | 7 | 3 | Relue |
 | Numérique et IA | Raphaël Glucksmann | 53 | 1023 | 10 | 5 | Relue |
-| Numérique et IA | Gabriel Attal | 79 | 79 | 3 | 0 | Non relue |
+| Numérique et IA | Gabriel Attal | 79 | 1092 | 17 | 3 | Relue |
 | Numérique et IA | Édouard Philippe | 47 | 1046 | 10 | 3 | Relue |
 | Numérique et IA | David Lisnard | 29 | 1025 | 10 | 4 | Relue |
 | Numérique et IA | Bruno Retailleau | 26 | 1051 | 17 | 3 | Relue |
