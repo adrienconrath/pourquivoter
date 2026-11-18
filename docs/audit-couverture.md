@@ -247,7 +247,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Europe | David Lisnard | 789 | 1128 | 14 | 4 | Relue |
 | Europe | Bruno Retailleau | 829 | 1095 | 22 | 5 | Relue |
 | Europe | Marine Le Pen | 944 | 1087 | 19 | 5 | Relue |
-| Europe | Éric Zemmour | 832 | 832 | 28 | 3 | Non relue |
+| Europe | Éric Zemmour | 832 | 1046 | 20 | 4 | Relue |
 | Défense et diplomatie | Jean-Luc Mélenchon | 0 | 1142 | 17 | 4 | Relue |
 | Défense et diplomatie | François Ruffin | 0 | 970 | 10 | 3 | Relue |
 | Défense et diplomatie | Fabien Roussel | 18 | 932 | 10 | 3 | Relue |
