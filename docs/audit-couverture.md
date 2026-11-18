@@ -100,7 +100,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Santé et accès aux soins | Marine Tondelier | 53 | 53 | 1 | 0 | Non relue |
 | Santé et accès aux soins | Raphaël Glucksmann | 30 | 931 | 8 | 3 | Relue |
 | Santé et accès aux soins | Gabriel Attal | 16 | 1098 | 15 | 4 | Relue |
-| Santé et accès aux soins | Édouard Philippe | 35 | 35 | 1 | 0 | Non relue |
+| Santé et accès aux soins | Édouard Philippe | 35 | 1029 | 9 | 4 | Relue |
 | Santé et accès aux soins | David Lisnard | 56 | 56 | 1 | 0 | Non relue |
 | Santé et accès aux soins | Bruno Retailleau | 112 | 112 | 2 | 1 | Non relue |
 | Santé et accès aux soins | Marine Le Pen | 118 | 118 | 2 | 1 | Non relue |
@@ -233,7 +233,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Territoires et outre-mer | Raphaël Glucksmann | 0 | 968 | 9 | 4 | Relue |
 | Territoires et outre-mer | Gabriel Attal | 47 | 47 | 2 | 0 | Non relue |
 | Territoires et outre-mer | Édouard Philippe | 85 | 85 | 3 | 0 | Non relue |
-| Territoires et outre-mer | David Lisnard | 37 | 37 | 2 | 0 | Non relue |
+| Territoires et outre-mer | David Lisnard | 37 | 898 | 10 | 4 | Relue |
 | Territoires et outre-mer | Bruno Retailleau | 0 | 1099 | 12 | 3 | Relue |
 | Territoires et outre-mer | Marine Le Pen | 0 | 1062 | 11 | 3 | Relue |
 | Territoires et outre-mer | Éric Zemmour | 0 | 1036 | 10 | 2 | Relue |
@@ -273,7 +273,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Numérique et IA | Jean-Luc Mélenchon | 0 | 1084 | 11 | 3 | Relue |
 | Numérique et IA | François Ruffin | 40 | 40 | 2 | 0 | Non relue |
 | Numérique et IA | Fabien Roussel | 0 | 851 | 12 | 4 | Relue |
-| Numérique et IA | Marine Tondelier | 35 | 35 | 2 | 0 | Non relue |
+| Numérique et IA | Marine Tondelier | 35 | 851 | 7 | 3 | Relue |
 | Numérique et IA | Raphaël Glucksmann | 53 | 53 | 2 | 0 | Non relue |
 | Numérique et IA | Gabriel Attal | 79 | 79 | 3 | 0 | Non relue |
 | Numérique et IA | Édouard Philippe | 47 | 47 | 2 | 0 | Non relue |
