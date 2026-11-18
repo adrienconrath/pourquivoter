@@ -152,3 +152,6 @@ footer{border-top:1px solid var(--line);color:var(--muted);font-size:.83rem}
   .foot{flex-wrap:wrap;padding-block:14px}
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+@media(min-width:761px) and (min-height:730px){
+  .filters{position:sticky;top:20px;max-height:calc(100vh - 40px);overflow:auto}
+}

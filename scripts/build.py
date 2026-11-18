@@ -16,13 +16,14 @@ escape = html.escape
 
 
 def rows(file, columns):
+    columns = columns.split()
     with (DATA / f"{file}.tsv").open(encoding="utf-8", newline="") as stream:
         for line, row in enumerate(csv.reader(stream, delimiter="|", quoting=csv.QUOTE_NONE), 1):
             if not row or row[0].startswith("#"):
                 continue
-            if len(row) != len(columns.split()):
-                raise ValueError(f"{file}:{line} · {len(columns.split())} colonnes attendues")
-            yield dict(zip(columns.split(), (value.strip() for value in row)))
+            if len(row) != len(columns):
+                raise ValueError(f"{file}:{line} · {len(columns)} colonnes attendues")
+            yield dict(zip(columns, (value.strip() for value in row)))
 
 
 def indexed(records):
@@ -211,7 +212,7 @@ def build(snapshot, generated):
         comparisons="".join(comparison(t, people, entries) for t in themes.values()),
         snapshot=f'<time datetime="{snapshot}">{word_date(snapshot)}</time>',
         generated=f'<time datetime="{generated}">{word_date(generated)}</time>',
-        law=claim("Le Conseil constitutionnel établit la liste officielle des candidatures. Cette édition suit une sélection de personnalités.", "loi"),
+        law=claim("Le Conseil constitutionnel doit publier la liste officielle au plus tard le 26 mars 2027. Cette édition suit une sélection de personnalités.", "loi,calendrier"),
         directory="".join(
             f'<li id="source-{key}">{link(s["url"], s["title"])} <small>{escape(s["kind"])}</small></li>'
             for key, s in sorted(sources.items(), key=lambda item: item[1]["title"].casefold())

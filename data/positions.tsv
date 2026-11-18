@@ -3,196 +3,232 @@ dette|attal|orientation|Campagne|att-fin|Priorité au redressement des comptes p
 dette|attal|mesure|Campagne|att-eco,att-fin|Viser le retour à l’équilibre et augmenter l’emploi des jeunes et des seniors.
 dette|attal|financement|Campagne|att-eco,att-crit|La baisse des effectifs publics, dont un objectif de 100 000 postes, et la réforme de l’assurance chômage font partie des leviers avancés.
 dette|attal|critique|Presse|att-crit|Public Sénat rappelle qu’Attal jugeait en 2022 peu crédible de promettre des suppressions de postes sans en préciser la répartition.
-services|attal|mesure|Campagne|att-services,oral|Recentrer l’État sur ses fonctions régaliennes, l’éducation et la solidarité, en transférant davantage de responsabilités aux collectivités et aux partenaires sociaux.
-services|attal|financement|Déclaration|oral|Réduire les effectifs publics de 100 000 postes, notamment par des départs volontaires.
-services|attal|critique|Presse|att-crit|Public Sénat relève que le candidat défendait auparavant une autre approche des effectifs et critiquait les objectifs sans répartition précise.
-ecole|attal|mesure|Campagne|att-services|Passer sous 20 élèves par classe dans le primaire et augmenter à nouveau le salaire des enseignants à partir de 2028.
-ecole|attal|financement|Campagne|att-services|Réinvestir les économies liées à la baisse du nombre d’élèves dans l’école.
-justice|attal|mesure|Campagne|att-services|Recruter 3 000 magistrats et greffiers supplémentaires, réécrire la procédure pénale et dématérialiser les procédures.
-logement|attal|orientation|Campagne|att-services|Faciliter l’accession à la propriété, notamment pour les familles sans apport suffisant.
-logement|attal|mesure|Campagne|att-services|Créer une banque publique du logement qui pourrait acheter une part de la résidence avec le ménage.
-logement|attal|financement|Campagne|att-services|Le ménage pourrait racheter la part de la banque après remboursement du prêt, ou lui reverser sa part lors de la revente. La source décrit ce mécanisme sans en fixer la dotation publique.
-retraites|attal|mesure|Campagne|att-ret|Orienter la moitié de l’intéressement vers l’épargne retraite.
-retraites|attal|financement|Campagne|att-ret|Le complément repose sur l’intéressement des salariés concernés. Le site de campagne présente séparément l’objectif d’équilibrer les comptes sociaux.
-travail|attal|mesure|Campagne|att-eco|Augmenter le taux d’emploi des jeunes et des seniors et réformer l’assurance chômage.
-industrie|attal|mesure|Campagne|att-eco|S’appuyer sur l’innovation et sur la simplification des formalités pour renforcer la compétitivité des entreprises.
-numerique|attal|mesure|Campagne|att-eco|Former 20 millions de salariés à l’intelligence artificielle afin de stimuler la productivité.
-dette|philippe|orientation|Campagne|phil-fin|Inscrire le redressement budgétaire dans une règle contraignante et agir sur les dépenses.
-dette|philippe|mesure|Campagne|phil-fin|Viser un déficit public sous 2,5 % du PIB à la fin du quinquennat et faire adopter une règle d’or par référendum.
-dette|philippe|financement|Campagne|phil-fin|La campagne estime l’effort à près de 150 milliards d’euros d’économies. Elle mise notamment sur la productivité administrative et la baisse des effectifs.
-fiscalite|philippe|mesure|Campagne|phil-fin,phil|S’engager à ne créer aucun nouvel impôt pendant cinq ans et réduire les impôts de production.
-industrie|philippe|mesure|Campagne|phil|Baisser les impôts de production de 50 milliards d’euros et orienter l’épargne vers les entreprises par des fonds de capitalisation.
-retraites|philippe|orientation|Campagne|phil-ret|Conserver la répartition et y ajouter une épargne collective.
-retraites|philippe|mesure|Campagne|phil-ret|Porter progressivement l’âge légal à 65 ans et la durée de cotisation à 45 ans, avec des départs anticipés pour certains parcours.
-retraites|philippe|financement|Campagne|phil-ret|Compter sur l’allongement de l’activité pour rééquilibrer la répartition. L’État verserait 500 € sur un plan d’épargne retraite au premier emploi.
-retraites|philippe|critique|Presse|phil-crit|Le Figaro rapporte une opposition à gauche à l’allongement de la vie au travail. Le projet prévoit un traitement distinct pour les carrières longues.
-services|philippe|mesure|Campagne|phil-fin|Réduire de 250 000 le nombre de postes de fonctionnaires sur le quinquennat.
-services|philippe|financement|Campagne|phil-fin|Ne pas remplacer un départ à la retraite sur trois dans les fonctions de bureau, en misant sur des gains de productivité liés à l’IA.
-immigration|philippe|mesure|Campagne|phil-imm|Viser une division par deux de l’immigration et mettre fin au regroupement familial dans son cadre actuel.
-ecole|philippe|mesure|Campagne|phil|Augmenter de 20 % le salaire des professeurs, rendre les écoles publiques plus autonomes et réduire la taille des classes en maternelle.
-travail|philippe|mesure|Campagne|phil|Donner davantage de latitude aux entreprises dans l’organisation du travail, réformer les arrêts maladie et développer l’apprentissage.
-energie|philippe|mesure|Campagne|phil|Relancer le nucléaire et faire baisser le prix de l’électricité pour les industriels.
-climat|philippe|mesure|Campagne|phil|Mettre en place un plan d’adaptation, comprenant la rénovation et la climatisation de bâtiments publics ainsi qu’une meilleure réutilisation de l’eau.
-transports|philippe|mesure|Campagne|phil|Soutenir l’accès au véhicule électrique d’occasion.
-numerique|philippe|mesure|Campagne|phil|Proposer un pacte européen sur le numérique, développer la puissance de calcul en France et former 100 000 ingénieurs par an.
-europe|philippe|mesure|Campagne|phil|Mettre en commun des moyens à l’échelle européenne via un pacte sur la puissance numérique.
-territoires|philippe|mesure|Campagne|phil|Renforcer la lutte contre le narcotrafic outre-mer et doubler le nombre de navires dans le Pacifique et l’océan Indien.
-institutions|philippe|mesure|Campagne|phil-fin|Soumettre au référendum une règle d’or imposant une trajectoire de redressement des comptes publics.
-travail|glucksmann|mesure|Déclaration|gluck-crit,gluck-impot|Alléger la fiscalité sur le travail en augmentant celle sur les plus gros héritages.
-travail|glucksmann|financement|Déclaration|gluck-crit|La recette avancée est de 15 milliards d’euros par an selon le chiffre repris dans la tribune du Figaro.
-fiscalite|glucksmann|orientation|Projet de parti|gluck-acte,gluck-projet|Déplacer une partie de la charge fiscale du travail vers le capital et les grandes transmissions.
-fiscalite|glucksmann|mesure|Déclaration|gluck-impot|Accroître l’imposition des héritages au-delà de 2 millions d’euros.
-fiscalite|glucksmann|critique|Tribune|gluck-crit|Dans Le Figaro, Olivier Babeau estime que la hausse des droits porterait atteinte à la liberté de transmettre le patrimoine familial.
-climat|glucksmann|orientation|Campagne|gluck-climat|Présenter la transition comme une politique de réduction des dépenses courantes et de la dépendance aux énergies fossiles.
-climat|glucksmann|mesure|Campagne|gluck-climat|Développer les solutions de mobilité électrique et collective et accélérer l’amélioration énergétique des logements.
-prix|glucksmann|mesure|Campagne|gluck-climat|Réduire les dépenses contraintes de logement, d’énergie et de transport en accélérant la transition écologique.
-logement|glucksmann|mesure|Projet de parti|gluck-projet|Lancer un plan de logement abordable s’appuyant notamment sur un fonds national pour le foncier et le logement.
-transports|glucksmann|mesure|Campagne|gluck-climat|Développer l’offre de transports collectifs et faciliter l’accès à la voiture électrique pour les ménages modestes.
-europe|glucksmann|orientation|Projet de parti|gluck-projet,gluck-acte|Faire de l’intégration européenne un levier de l’action industrielle et de l’autonomie politique.
-europe|glucksmann|mesure|Projet de parti|gluck-projet|Construire une capacité européenne d’investissement et de financement commune pour les priorités stratégiques.
-defense|glucksmann|mesure|Projet de parti|gluck-projet,gluck-acte|Construire une défense européenne davantage intégrée et renforcer les capacités militaires européennes.
-dette|le-pen|orientation|Déclaration|pen-fin|Combiner un objectif de redressement des finances publiques et des réductions de prélèvements.
-dette|le-pen|mesure|Déclaration|pen-budget,pen-fin|Présenter une feuille de route d’économies pour le quinquennat, avec un volet consacré aux dépenses liées à l’immigration.
-dette|le-pen|critique|Presse|pen-fin|Les économistes cités par Le Monde estiment que les effets sur les secteurs qui emploient des travailleurs immigrés sont insuffisamment pris en compte.
-retraites|le-pen|orientation|Déclaration|pen-ret,pen-ret-crit|Avancer l’âge de départ pour certains parcours tout en ajoutant un fonds de capitalisation à la répartition.
-retraites|le-pen|mesure|Déclaration|pen-ret|Permettre un départ entre 60 et 62 ans selon l’âge du premier emploi stable et les années cotisées.
-retraites|le-pen|financement|Déclaration|pen-ret-crit|Le RN avance 18,6 milliards d’euros pour le coût du départ plus précoce avant compensations. Pour alimenter le fonds de capitalisation, il propose notamment de réaffecter des ressources de la formation et du logement.
-retraites|le-pen|critique|Presse|pen-ret-crit|Le Monde pointe des conditions plus strictes de validation des trimestres pour les parcours précaires et des transferts qui fragiliseraient le financement du logement.
-logement|le-pen|mesure|Déclaration|pen-ret-crit|Le projet de retraites prévoit de réaffecter au fonds de capitalisation des cotisations liées au Fonds national d’aide au logement et au 1 % logement.
-logement|le-pen|critique|Presse|pen-ret-crit|Le Monde souligne que le transfert soulève la question du financement futur des aides au logement.
-prix|le-pen|mesure|Archive · Budget 2026|rn-historique|Le contre-budget préparé en 2025 prévoyait une baisse de la TVA sur les énergies.
-immigration|le-pen|mesure|Archive · Budget 2026|rn-historique|Le contre-budget préparé en 2025 proposait de subordonner certaines prestations de solidarité à cinq ans de travail à temps plein en France pour les étrangers.
-immigration|le-pen|financement|Archive · Budget 2026|rn-historique|Le contre-budget évaluait à 6,1 milliards d’euros les économies pour cette mesure, dans le cadre de son scénario pour 2026.
-industrie|le-pen|mesure|Archive · Budget 2026|rn-historique|Le contre-budget proposait notamment la suppression de la CFE et de la CVAE.
-dette|ruffin|orientation|Campagne|ruff-plan|Dégager des marges budgétaires pour financer des emplois et investissements jugés prioritaires.
-dette|ruffin|mesure|Campagne|ruff-plan|Réduire certaines dépenses fiscales et augmenter des recettes sur les grandes fortunes et les dividendes.
-dette|ruffin|financement|Campagne|ruff-plan|Pour 2027, la campagne annonce 48 à 62 milliards d’euros de marges par rapport à 2026, avec 22 milliards d’économies et plusieurs scénarios de recettes.
-dette|ruffin|critique|Analyse|ruff-lecture|L’argent public relève que certaines enveloppes sont annoncées sans ventilation par prélèvement, ce qui limite la vérification de leur addition.
-fiscalite|ruffin|mesure|Campagne|ruff-plan|Augmenter l’imposition des dividendes pour financer la transition et relever la contribution des plus grandes fortunes.
-travail|ruffin|orientation|Campagne|ruff|Revaloriser les métiers essentiels et redonner du temps libre.
-travail|ruffin|mesure|Campagne|ruff,ruff-plan|Agir sur la rémunération des métiers essentiels et revoir les aides à l’apprentissage dans l’enseignement supérieur.
-logement|ruffin|mesure|Campagne|ruff-logement,ruff-mesures|Produire 200 000 logements publics ou intermédiaires par an, dont 40 000 destinés aux jeunes.
-logement|ruffin|financement|Campagne|ruff-plan,ruff-lecture|La campagne annonce 15 milliards d’euros par an de moyens pour la rénovation. L’enveloppe porte sur la rénovation et ne chiffre donc pas la production des logements neufs.
-climat|ruffin|mesure|Campagne|ruff-plan|Accélérer les rénovations performantes des logements et adapter les bâtiments publics aux fortes chaleurs.
-climat|ruffin|financement|Campagne|ruff-plan|La campagne propose de verser les contributions liées aux certificats d’économies d’énergie directement au budget de l’Anah afin de financer une partie des travaux.
-energie|ruffin|mesure|Campagne|ruff-mesures|Mettre en place des contrats d’électricité de long terme gérés par un acheteur public, avec un prix lié au coût de production en France.
-ecole|ruffin|mesure|Campagne|ruff-ecole|Revaloriser les enseignants et augmenter les moyens pour alléger les classes et mieux assurer les remplacements.
-agriculture|ruffin|mesure|Campagne|ruff-agri,ruff-mesures|Développer les paiements qui rémunèrent aux exploitants des services environnementaux.
-institutions|ruffin|mesure|Projet de parti|ruff-mesures|Organiser des référendums à l’issue de grands débats publics et créer des instances locales de l’eau avec des citoyens tirés au sort.
-prix|ruffin|mesure|Campagne|ruff-mesures|Plafonner le prix de l’électricité au coût de production français en s’appuyant sur des contrats de long terme.
-climat|glucksmann|financement|Campagne|gluck-climat|Le livret prévoit 200 milliards d’euros d’investissements publics sur le quinquennat. Il attend 50 milliards d’une contribution exceptionnelle sur les plus hauts patrimoines et cite aussi les taxes sur l’aviation et les superprofits fossiles.
 dette|glucksmann|mesure|Campagne|gluck-climat|Viser une stabilisation de la dette à l’horizon 2032 tout en augmentant l’investissement public pour le climat.
 dette|glucksmann|financement|Campagne|gluck-climat|Affecter une contribution ponctuelle sur les plus hauts patrimoines à un fonds d’investissement climatique. Les 50 milliards d’euros attendus concernent cette contribution seule.
-energie|glucksmann|mesure|Campagne|gluck-climat|Plus que doubler la production d’énergie renouvelable d’ici 2035.
-energie|glucksmann|financement|Campagne|gluck-climat|La campagne compte surtout sur des financements privés pour cette augmentation, avec un cadre réglementaire stabilisé.
-institutions|glucksmann|mesure|Campagne|gluck-climat|Inscrire le caractère écologique de la République dans l’article 1 de la Constitution.
-securite|glucksmann|mesure|Déclaration|oral|Renforcer la présence quotidienne de la police sur le terrain et conserver la possibilité d’armer la police municipale.
-justice|glucksmann|mesure|Déclaration|oral|Donner davantage de moyens à la justice.
-travail|tondelier|orientation|Campagne|vert-travail|Relier hausse des rémunérations, amélioration des conditions de travail et adaptation au climat.
-travail|tondelier|mesure|Campagne|vert-travail|Porter le SMIC à 2 000 € brut dès 2027 et créer un congé climatique en cas d’événement extrême.
-prix|tondelier|mesure|Campagne|vert-prix|Mettre en place un bouclier social et environnemental pour agir sur les dépenses contraintes, notamment le logement, les déplacements et l’énergie.
-prix|tondelier|financement|Campagne|vert-prix|L’article présente les mesures du bouclier sans publier de plan de financement complet.
-climat|tondelier|orientation|Projet de parti|vert|Faire de la transition écologique une politique de protection face aux risques climatiques et sociaux.
-climat|tondelier|mesure|Projet de parti|vert|Accélérer l’adaptation des territoires et la rénovation des bâtiments exposés aux événements climatiques.
-logement|tondelier|mesure|Projet de parti|vert|Massifier la rénovation énergétique et intervenir sur les loyers en zone tendue.
-retraites|tondelier|mesure|Projet de parti|vert|Abroger la réforme portant l’âge de départ à 64 ans, revenir à 62 ans et tenir compte de la pénibilité et des parcours pour les départs anticipés.
-fiscalite|tondelier|mesure|Projet de parti|vert|Réorienter la fiscalité vers les plus hauts patrimoines et les activités polluantes pour financer la transition.
-ecole|tondelier|mesure|Projet de parti|vert|Diminuer les effectifs de classe dans le primaire et revaloriser les enseignants.
-sante|tondelier|mesure|Campagne|vert-sante|Améliorer l’accès à la prévention, aux soins et aux droits en matière de santé sexuelle et reproductive.
-droits|tondelier|mesure|Campagne|vert-sante|Garantir l’accès effectif à l’IVG et améliorer la prise en charge des violences sexistes et sexuelles.
-transports|tondelier|mesure|Déclaration|oral|Créer en dix ans un parc public d’un million de véhicules électriques, accessible aux 60 % de Français les plus modestes.
-services|tondelier|mesure|Déclaration|oral|Créer de 250 000 à 300 000 postes de fonctionnaires sur le quinquennat, avec un effort pour l’hôpital et la justice.
-justice|tondelier|mesure|Déclaration|oral|Créer 9 000 postes de magistrats, 10 000 de greffiers et 7 000 d’assistants de justice.
-culture|tondelier|mesure|Campagne|vert-culture|Réduire les inégalités d’accès aux activités culturelles et soutenir la création dans les territoires.
-dette|retailleau|orientation|Projet de parti|lr-fin|Réduire durablement la dépense publique pour restaurer les marges budgétaires et alléger les prélèvements.
-dette|retailleau|mesure|Projet de parti|lr-fin|Viser un déficit de 2,2 % du PIB en 2032.
-dette|retailleau|financement|Projet de parti|lr-fin|La trajectoire de LR affiche 197 milliards d’euros d’économies en 2032, dont 146 destinés à réduire le déficit et 51 à des allègements. Elle mobilise notamment l’administration, les retraites et les prestations sociales.
-dette|retailleau|critique|Hypothèses du projet|lr-fin|Le scénario évalue les économies par rapport à une trajectoire où le déficit atteindrait 7,1 % du PIB en 2032. Le résultat varie donc avec cette trajectoire de référence.
-retraites|retailleau|mesure|Déclaration|lr-ret|Autoriser un départ à 63 ans avec décote avant 65 ans et ajouter un volet de capitalisation.
-retraites|retailleau|financement|Projet de parti|lr-fin|La fiche LR chiffre à 42 milliards d’euros les économies de son volet retraites en 2032, dont une cotisation dédiée à la capitalisation de 1 % du salaire brut.
-retraites|retailleau|critique|Entretien|lr-ret|Dans l’entretien au Figaro, la décote proposée atteint 7 % par année d’anticipation avant 65 ans. Le niveau de pension et l’âge de départ doivent donc se lire ensemble.
-services|retailleau|mesure|Projet de parti|lr-fin|Réduire les effectifs administratifs par le non-remplacement de départs en retraite et supprimer ou réorganiser des opérateurs.
-services|retailleau|financement|Projet de parti|lr-fin|La fiche budgétaire estime à 25 milliards d’euros l’économie associée à 400 000 départs en retraite non remplacés. Ce calcul appartient au scénario du parti.
-immigration|retailleau|mesure|Déclaration|lr-imm|Restreindre le droit du sol et rendre plus strictes les conditions d’entrée et de séjour.
-travail|retailleau|mesure|Projet de parti|lr-fin|Ramener la durée maximale ordinaire de l’assurance chômage de 18 à 15 mois et créer un compte social unique plafonné.
-travail|retailleau|financement|Projet de parti|lr-fin|LR table sur 30 milliards d’euros en 2032 pour l’ensemble chômage et solidarité, dont 14 milliards pour l’assurance chômage.
-sante|retailleau|mesure|Projet de parti|lr-fin|Réformer les arrêts maladie et réinvestir dans le soin les gains d’efficacité du système de santé.
-sante|retailleau|financement|Projet de parti|lr-fin|La fiche santé de LR prévoit 4 milliards d’euros d’économies sur les arrêts maladie.
-ecole|retailleau|mesure|Déclaration|oral|Remettre en cause le collège unique.
+dette|le-pen|orientation|Déclaration|pen-fin|Combiner un objectif de redressement des finances publiques et des réductions de prélèvements.
+dette|le-pen|mesure|Déclaration|pen-budget,pen-fin|Présenter une feuille de route d’économies pour le quinquennat, avec un volet consacré aux dépenses liées à l’immigration.
+dette|le-pen|financement|Déclaration|pen-budget,pen-fin|Le RN place dans sa trajectoire des économies liées à l’immigration et à la baisse de dépenses publiques. Les montants annoncés dans le contre-budget 2026 correspondent à un autre document.
+dette|le-pen|critique|Presse|pen-fin|Les économistes cités par Le Monde estiment que les effets sur les secteurs qui emploient des travailleurs immigrés sont insuffisamment pris en compte.
 dette|lisnard|orientation|Entretien|lis-trajectoire|Défend une orientation libérale qui réduit le périmètre de l’État et le niveau des prélèvements.
 dette|lisnard|mesure|Déclaration|lis-oral,lis-fin|Viser 80 milliards d’euros d’économies la première année, puis 200 milliards à l’horizon 2032.
 dette|lisnard|financement|Déclaration|lis-eco,lis-oral|Parmi les économies avancées figurent la réduction du nombre d’opérateurs publics et une réforme de l’assurance chômage.
 dette|lisnard|critique|Limite du chiffrage|lis-fin,lis-eco|Nouvelle Énergie indique que 200 milliards d’euros sont documentés selon le parti, tandis qu’une ambition de 300 milliards a aussi été évoquée. Le montant supplémentaire reste à détailler.
-prix|lisnard|mesure|Déclaration|lis-oral|Réduire de 9,2 à 6,6 % le taux de CSG sur les revenus d’activité afin d’augmenter les salaires nets.
-prix|lisnard|financement|Déclaration|lis-oral|Lisnard inscrit la baisse de CSG dans un projet de réduction des dépenses publiques. L’entretien ne donne pas de compensation ligne par ligne pour cette mesure.
-fiscalite|lisnard|mesure|Déclaration|lis-oral|Diminuer la CSG sur les revenus d’activité.
-travail|lisnard|mesure|Déclaration|lis-oral|Réformer l’assurance chômage pour inciter au retour à l’emploi et soutenir le salaire net en allégeant les prélèvements.
-retraites|lisnard|mesure|Projet de parti|lis|Développer la capitalisation pour permettre aux travailleurs de se constituer un capital pour la retraite.
-ecole|lisnard|mesure|Projet de parti|lis,lis-oral|Donner davantage d’autonomie aux établissements scolaires et permettre aux parents de choisir leur école en supprimant la carte scolaire.
-justice|lisnard|mesure|Déclaration|lis-oral|Renforcer la réponse pénale dans la justice des mineurs.
-services|lisnard|mesure|Déclaration|lis-eco,lis-oral|Rationaliser les opérateurs de l’État et revoir l’organisation de la fonction publique.
-fiscalite|zemmour|mesure|Campagne|zem|Supprimer les droits de succession et l’impôt sur la fortune selon les termes du site de campagne.
-prix|zemmour|mesure|Campagne|zem|Supprimer la CSG pour les actifs et réduire de 40 centimes les taxes sur les carburants.
-prix|zemmour|financement|Campagne|zem|Le site annonce 10 % de revenu supplémentaire pour les actifs et rattache les baisses de prélèvements à une baisse de la dépense publique. La présentation ne détaille pas la compensation des recettes sociales.
-travail|zemmour|mesure|Campagne|zem|Augmenter le revenu net des actifs par la suppression de la CSG.
+dette|philippe|orientation|Campagne|phil-fin|Inscrire le redressement budgétaire dans une règle contraignante et agir sur les dépenses.
+dette|philippe|mesure|Campagne|phil-fin|Viser un déficit public sous 2,5 % du PIB à la fin du quinquennat et faire adopter une règle d’or par référendum.
+dette|philippe|financement|Campagne|phil-fin|La campagne estime l’effort à près de 150 milliards d’euros d’économies. Elle mise notamment sur la productivité administrative et la baisse des effectifs.
+dette|retailleau|orientation|Projet de parti|lr-fin|Réduire durablement la dépense publique pour restaurer les marges budgétaires et alléger les prélèvements.
+dette|retailleau|mesure|Projet de parti|lr-fin|Viser un déficit de 2,2 % du PIB en 2032.
+dette|retailleau|financement|Projet de parti|lr-fin|La trajectoire de LR affiche 197 milliards d’euros d’économies en 2032, dont 146 destinés à réduire le déficit et 51 à des allègements. Elle mobilise notamment l’administration, les retraites et les prestations sociales.
+dette|retailleau|critique|Hypothèses du projet|lr-fin|Le scénario évalue les économies par rapport à une trajectoire où le déficit atteindrait 7,1 % du PIB en 2032. Le résultat varie donc avec cette trajectoire de référence.
+dette|roussel|mesure|Campagne|pcf-tract|Faire contribuer davantage les patrimoines et soutenir les investissements et la réappropriation publique de secteurs jugés stratégiques.
+dette|ruffin|orientation|Campagne|ruff-plan|Dégager des marges budgétaires pour financer des emplois et investissements jugés prioritaires.
+dette|ruffin|mesure|Campagne|ruff-plan|Réduire certaines dépenses fiscales et augmenter des recettes sur les grandes fortunes et les dividendes.
+dette|ruffin|financement|Campagne|ruff-plan|Pour 2027, la campagne annonce 48 à 62 milliards d’euros de marges par rapport à 2026, avec 22 milliards d’économies et plusieurs scénarios de recettes.
+dette|ruffin|critique|Analyse|ruff-lecture|L’argent public relève que certaines enveloppes sont annoncées sans ventilation par prélèvement, ce qui limite la vérification de leur addition.
+dette|tondelier|mesure|Projet de parti|vert,ifrap|Financer les services publics jugés essentiels par l’impôt et conditionner ou supprimer les subventions nuisibles à l’environnement.
 dette|zemmour|orientation|Campagne|zem|Réduire les prélèvements en diminuant la dépense publique.
 dette|zemmour|mesure|Campagne|zem|Lier des baisses de prélèvements sur le travail et les carburants à une baisse des dépenses.
-immigration|zemmour|orientation|Déclaration|zem-tf1,zem-press|Chercher à rendre les sorties du territoire plus nombreuses que les entrées.
-immigration|zemmour|mesure|Déclaration|zem-press|Afficher un objectif de deux millions d’immigrés de moins en un quinquennat.
-securite|zemmour|mesure|Campagne|zem|Rétablir des peines planchers et renforcer la répression des violences lors de manifestations.
-justice|zemmour|mesure|Campagne|zem|Construire 100 000 places de prison en deux ans, rétablir des peines planchers et supprimer des aménagements de peine.
-ecole|zemmour|orientation|Campagne|zem|Privilégier la sélection par niveau et la transmission des savoirs.
-ecole|zemmour|mesure|Campagne|zem,oral|Supprimer le collège unique et rétablir des examens à chaque cycle.
-dette|roussel|mesure|Campagne|pcf-tract|Faire contribuer davantage les patrimoines et soutenir les investissements et la réappropriation publique de secteurs jugés stratégiques.
+dette|zemmour|financement|Document de l’entourage|knafo,zem|Sarah Knafo publie un scénario d’économies de 140 milliards d’euros par an pour Reconquête. La présentation d’Éric Zemmour annonce les baisses d’impôts sans établir la correspondance entre chaque perte de recettes et les économies.
+prix|attal|mesure|Campagne|att-projet|Garantir la stabilité des prix de l’électricité pendant cinq ans et instaurer un bouclier tarifaire sur le prix de l’eau.
+prix|glucksmann|mesure|Campagne|gluck-climat|Réduire les dépenses contraintes de logement, d’énergie et de transport en accélérant la transition écologique.
+prix|glucksmann|financement|Campagne|gluck-chiffres|La campagne annonce un chèque énergie exceptionnel de 500 € pour six millions de familles et de 200 € pour dix millions de familles supplémentaires.
+prix|glucksmann|critique|Analyse|gluck-climat-crit|Le média Facta Mundi estime le coût de ces chèques à 5 milliards d’euros pour une distribution, sur la base des montants et du nombre de foyers annoncés.
+prix|le-pen|mesure|Archive · Budget 2026|rn-historique|Le contre-budget préparé en 2025 prévoyait une baisse de la TVA sur les énergies.
+prix|lisnard|mesure|Déclaration|lis-oral|Réduire de 9,2 à 6,6 % le taux de CSG sur les revenus d’activité afin d’augmenter les salaires nets.
+prix|lisnard|financement|Déclaration|lis-oral|Lisnard inscrit la baisse de CSG dans un projet de réduction des dépenses publiques. L’entretien ne donne pas de compensation ligne par ligne pour cette mesure.
+prix|philippe|mesure|Campagne|phil|Prévoir une allocation familiale de 350 € dès le premier enfant et un prêt à taux zéro à la naissance.
+prix|retailleau|mesure|Projet de parti|lr-travail|Augmenter le revenu net des salariés et diminuer le coût du travail en réduisant certains prélèvements.
+prix|retailleau|financement|Projet de parti|lr-travail,lr-fin|Le livret Travail gagnant annonce au moins 30 milliards d’euros d’allègements répartis entre salariés et entreprises. Les fiches budgétaires visent des économies sur le chômage et certaines prestations.
+prix|roussel|mesure|Déclaration|oral|Créer un pôle public de l’énergie pour agir sur le prix de l’électricité, du gaz et des carburants.
+prix|ruffin|mesure|Campagne|ruff-mesures|Plafonner le prix de l’électricité au coût de production français en s’appuyant sur des contrats de long terme.
+prix|tondelier|mesure|Campagne|vert-prix|Mettre en place un bouclier social et environnemental pour agir sur les dépenses contraintes, notamment le logement, les déplacements et l’énergie.
+prix|tondelier|financement|Campagne|vert-prix|L’article présente les mesures du bouclier sans publier de plan de financement complet.
+prix|zemmour|mesure|Campagne|zem|Supprimer la CSG pour les actifs et réduire de 40 centimes les taxes sur les carburants.
+prix|zemmour|financement|Campagne|zem|Le site annonce 10 % de revenu supplémentaire pour les actifs et rattache les baisses de prélèvements à une baisse de la dépense publique. La présentation ne détaille pas la compensation des recettes sociales.
+retraites|attal|mesure|Campagne|att-ret|Orienter la moitié de l’intéressement vers l’épargne retraite.
+retraites|attal|financement|Campagne|att-ret|Le complément repose sur l’intéressement des salariés concernés. Le site de campagne présente séparément l’objectif d’équilibrer les comptes sociaux.
+retraites|glucksmann|mesure|Projet de parti|gluck-projet,gluck-acte|Dans son Acte I, Place publique propose d’abroger la réforme des retraites de 2023 et de créer un Haut Conseil du pilotage des retraites.
+retraites|le-pen|orientation|Déclaration|pen-ret,pen-ret-crit|Avancer l’âge de départ pour certains parcours tout en ajoutant un fonds de capitalisation à la répartition.
+retraites|le-pen|mesure|Déclaration|pen-ret|Permettre un départ entre 60 et 62 ans selon l’âge du premier emploi stable et les années cotisées.
+retraites|le-pen|financement|Déclaration|pen-ret-crit|Le RN avance 18,6 milliards d’euros pour le coût du départ plus précoce avant compensations. Pour alimenter le fonds de capitalisation, il propose notamment de réaffecter des ressources de la formation et du logement.
+retraites|le-pen|critique|Presse|pen-ret-crit|Le Monde pointe des conditions plus strictes de validation des trimestres pour les parcours précaires et des transferts qui fragiliseraient le financement du logement.
+retraites|lisnard|mesure|Projet de parti|lis|Développer la capitalisation pour permettre aux travailleurs de se constituer un capital pour la retraite.
+retraites|philippe|orientation|Campagne|phil-ret|Conserver la répartition et y ajouter une épargne collective.
+retraites|philippe|mesure|Campagne|phil-ret|Porter progressivement l’âge légal à 65 ans et la durée de cotisation à 45 ans, avec des départs anticipés pour certains parcours.
+retraites|philippe|financement|Campagne|phil-ret|Compter sur l’allongement de l’activité pour rééquilibrer la répartition. L’État verserait 500 € sur un plan d’épargne retraite au premier emploi.
+retraites|philippe|critique|Presse|phil-crit|Le Figaro rapporte une opposition à gauche à l’allongement de la vie au travail. Le projet prévoit un traitement distinct pour les carrières longues.
+retraites|retailleau|mesure|Déclaration|lr-ret|Autoriser un départ à 63 ans avec décote avant 65 ans et ajouter un volet de capitalisation.
+retraites|retailleau|financement|Projet de parti|lr-fin|La fiche LR chiffre à 42 milliards d’euros les économies de son volet retraites en 2032, dont une cotisation dédiée à la capitalisation de 1 % du salaire brut.
+retraites|retailleau|critique|Entretien|lr-ret|Dans l’entretien au Figaro, la décote proposée atteint 7 % par année d’anticipation avant 65 ans. Le niveau de pension et l’âge de départ doivent donc se lire ensemble.
+retraites|roussel|mesure|Déclaration|pcf-discours|Augmenter les pensions pour que les retraités ayant travaillé toute leur vie ne touchent pas moins que le SMIC. S’opposer à la capitalisation.
+retraites|ruffin|mesure|Campagne|ruff-programme,ruff-mesures|Avancer l’âge de départ pour les métiers pénibles à l’aide de trimestres supplémentaires.
+retraites|tondelier|mesure|Projet de parti|vert|Abroger la réforme portant l’âge de départ à 64 ans, revenir à 62 ans et tenir compte de la pénibilité et des parcours pour les départs anticipés.
+fiscalite|attal|mesure|Campagne|att-fisc,att-projet|Fixer les principales règles fiscales pour dix ans et maintenir le crédit d’impôt recherche et le pacte Dutreil sur la transmission des entreprises.
+fiscalite|glucksmann|orientation|Projet de parti|gluck-acte,gluck-projet|Déplacer une partie de la charge fiscale du travail vers le capital et les grandes transmissions.
+fiscalite|glucksmann|mesure|Déclaration|gluck-impot|Accroître l’imposition des héritages au-delà de 2 millions d’euros.
+fiscalite|glucksmann|critique|Tribune|gluck-crit|Dans Le Figaro, Olivier Babeau estime que la hausse des droits porterait atteinte à la liberté de transmettre le patrimoine familial.
+fiscalite|lisnard|mesure|Déclaration|lis-oral|Diminuer la CSG sur les revenus d’activité.
+fiscalite|philippe|mesure|Campagne|phil-fin,phil|S’engager à ne créer aucun nouvel impôt pendant cinq ans et réduire les impôts de production.
+fiscalite|retailleau|mesure|Projet de parti|lr-fin|Affecter 51 milliards d’euros d’économies en 2032 à des allègements pour le travail et les entreprises.
 fiscalite|roussel|mesure|Campagne|pcf-tract|Mettre la justice fiscale au service des salaires, du pouvoir d’achat et des services publics.
+fiscalite|ruffin|mesure|Campagne|ruff-plan|Augmenter l’imposition des dividendes pour financer la transition et relever la contribution des plus grandes fortunes.
+fiscalite|tondelier|mesure|Projet de parti|vert|Réorienter la fiscalité vers les plus hauts patrimoines et les activités polluantes pour financer la transition.
+fiscalite|zemmour|mesure|Campagne|zem|Supprimer les droits de succession et l’impôt sur la fortune selon les termes du site de campagne.
+travail|attal|mesure|Campagne|att-eco|Augmenter le taux d’emploi des jeunes et des seniors et réformer l’assurance chômage.
+travail|glucksmann|mesure|Déclaration|gluck-crit,gluck-impot|Alléger la fiscalité sur le travail en augmentant celle sur les plus gros héritages.
+travail|glucksmann|financement|Déclaration|gluck-crit|La recette avancée est de 15 milliards d’euros par an selon le chiffre repris dans la tribune du Figaro.
+travail|lisnard|mesure|Déclaration|lis-oral|Réformer l’assurance chômage pour inciter au retour à l’emploi et soutenir le salaire net en allégeant les prélèvements.
+travail|philippe|mesure|Campagne|phil|Donner davantage de latitude aux entreprises dans l’organisation du travail, réformer les arrêts maladie et développer l’apprentissage.
+travail|retailleau|mesure|Projet de parti|lr-fin|Ramener la durée maximale ordinaire de l’assurance chômage de 18 à 15 mois et créer un compte social unique plafonné.
+travail|retailleau|financement|Projet de parti|lr-fin|LR table sur 30 milliards d’euros en 2032 pour l’ensemble chômage et solidarité, dont 14 milliards pour l’assurance chômage.
 travail|roussel|orientation|Campagne|pcf,pcf-tract|Faire des salaires et de la revalorisation du travail une priorité.
 travail|roussel|mesure|Campagne|pcf-local|Porter le SMIC à 1 700 € net, augmenter les salaires de 5 % et les indexer sur l’inflation, selon les orientations de campagne relayées par la section de Loos.
-prix|roussel|mesure|Déclaration|oral|Créer un pôle public de l’énergie pour agir sur le prix de l’électricité, du gaz et des carburants.
+travail|ruffin|orientation|Campagne|ruff|Revaloriser les métiers essentiels et redonner du temps libre.
+travail|ruffin|mesure|Campagne|ruff,ruff-plan|Agir sur la rémunération des métiers essentiels et revoir les aides à l’apprentissage dans l’enseignement supérieur.
+travail|tondelier|orientation|Campagne|vert-travail|Relier hausse des rémunérations, amélioration des conditions de travail et adaptation au climat.
+travail|tondelier|mesure|Campagne|vert-travail|Porter le SMIC à 2 000 € brut dès 2027 et créer un congé climatique en cas d’événement extrême.
+travail|zemmour|mesure|Campagne|zem|Augmenter le revenu net des actifs par la suppression de la CSG.
+industrie|attal|mesure|Campagne|att-eco|S’appuyer sur l’innovation et sur la simplification des formalités pour renforcer la compétitivité des entreprises.
+industrie|le-pen|mesure|Archive · Budget 2026|rn-historique|Le contre-budget proposait notamment la suppression de la CFE et de la CVAE.
+industrie|lisnard|mesure|Projet de parti|lis,ifrap|Réduire les impôts de production.
+industrie|lisnard|financement|Déclaration|ifrap,lis-fin|Selon le relevé de l’iFRAP, 40 milliards d’euros des économies annoncées iraient aux baisses d’impôts de production.
+industrie|philippe|mesure|Campagne|phil|Baisser les impôts de production de 50 milliards d’euros et orienter l’épargne vers les entreprises par des fonds de capitalisation.
+industrie|retailleau|mesure|Projet de parti|lr-industrie|Soutenir la réindustrialisation par des coûts de production plus compétitifs et en simplifiant le cadre réglementaire.
+industrie|roussel|mesure|Campagne|pcf-local|Doubler la part de l’industrie dans le PIB et augmenter fortement la production nucléaire.
+industrie|ruffin|mesure|Campagne|ruff-plan|Utiliser la commande publique et l’investissement dans la transition pour soutenir la production en France.
+ecole|attal|mesure|Campagne|att-services|Passer sous 20 élèves par classe dans le primaire et augmenter à nouveau le salaire des enseignants à partir de 2028.
+ecole|attal|financement|Campagne|att-services|Réinvestir les économies liées à la baisse du nombre d’élèves dans l’école.
+ecole|le-pen|mesure|Déclaration|pen-ecole|Supprimer Parcoursup et le contrôle continu du bac. Avancer les épreuves en mai pour utiliser davantage les notes du bac dans la sélection à l’entrée du supérieur.
+ecole|lisnard|mesure|Projet de parti|lis,lis-oral|Donner davantage d’autonomie aux établissements scolaires et permettre aux parents de choisir leur école en supprimant la carte scolaire.
+ecole|lisnard|critique|Recherche|sectorisation|Des travaux publiés par le ministère relient l’essor durable des inscriptions hors secteur à une hiérarchisation accrue entre collèges. Ils portent sur un assouplissement antérieur de la carte scolaire.
+ecole|philippe|mesure|Campagne|phil-ecole|Augmenter de 20 % le salaire des professeurs, rendre les écoles publiques plus autonomes et réduire la taille des classes en maternelle.
+ecole|retailleau|mesure|Déclaration|oral|Remettre en cause le collège unique.
+ecole|roussel|mesure|Déclaration|pcf-ecole|Renforcer l’attractivité des métiers de l’éducation et faire de l’accès aux savoirs une priorité du quinquennat.
+ecole|ruffin|mesure|Campagne|ruff-ecole|Revaloriser les enseignants et augmenter les moyens pour alléger les classes et mieux assurer les remplacements.
+ecole|tondelier|mesure|Projet de parti|vert|Diminuer les effectifs de classe dans le primaire et revaloriser les enseignants.
+ecole|zemmour|orientation|Campagne|zem|Privilégier la sélection par niveau et la transmission des savoirs.
+ecole|zemmour|mesure|Campagne|zem,oral|Supprimer le collège unique et rétablir des examens à chaque cycle.
+sante|attal|mesure|Campagne|att-sante|Proposer un assistant médical d’IA et viser l’équilibre des comptes de la Sécurité sociale en 2032.
+sante|lisnard|mesure|Projet de parti|lis-sante|Mieux rembourser les actes dans les territoires sous-dotés, développer les maisons de santé et doubler le nombre d’étudiants en médecine d’ici 2030.
+sante|retailleau|mesure|Projet de parti|lr-fin|Réformer les arrêts maladie et réinvestir dans le soin les gains d’efficacité du système de santé.
+sante|retailleau|financement|Projet de parti|lr-fin|La fiche santé de LR prévoit 4 milliards d’euros d’économies sur les arrêts maladie.
+sante|tondelier|mesure|Campagne|vert-sante|Améliorer l’accès à la prévention, aux soins et aux droits en matière de santé sexuelle et reproductive.
+logement|attal|orientation|Campagne|att-services|Faciliter l’accession à la propriété, notamment pour les familles sans apport suffisant.
+logement|attal|mesure|Campagne|att-services|Créer une banque publique du logement qui pourrait acheter une part de la résidence avec le ménage.
+logement|attal|financement|Campagne|att-services|Le ménage pourrait racheter la part de la banque après remboursement du prêt, ou lui reverser sa part lors de la revente. La source décrit ce mécanisme sans en fixer la dotation publique.
+logement|glucksmann|mesure|Projet de parti|gluck-projet|Lancer un plan de logement abordable s’appuyant notamment sur un fonds national pour le foncier et le logement.
+logement|le-pen|mesure|Déclaration|pen-ret-crit|Le projet de retraites prévoit de réaffecter au fonds de capitalisation des cotisations liées au Fonds national d’aide au logement et au 1 % logement.
+logement|le-pen|critique|Presse|pen-ret-crit|Le Monde souligne que le transfert soulève la question du financement futur des aides au logement.
+logement|retailleau|mesure|Déclaration|lr-famille|Autoriser certaines familles à déduire une partie des intérêts de l’emprunt immobilier et faciliter le transfert du prêt vers un autre logement.
+logement|retailleau|critique|Presse|lr-famille|L’entretien repris par LR souligne que le volet immobilier reste moins détaillé que les prestations familiales.
+logement|roussel|mesure|Projet de parti|pcf-logement,pcf-logement-analyse|Viser 200 000 logements sociaux construits par an, renforcer les obligations de la loi SRU et encadrer les loyers.
+logement|roussel|financement|Projet de parti|pcf-logement-analyse|Le PCF appelle à rétablir l’aide à la pierre et chiffre à 15 milliards d’euros par an le montant qu’il souhaite lui consacrer selon le relevé de Déchiffrer 2027.
+logement|roussel|critique|Analyse|pcf-logement-analyse|Déchiffrer 2027 relève que l’enveloppe d’aide à la pierre et le coût estimé par logement portent sur des périmètres différents.
+logement|ruffin|mesure|Campagne|ruff-logement,ruff-mesures|Produire 200 000 logements publics ou intermédiaires par an, dont 40 000 destinés aux jeunes.
+logement|ruffin|financement|Campagne|ruff-plan,ruff-lecture|La campagne annonce 15 milliards d’euros par an de moyens pour la rénovation. L’enveloppe porte sur la rénovation et ne chiffre donc pas la production des logements neufs.
+logement|tondelier|mesure|Projet de parti|vert|Massifier la rénovation énergétique et intervenir sur les loyers en zone tendue.
+services|attal|mesure|Campagne|att-services,oral|Recentrer l’État sur ses fonctions régaliennes, l’éducation et la solidarité, en transférant davantage de responsabilités aux collectivités et aux partenaires sociaux.
+services|attal|financement|Déclaration|oral|Réduire les effectifs publics de 100 000 postes, notamment par des départs volontaires.
+services|attal|critique|Presse|att-crit|Public Sénat relève que le candidat défendait auparavant une autre approche des effectifs et critiquait les objectifs sans répartition précise.
+services|lisnard|mesure|Déclaration|lis-eco,lis-oral|Rationaliser les opérateurs de l’État et revoir l’organisation de la fonction publique.
+services|philippe|mesure|Campagne|phil-fin|Réduire de 250 000 le nombre de postes de fonctionnaires sur le quinquennat.
+services|philippe|financement|Campagne|phil-fin|Ne pas remplacer un départ à la retraite sur trois dans les fonctions de bureau, en misant sur des gains de productivité liés à l’IA.
+services|retailleau|mesure|Projet de parti|lr-fin|Réduire les effectifs administratifs par le non-remplacement de départs en retraite et supprimer ou réorganiser des opérateurs.
+services|retailleau|financement|Projet de parti|lr-fin|La fiche budgétaire estime à 25 milliards d’euros l’économie associée à 400 000 départs en retraite non remplacés. Ce calcul appartient au scénario du parti.
+services|roussel|mesure|Déclaration|oral|Recruter 500 000 fonctionnaires sur cinq ans et revaloriser le point d’indice de 10 % immédiatement, puis de 20 à 30 % sur le quinquennat.
+services|roussel|financement|Déclaration|oral|Au Grand oral, le candidat estime à environ 15 milliards d’euros l’ensemble recrutements et revalorisation. La synthèse ne donne pas le détail de la couverture budgétaire.
+services|tondelier|mesure|Déclaration|oral|Créer de 250 000 à 300 000 postes de fonctionnaires sur le quinquennat, avec un effort pour l’hôpital et la justice.
+services|zemmour|mesure|Document de l’entourage|knafo,ifrap|Le scénario présenté par Sarah Knafo prévoit de ne pas remplacer 800 000 postes sur cinq ans, en protégeant certaines missions de terrain.
+immigration|attal|orientation|Campagne|att-points|Donner la priorité à l’immigration de travail selon des critères de qualification et d’intégration.
+immigration|attal|mesure|Campagne|att-points|Adopter un système à points qui tient notamment compte de l’offre d’emploi, du logement et du niveau de français. Le Parlement voterait des quotas tous les deux ans.
+immigration|le-pen|mesure|Archive · Budget 2026|rn-historique|Le contre-budget préparé en 2025 proposait de subordonner certaines prestations de solidarité à cinq ans de travail à temps plein en France pour les étrangers.
+immigration|le-pen|financement|Archive · Budget 2026|rn-historique|Le contre-budget évaluait à 6,1 milliards d’euros les économies pour cette mesure, dans le cadre de son scénario pour 2026.
+immigration|lisnard|mesure|Projet de parti|lis-imm|Fixer des quotas de main-d’œuvre qualifiée et conditionner le regroupement familial aux ressources et à des tests d’intégration.
+immigration|philippe|mesure|Campagne|phil-imm|Viser une division par deux de l’immigration et mettre fin au regroupement familial dans son cadre actuel.
+immigration|retailleau|mesure|Déclaration|lr-imm|Restreindre le droit du sol et rendre plus strictes les conditions d’entrée et de séjour.
+immigration|ruffin|orientation|Déclaration|ruff-imm|Refuser de faire de l’immigration de travail la réponse aux besoins de main-d’œuvre tout en défendant le droit d’asile.
+immigration|ruffin|mesure|Déclaration|ruff-imm|Régulariser les travailleurs déjà présents en France et s’opposer à l’ouverture de nouvelles filières de recrutement de travailleurs étrangers.
+immigration|tondelier|mesure|Projet de parti|vert|Créer des voies d’immigration légales et sûres au niveau européen et revoir le système de Dublin pour partager l’accueil entre États.
+immigration|zemmour|orientation|Déclaration|zem-tf1,zem-press|Chercher à rendre les sorties du territoire plus nombreuses que les entrées.
+immigration|zemmour|mesure|Déclaration|zem-press|Afficher un objectif de deux millions d’immigrés de moins en un quinquennat.
+securite|glucksmann|mesure|Déclaration|oral|Renforcer la présence quotidienne de la police sur le terrain et conserver la possibilité d’armer la police municipale.
+securite|lisnard|mesure|Projet de parti|lis-secu|Renforcer les capacités des forces de l’ordre et des polices municipales et lutter davantage contre le narcotrafic.
+securite|roussel|mesure|Déclaration|oral|Recruter 60 000 policiers, gendarmes et douaniers de proximité et changer la doctrine de maintien de l’ordre.
+securite|roussel|financement|Déclaration|oral|Au Grand oral, Roussel avance un coût de plus d’un milliard d’euros pour les recrutements de proximité.
+securite|zemmour|mesure|Campagne|zem|Rétablir des peines planchers et renforcer la répression des violences lors de manifestations.
+justice|attal|mesure|Campagne|att-services|Recruter 3 000 magistrats et greffiers supplémentaires, réécrire la procédure pénale et dématérialiser les procédures.
+justice|glucksmann|mesure|Déclaration|oral|Donner davantage de moyens à la justice.
+justice|lisnard|mesure|Déclaration|lis-oral|Renforcer la réponse pénale dans la justice des mineurs.
+justice|philippe|mesure|Déclaration|oral|Accroître les moyens de la justice, introduire des peines planchers et construire de nouvelles places de prison.
+justice|tondelier|mesure|Déclaration|oral|Créer 9 000 postes de magistrats, 10 000 de greffiers et 7 000 d’assistants de justice.
+justice|zemmour|mesure|Campagne|zem|Construire 100 000 places de prison en deux ans, rétablir des peines planchers et supprimer des aménagements de peine.
+justice|zemmour|critique|Limite du chiffrage|zem,knafo|Le programme annonce un nombre de places et un délai, sans détailler sur la page de campagne les coûts de construction, d’entretien et de recrutement.
+institutions|attal|mesure|Campagne|att-jeunesse|Créer une convention composée de 150 jeunes de 16 à 25 ans tirés au sort.
+institutions|glucksmann|mesure|Campagne|gluck-climat|Inscrire le caractère écologique de la République dans l’article 1 de la Constitution.
+institutions|le-pen|mesure|Déclaration|pen-budget,ifrap|Inscrire dans la Constitution une règle budgétaire limitant le déficit de façon à faire reculer le poids de la dette.
+institutions|lisnard|mesure|Projet de parti|ifrap,lis|Instaurer une règle constitutionnelle limitant le déficit de fonctionnement et appliquer un principe de subsidiarité.
+institutions|philippe|mesure|Campagne|phil-fin|Soumettre au référendum une règle d’or imposant une trajectoire de redressement des comptes publics.
+institutions|retailleau|mesure|Campagne|lr-projet|Étendre le champ du référendum à tous les domaines législatifs et abaisser le seuil du référendum d’initiative partagée.
+institutions|ruffin|mesure|Projet de parti|ruff-mesures|Organiser des référendums à l’issue de grands débats publics et créer des instances locales de l’eau avec des citoyens tirés au sort.
+institutions|tondelier|mesure|Projet de parti|vert,vert-presse|Instaurer le référendum d’initiative citoyenne et remplacer le Conseil constitutionnel par une cour constitutionnelle.
+droits|attal|mesure|Campagne|att-projet|Automatiser le versement des pensions alimentaires aux familles monoparentales et les défiscaliser.
+droits|philippe|mesure|Campagne|phil-ecole|Améliorer les conditions d’accueil à l’école des enfants en situation de handicap.
+droits|roussel|mesure|Déclaration|pcf-discours|Défendre une loi globale pour lutter contre les violences sexistes et sexuelles.
+droits|roussel|financement|Déclaration|pcf-discours|Le discours associe 3 milliards d’euros à la loi.
+droits|ruffin|mesure|Campagne|ruff-programme|Créer un statut pour les travailleurs des métiers essentiels, avec des droits sur les salaires, les horaires et les carrières.
+droits|tondelier|mesure|Campagne|vert-sante|Garantir l’accès effectif à l’IVG et améliorer la prise en charge des violences sexistes et sexuelles.
+climat|attal|mesure|Campagne|att-jeunesse|Miser sur l’électrification et adapter les territoires au changement climatique.
+climat|glucksmann|orientation|Campagne|gluck-climat|Présenter la transition comme une politique de réduction des dépenses courantes et de la dépendance aux énergies fossiles.
+climat|glucksmann|mesure|Campagne|gluck-climat|Développer les solutions de mobilité électrique et collective et accélérer l’amélioration énergétique des logements.
+climat|glucksmann|financement|Campagne|gluck-climat|Le livret prévoit 200 milliards d’euros d’investissements publics sur le quinquennat. Il attend 50 milliards d’une contribution exceptionnelle sur les plus hauts patrimoines et cite aussi les taxes sur l’aviation et les superprofits fossiles.
+climat|glucksmann|critique|Analyse|gluck-climat-crit|Facta Mundi relève que le livret donne un montant pour la contribution exceptionnelle, mais laisse le rendement des autres recettes sans détail suffisant pour reconstituer un plan complet.
+climat|le-pen|mesure|Déclaration|pen-climat|Centrer l’adaptation à la chaleur sur la climatisation et l’action sur les émissions sur une énergie davantage produite en France.
+climat|lisnard|mesure|Déclaration|lis-energie|Défendre l’objectif de neutralité carbone en 2050 dans un cadre international qui réduise les risques de délocalisation.
+climat|philippe|mesure|Campagne|phil|Mettre en place un plan d’adaptation, comprenant la rénovation et la climatisation de bâtiments publics ainsi qu’une meilleure réutilisation de l’eau.
+climat|ruffin|mesure|Campagne|ruff-plan|Accélérer les rénovations performantes des logements et adapter les bâtiments publics aux fortes chaleurs.
+climat|ruffin|financement|Campagne|ruff-plan|La campagne propose de verser les contributions liées aux certificats d’économies d’énergie directement au budget de l’Anah afin de financer une partie des travaux.
+climat|tondelier|orientation|Projet de parti|vert|Faire de la transition écologique une politique de protection face aux risques climatiques et sociaux.
+climat|tondelier|mesure|Projet de parti|vert|Accélérer l’adaptation des territoires et la rénovation des bâtiments exposés aux événements climatiques.
+energie|attal|mesure|Campagne|att-jeunesse|Construire 14 nouveaux réacteurs nucléaires, développer les renouvelables et électrifier les usages.
+energie|glucksmann|mesure|Campagne|gluck-climat|Plus que doubler la production d’énergie renouvelable d’ici 2035.
+energie|glucksmann|financement|Campagne|gluck-climat|La campagne compte surtout sur des financements privés pour cette augmentation, avec un cadre réglementaire stabilisé.
+energie|le-pen|mesure|Campagne|pen-climat,pen-tract|Donner la priorité au nucléaire et défendre une politique énergétique centrée sur les coûts de production français.
+energie|philippe|mesure|Campagne|phil|Relancer le nucléaire et faire baisser le prix de l’électricité pour les industriels.
 energie|roussel|orientation|Déclaration|oral|Reprendre la maîtrise publique de la production et de la distribution d’énergie.
 energie|roussel|mesure|Déclaration|oral|Constituer un pôle public regroupant EDF, Engie et TotalEnergies.
 energie|roussel|financement|Déclaration|oral|Roussel évalue le coût de cette nationalisation à environ 180 milliards d’euros au Grand oral. La source ne fournit pas de mode de financement.
-industrie|roussel|mesure|Campagne|pcf-local|Doubler la part de l’industrie dans le PIB et augmenter fortement la production nucléaire.
-securite|roussel|mesure|Déclaration|oral|Recruter 60 000 policiers, gendarmes et douaniers de proximité et changer la doctrine de maintien de l’ordre.
-securite|roussel|financement|Déclaration|oral|Au Grand oral, Roussel avance un coût de plus d’un milliard d’euros pour les recrutements de proximité.
-services|roussel|mesure|Déclaration|oral|Recruter 500 000 fonctionnaires sur cinq ans et revaloriser le point d’indice de 10 % immédiatement, puis de 20 à 30 % sur le quinquennat.
-services|roussel|financement|Déclaration|oral|Au Grand oral, le candidat estime à environ 15 milliards d’euros l’ensemble recrutements et revalorisation. La synthèse ne donne pas le détail de la couverture budgétaire.
-transports|roussel|mesure|Campagne|pcf-local|Moderniser le réseau ferroviaire.
-justice|philippe|mesure|Déclaration|oral|Accroître les moyens de la justice, introduire des peines planchers et construire de nouvelles places de prison.
-immigration|attal|orientation|Campagne|att-points|Donner la priorité à l’immigration de travail selon des critères de qualification et d’intégration.
-immigration|attal|mesure|Campagne|att-points|Adopter un système à points qui tient notamment compte de l’offre d’emploi, du logement et du niveau de français. Le Parlement voterait des quotas tous les deux ans.
-fiscalite|attal|mesure|Campagne|att-fisc,att-projet|Fixer les principales règles fiscales pour dix ans et maintenir le crédit d’impôt recherche et le pacte Dutreil sur la transmission des entreprises.
-energie|attal|mesure|Campagne|att-jeunesse|Construire 14 nouveaux réacteurs nucléaires, développer les renouvelables et électrifier les usages.
-prix|attal|mesure|Campagne|att-projet|Garantir la stabilité des prix de l’électricité pendant cinq ans et instaurer un bouclier tarifaire sur le prix de l’eau.
-climat|attal|mesure|Campagne|att-jeunesse|Miser sur l’électrification et adapter les territoires au changement climatique.
+energie|ruffin|mesure|Campagne|ruff-mesures|Mettre en place des contrats d’électricité de long terme gérés par un acheteur public, avec un prix lié au coût de production en France.
+energie|tondelier|mesure|Projet de parti|vert,vert-synth|Accélérer les énergies renouvelables et engager une sortie progressive du nucléaire.
 transports|attal|mesure|Campagne|att-jeunesse|Étendre les bornes de recharge, proposer un leasing électrique aux travailleurs de première ligne et une prime pour les véhicules propres d’occasion.
+transports|glucksmann|mesure|Campagne|gluck-climat|Développer l’offre de transports collectifs et faciliter l’accès à la voiture électrique pour les ménages modestes.
+transports|lisnard|mesure|Déclaration|lis-energie|Fixer des objectifs de réduction des émissions en laissant aux entreprises le choix des technologies.
+transports|philippe|mesure|Campagne|phil|Soutenir l’accès au véhicule électrique d’occasion.
+transports|roussel|mesure|Campagne|pcf-local|Moderniser le réseau ferroviaire.
+transports|ruffin|mesure|Campagne|ruff-programme,ruff-climat|Proposer un leasing social ciblé sur trois millions de personnes qui roulent beaucoup.
+transports|tondelier|mesure|Déclaration|oral|Créer en dix ans un parc public d’un million de véhicules électriques, accessible aux 60 % de Français les plus modestes.
 agriculture|attal|mesure|Campagne|att-projet|Fixer des prix planchers indexés sur les coûts de production et encourager des contrats pluriannuels.
-europe|attal|mesure|Campagne|att-jeunesse|Approfondir l’intégration entre États européens volontaires, avec un droit économique commun et une convergence fiscale.
-defense|attal|mesure|Campagne|att-projet|Créer des fonds d’investissement spécialisés dans les PME de défense et revoir l’accès à la commande publique.
-institutions|attal|mesure|Campagne|att-jeunesse|Créer une convention composée de 150 jeunes de 16 à 25 ans tirés au sort.
-numerique|attal|financement|Campagne|att-jeunesse|Le discours de Lyon annonce un plan de 200 milliards d’euros pour la puissance de calcul. Le résumé de campagne ne précise pas la répartition entre financements publics et privés.
-climat|glucksmann|critique|Analyse|gluck-climat-crit|Facta Mundi relève que le livret donne un montant pour la contribution exceptionnelle, mais laisse le rendement des autres recettes sans détail suffisant pour reconstituer un plan complet.
-prix|glucksmann|financement|Campagne|gluck-chiffres|La campagne annonce un chèque énergie exceptionnel de 500 € pour six millions de familles et de 200 € pour dix millions de familles supplémentaires.
-prix|glucksmann|critique|Analyse|gluck-climat-crit|Le média Facta Mundi estime le coût de ces chèques à 5 milliards d’euros pour une distribution, sur la base des montants et du nombre de foyers annoncés.
-retraites|glucksmann|mesure|Projet de parti|gluck-projet,gluck-acte|Dans son Acte I, Place publique propose d’abroger la réforme des retraites de 2023 et de créer un Haut Conseil du pilotage des retraites.
-dette|le-pen|financement|Déclaration|pen-budget,pen-fin|Le RN place dans sa trajectoire des économies liées à l’immigration et à la baisse de dépenses publiques. Les montants annoncés dans le contre-budget 2026 correspondent à un autre document.
-institutions|le-pen|mesure|Déclaration|pen-budget,ifrap|Inscrire dans la Constitution une règle budgétaire limitant le déficit de façon à faire reculer le poids de la dette.
+agriculture|lisnard|mesure|Projet de parti|lis-agri,lis-energie|Créer un statut de l’entreprise agricole et développer les filières françaises de transformation.
+agriculture|ruffin|mesure|Campagne|ruff-agri,ruff-mesures|Développer les paiements qui rémunèrent aux exploitants des services environnementaux.
 agriculture|tondelier|mesure|Projet de parti|vert|Viser 25 % d’agriculture biologique en 2032 et garantir pendant trois ans un revenu aux exploitants qui signent un contrat de transition agroécologique.
 agriculture|tondelier|financement|Projet de parti|vert|Redéployer 15 % des aides agricoles versées sans condition environnementale vers la rémunération de pratiques qui restaurent les écosystèmes.
-energie|tondelier|mesure|Projet de parti|vert,vert-synth|Accélérer les énergies renouvelables et engager une sortie progressive du nucléaire.
-immigration|tondelier|mesure|Projet de parti|vert|Créer des voies d’immigration légales et sûres au niveau européen et revoir le système de Dublin pour partager l’accueil entre États.
-europe|tondelier|mesure|Projet de parti|vert|Revoir le pacte européen sur la migration et l’asile et mettre fin aux accords qui externalisent le contrôle des frontières européennes.
+territoires|attal|mesure|Campagne|att-projet|Renforcer le pouvoir de décision des maires et soutenir l’accès à l’eau et la production locale d’énergie.
+territoires|lisnard|mesure|Déclaration|lis-energie|Transférer davantage de pouvoir réglementaire aux élus locaux.
+territoires|philippe|mesure|Campagne|phil|Renforcer la lutte contre le narcotrafic outre-mer et doubler le nombre de navires dans le Pacifique et l’océan Indien.
 territoires|tondelier|mesure|Projet de parti|vert|Adapter en outre-mer les aides européennes à l’agriculture et favoriser les langues et l’histoire locales dans les programmes scolaires.
-institutions|tondelier|mesure|Projet de parti|vert,vert-presse|Instaurer le référendum d’initiative citoyenne et remplacer le Conseil constitutionnel par une cour constitutionnelle.
-dette|tondelier|mesure|Projet de parti|vert,ifrap|Financer les services publics jugés essentiels par l’impôt et conditionner ou supprimer les subventions nuisibles à l’environnement.
+europe|attal|mesure|Campagne|att-jeunesse|Approfondir l’intégration entre États européens volontaires, avec un droit économique commun et une convergence fiscale.
+europe|glucksmann|orientation|Projet de parti|gluck-projet,gluck-acte|Faire de l’intégration européenne un levier de l’action industrielle et de l’autonomie politique.
+europe|glucksmann|mesure|Projet de parti|gluck-projet|Construire une capacité européenne d’investissement et de financement commune pour les priorités stratégiques.
+europe|philippe|mesure|Campagne|phil|Mettre en commun des moyens à l’échelle européenne via un pacte sur la puissance numérique.
+europe|retailleau|mesure|Campagne|lr-projet|Prévoir d’écarter l’application du droit de l’Union européenne lorsque les autorités françaises estiment qu’il dépasse les compétences attribuées à l’Union.
+europe|roussel|mesure|Déclaration|pcf-discours|Refuser une Europe fédérale et défendre une voix française indépendante.
+europe|tondelier|mesure|Projet de parti|vert|Revoir le pacte européen sur la migration et l’asile et mettre fin aux accords qui externalisent le contrôle des frontières européennes.
+defense|attal|mesure|Campagne|att-projet|Créer des fonds d’investissement spécialisés dans les PME de défense et revoir l’accès à la commande publique.
+defense|glucksmann|mesure|Projet de parti|gluck-projet,gluck-acte|Construire une défense européenne davantage intégrée et renforcer les capacités militaires européennes.
+defense|philippe|mesure|Campagne|phil|Renforcer la présence maritime en doublant le nombre de navires dans le Pacifique et l’océan Indien.
+defense|roussel|mesure|Déclaration|pcf-discours|S’opposer à l’augmentation des crédits militaires annoncée et défendre une politique moins alignée sur les États-Unis et l’OTAN.
+culture|tondelier|mesure|Campagne|vert-culture|Réduire les inégalités d’accès aux activités culturelles et soutenir la création dans les territoires.
 culture|tondelier|financement|Projet de parti|vert|Le projet propose de financer une assurance-chômage pour les artistes-auteurs par une hausse de 5 % de la cotisation des diffuseurs.
-ecole|lisnard|critique|Recherche|sectorisation|Des travaux publiés par le ministère relient l’essor durable des inscriptions hors secteur à une hiérarchisation accrue entre collèges. Ils portent sur un assouplissement antérieur de la carte scolaire.
-immigration|lisnard|mesure|Projet de parti|lis-imm|Fixer des quotas de main-d’œuvre qualifiée et conditionner le regroupement familial aux ressources et à des tests d’intégration.
-industrie|lisnard|mesure|Projet de parti|lis,ifrap|Réduire les impôts de production.
-industrie|lisnard|financement|Déclaration|ifrap,lis-fin|Selon le relevé de l’iFRAP, 40 milliards d’euros des économies annoncées iraient aux baisses d’impôts de production.
-institutions|lisnard|mesure|Projet de parti|ifrap,lis|Instaurer une règle constitutionnelle limitant le déficit de fonctionnement et appliquer un principe de subsidiarité.
-dette|zemmour|financement|Document de l’entourage|knafo,zem|Sarah Knafo publie un scénario d’économies de 140 milliards d’euros par an pour Reconquête. La présentation d’Éric Zemmour annonce les baisses d’impôts sans établir la correspondance entre chaque perte de recettes et les économies.
-services|zemmour|mesure|Document de l’entourage|knafo,ifrap|Le scénario présenté par Sarah Knafo prévoit de ne pas remplacer 800 000 postes sur cinq ans, en protégeant certaines missions de terrain.
-justice|zemmour|critique|Limite du chiffrage|zem,knafo|Le programme annonce un nombre de places et un délai, sans détailler sur la page de campagne les coûts de construction, d’entretien et de recrutement.
+numerique|attal|mesure|Campagne|att-eco|Former 20 millions de salariés à l’intelligence artificielle afin de stimuler la productivité.
+numerique|attal|financement|Campagne|att-jeunesse|Le discours de Lyon annonce un plan de 200 milliards d’euros pour la puissance de calcul. Le résumé de campagne ne précise pas la répartition entre financements publics et privés.
+numerique|philippe|mesure|Campagne|phil|Proposer un pacte européen sur le numérique, développer la puissance de calcul en France et former 100 000 ingénieurs par an.
 numerique|ruffin|mesure|Campagne|ruff-programme|Réduire la dépendance aux plateformes et aux fournisseurs américains de services numériques.
-retraites|ruffin|mesure|Campagne|ruff-programme,ruff-mesures|Avancer l’âge de départ pour les métiers pénibles à l’aide de trimestres supplémentaires.
-transports|ruffin|mesure|Campagne|ruff-programme,ruff-climat|Proposer un leasing social ciblé sur trois millions de personnes qui roulent beaucoup.
