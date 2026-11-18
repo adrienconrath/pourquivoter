@@ -32,7 +32,7 @@ retraites|philippe|302|302|10|4|2|2|a_approfondir|non
 retraites|lisnard|15|945|13|10|4|3|controle_qualitatif|relue
 retraites|retailleau|196|196|6|3|2|1|insuffisant|non
 retraites|le-pen|357|357|10|5|4|2|a_approfondir|non
-retraites|zemmour|41|41|1|1|0|0|insuffisant|non
+retraites|zemmour|41|996|13|11|4|3|controle_qualitatif|relue
 fiscalite|melenchon|0|971|13|10|3|3|controle_qualitatif|relue
 fiscalite|ruffin|836|836|12|13|3|2|controle_qualitatif|non
 fiscalite|roussel|842|842|11|21|3|2|controle_qualitatif|non
@@ -111,7 +111,7 @@ logement|retailleau|256|256|8|4|2|1|a_approfondir|non
 logement|le-pen|154|154|5|2|3|0|insuffisant|non
 logement|zemmour|61|61|2|2|1|0|insuffisant|non
 services|melenchon|0|1088|14|11|4|2|controle_qualitatif|relue
-services|ruffin|41|41|1|2|0|0|insuffisant|non
+services|ruffin|41|1069|13|11|4|1|controle_qualitatif|relue
 services|roussel|119|119|4|3|1|1|insuffisant|non
 services|tondelier|86|86|3|2|1|0|insuffisant|non
 services|glucksmann|147|147|4|4|1|0|insuffisant|non
@@ -265,7 +265,7 @@ culture|retailleau|0|864|12|10|4|2|controle_qualitatif|relue
 culture|le-pen|57|57|2|1|1|0|insuffisant|non
 culture|zemmour|45|45|2|1|0|1|insuffisant|non
 numerique|melenchon|0|1084|17|11|3|1|controle_qualitatif|relue
-numerique|ruffin|40|40|2|2|0|0|insuffisant|non
+numerique|ruffin|40|973|11|8|4|1|controle_qualitatif|relue
 numerique|roussel|0|851|13|12|4|1|controle_qualitatif|relue
 numerique|tondelier|35|851|11|7|3|2|controle_qualitatif|relue
 numerique|glucksmann|53|53|2|2|0|0|insuffisant|non

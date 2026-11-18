@@ -38,7 +38,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Retraites | David Lisnard | 15 | 945 | 10 | 4 | Relue |
 | Retraites | Bruno Retailleau | 196 | 196 | 3 | 2 | Non relue |
 | Retraites | Marine Le Pen | 357 | 357 | 5 | 4 | Non relue |
-| Retraites | Éric Zemmour | 41 | 41 | 1 | 0 | Non relue |
+| Retraites | Éric Zemmour | 41 | 996 | 11 | 4 | Relue |
 | Impôts et patrimoine | Jean-Luc Mélenchon | 0 | 971 | 10 | 3 | Relue |
 | Impôts et patrimoine | François Ruffin | 836 | 836 | 13 | 3 | Non relue |
 | Impôts et patrimoine | Fabien Roussel | 842 | 842 | 21 | 3 | Non relue |
@@ -117,7 +117,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Logement | Marine Le Pen | 154 | 154 | 2 | 3 | Non relue |
 | Logement | Éric Zemmour | 61 | 61 | 2 | 1 | Non relue |
 | Fonction publique | Jean-Luc Mélenchon | 0 | 1088 | 11 | 4 | Relue |
-| Fonction publique | François Ruffin | 41 | 41 | 2 | 0 | Non relue |
+| Fonction publique | François Ruffin | 41 | 1069 | 11 | 4 | Relue |
 | Fonction publique | Fabien Roussel | 119 | 119 | 3 | 1 | Non relue |
 | Fonction publique | Marine Tondelier | 86 | 86 | 2 | 1 | Non relue |
 | Fonction publique | Raphaël Glucksmann | 147 | 147 | 4 | 1 | Non relue |
@@ -271,7 +271,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Culture et médias | Marine Le Pen | 57 | 57 | 1 | 1 | Non relue |
 | Culture et médias | Éric Zemmour | 45 | 45 | 1 | 0 | Non relue |
 | Numérique et IA | Jean-Luc Mélenchon | 0 | 1084 | 11 | 3 | Relue |
-| Numérique et IA | François Ruffin | 40 | 40 | 2 | 0 | Non relue |
+| Numérique et IA | François Ruffin | 40 | 973 | 8 | 4 | Relue |
 | Numérique et IA | Fabien Roussel | 0 | 851 | 12 | 4 | Relue |
 | Numérique et IA | Marine Tondelier | 35 | 851 | 7 | 3 | Relue |
 | Numérique et IA | Raphaël Glucksmann | 53 | 53 | 2 | 0 | Non relue |
