@@ -241,7 +241,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Europe | François Ruffin | 776 | 776 | 22 | 3 | Non relue |
 | Europe | Fabien Roussel | 915 | 912 | 21 | 4 | Non relue |
 | Europe | Marine Tondelier | 950 | 950 | 20 | 4 | Non relue |
-| Europe | Raphaël Glucksmann | 995 | 995 | 21 | 4 | Non relue |
+| Europe | Raphaël Glucksmann | 995 | 1014 | 15 | 5 | Relue |
 | Europe | Gabriel Attal | 885 | 1003 | 12 | 5 | Relue |
 | Europe | Édouard Philippe | 983 | 1057 | 14 | 3 | Relue |
 | Europe | David Lisnard | 789 | 789 | 19 | 3 | Non relue |
