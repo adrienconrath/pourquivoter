@@ -86,7 +86,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Protection de l’enfance | Jean-Luc Mélenchon | 0 | 956 | 13 | 3 | Relue |
 | Protection de l’enfance | François Ruffin | 0 | 917 | 12 | 3 | Relue |
 | Protection de l’enfance | Fabien Roussel | 0 | 832 | 8 | 3 | Relue |
-| Protection de l’enfance | Marine Tondelier | 0 | 0 | 0 | 0 | Non relue |
+| Protection de l’enfance | Marine Tondelier | 0 | 872 | 8 | 4 | Relue |
 | Protection de l’enfance | Raphaël Glucksmann | 0 | 0 | 0 | 0 | Non relue |
 | Protection de l’enfance | Gabriel Attal | 0 | 1019 | 19 | 4 | Relue |
 | Protection de l’enfance | Édouard Philippe | 0 | 0 | 0 | 0 | Non relue |
@@ -160,7 +160,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Justice | Bruno Retailleau | 86 | 86 | 1 | 1 | Non relue |
 | Justice | Marine Le Pen | 0 | 1130 | 12 | 3 | Relue |
 | Justice | Éric Zemmour | 179 | 179 | 5 | 4 | Non relue |
-| Institutions et démocratie | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
+| Institutions et démocratie | Jean-Luc Mélenchon | 0 | 1101 | 14 | 6 | Relue |
 | Institutions et démocratie | François Ruffin | 47 | 47 | 3 | 0 | Non relue |
 | Institutions et démocratie | Fabien Roussel | 0 | 941 | 10 | 4 | Relue |
 | Institutions et démocratie | Marine Tondelier | 40 | 40 | 2 | 0 | Non relue |
@@ -204,7 +204,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Énergie | Bruno Retailleau | 54 | 54 | 1 | 0 | Non relue |
 | Énergie | Marine Le Pen | 46 | 46 | 3 | 0 | Non relue |
 | Énergie | Éric Zemmour | 24 | 24 | 1 | 0 | Non relue |
-| Transports | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
+| Transports | Jean-Luc Mélenchon | 0 | 1015 | 10 | 3 | Relue |
 | Transports | François Ruffin | 13 | 13 | 2 | 0 | Non relue |
 | Transports | Fabien Roussel | 4 | 965 | 8 | 3 | Relue |
 | Transports | Marine Tondelier | 218 | 218 | 3 | 1 | Non relue |
