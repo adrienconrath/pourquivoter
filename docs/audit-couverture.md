@@ -118,7 +118,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Logement | Éric Zemmour | 61 | 1083 | 11 | 4 | Relue |
 | Fonction publique | Jean-Luc Mélenchon | 0 | 1088 | 11 | 4 | Relue |
 | Fonction publique | François Ruffin | 41 | 1069 | 11 | 4 | Relue |
-| Fonction publique | Fabien Roussel | 119 | 119 | 3 | 1 | Non relue |
+| Fonction publique | Fabien Roussel | 119 | 984 | 13 | 5 | Relue |
 | Fonction publique | Marine Tondelier | 86 | 891 | 8 | 3 | Relue |
 | Fonction publique | Raphaël Glucksmann | 147 | 147 | 4 | 1 | Non relue |
 | Fonction publique | Gabriel Attal | 123 | 123 | 5 | 2 | Non relue |
