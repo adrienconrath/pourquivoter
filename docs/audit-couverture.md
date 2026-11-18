@@ -134,7 +134,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Immigration et asile | Raphaël Glucksmann | 65 | 65 | 4 | 0 | Non relue |
 | Immigration et asile | Gabriel Attal | 121 | 121 | 2 | 1 | Non relue |
 | Immigration et asile | Édouard Philippe | 179 | 179 | 3 | 2 | Non relue |
-| Immigration et asile | David Lisnard | 49 | 49 | 2 | 0 | Non relue |
+| Immigration et asile | David Lisnard | 49 | 1061 | 13 | 5 | Relue |
 | Immigration et asile | Bruno Retailleau | 119 | 119 | 4 | 1 | Non relue |
 | Immigration et asile | Marine Le Pen | 157 | 157 | 4 | 2 | Non relue |
 | Immigration et asile | Éric Zemmour | 90 | 90 | 4 | 0 | Non relue |
