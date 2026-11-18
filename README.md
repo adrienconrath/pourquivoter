@@ -24,5 +24,7 @@ Suivre le [skill d’actualisation](.agents/skills/actualiser-pour-qui-voter/SKI
 - `data/positions.tsv` contient une affirmation par ligne. Plusieurs affirmations peuvent alimenter la même rubrique avec des références distinctes. Chaque entrée documentée comprend au moins une proposition ou une déclaration.
 - `data/sources.tsv` contient les identifiants, titres, types et URL des références.
 - `data/edition.txt` indique la date d’arrêt des recherches. La date de génération est calculée au moment de la construction, dans le fuseau Europe/Paris.
+- `data/audit-couverture.tsv` relève toutes les cases et leurs lacunes quantitatives ; régénérer avec `python3 scripts/audit_coverage.py`. Un texte long n'est pas automatiquement une recherche vérifiée.
+- `data/recherches.tsv` suit les recherches effectivement relues, leurs supports et leurs limites. Les journaux détaillés disponibles sont dans `docs/recherches/`.
 
 Les positions manquantes restent visibles dans le comparateur. Les ajouts sur `main` déclenchent le workflow GitHub Pages.
