@@ -184,7 +184,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Égalité et droits | Éric Zemmour | 0 | 1131 | 14 | 5 | Relue |
 | Climat et adaptation | Jean-Luc Mélenchon | 0 | 1035 | 12 | 3 | Relue |
 | Climat et adaptation | François Ruffin | 115 | 115 | 2 | 0 | Non relue |
-| Climat et adaptation | Fabien Roussel | 98 | 98 | 3 | 0 | Non relue |
+| Climat et adaptation | Fabien Roussel | 98 | 1042 | 13 | 4 | Relue |
 | Climat et adaptation | Marine Tondelier | 108 | 108 | 3 | 1 | Non relue |
 | Climat et adaptation | Raphaël Glucksmann | 209 | 209 | 4 | 2 | Non relue |
 | Climat et adaptation | Gabriel Attal | 10 | 1180 | 21 | 4 | Relue |
