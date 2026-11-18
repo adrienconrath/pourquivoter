@@ -78,7 +78,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | École et jeunesse | Marine Tondelier | 12 | 992 | 10 | 3 | Relue |
 | École et jeunesse | Raphaël Glucksmann | 58 | 1006 | 12 | 4 | Relue |
 | École et jeunesse | Gabriel Attal | 151 | 151 | 4 | 1 | Non relue |
-| École et jeunesse | Édouard Philippe | 116 | 116 | 1 | 0 | Non relue |
+| École et jeunesse | Édouard Philippe | 116 | 927 | 10 | 4 | Relue |
 | École et jeunesse | David Lisnard | 182 | 182 | 4 | 2 | Non relue |
 | École et jeunesse | Bruno Retailleau | 68 | 1038 | 14 | 4 | Relue |
 | École et jeunesse | Marine Le Pen | 51 | 1103 | 10 | 3 | Relue |
@@ -183,7 +183,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Égalité et droits | Marine Le Pen | 0 | 1161 | 15 | 4 | Relue |
 | Égalité et droits | Éric Zemmour | 0 | 1131 | 14 | 5 | Relue |
 | Climat et adaptation | Jean-Luc Mélenchon | 0 | 1035 | 12 | 3 | Relue |
-| Climat et adaptation | François Ruffin | 115 | 115 | 2 | 0 | Non relue |
+| Climat et adaptation | François Ruffin | 115 | 1098 | 11 | 3 | Relue |
 | Climat et adaptation | Fabien Roussel | 98 | 1042 | 13 | 4 | Relue |
 | Climat et adaptation | Marine Tondelier | 108 | 1052 | 16 | 4 | Relue |
 | Climat et adaptation | Raphaël Glucksmann | 209 | 209 | 4 | 2 | Non relue |

@@ -72,7 +72,7 @@ ecole|roussel|153|153|5|3|1|1|insuffisant|non
 ecole|tondelier|12|992|15|10|3|2|controle_qualitatif|relue
 ecole|glucksmann|58|1006|14|12|4|2|controle_qualitatif|relue
 ecole|attal|151|151|5|4|1|2|insuffisant|non
-ecole|philippe|116|116|4|1|0|1|insuffisant|non
+ecole|philippe|116|927|16|10|4|1|controle_qualitatif|relue
 ecole|lisnard|182|182|6|4|2|1|insuffisant|non
 ecole|retailleau|68|1038|15|14|4|3|controle_qualitatif|relue
 ecole|le-pen|51|1103|13|10|3|2|controle_qualitatif|relue
@@ -177,7 +177,7 @@ droits|retailleau|0|1136|14|13|3|2|controle_qualitatif|relue
 droits|le-pen|0|1161|16|15|4|1|controle_qualitatif|relue
 droits|zemmour|0|1131|17|14|5|2|controle_qualitatif|relue
 climat|melenchon|0|1035|14|12|3|2|controle_qualitatif|relue
-climat|ruffin|115|115|4|2|0|2|insuffisant|non
+climat|ruffin|115|1098|15|11|3|2|controle_qualitatif|relue
 climat|roussel|98|1042|17|13|4|3|controle_qualitatif|relue
 climat|tondelier|108|1052|16|16|4|2|controle_qualitatif|relue
 climat|glucksmann|209|209|7|4|2|2|insuffisant|non
