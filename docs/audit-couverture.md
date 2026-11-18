@@ -27,16 +27,16 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Coût de la vie | David Lisnard | 45 | 800 | 11 | 4 | Relue |
 | Coût de la vie | Bruno Retailleau | 44 | 966 | 14 | 3 | Relue |
 | Coût de la vie | Marine Le Pen | 155 | 848 | 11 | 5 | Relue |
-| Coût de la vie | Éric Zemmour | 119 | 808 | 11 | 4 | Relue |
+| Coût de la vie | Éric Zemmour | 119 | 799 | 11 | 4 | Relue |
 | Retraites | Jean-Luc Mélenchon | 0 | 979 | 13 | 6 | Relue |
-| Retraites | François Ruffin | 45 | 1097 | 12 | 5 | Relue |
+| Retraites | François Ruffin | 45 | 1087 | 12 | 5 | Relue |
 | Retraites | Fabien Roussel | 77 | 1022 | 12 | 6 | Relue |
-| Retraites | Marine Tondelier | 27 | 1116 | 13 | 5 | Relue |
-| Retraites | Raphaël Glucksmann | 24 | 790 | 10 | 3 | Relue |
+| Retraites | Marine Tondelier | 27 | 1106 | 13 | 5 | Relue |
+| Retraites | Raphaël Glucksmann | 24 | 779 | 10 | 3 | Relue |
 | Retraites | Gabriel Attal | 103 | 1167 | 16 | 4 | Relue |
 | Retraites | Édouard Philippe | 302 | 1039 | 14 | 4 | Relue |
 | Retraites | David Lisnard | 15 | 907 | 11 | 5 | Relue |
-| Retraites | Bruno Retailleau | 196 | 1106 | 17 | 3 | Relue |
+| Retraites | Bruno Retailleau | 196 | 1097 | 17 | 3 | Relue |
 | Retraites | Marine Le Pen | 357 | 1083 | 12 | 5 | Relue |
 | Retraites | Éric Zemmour | 41 | 1019 | 12 | 4 | Relue |
 | Impôts et patrimoine | Jean-Luc Mélenchon | 0 | 838 | 11 | 4 | Relue |
@@ -54,13 +54,13 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Travail et salaires | François Ruffin | 98 | 1016 | 13 | 3 | Relue |
 | Travail et salaires | Fabien Roussel | 72 | 985 | 11 | 3 | Relue |
 | Travail et salaires | Marine Tondelier | 145 | 1055 | 10 | 4 | Relue |
-| Travail et salaires | Raphaël Glucksmann | 33 | 967 | 11 | 5 | Relue |
+| Travail et salaires | Raphaël Glucksmann | 33 | 957 | 11 | 5 | Relue |
 | Travail et salaires | Gabriel Attal | 97 | 1089 | 17 | 4 | Relue |
 | Travail et salaires | Édouard Philippe | 46 | 943 | 11 | 6 | Relue |
 | Travail et salaires | David Lisnard | 18 | 1122 | 15 | 4 | Relue |
-| Travail et salaires | Bruno Retailleau | 39 | 1139 | 12 | 3 | Relue |
+| Travail et salaires | Bruno Retailleau | 39 | 1127 | 12 | 3 | Relue |
 | Travail et salaires | Marine Le Pen | 140 | 1035 | 8 | 4 | Relue |
-| Travail et salaires | Éric Zemmour | 12 | 1119 | 12 | 5 | Relue |
+| Travail et salaires | Éric Zemmour | 12 | 1106 | 12 | 5 | Relue |
 | Industrie et entreprises | Jean-Luc Mélenchon | 0 | 983 | 13 | 3 | Relue |
 | Industrie et entreprises | François Ruffin | 45 | 1090 | 12 | 3 | Relue |
 | Industrie et entreprises | Fabien Roussel | 14 | 986 | 10 | 3 | Relue |
@@ -75,7 +75,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | École et jeunesse | Jean-Luc Mélenchon | 0 | 891 | 9 | 5 | Relue |
 | École et jeunesse | François Ruffin | 16 | 824 | 9 | 5 | Relue |
 | École et jeunesse | Fabien Roussel | 153 | 902 | 15 | 5 | Relue |
-| École et jeunesse | Marine Tondelier | 12 | 837 | 11 | 3 | Relue |
+| École et jeunesse | Marine Tondelier | 12 | 821 | 11 | 3 | Relue |
 | École et jeunesse | Raphaël Glucksmann | 58 | 899 | 14 | 4 | Relue |
 | École et jeunesse | Gabriel Attal | 151 | 896 | 24 | 3 | Relue |
 | École et jeunesse | Édouard Philippe | 116 | 802 | 11 | 4 | Relue |
@@ -259,17 +259,17 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Défense et diplomatie | Bruno Retailleau | 0 | 919 | 11 | 3 | Relue |
 | Défense et diplomatie | Marine Le Pen | 0 | 980 | 13 | 4 | Relue |
 | Défense et diplomatie | Éric Zemmour | 0 | 938 | 13 | 3 | Relue |
-| Culture et médias | Jean-Luc Mélenchon | 0 | 1062 | 14 | 4 | Relue |
-| Culture et médias | François Ruffin | 24 | 852 | 9 | 4 | Relue |
-| Culture et médias | Fabien Roussel | 0 | 1053 | 12 | 3 | Relue |
-| Culture et médias | Marine Tondelier | 58 | 928 | 9 | 4 | Relue |
-| Culture et médias | Raphaël Glucksmann | 94 | 1067 | 11 | 4 | Relue |
-| Culture et médias | Gabriel Attal | 0 | 1109 | 13 | 4 | Relue |
-| Culture et médias | Édouard Philippe | 0 | 1035 | 13 | 4 | Relue |
-| Culture et médias | David Lisnard | 0 | 926 | 12 | 4 | Relue |
-| Culture et médias | Bruno Retailleau | 0 | 864 | 10 | 4 | Relue |
-| Culture et médias | Marine Le Pen | 57 | 960 | 10 | 4 | Relue |
-| Culture et médias | Éric Zemmour | 45 | 1002 | 12 | 4 | Relue |
+| Culture et médias | Jean-Luc Mélenchon | 0 | 927 | 15 | 6 | Relue |
+| Culture et médias | François Ruffin | 24 | 835 | 10 | 6 | Relue |
+| Culture et médias | Fabien Roussel | 0 | 916 | 13 | 3 | Relue |
+| Culture et médias | Marine Tondelier | 58 | 883 | 10 | 6 | Relue |
+| Culture et médias | Raphaël Glucksmann | 94 | 1051 | 12 | 5 | Relue |
+| Culture et médias | Gabriel Attal | 0 | 949 | 14 | 5 | Relue |
+| Culture et médias | Édouard Philippe | 0 | 974 | 14 | 5 | Relue |
+| Culture et médias | David Lisnard | 0 | 909 | 13 | 5 | Relue |
+| Culture et médias | Bruno Retailleau | 0 | 748 | 11 | 4 | Relue |
+| Culture et médias | Marine Le Pen | 57 | 963 | 11 | 5 | Relue |
+| Culture et médias | Éric Zemmour | 45 | 913 | 12 | 4 | Relue |
 | Numérique et IA | Jean-Luc Mélenchon | 0 | 1084 | 11 | 3 | Relue |
 | Numérique et IA | François Ruffin | 40 | 973 | 8 | 4 | Relue |
 | Numérique et IA | Fabien Roussel | 0 | 851 | 12 | 4 | Relue |
