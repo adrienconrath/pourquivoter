@@ -1,0 +1,37 @@
+Mission : industrie|glucksmann. Relevé du 18 novembre 2026. Aucun fichier suivi modifié.
+Skill lu : /home/adrienconrath/Desktop/Projects/pourquivoter/.agents/skills/actualiser-pour-qui-voter/SKILL.md. Position existante réduite à une seule ligne sur batteries/PAC/commande publique/MACF. Catalogue data/sources.tsv consulté pour réutilisation des identifiants.
+
+Requêtes web réellement exécutées :
+- Glucksmann industrie plan 2026 batteries pompes chaleur 200 milliards
+- Glucksmann Buy European Act critique industrie protectionnisme
+- Glucksmann nationalisation ArcelorMittal 2025 2026
+- Buy European Act critique France industrie Medef 2026 surcoût
+- mécanisme ajustement carbone frontières critique industriels exportations 2026 France Industrie
+- site:dixipolis.com/video Glucksmann industrie protectionnisme
+- Glucksmann industrie 2026 site:rtl.fr
+- Glucksmann industrie 2026 site:bfmtv.com
+
+URLs effectivement ouvertes et passages lus :
+https://pourquijevote.com/transcripts/39be6cea-feba-4ea5-86e8-aa11cda31ada : transcription effective, pas résumé automatique. 0:00–1:24 commande publique européenne et usines, 1:24 doctrine, 2:08–2:52 question du journaliste sur prix et réponse, 4:58 et après pouvoir d’achat. Le texte automatique écrit « bail européen Act », « BW », « Chine » pour marques/anglicismes ; ces erreurs ne sont pas reprises. L’attribution des locuteurs est absente dans cet index, mais le tour interrogatif et sa réponse sont visibles. Citation courte exacte de 11 mots à 1:24. Vidéo d’origine non revisionnée ; aucune correction de marque hasardeuse.
+https://dixipolis.com/presidentielle-2027 : index effectivement consulté, puis profil https://dixipolis.com/politicien/raphael-glucksmann et https://dixipolis.com/video/226252. Grand oral services publics 12 novembre : recherche du mot industrie ; plusieurs passages appartiennent à Attal/Roussel, NON attribués à Glucksmann.
+https://dixipolis.com/video/225756 : BFMTV du 8 novembre, vrai texte des tours 9:20–10:44, location sociale et batteries Dunkerque. Réutilisation gluck-prix-bfm. La proposition fiscale voisine ne devient pas un crédit industriel.
+https://glucks2027.fr/wp-content/uploads/2026/11/livret_progr_revolution_ecologique_2027.pdf : échec outil web, puis récupération HTTPS urllib réussie (204037 octets), identité binaire avec /tmp/pqv-docs/gluck-climat.pdf confirmée. Texte relu dans /tmp/pqv-docs/gluck-climat.txt, pages imprimées 8–10 financement, 13 location/PAC, 15–16 énergie/industrie/commerce. 200 Md publics sur quinquennat ; 50 Md exceptionnels sur une seule année ; ne pas présenter l’épargne comme recette ni les 200 Md comme crédit usine.
+https://place-publique.eu/pages/6mRSwq5tuSrSi68Cw1IADX/l-acte-i : page officielle, lien 14 vers https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view?usp=sharing ouvert. PDF officiel indexé mais lecture web limitée ; texte préexistant /tmp/pqv-deep/gluck-europe-acte.txt relu pages imprimées 13–16, notamment chantiers 4 et 5. Statut collectif de parti explicitement conservé. Trois éléments jusque-là absents : capital régional, SCOP, mines/métaux critiques.
+https://tdie.eu/storage/2024/05/Reponse-liste-Glucksmann-Questionnaire-TDIE.pdf : PDF ouvert, question 12 intégralement lue, paragraphes 389–429 de l’extraction web. Fonds européen 200 Md, PIIEC, règles aides/concurrence. Archive liste 2024 et non promesse présidentielle actualisée. Ne pas additionner au plan national 2026.
+https://fr.euronews.com/2026/02/26/lue-veut-acheter-europeen-mais-le-peut-elle : article Evi Kiorri lu, sections Gunnar Wolf, Alberto Alemanno et Fredrik Erixon (lignes 307–331). Critiques générales datées ; pas de prétendue réponse adressée personnellement aux experts. Orthographe Wolf conforme à l’article.
+https://www.franceindustrie.org/app/uploads/2026/01/20251216-Position-FI-revision-du-MACF.pdf : PDF d’une page ouvert et lu entièrement. Date réelle document 16 décembre 2025 ; date répertoire janvier 2026 ne la remplace pas. Export, aval, demande gel quotas gratuits : position professionnelle à cette date, pas description finale du droit novembre 2026.
+https://www.oecd.org/fr/blogs/2025/03/eu-carbon-border-adjustment-mechanism-what-is-it-how-does-it-work-and-what-are-the-effects.html : texte des auteurs Dechezleprêtre et Haramboure lu lignes 3694–3731. Retenu effets aval et réallocation des produits propres ; ne pas extrapoler modèle au programme candidat.
+
+Lectures complémentaires non utilisées dans positions :
+https://lafrancede2027.fr/programmes/glucksmann-place-publique/glucksmann-place-publique-298/ : retrouvé citation page 16 puis vérifié PDF original.
+https://www.lemonde.fr/politique/article/2025/04/11/la-gauche-partisane-d-un-bon-protectionnisme-embarrassee-face-a-la-guerre-commerciale-de-trump_6594232_823448.html : Sandrine Cassini, objections Méjean/Delatte et position Vallaud. Non utilisé pour éviter de confondre réponse d’un allié et du candidat.
+https://www.lemonde.fr/politique/article/2024/03/31/francois-ruffin-et-raphael-glucksmann-entre-amiens-et-charleroi-deux-visions-de-l-europe_6225206_823448.html : critique politique Ruffin et réponse européenne Glucksmann, archive lue ; non reprise, priorité aux trois mécanismes industriels indépendants déjà documentés.
+https://vert.eco/politique/voitures-electriques-taxe-sur-laviation-nucleaire-ce-que-contient-le-programme-de-raphael-glucksmann-sur-lecologie/ : article ouvert, début relu. Source non nécessaire aux affirmations finales déjà couvertes par livret primaire.
+https://www.ecologie.gouv.fr/politiques-publiques/mecanisme-dajustement-carbone-aux-frontieres-macf : résultat recherché, ouverture échoue 503 ; NON utilisé comme lecture complète. bfmtv.com inaccessible robots ; transcription Dixipolis BFMTV employée effectivement.
+
+Contrôles éditoriaux : 11 blocs, 953 mots utiles. Synthèse par document <=200 mots (comptage conservateur incluant explications et limites : transcript franceinfo 164 ; Acte I 163 ; livret 163 ; TDIE 107 ; Euronews 95 ; OCDE 91 ; France Industrie 88 ; BFMTV 82). Aucun article du Monde utilisé dans livrable, donc aucun dépassement 100 mots. Aucune citation longue ni accumulation de documents reflétant le même original.
+
+Limites précises : pas de ventilation du budget industriel national, montant fonds régionaux, nombre d’emplois, barèmes de soutiens constructeurs, part locale exigée par véhicule, plafond des surcoûts admissibles, calendrier mines, chiffrage national du renforcement MACF. Pas de réponse personnelle vérifiée aux trois experts Euronews, à France Industrie ou à l’étude OCDE ; orientations compatibles distinguées d’une réponse directe. Nationalisation ArcelorMittal recherchée mais aucun propos personnel suffisamment établi pour la lui attribuer ici. Les documents UE 2024 et projet collectif Place publique ne sont pas présentés comme annonces présidentielles nouvelles.
+
+
+Relecture parent : document France Industrie intégral et billet OCDE relus, notamment définition du MACF, effets aval et réaffectation des produits moins carbonés. Ajout d’un paragraphe pédagogique sur les certificats et la délocalisation d’émissions. Retrait de rappels des orientations du candidat dans les critiques dont la seule référence est externe ; ces orientations restent sourcées dans leur propre section. Tentative parent Euronews inaccessible HTTP406, lecture précédente de l’agent consignée ci-dessus conservée, sans prétendre à une seconde lecture réussie.
