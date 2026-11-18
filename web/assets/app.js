@@ -50,7 +50,7 @@ function saveSelection() {
 
 function updateBoard() {
   const open = new Set(expanded);
-  const order = [...expanded, ...[...columns.keys()].filter(person => !open.has(person))];
+  const order = [...columns.keys()];
   board.parentElement.style.setProperty("--tracks", expanded.map(() => "var(--open-track)").join(" "));
   for (const person of order) {
     const header = columns.get(person);
