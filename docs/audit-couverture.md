@@ -45,7 +45,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Impôts et patrimoine | Marine Tondelier | 895 | 895 | 18 | 3 | Non relue |
 | Impôts et patrimoine | Raphaël Glucksmann | 878 | 878 | 23 | 4 | Non relue |
 | Impôts et patrimoine | Gabriel Attal | 1000 | 1000 | 24 | 4 | Non relue |
-| Impôts et patrimoine | Édouard Philippe | 916 | 916 | 20 | 4 | Non relue |
+| Impôts et patrimoine | Édouard Philippe | 916 | 1090 | 17 | 5 | Relue |
 | Impôts et patrimoine | David Lisnard | 952 | 952 | 23 | 4 | Non relue |
 | Impôts et patrimoine | Bruno Retailleau | 845 | 845 | 19 | 3 | Non relue |
 | Impôts et patrimoine | Marine Le Pen | 1016 | 1016 | 15 | 4 | Non relue |
