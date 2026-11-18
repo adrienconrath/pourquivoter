@@ -102,7 +102,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Santé et accès aux soins | Gabriel Attal | 16 | 1098 | 15 | 4 | Relue |
 | Santé et accès aux soins | Édouard Philippe | 35 | 1029 | 9 | 4 | Relue |
 | Santé et accès aux soins | David Lisnard | 56 | 1076 | 14 | 4 | Relue |
-| Santé et accès aux soins | Bruno Retailleau | 112 | 112 | 2 | 1 | Non relue |
+| Santé et accès aux soins | Bruno Retailleau | 112 | 1016 | 12 | 4 | Relue |
 | Santé et accès aux soins | Marine Le Pen | 118 | 118 | 2 | 1 | Non relue |
 | Santé et accès aux soins | Éric Zemmour | 66 | 1087 | 12 | 4 | Relue |
 | Logement | Jean-Luc Mélenchon | 0 | 1034 | 11 | 3 | Relue |
@@ -185,7 +185,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Climat et adaptation | Jean-Luc Mélenchon | 0 | 1035 | 12 | 3 | Relue |
 | Climat et adaptation | François Ruffin | 115 | 115 | 2 | 0 | Non relue |
 | Climat et adaptation | Fabien Roussel | 98 | 1042 | 13 | 4 | Relue |
-| Climat et adaptation | Marine Tondelier | 108 | 108 | 3 | 1 | Non relue |
+| Climat et adaptation | Marine Tondelier | 108 | 1052 | 16 | 4 | Relue |
 | Climat et adaptation | Raphaël Glucksmann | 209 | 209 | 4 | 2 | Non relue |
 | Climat et adaptation | Gabriel Attal | 10 | 1180 | 21 | 4 | Relue |
 | Climat et adaptation | Édouard Philippe | 21 | 801 | 8 | 3 | Relue |
@@ -198,7 +198,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Énergie | Fabien Roussel | 248 | 248 | 4 | 2 | Non relue |
 | Énergie | Marine Tondelier | 11 | 1128 | 11 | 4 | Relue |
 | Énergie | Raphaël Glucksmann | 91 | 1110 | 10 | 4 | Relue |
-| Énergie | Gabriel Attal | 111 | 111 | 2 | 1 | Non relue |
+| Énergie | Gabriel Attal | 111 | 1079 | 15 | 4 | Relue |
 | Énergie | Édouard Philippe | 13 | 905 | 11 | 4 | Relue |
 | Énergie | David Lisnard | 29 | 1109 | 13 | 5 | Relue |
 | Énergie | Bruno Retailleau | 54 | 1153 | 15 | 4 | Relue |
