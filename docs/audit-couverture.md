@@ -229,7 +229,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Territoires et outre-mer | Jean-Luc Mélenchon | 0 | 961 | 9 | 2 | Relue |
 | Territoires et outre-mer | François Ruffin | 0 | 996 | 8 | 3 | Relue |
 | Territoires et outre-mer | Fabien Roussel | 26 | 26 | 2 | 0 | Non relue |
-| Territoires et outre-mer | Marine Tondelier | 19 | 19 | 1 | 0 | Non relue |
+| Territoires et outre-mer | Marine Tondelier | 19 | 951 | 8 | 3 | Relue |
 | Territoires et outre-mer | Raphaël Glucksmann | 0 | 968 | 9 | 4 | Relue |
 | Territoires et outre-mer | Gabriel Attal | 47 | 47 | 2 | 0 | Non relue |
 | Territoires et outre-mer | Édouard Philippe | 85 | 85 | 3 | 0 | Non relue |
