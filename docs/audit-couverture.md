@@ -227,7 +227,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Agriculture et alimentation | Marine Le Pen | 0 | 1161 | 16 | 4 | Relue |
 | Agriculture et alimentation | Éric Zemmour | 0 | 1189 | 13 | 5 | Relue |
 | Territoires et outre-mer | Jean-Luc Mélenchon | 0 | 961 | 9 | 2 | Relue |
-| Territoires et outre-mer | François Ruffin | 0 | 0 | 0 | 0 | Non relue |
+| Territoires et outre-mer | François Ruffin | 0 | 996 | 8 | 3 | Relue |
 | Territoires et outre-mer | Fabien Roussel | 26 | 26 | 2 | 0 | Non relue |
 | Territoires et outre-mer | Marine Tondelier | 19 | 19 | 1 | 0 | Non relue |
 | Territoires et outre-mer | Raphaël Glucksmann | 0 | 968 | 9 | 4 | Relue |
