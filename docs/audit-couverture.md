@@ -24,8 +24,8 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Coût de la vie | Édouard Philippe | 20 | 937 | 10 | 4 | Relue |
 | Coût de la vie | David Lisnard | 45 | 967 | 10 | 4 | Relue |
 | Coût de la vie | Bruno Retailleau | 44 | 1106 | 13 | 3 | Relue |
-| Coût de la vie | Marine Le Pen | 155 | 155 | 5 | 2 | Non relue |
-| Coût de la vie | Éric Zemmour | 119 | 119 | 2 | 0 | Non relue |
+| Coût de la vie | Marine Le Pen | 155 | 993 | 9 | 4 | Relue |
+| Coût de la vie | Éric Zemmour | 119 | 887 | 9 | 3 | Relue |
 | Retraites | François Ruffin | 45 | 45 | 3 | 0 | Non relue |
 | Retraites | Fabien Roussel | 77 | 77 | 1 | 0 | Non relue |
 | Retraites | Marine Tondelier | 27 | 27 | 1 | 0 | Non relue |
@@ -232,7 +232,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Culture et médias | Raphaël Glucksmann | 94 | 94 | 3 | 1 | Non relue |
 | Culture et médias | Gabriel Attal | 0 | 0 | 0 | 0 | Non relue |
 | Culture et médias | Édouard Philippe | 0 | 0 | 0 | 0 | Non relue |
-| Culture et médias | David Lisnard | 0 | 0 | 0 | 0 | Non relue |
+| Culture et médias | David Lisnard | 0 | 926 | 12 | 4 | Relue |
 | Culture et médias | Bruno Retailleau | 0 | 0 | 0 | 0 | Non relue |
 | Culture et médias | Marine Le Pen | 57 | 57 | 1 | 1 | Non relue |
 | Culture et médias | Éric Zemmour | 45 | 45 | 1 | 0 | Non relue |
