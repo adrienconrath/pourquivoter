@@ -47,3 +47,5 @@ Points indéterminés précisément :
 - Ventilation actuelle2027 du financement sécurité et justice ; chiffres personnels effectifs/prisons2022 ne sont pas automatiquement valables2027.
 - Aucun texte de nouveau barème2027 de peines planchers retrouvé dans les sources directes ; PPL2024 cosignée est la preuve d'une position, non une absence de propos.
 - Réponse personnelle de Le Pen aux résultats IPP et aux objections Amnesty non retrouvée ; ne pas lui attribuer réponse ministre.
+
+Complément parent issu de la recherche justice : annoncepersonnelle LCI1juillet2026 (directTF121h05,Polyfact00:40–01:20), confirméeLCP15novembre, suppression aménagements pour atteintesintégritéphysique et condamnation>6mois. Reprise avec définition institutionnelle, sans élargir indûment à toutecondamnation. Détails vérifiés dans lepen-justice.md.

@@ -124,7 +124,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Sécurité | Édouard Philippe | 35 | 1095 | 11 | 5 | Relue |
 | Sécurité | David Lisnard | 17 | 995 | 14 | 3 | Relue |
 | Sécurité | Bruno Retailleau | 0 | 1063 | 12 | 5 | Relue |
-| Sécurité | Marine Le Pen | 29 | 1029 | 14 | 3 | Relue |
+| Sécurité | Marine Le Pen | 29 | 1106 | 18 | 3 | Relue |
 | Sécurité | Éric Zemmour | 13 | 1068 | 12 | 5 | Relue |
 | Justice | François Ruffin | 0 | 968 | 8 | 5 | Relue |
 | Justice | Fabien Roussel | 0 | 1144 | 14 | 3 | Relue |
@@ -134,7 +134,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Justice | Édouard Philippe | 131 | 131 | 5 | 2 | Non relue |
 | Justice | David Lisnard | 117 | 117 | 4 | 1 | Non relue |
 | Justice | Bruno Retailleau | 86 | 86 | 1 | 1 | Non relue |
-| Justice | Marine Le Pen | 0 | 0 | 0 | 0 | Non relue |
+| Justice | Marine Le Pen | 0 | 1130 | 12 | 3 | Relue |
 | Justice | Éric Zemmour | 179 | 179 | 5 | 4 | Non relue |
 | Institutions et démocratie | François Ruffin | 47 | 47 | 3 | 0 | Non relue |
 | Institutions et démocratie | Fabien Roussel | 0 | 941 | 10 | 4 | Relue |
