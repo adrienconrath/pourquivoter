@@ -209,7 +209,7 @@ transports|lisnard|15|15|1|1|0|0|insuffisant|non
 transports|retailleau|0|1046|15|12|3|2|controle_qualitatif|relue
 transports|le-pen|0|0|0|0|0|0|vide|non
 transports|zemmour|0|0|0|0|0|0|vide|non
-agriculture|melenchon|0|0|0|0|0|0|vide|non
+agriculture|melenchon|0|1107|16|15|5|2|controle_qualitatif|relue
 agriculture|ruffin|50|50|2|3|0|0|insuffisant|non
 agriculture|roussel|0|1093|15|11|3|1|controle_qualitatif|relue
 agriculture|tondelier|77|77|3|1|0|1|insuffisant|non
@@ -220,7 +220,7 @@ agriculture|lisnard|42|42|2|2|0|0|insuffisant|non
 agriculture|retailleau|65|65|2|2|1|0|insuffisant|non
 agriculture|le-pen|0|1161|16|16|4|2|controle_qualitatif|relue
 agriculture|zemmour|0|1189|16|13|5|2|controle_qualitatif|relue
-territoires|melenchon|0|0|0|0|0|0|vide|non
+territoires|melenchon|0|961|14|9|2|3|controle_qualitatif|relue
 territoires|ruffin|0|0|0|0|0|0|vide|non
 territoires|roussel|26|26|1|2|0|0|insuffisant|non
 territoires|tondelier|19|19|1|1|0|0|insuffisant|non

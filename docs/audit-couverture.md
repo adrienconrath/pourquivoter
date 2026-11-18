@@ -215,7 +215,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Transports | Bruno Retailleau | 0 | 1046 | 12 | 3 | Relue |
 | Transports | Marine Le Pen | 0 | 0 | 0 | 0 | Non relue |
 | Transports | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
-| Agriculture et alimentation | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
+| Agriculture et alimentation | Jean-Luc Mélenchon | 0 | 1107 | 15 | 5 | Relue |
 | Agriculture et alimentation | François Ruffin | 50 | 50 | 3 | 0 | Non relue |
 | Agriculture et alimentation | Fabien Roussel | 0 | 1093 | 11 | 3 | Relue |
 | Agriculture et alimentation | Marine Tondelier | 77 | 77 | 1 | 0 | Non relue |
@@ -226,7 +226,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Agriculture et alimentation | Bruno Retailleau | 65 | 65 | 2 | 1 | Non relue |
 | Agriculture et alimentation | Marine Le Pen | 0 | 1161 | 16 | 4 | Relue |
 | Agriculture et alimentation | Éric Zemmour | 0 | 1189 | 13 | 5 | Relue |
-| Territoires et outre-mer | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
+| Territoires et outre-mer | Jean-Luc Mélenchon | 0 | 961 | 9 | 2 | Relue |
 | Territoires et outre-mer | François Ruffin | 0 | 0 | 0 | 0 | Non relue |
 | Territoires et outre-mer | Fabien Roussel | 26 | 26 | 2 | 0 | Non relue |
 | Territoires et outre-mer | Marine Tondelier | 19 | 19 | 1 | 0 | Non relue |
