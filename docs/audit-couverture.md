@@ -231,7 +231,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Territoires et outre-mer | Fabien Roussel | 26 | 994 | 9 | 4 | Relue |
 | Territoires et outre-mer | Marine Tondelier | 19 | 951 | 8 | 3 | Relue |
 | Territoires et outre-mer | Raphaël Glucksmann | 0 | 968 | 9 | 4 | Relue |
-| Territoires et outre-mer | Gabriel Attal | 47 | 47 | 2 | 0 | Non relue |
+| Territoires et outre-mer | Gabriel Attal | 47 | 1182 | 17 | 4 | Relue |
 | Territoires et outre-mer | Édouard Philippe | 85 | 85 | 3 | 0 | Non relue |
 | Territoires et outre-mer | David Lisnard | 37 | 898 | 10 | 4 | Relue |
 | Territoires et outre-mer | Bruno Retailleau | 0 | 1099 | 12 | 3 | Relue |
@@ -276,7 +276,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Numérique et IA | Marine Tondelier | 35 | 851 | 7 | 3 | Relue |
 | Numérique et IA | Raphaël Glucksmann | 53 | 53 | 2 | 0 | Non relue |
 | Numérique et IA | Gabriel Attal | 79 | 79 | 3 | 0 | Non relue |
-| Numérique et IA | Édouard Philippe | 47 | 47 | 2 | 0 | Non relue |
+| Numérique et IA | Édouard Philippe | 47 | 1046 | 10 | 3 | Relue |
 | Numérique et IA | David Lisnard | 29 | 1025 | 10 | 4 | Relue |
 | Numérique et IA | Bruno Retailleau | 26 | 1051 | 17 | 3 | Relue |
 | Numérique et IA | Marine Le Pen | 0 | 856 | 10 | 4 | Relue |
