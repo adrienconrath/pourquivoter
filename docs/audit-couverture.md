@@ -85,7 +85,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | École et jeunesse | Éric Zemmour | 21 | 21 | 2 | 0 | Non relue |
 | Protection de l’enfance | Jean-Luc Mélenchon | 0 | 956 | 13 | 3 | Relue |
 | Protection de l’enfance | François Ruffin | 0 | 917 | 12 | 3 | Relue |
-| Protection de l’enfance | Fabien Roussel | 0 | 0 | 0 | 0 | Non relue |
+| Protection de l’enfance | Fabien Roussel | 0 | 832 | 8 | 3 | Relue |
 | Protection de l’enfance | Marine Tondelier | 0 | 0 | 0 | 0 | Non relue |
 | Protection de l’enfance | Raphaël Glucksmann | 0 | 0 | 0 | 0 | Non relue |
 | Protection de l’enfance | Gabriel Attal | 0 | 1019 | 19 | 4 | Relue |
