@@ -8,46 +8,42 @@
   <title>Pour qui voter ? — Présidentielle 2027</title>
   <link rel="stylesheet" href="assets/style.css">
   <script src="assets/app.js" defer></script>
+  <script src="assets/sources.js" defer></script>
 </head>
 <body>
   <a class="skip" href="#contenu">Aller au contenu</a>
-  <header class="top"><div class="wrap nav">
-    <a class="brand" href="#contenu"><span class="brand-mark" aria-hidden="true">◎</span> Pour qui voter&nbsp;?</a>
-    <nav aria-label="Navigation principale"><a href="#comparer">Comparer</a><a href="#profils">Profils</a></nav>
-  </div></header>
   <main id="contenu">
-    <section class="hero">
-      <div class="wrap hero-layout">
-        <div class="hero-copy">
-          <p class="eyebrow"><span aria-hidden="true"></span> Présidentielle française · 2027</p>
+    <header class="hero">
+      <div class="wide hero-layout">
+        <div>
           <h1>Pour qui <em>voter&nbsp;?</em></h1>
-          <p class="lede">Comparez les propositions, leurs financements et les critiques, thème par thème. Les sources sont accessibles à côté de chaque affirmation.</p>
-          <div class="hero-actions"><a class="button primary" href="#comparer">Comparer les propositions <span aria-hidden="true">↓</span></a><a class="button secondary" href="#profils">Voir les profils <span aria-hidden="true">→</span></a></div>
+          <p class="eyebrow">Présidentielle · 2027</p>
         </div>
-        <div class="edition">
-          <div class="edition-top"><span>Cette édition</span><span>{{snapshot}}</span></div>
+        <nav class="edition" aria-label="Fiches des candidats">
+          <div class="edition-top"><span>Les candidats</span>{{snapshot}}</div>
           <div class="portrait-grid">{{timeline}}</div>
-          <div class="edition-stats"><span><strong>{{people}}</strong> profils</span><span><strong>{{themes}}</strong> thèmes</span></div>
-        </div>
+        </nav>
       </div>
-    </section>
+    </header>
     <section class="wide compare-section" id="comparer" aria-labelledby="compare-title">
-      <div class="section-head"><h2 id="compare-title">Comparer les propositions</h2><p>Sélectionnez les thèmes, puis cliquez sur les portraits pour ouvrir ou fermer les colonnes.</p></div>
+      <div class="section-head"><h2 id="compare-title">Comparer les propositions</h2><p>Choisissez les thèmes et cliquez sur les portraits pour ouvrir les colonnes.</p></div>
       <div class="theme-picker" hidden aria-label="Choisir les thèmes">{{theme_filters}}</div>
       <div class="compare-actions" hidden>
         <p id="result-count" role="status"></p>
-        <button id="close-columns" type="button">Fermer les colonnes</button>
+        <div class="selection-actions">
+          <button id="clear-themes" type="button">Désélectionner les thèmes</button>
+          <button id="close-columns" type="button">Fermer les colonnes</button>
+        </div>
       </div>
       <p id="empty-themes" class="empty" hidden>Choisissez un thème pour afficher les propositions.</p>
+      <div class="column-scroll" hidden role="region" tabindex="0" aria-label="Colonnes des candidats, défilement horizontal">
+        <div class="candidate-columns">{{column_headers}}</div>
+      </div>
       <div class="compare-board" id="results" role="region" tabindex="0" aria-label="Tableau de comparaison">
         <div class="compare-sheet">
-          <div class="candidate-columns" hidden>{{column_headers}}</div>
           {{comparisons}}
         </div>
       </div>
-    </section>
-    <section class="profile-section" id="profils" aria-labelledby="profile-title">
-      <div class="wrap"><div class="section-head"><h2 id="profile-title">Les profils</h2>{{law}}</div><div class="profile-grid">{{profiles}}</div></div>
     </section>
   </main>
   <dialog id="position-dialog" aria-labelledby="dialog-title">

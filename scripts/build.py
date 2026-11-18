@@ -74,10 +74,10 @@ def age(birthday, snapshot):
     return snapshot.year - born.year - ((snapshot.month, snapshot.day) < (born.month, born.day))
 
 
-def portrait(person):
+def portrait(person, assets="assets"):
     image = portraits[person["id"]]
     return (
-        f'<span class="portrait"><img src="assets/portraits/{person["id"]}.webp" '
+        f'<span class="portrait"><img src="{assets}/portraits/{person["id"]}.webp" '
         f'alt="" width="240" height="300" loading="lazy" data-credit="{https(image["url"])}"></span>'
     )
 
@@ -102,9 +102,9 @@ def profile(person, snapshot):
         if person[field]:
             profiles_links += link(person[field], label)
     return f'''
-      <article class="profile" id="profil-{key}">
-        <div class="profile-image">{portrait(person)}{credit}</div>
-        <div class="profile-body"><h3>{escape(name)}</h3>
+      <article class="profile">
+        <div class="profile-image">{portrait(person, "../assets")}{credit}</div>
+        <div class="profile-body"><h1>{escape(name)}</h1>
         {claim(f'{person["party"]} · {age(person["birth"], snapshot)} ans', f"bio-{key}")}
         <div class="status">{claim(person["status"], person["status_refs"])}</div>
         <div class="bio">{claim(person["bio"], f"bio-{key}")}</div>
@@ -157,7 +157,7 @@ def comparison(theme, people, entries):
         cards.append(f"""
           <article class="position" id="position-{key}-{person_key}" data-person="{person_key}" aria-label="{escape(person["name"])} · {escape(theme["name"])}"{" data-empty" if not fields else ""}>
             <div class="position-person">{portrait(person)}<div>
-              <h4><a href="#profil-{person_key}">{escape(person["name"])}</a></h4>
+              <h4><a href="profils/{person_key}.html">{escape(person["name"])}</a></h4>
               {claim(person["party"], f"bio-{person_key}")}
             </div></div>
             {read}<div class="position-content">{content}</div>
@@ -235,13 +235,12 @@ def build(snapshot, generated):
         for p in people.values()
     )
     timeline = "".join(
-        f'<a href="#profil-{p["id"]}" aria-label="Profil de {escape(p["name"])}">{portrait(p)}</a>'
+        f'<a href="profils/{p["id"]}.html" aria-label="Profil de {escape(p["name"])}">{portrait(p)}</a>'
         for p in people.values()
     )
     body = (ROOT / "web/index.html").read_text(encoding="utf-8")
     replacements = dict(
-        themes=len(themes), people=len(people), timeline=timeline,
-        profiles="".join(profile(p, snapshot) for p in people.values()),
+        timeline=timeline,
         theme_filters=filters, column_headers=column_headers,
         comparisons="".join(comparison(t, people, entries) for t in themes.values()),
         snapshot=f'<time datetime="{snapshot}">{word_date(snapshot)}</time>',
@@ -250,7 +249,24 @@ def build(snapshot, generated):
     )
     DIST.mkdir(exist_ok=True)
     shutil.copytree(ROOT / "web/assets", DIST / "assets", dirs_exist_ok=True)
-    (DIST / "index.html").write_text(re.sub(r"\{\{(\w+)\}\}", lambda m: str(replacements[m[1]]), body), encoding="utf-8")
+    def render(template, values):
+        return re.sub(r"\{\{(\w+)\}\}", lambda match: values[match[1]], template)
+
+    (DIST / "index.html").write_text(render(body, replacements), encoding="utf-8")
+    profile_template = (ROOT / "web/profile.html").read_text(encoding="utf-8")
+    profile_dir = DIST / "profils"
+    profile_dir.mkdir(exist_ok=True)
+    for previous_page in profile_dir.glob("*.html"):
+        if previous_page.stem not in people:
+            previous_page.unlink()
+    for person in people.values():
+        page = render(profile_template, dict(
+            name=escape(person["name"]),
+            profile=profile(person, snapshot),
+            law=replacements["law"],
+            generated=replacements["generated"],
+        ))
+        (profile_dir / f'{person["id"]}.html').write_text(page, encoding="utf-8")
     (DIST / ".nojekyll").touch()
     notes = sum(len(records) for fields in entries.values() for records in fields.values())
     analyses = sum(len(fields.get("critique", [])) for fields in entries.values())

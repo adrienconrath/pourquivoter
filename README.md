@@ -12,7 +12,7 @@ python3 scripts/build.py
 python3 -m http.server --directory dist 8000
 ```
 
-Ouvrir [localhost:8000](http://localhost:8000). Le HTML contient le comparateur et les sources. JavaScript ouvre les colonnes des candidatures choisies, empile les thèmes et enregistre la sélection dans l’URL. Les ressources graphiques et les polices sont servies localement. Les crédits et licences des portraits sont accessibles par l’icône ⓘ de chaque photo.
+Ouvrir [localhost:8000](http://localhost:8000). Le HTML contient le comparateur et les sources. JavaScript ouvre les colonnes des candidatures choisies, empile les thèmes et enregistre la sélection dans l’URL. Les portraits du bandeau ouvrent les fiches statiques individuelles dans `profils/`. Les ressources graphiques et les polices sont servies localement. Les crédits et licences des portraits sont accessibles par l’icône ⓘ de chaque photo.
 
 ## Mettre à jour une édition
 

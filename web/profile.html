@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f5f0">
+  <title>{{name}} — Pour qui voter ?</title>
+  <link rel="stylesheet" href="../assets/style.css">
+  <script src="../assets/sources.js" defer></script>
+</head>
+<body class="profile-page">
+  <a class="skip" href="#contenu">Aller au contenu</a>
+  <header class="top"><div class="wrap nav">
+    <a class="brand" href="../"><span class="brand-mark" aria-hidden="true">◎</span> Pour qui voter&nbsp;?</a>
+    <a class="back-link" href="../#comparer">← Comparateur</a>
+  </div></header>
+  <main class="wrap profile-main" id="contenu">
+    {{profile}}
+    <div class="profile-note">{{law}}</div>
+  </main>
+  <footer><div class="wrap foot"><span>Site généré le {{generated}}</span></div></footer>
+</body>
+</html>
