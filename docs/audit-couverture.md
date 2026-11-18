@@ -114,7 +114,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Logement | Édouard Philippe | 40 | 982 | 9 | 4 | Relue |
 | Logement | David Lisnard | 171 | 171 | 2 | 2 | Non relue |
 | Logement | Bruno Retailleau | 256 | 256 | 4 | 2 | Non relue |
-| Logement | Marine Le Pen | 154 | 154 | 2 | 3 | Non relue |
+| Logement | Marine Le Pen | 154 | 1000 | 11 | 4 | Relue |
 | Logement | Éric Zemmour | 61 | 1083 | 11 | 4 | Relue |
 | Fonction publique | Jean-Luc Mélenchon | 0 | 1088 | 11 | 4 | Relue |
 | Fonction publique | François Ruffin | 41 | 1069 | 11 | 4 | Relue |
