@@ -101,7 +101,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Santé et accès aux soins | Raphaël Glucksmann | 30 | 931 | 8 | 3 | Relue |
 | Santé et accès aux soins | Gabriel Attal | 16 | 1098 | 15 | 4 | Relue |
 | Santé et accès aux soins | Édouard Philippe | 35 | 1029 | 9 | 4 | Relue |
-| Santé et accès aux soins | David Lisnard | 56 | 56 | 1 | 0 | Non relue |
+| Santé et accès aux soins | David Lisnard | 56 | 1076 | 14 | 4 | Relue |
 | Santé et accès aux soins | Bruno Retailleau | 112 | 112 | 2 | 1 | Non relue |
 | Santé et accès aux soins | Marine Le Pen | 118 | 118 | 2 | 1 | Non relue |
 | Santé et accès aux soins | Éric Zemmour | 66 | 66 | 2 | 0 | Non relue |
