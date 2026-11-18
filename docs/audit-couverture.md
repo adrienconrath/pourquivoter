@@ -98,7 +98,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Santé et accès aux soins | François Ruffin | 60 | 60 | 1 | 0 | Non relue |
 | Santé et accès aux soins | Fabien Roussel | 54 | 54 | 3 | 0 | Non relue |
 | Santé et accès aux soins | Marine Tondelier | 53 | 53 | 1 | 0 | Non relue |
-| Santé et accès aux soins | Raphaël Glucksmann | 30 | 30 | 2 | 0 | Non relue |
+| Santé et accès aux soins | Raphaël Glucksmann | 30 | 931 | 8 | 3 | Relue |
 | Santé et accès aux soins | Gabriel Attal | 16 | 1098 | 15 | 4 | Relue |
 | Santé et accès aux soins | Édouard Philippe | 35 | 35 | 1 | 0 | Non relue |
 | Santé et accès aux soins | David Lisnard | 56 | 56 | 1 | 0 | Non relue |
