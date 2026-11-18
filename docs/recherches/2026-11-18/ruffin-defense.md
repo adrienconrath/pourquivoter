@@ -1,0 +1,39 @@
+Audit defense|ruffin — 18 novembre 2026. Aucun fichier suivi modifié. Skill actualiser-pour-qui-voter lu intégralement, brief /tmp/pqv-audit/agent-brief.md lu, catalogue sources vérifié et IDs de campagne réutilisés. Case initialement vide.
+
+Requêtes réellement faites (moteur web) :
+- François Ruffin défense Ukraine OTAN budget armées 2025 2026
+- François Ruffin dissuasion nucléaire Ukraine armes Russie
+- site:francoisruffin.fr défense réarmement 2025 Ukraine
+- "Ruffin" "OTAN" "2026"
+- "Ruffin" "défense" "2025" "5"
+- "Ruffin" "Ukraine" "2025" "Barrot"
+- site:legrandcontinent.eu "Pour une déclaration d’indépendance" Ruffin
+- site:francoisruffin.fr "militaire"
+- "Ruffin" "réarmement" "2025"
+- "Ruffin" "Ukraine" "LCI"
+- "Ruffin" "défense" site:rtl.fr
+- "Ruffin" "Ukraine" site:bfmtv.com 2026
+- "Ruffin" "Ukraine" site:franceinfo.fr 2025
+- "Ruffin" "Ukraine" site:pourquijevote.com/transcripts/
+
+Pages effectivement ouvertes/lues et contrôle d'attribution :
+https://pourquijevote.com/transcripts : index et formulaire lus, avertissement sur erreurs des textes automatiques. Essais ?q=Ruffin%20Ukraine et ?search=Ruffin&theme=defense peu utiles (erreur web / pas de résultats exploitables par requête). Les recherches indexées ont livré les pages individuelles ci-dessous.
+https://dixipolis.com/presidentielle-2027 : index utilisé, clic profil Ruffin puis https://dixipolis.com/politicien/francois-ruffin. Échecs timeout côté outil web ; récupération HTTP Python requests réussie, texte/HTML sauvegardé dans /tmp/pqv-audit/ruffin-dixi.html. Profil permet de trouver Le Crayon /video/226520.
+https://dixipolis.com/video/226520 : erreur outil web ; lu en HTTP Python avec Accept-Encoding identity après erreur brotli. Texte dans /tmp/pqv-audit/ruffin-crayon.txt. Lecture des passages 22–29 min et des intervenants, surtout réponse 27:03–29:21 (Ruffin), puis reprise journaliste à 29:21 qui achève la phrase sur les États-Unis. Ne pas reprendre les erreurs de transcription sur Hormuz, Mitterrand, le nom Reagan. Vidéo publiée le 16/11 ; l'intervieweur précise tournage le week-end après le 7/11 : la date de publication n'est pas celle du tournage. Pas de mesure de référendum Donbass dans la réponse de Ruffin.
+https://pourquijevote.com/transcripts/c82e18ef-5e0b-42ae-bee3-a83086ac0818 : LCI 9/11/2026, lecture contexte 19:26–20:00. Attribution manuelle grâce au dialogue (locuteurs automatiques non identifiés). Le reproche de porte-parole du Kremlin est celui de Barrot envers Mélenchon, rapporté par une auditrice puis contextualisé par Amélie Carrouër. Ruffin refuse de commenter Mélenchon. Ne pas lui attribuer ce dernier ni un référendum sur le Donbass.
+https://pourquijevote.com/transcripts/a317e8e4-47d2-4fa8-bdb9-79dbb9f93dea : entretien Comprendre le monde, 11/05/2026, 28 min, lu intégralement (texte local /tmp/pqv-audit/ruffin-geopo.txt). Indépendance, relations États-Unis et pays du Sud, industrie. Aucune trajectoire chiffrée militaire. Erreur 260e anniversaire États-Unis non reprise. Le passage sur l'OTAN rappelle De Gaulle, il ne décrète pas une sortie de Ruffin.
+https://pourquijevote.com/transcripts/c61a6518-6398-47d0-9ba2-922efac73860 : France Inter 9/04/2025, passages 2:12 (poudre/obus/acier), 5:28 (commande et industrie militaires), lecture de l'entretien. Pas utilisé comme référence supplémentaire car cohérent avec livret 2026.
+https://legrandcontinent.eu/fr/2026/02/25/pour-une-declaration-dindependance-la-doctrine-ruffin-sur-leurope/ : tribune personnelle, non doctrine de la rédaction. Paragraphes autour des lignes web 157–166 (OTAN gaullien), 194–205 (DGA, coopération volontaires, Commission), 230–233 (Russie, paix préalable durable aux relations commerciales). Synthèse <200 mots dans dossier.
+https://nouspresident.fr/notre-programme/ : onze cahiers et plans visibles, pas de cahier défense distinct dans liste consultée.
+https://nouspresident.fr/pour-proteger-notre-industrie-relocaliser-100-produits-strategiques/ : lu liste 100 produits, proposition commande publique, objectif composants défense approchant100%, et financement. Ne pas confondre objectif général80% commande publique avec objectif composants défense presque100%.
+https://nouspresident.fr/plan-de-redressement/ : lu périmètre, financements et absence de trajectoire militaire détaillée.
+https://francoisruffin.fr/ukraine-paix/ : billet personnel 14/11/2022 lu, dont paragraphes crimes/agression, buts de guerre, Crimée. Hypothèse référendaire archive explicitement datée et non reportée comme engagement2027.
+https://www.lemonde.fr/politique/article/2024/03/16/francois-ruffin-sur-l-ukraine-les-zigzags-d-emmanuel-macron-perdent-les-francais-et-nos-allies_6222322_823448.html : entretien lu, passages autour des lignes354–388. Synthèse cumulée du dossier réduite sous100mots, aucune citation directe. Soutien armes, OTAN en temps de conflit, dissuasion européenne, 3Md€ en2024 sous condition justice fiscale. Les3Md€ ne sont pas une promesse2027.
+https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-mercredi-12-mars-2025 : timeout HTML ; version PDF lue : https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-mercredi-12-mars-2025.pdf . Pages PDF33 (p.2138 imprimée : sanctions et négociations ; Ruffin puis Petit),37 (p.2142 : intervention personnelle Ruffin maintien appui Ukraine, refus élargissement),39 (p.2143 : critique explicite Petit du refus d'adhésion). Les critiques de députés dirigées globalement contre LFI ne sont pas présentées comme objections personnelles à Ruffin. Synthèse cumulée de la source176mots.
+https://questions.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE11118.pdf : 2 pages lues, question25/11/2025 et réponse13/01/2026 vérifiées p.2. Question Ruffin sur expression militaire et éléments de menace, réponse Armées sur revue stratégique. Pas d'attribution de la réponse à Ruffin.
+https://questions.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE5578.pdf : question souveraineté industrielle et réponse gouvernementale lues p.1, suite p.2 consultée partiellement (timeouts). Non retenue pour ne pas ajouter une critique incomplètement vérifiée.
+https://www.observatoire2027.fr/video/PJ-pvSe6OWI/ et pages sujet OTAN/Ukraine : lues comme pistes, non utilisées comme preuves. Certaines cartes annoncent des passages que la page vidéo n'expose pas ; retour systématique à transcription LCI.
+
+Presse variée recherchée : RTL, BFMTV, franceinfo, LCI, Le Monde ; pas de résultat RTL exploitable, BFMTV/franceinfo robots sur domaines directs. Le Huffington Post a été trouvé mais sa limite25mots n'aurait pas permis une analyse utile : ne pas le citer pour compléter artificiellement. La page de LCI et les transcriptions d'émission ont servi au contrôle. Les comparateurs LaBoussole/MonVote/QuiVoter ont fourni des pistes contradictoires : certains affirment Ruffin opposé aux armes, ce qui est directement contredit par les propos lus ; leurs classifications ne sont pas des preuves.
+
+Limites persistantes précisément circonscrites : pas de trajectoire2027 chiffrée et ventilée des armées, pas de plafond annuel vérifié d'aide Ukraine, pas d'assiette/taux de contribution des profiteurs de guerre, pas de doctrine2027 détaillant emploi nucléaire/partage décision/extension garantie, pas de calendrier précis de sortie commandement intégré/traité OTAN dans les textes et entretiens retenus. Ne pas écrire qu'il n'en a jamais parlé. Trois contradictions distinctes documentées (influence diplomatique/sanctions, solidarité par adhésion UE, expression du chef d'état-major), dont réponses de Ruffin aux deux premières seulement sa doctrine déjà exprimée, pas une fausse réplique postérieure. Pas de critique économique extérieure chiffrant son programme militaire trouvée.

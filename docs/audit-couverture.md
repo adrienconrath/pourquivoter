@@ -216,16 +216,16 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Europe | Bruno Retailleau | 829 | 829 | 23 | 3 | Non relue |
 | Europe | Marine Le Pen | 944 | 944 | 26 | 4 | Non relue |
 | Europe | Éric Zemmour | 832 | 832 | 28 | 3 | Non relue |
-| Défense et diplomatie | François Ruffin | 0 | 0 | 0 | 0 | Non relue |
+| Défense et diplomatie | François Ruffin | 0 | 970 | 10 | 3 | Relue |
 | Défense et diplomatie | Fabien Roussel | 18 | 932 | 10 | 3 | Relue |
 | Défense et diplomatie | Marine Tondelier | 29 | 1038 | 10 | 5 | Relue |
 | Défense et diplomatie | Raphaël Glucksmann | 12 | 1002 | 11 | 3 | Relue |
-| Défense et diplomatie | Gabriel Attal | 17 | 17 | 1 | 0 | Non relue |
-| Défense et diplomatie | Édouard Philippe | 16 | 16 | 1 | 0 | Non relue |
+| Défense et diplomatie | Gabriel Attal | 17 | 1096 | 15 | 3 | Relue |
+| Défense et diplomatie | Édouard Philippe | 16 | 947 | 11 | 3 | Relue |
 | Défense et diplomatie | David Lisnard | 27 | 850 | 7 | 4 | Relue |
-| Défense et diplomatie | Bruno Retailleau | 0 | 0 | 0 | 0 | Non relue |
+| Défense et diplomatie | Bruno Retailleau | 0 | 922 | 10 | 3 | Relue |
 | Défense et diplomatie | Marine Le Pen | 0 | 1133 | 12 | 4 | Relue |
-| Défense et diplomatie | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
+| Défense et diplomatie | Éric Zemmour | 0 | 1112 | 12 | 3 | Relue |
 | Culture et médias | François Ruffin | 24 | 24 | 2 | 0 | Non relue |
 | Culture et médias | Fabien Roussel | 0 | 0 | 0 | 0 | Non relue |
 | Culture et médias | Marine Tondelier | 58 | 58 | 2 | 0 | Non relue |
