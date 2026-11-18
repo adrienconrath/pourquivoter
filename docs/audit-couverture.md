@@ -29,7 +29,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Coût de la vie | Marine Le Pen | 155 | 993 | 9 | 4 | Relue |
 | Coût de la vie | Éric Zemmour | 119 | 887 | 9 | 3 | Relue |
 | Retraites | Jean-Luc Mélenchon | 0 | 991 | 12 | 4 | Relue |
-| Retraites | François Ruffin | 45 | 45 | 3 | 0 | Non relue |
+| Retraites | François Ruffin | 45 | 1106 | 11 | 4 | Relue |
 | Retraites | Fabien Roussel | 77 | 77 | 1 | 0 | Non relue |
 | Retraites | Marine Tondelier | 27 | 1078 | 12 | 5 | Relue |
 | Retraites | Raphaël Glucksmann | 24 | 894 | 9 | 3 | Relue |
