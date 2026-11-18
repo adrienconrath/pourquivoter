@@ -153,7 +153,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Justice | François Ruffin | 0 | 968 | 8 | 5 | Relue |
 | Justice | Fabien Roussel | 0 | 1144 | 14 | 3 | Relue |
 | Justice | Marine Tondelier | 71 | 71 | 2 | 0 | Non relue |
-| Justice | Raphaël Glucksmann | 7 | 7 | 1 | 0 | Non relue |
+| Justice | Raphaël Glucksmann | 7 | 1105 | 11 | 4 | Relue |
 | Justice | Gabriel Attal | 93 | 93 | 3 | 1 | Non relue |
 | Justice | Édouard Philippe | 131 | 131 | 5 | 2 | Non relue |
 | Justice | David Lisnard | 117 | 117 | 4 | 1 | Non relue |
