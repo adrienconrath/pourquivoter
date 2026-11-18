@@ -17,17 +17,17 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Dette et déficit | Bruno Retailleau | 290 | 1104 | 14 | 6 | Relue |
 | Dette et déficit | Marine Le Pen | 295 | 933 | 12 | 4 | Relue |
 | Dette et déficit | Éric Zemmour | 138 | 1047 | 12 | 7 | Relue |
-| Coût de la vie | Jean-Luc Mélenchon | 0 | 1075 | 10 | 5 | Relue |
-| Coût de la vie | François Ruffin | 18 | 1061 | 8 | 3 | Relue |
-| Coût de la vie | Fabien Roussel | 49 | 803 | 8 | 3 | Relue |
-| Coût de la vie | Marine Tondelier | 65 | 990 | 9 | 4 | Relue |
-| Coût de la vie | Raphaël Glucksmann | 113 | 1147 | 11 | 4 | Relue |
-| Coût de la vie | Gabriel Attal | 20 | 994 | 16 | 3 | Relue |
-| Coût de la vie | Édouard Philippe | 20 | 937 | 10 | 4 | Relue |
-| Coût de la vie | David Lisnard | 45 | 967 | 10 | 4 | Relue |
-| Coût de la vie | Bruno Retailleau | 44 | 1106 | 13 | 3 | Relue |
-| Coût de la vie | Marine Le Pen | 155 | 993 | 9 | 4 | Relue |
-| Coût de la vie | Éric Zemmour | 119 | 887 | 9 | 3 | Relue |
+| Coût de la vie | Jean-Luc Mélenchon | 0 | 899 | 11 | 5 | Relue |
+| Coût de la vie | François Ruffin | 18 | 946 | 10 | 4 | Relue |
+| Coût de la vie | Fabien Roussel | 49 | 731 | 9 | 3 | Relue |
+| Coût de la vie | Marine Tondelier | 65 | 836 | 10 | 4 | Relue |
+| Coût de la vie | Raphaël Glucksmann | 113 | 1051 | 12 | 4 | Relue |
+| Coût de la vie | Gabriel Attal | 20 | 845 | 17 | 3 | Relue |
+| Coût de la vie | Édouard Philippe | 20 | 776 | 11 | 4 | Relue |
+| Coût de la vie | David Lisnard | 45 | 800 | 11 | 4 | Relue |
+| Coût de la vie | Bruno Retailleau | 44 | 963 | 14 | 3 | Relue |
+| Coût de la vie | Marine Le Pen | 155 | 848 | 11 | 5 | Relue |
+| Coût de la vie | Éric Zemmour | 119 | 808 | 11 | 4 | Relue |
 | Retraites | Jean-Luc Mélenchon | 0 | 991 | 12 | 4 | Relue |
 | Retraites | François Ruffin | 45 | 1106 | 11 | 4 | Relue |
 | Retraites | Fabien Roussel | 77 | 1048 | 11 | 5 | Relue |
