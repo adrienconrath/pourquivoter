@@ -168,3 +168,5 @@ zemmour|zem-fisc-jdd|197/200
 zemmour|zem-dette-qde|71/200
 
 Contrôles réussis : 11/11 résumés uniques, chaque résumé sous 100 mots, 6 colonnes, champs valides, toutes références existantes, budgets documentaires respectés. Contrôle du générateur et audit de couverture réussis après intégration. La dernière réserve du résumé de Mélenchon a été retirée pour éviter un antécédent ambigu ; les objections restent développées dans les détails. Le sigle de La France insoumise et le rôle du pacte Dutreil ont été explicités.
+
+Contrôle complémentaire : les chapitres du programme-livre Mélenchon ont été regroupés et la synthèse a été ajustée. Résumé et détails restent sous 200 mots pour ce livre ; le document budgétaire et les entretiens sont contrôlés séparément. Les instruments et conditions ont été conservés.

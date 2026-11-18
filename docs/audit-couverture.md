@@ -6,7 +6,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 
 | Thème | Personnalité | Mots avant | Mots actuels | Sources | Paragraphes critiques | Relecture |
 | --- | --- | ---: | ---: | ---: | ---: | --- |
-| Dette et déficit | Jean-Luc Mélenchon | 0 | 994 | 12 | 3 | Relue |
+| Dette et déficit | Jean-Luc Mélenchon | 0 | 918 | 12 | 3 | Relue |
 | Dette et déficit | François Ruffin | 175 | 933 | 13 | 5 | Relue |
 | Dette et déficit | Fabien Roussel | 17 | 1002 | 16 | 6 | Relue |
 | Dette et déficit | Marine Tondelier | 17 | 963 | 11 | 4 | Relue |
@@ -25,7 +25,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Coût de la vie | Gabriel Attal | 20 | 845 | 17 | 3 | Relue |
 | Coût de la vie | Édouard Philippe | 20 | 776 | 11 | 4 | Relue |
 | Coût de la vie | David Lisnard | 45 | 800 | 11 | 4 | Relue |
-| Coût de la vie | Bruno Retailleau | 44 | 963 | 14 | 3 | Relue |
+| Coût de la vie | Bruno Retailleau | 44 | 966 | 14 | 3 | Relue |
 | Coût de la vie | Marine Le Pen | 155 | 848 | 11 | 5 | Relue |
 | Coût de la vie | Éric Zemmour | 119 | 808 | 11 | 4 | Relue |
 | Retraites | Jean-Luc Mélenchon | 0 | 991 | 12 | 4 | Relue |
