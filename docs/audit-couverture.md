@@ -36,7 +36,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Retraites | Gabriel Attal | 103 | 1117 | 15 | 4 | Relue |
 | Retraites | Édouard Philippe | 302 | 302 | 4 | 2 | Non relue |
 | Retraites | David Lisnard | 15 | 945 | 10 | 4 | Relue |
-| Retraites | Bruno Retailleau | 196 | 196 | 3 | 2 | Non relue |
+| Retraites | Bruno Retailleau | 196 | 1072 | 16 | 3 | Relue |
 | Retraites | Marine Le Pen | 357 | 357 | 5 | 4 | Non relue |
 | Retraites | Éric Zemmour | 41 | 996 | 11 | 4 | Relue |
 | Impôts et patrimoine | Jean-Luc Mélenchon | 0 | 971 | 10 | 3 | Relue |
