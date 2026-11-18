@@ -68,7 +68,7 @@ h1 em{font-weight:400;color:#63574a}
 .candidate-choice{position:relative;width:44px;height:49px;padding:2px;background:var(--card);border:1px solid var(--line);border-radius:5px}
 .candidate-choice .portrait{height:100%;border-radius:3px}
 .candidate-choice:hover{border-color:#8a6d51}
-.candidate-choice:hover img{filter:none}
+.candidate-choice[aria-pressed=true] img{filter:none}
 .candidate-choice[aria-pressed=true]{border:2px solid #6c4e31;padding:1px;background:#6c4e31}
 .choice-mark{display:none;position:absolute;bottom:-3px;right:-3px;width:17px;height:17px;border-radius:50%;background:#258243;color:#fff;font-size:11px;line-height:17px;text-align:center}
 .candidate-choice[aria-pressed=true] .choice-mark{display:block}
