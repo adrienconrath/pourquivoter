@@ -83,7 +83,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | École et jeunesse | Bruno Retailleau | 68 | 68 | 2 | 1 | Non relue |
 | École et jeunesse | Marine Le Pen | 51 | 51 | 2 | 0 | Non relue |
 | École et jeunesse | Éric Zemmour | 21 | 21 | 2 | 0 | Non relue |
-| Protection de l’enfance | Jean-Luc Mélenchon | 0 | 956 | 13 | 3 | Relue |
+| Protection de l’enfance | Jean-Luc Mélenchon | 0 | 956 | 15 | 3 | Relue |
 | Protection de l’enfance | François Ruffin | 0 | 917 | 12 | 3 | Relue |
 | Protection de l’enfance | Fabien Roussel | 0 | 832 | 8 | 3 | Relue |
 | Protection de l’enfance | Marine Tondelier | 0 | 872 | 8 | 4 | Relue |
