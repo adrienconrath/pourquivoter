@@ -78,7 +78,7 @@ function updateBoard() {
   }
   const count = themes.filter(theme => selected.has(theme.id)).length;
   emptyThemes.hidden = count > 0;
-  board.hidden = columnScroll.hidden = count === 0 || expanded.length === 0;
+  board.hidden = columnScroll.hidden = expanded.length === 0;
   clearThemes.disabled = count === 0;
   closeColumns.disabled = expanded.length === 0;
   resultCount.textContent = `${expanded.length} ${expanded.length === 1 ? "colonne ouverte" : "colonnes ouvertes"} · ${count} ${count === 1 ? "thème" : "thèmes"}`;
