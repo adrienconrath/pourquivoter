@@ -1,0 +1,248 @@
+# Relevé de couverture des 240 comparaisons
+
+Les mots comptent uniquement le texte éditorial, sans les titres des sources. Moins de 250 mots signale une fiche courte ; entre 250 et 599, une fiche à approfondir. Ces seuils servent au tri, pas à certifier la qualité. « Non relue » signifie que la recherche complète n'a pas encore été contrôlée dans cet audit, quelle que soit la longueur.
+
+Les détails des recherches et les inconnues sont consignés dans [le journal](../data/recherches.tsv). Les cases initialement vides ou de moins de 600 mots restent repérables dans la colonne « Avant » après leur réécriture.
+
+| Thème | Personnalité | Mots avant | Mots actuels | Sources | Critiques | Relecture |
+| --- | --- | ---: | ---: | ---: | ---: | --- |
+| Dette et déficit | François Ruffin | 175 | 175 | 3 | 2 | Non relue |
+| Dette et déficit | Fabien Roussel | 17 | 17 | 1 | 0 | Non relue |
+| Dette et déficit | Marine Tondelier | 17 | 17 | 2 | 0 | Non relue |
+| Dette et déficit | Raphaël Glucksmann | 858 | 858 | 17 | 3 | Non relue |
+| Dette et déficit | Gabriel Attal | 849 | 849 | 25 | 3 | Non relue |
+| Dette et déficit | Édouard Philippe | 233 | 233 | 2 | 1 | Non relue |
+| Dette et déficit | David Lisnard | 200 | 200 | 7 | 3 | Non relue |
+| Dette et déficit | Bruno Retailleau | 290 | 290 | 4 | 3 | Non relue |
+| Dette et déficit | Marine Le Pen | 295 | 295 | 5 | 4 | Non relue |
+| Dette et déficit | Éric Zemmour | 138 | 138 | 2 | 1 | Non relue |
+| Coût de la vie | François Ruffin | 18 | 1061 | 8 | 3 | Relue |
+| Coût de la vie | Fabien Roussel | 49 | 803 | 8 | 3 | Relue |
+| Coût de la vie | Marine Tondelier | 65 | 990 | 9 | 4 | Relue |
+| Coût de la vie | Raphaël Glucksmann | 113 | 1147 | 11 | 4 | Relue |
+| Coût de la vie | Gabriel Attal | 20 | 994 | 16 | 3 | Relue |
+| Coût de la vie | Édouard Philippe | 20 | 937 | 10 | 4 | Relue |
+| Coût de la vie | David Lisnard | 45 | 967 | 10 | 4 | Relue |
+| Coût de la vie | Bruno Retailleau | 44 | 1106 | 13 | 3 | Relue |
+| Coût de la vie | Marine Le Pen | 155 | 155 | 5 | 2 | Non relue |
+| Coût de la vie | Éric Zemmour | 119 | 119 | 2 | 0 | Non relue |
+| Retraites | François Ruffin | 45 | 45 | 3 | 0 | Non relue |
+| Retraites | Fabien Roussel | 77 | 77 | 1 | 0 | Non relue |
+| Retraites | Marine Tondelier | 27 | 27 | 1 | 0 | Non relue |
+| Retraites | Raphaël Glucksmann | 24 | 24 | 2 | 0 | Non relue |
+| Retraites | Gabriel Attal | 103 | 103 | 4 | 1 | Non relue |
+| Retraites | Édouard Philippe | 302 | 302 | 4 | 2 | Non relue |
+| Retraites | David Lisnard | 15 | 15 | 1 | 0 | Non relue |
+| Retraites | Bruno Retailleau | 196 | 196 | 3 | 2 | Non relue |
+| Retraites | Marine Le Pen | 357 | 357 | 5 | 4 | Non relue |
+| Retraites | Éric Zemmour | 41 | 41 | 1 | 0 | Non relue |
+| Impôts et patrimoine | François Ruffin | 836 | 836 | 13 | 3 | Non relue |
+| Impôts et patrimoine | Fabien Roussel | 842 | 842 | 21 | 3 | Non relue |
+| Impôts et patrimoine | Marine Tondelier | 895 | 895 | 18 | 3 | Non relue |
+| Impôts et patrimoine | Raphaël Glucksmann | 878 | 878 | 23 | 4 | Non relue |
+| Impôts et patrimoine | Gabriel Attal | 1000 | 1000 | 24 | 4 | Non relue |
+| Impôts et patrimoine | Édouard Philippe | 916 | 916 | 20 | 4 | Non relue |
+| Impôts et patrimoine | David Lisnard | 952 | 952 | 23 | 4 | Non relue |
+| Impôts et patrimoine | Bruno Retailleau | 845 | 845 | 19 | 3 | Non relue |
+| Impôts et patrimoine | Marine Le Pen | 1016 | 1016 | 15 | 4 | Non relue |
+| Impôts et patrimoine | Éric Zemmour | 925 | 925 | 19 | 3 | Non relue |
+| Travail et salaires | François Ruffin | 98 | 98 | 4 | 0 | Non relue |
+| Travail et salaires | Fabien Roussel | 72 | 72 | 4 | 0 | Non relue |
+| Travail et salaires | Marine Tondelier | 145 | 145 | 2 | 1 | Non relue |
+| Travail et salaires | Raphaël Glucksmann | 33 | 33 | 2 | 0 | Non relue |
+| Travail et salaires | Gabriel Attal | 97 | 97 | 2 | 1 | Non relue |
+| Travail et salaires | Édouard Philippe | 46 | 46 | 2 | 0 | Non relue |
+| Travail et salaires | David Lisnard | 18 | 18 | 1 | 0 | Non relue |
+| Travail et salaires | Bruno Retailleau | 39 | 39 | 1 | 0 | Non relue |
+| Travail et salaires | Marine Le Pen | 140 | 140 | 1 | 1 | Non relue |
+| Travail et salaires | Éric Zemmour | 12 | 12 | 1 | 0 | Non relue |
+| Industrie et entreprises | François Ruffin | 45 | 45 | 2 | 0 | Non relue |
+| Industrie et entreprises | Fabien Roussel | 14 | 14 | 1 | 0 | Non relue |
+| Industrie et entreprises | Marine Tondelier | 65 | 65 | 1 | 0 | Non relue |
+| Industrie et entreprises | Raphaël Glucksmann | 33 | 33 | 1 | 0 | Non relue |
+| Industrie et entreprises | Gabriel Attal | 15 | 15 | 1 | 0 | Non relue |
+| Industrie et entreprises | Édouard Philippe | 90 | 90 | 2 | 1 | Non relue |
+| Industrie et entreprises | David Lisnard | 22 | 22 | 3 | 0 | Non relue |
+| Industrie et entreprises | Bruno Retailleau | 16 | 16 | 1 | 0 | Non relue |
+| Industrie et entreprises | Marine Le Pen | 93 | 93 | 3 | 1 | Non relue |
+| Industrie et entreprises | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
+| École et jeunesse | François Ruffin | 16 | 16 | 1 | 0 | Non relue |
+| École et jeunesse | Fabien Roussel | 153 | 153 | 3 | 1 | Non relue |
+| École et jeunesse | Marine Tondelier | 12 | 12 | 1 | 0 | Non relue |
+| École et jeunesse | Raphaël Glucksmann | 58 | 58 | 3 | 0 | Non relue |
+| École et jeunesse | Gabriel Attal | 151 | 151 | 4 | 1 | Non relue |
+| École et jeunesse | Édouard Philippe | 116 | 116 | 1 | 0 | Non relue |
+| École et jeunesse | David Lisnard | 182 | 182 | 4 | 2 | Non relue |
+| École et jeunesse | Bruno Retailleau | 68 | 68 | 2 | 1 | Non relue |
+| École et jeunesse | Marine Le Pen | 51 | 51 | 2 | 0 | Non relue |
+| École et jeunesse | Éric Zemmour | 21 | 21 | 2 | 0 | Non relue |
+| Santé et accès aux soins | François Ruffin | 60 | 60 | 1 | 0 | Non relue |
+| Santé et accès aux soins | Fabien Roussel | 54 | 54 | 3 | 0 | Non relue |
+| Santé et accès aux soins | Marine Tondelier | 53 | 53 | 1 | 0 | Non relue |
+| Santé et accès aux soins | Raphaël Glucksmann | 30 | 30 | 2 | 0 | Non relue |
+| Santé et accès aux soins | Gabriel Attal | 16 | 16 | 1 | 0 | Non relue |
+| Santé et accès aux soins | Édouard Philippe | 35 | 35 | 1 | 0 | Non relue |
+| Santé et accès aux soins | David Lisnard | 56 | 56 | 1 | 0 | Non relue |
+| Santé et accès aux soins | Bruno Retailleau | 112 | 112 | 2 | 1 | Non relue |
+| Santé et accès aux soins | Marine Le Pen | 118 | 118 | 2 | 1 | Non relue |
+| Santé et accès aux soins | Éric Zemmour | 66 | 66 | 2 | 0 | Non relue |
+| Logement | François Ruffin | 178 | 178 | 4 | 1 | Non relue |
+| Logement | Fabien Roussel | 130 | 130 | 2 | 1 | Non relue |
+| Logement | Marine Tondelier | 12 | 12 | 1 | 0 | Non relue |
+| Logement | Raphaël Glucksmann | 46 | 46 | 3 | 0 | Non relue |
+| Logement | Gabriel Attal | 154 | 154 | 2 | 0 | Non relue |
+| Logement | Édouard Philippe | 40 | 40 | 1 | 0 | Non relue |
+| Logement | David Lisnard | 171 | 171 | 2 | 2 | Non relue |
+| Logement | Bruno Retailleau | 256 | 256 | 4 | 2 | Non relue |
+| Logement | Marine Le Pen | 154 | 154 | 2 | 3 | Non relue |
+| Logement | Éric Zemmour | 61 | 61 | 2 | 1 | Non relue |
+| Fonction publique | François Ruffin | 41 | 41 | 2 | 0 | Non relue |
+| Fonction publique | Fabien Roussel | 119 | 119 | 3 | 1 | Non relue |
+| Fonction publique | Marine Tondelier | 86 | 86 | 2 | 1 | Non relue |
+| Fonction publique | Raphaël Glucksmann | 147 | 147 | 4 | 1 | Non relue |
+| Fonction publique | Gabriel Attal | 123 | 123 | 5 | 2 | Non relue |
+| Fonction publique | Édouard Philippe | 118 | 118 | 2 | 1 | Non relue |
+| Fonction publique | David Lisnard | 67 | 67 | 3 | 1 | Non relue |
+| Fonction publique | Bruno Retailleau | 122 | 122 | 3 | 1 | Non relue |
+| Fonction publique | Marine Le Pen | 74 | 74 | 2 | 1 | Non relue |
+| Fonction publique | Éric Zemmour | 97 | 97 | 3 | 1 | Non relue |
+| Immigration et asile | François Ruffin | 182 | 182 | 4 | 3 | Non relue |
+| Immigration et asile | Fabien Roussel | 53 | 53 | 1 | 0 | Non relue |
+| Immigration et asile | Marine Tondelier | 52 | 52 | 1 | 0 | Non relue |
+| Immigration et asile | Raphaël Glucksmann | 65 | 65 | 4 | 0 | Non relue |
+| Immigration et asile | Gabriel Attal | 121 | 121 | 2 | 1 | Non relue |
+| Immigration et asile | Édouard Philippe | 179 | 179 | 3 | 2 | Non relue |
+| Immigration et asile | David Lisnard | 49 | 49 | 2 | 0 | Non relue |
+| Immigration et asile | Bruno Retailleau | 119 | 119 | 4 | 1 | Non relue |
+| Immigration et asile | Marine Le Pen | 157 | 157 | 4 | 2 | Non relue |
+| Immigration et asile | Éric Zemmour | 90 | 90 | 4 | 0 | Non relue |
+| Sécurité | François Ruffin | 109 | 109 | 1 | 1 | Non relue |
+| Sécurité | Fabien Roussel | 137 | 137 | 3 | 1 | Non relue |
+| Sécurité | Marine Tondelier | 27 | 27 | 1 | 0 | Non relue |
+| Sécurité | Raphaël Glucksmann | 18 | 18 | 1 | 0 | Non relue |
+| Sécurité | Gabriel Attal | 27 | 27 | 2 | 0 | Non relue |
+| Sécurité | Édouard Philippe | 35 | 35 | 1 | 0 | Non relue |
+| Sécurité | David Lisnard | 17 | 17 | 1 | 0 | Non relue |
+| Sécurité | Bruno Retailleau | 0 | 1012 | 11 | 5 | Relue |
+| Sécurité | Marine Le Pen | 29 | 1029 | 14 | 3 | Relue |
+| Sécurité | Éric Zemmour | 13 | 13 | 1 | 0 | Non relue |
+| Justice | François Ruffin | 0 | 0 | 0 | 0 | Non relue |
+| Justice | Fabien Roussel | 0 | 0 | 0 | 0 | Non relue |
+| Justice | Marine Tondelier | 71 | 71 | 2 | 0 | Non relue |
+| Justice | Raphaël Glucksmann | 7 | 7 | 1 | 0 | Non relue |
+| Justice | Gabriel Attal | 93 | 93 | 3 | 1 | Non relue |
+| Justice | Édouard Philippe | 131 | 131 | 5 | 2 | Non relue |
+| Justice | David Lisnard | 117 | 117 | 4 | 1 | Non relue |
+| Justice | Bruno Retailleau | 86 | 86 | 1 | 1 | Non relue |
+| Justice | Marine Le Pen | 0 | 0 | 0 | 0 | Non relue |
+| Justice | Éric Zemmour | 179 | 179 | 5 | 4 | Non relue |
+| Institutions et démocratie | François Ruffin | 47 | 47 | 3 | 0 | Non relue |
+| Institutions et démocratie | Fabien Roussel | 0 | 0 | 0 | 0 | Non relue |
+| Institutions et démocratie | Marine Tondelier | 40 | 40 | 2 | 0 | Non relue |
+| Institutions et démocratie | Raphaël Glucksmann | 13 | 13 | 1 | 0 | Non relue |
+| Institutions et démocratie | Gabriel Attal | 15 | 15 | 1 | 0 | Non relue |
+| Institutions et démocratie | Édouard Philippe | 14 | 14 | 1 | 0 | Non relue |
+| Institutions et démocratie | David Lisnard | 15 | 15 | 2 | 0 | Non relue |
+| Institutions et démocratie | Bruno Retailleau | 51 | 51 | 1 | 0 | Non relue |
+| Institutions et démocratie | Marine Le Pen | 20 | 20 | 2 | 0 | Non relue |
+| Institutions et démocratie | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
+| Égalité et droits | François Ruffin | 20 | 20 | 1 | 0 | Non relue |
+| Égalité et droits | Fabien Roussel | 21 | 21 | 1 | 0 | Non relue |
+| Égalité et droits | Marine Tondelier | 16 | 16 | 1 | 0 | Non relue |
+| Égalité et droits | Raphaël Glucksmann | 49 | 49 | 3 | 0 | Non relue |
+| Égalité et droits | Gabriel Attal | 12 | 12 | 1 | 0 | Non relue |
+| Égalité et droits | Édouard Philippe | 12 | 12 | 1 | 0 | Non relue |
+| Égalité et droits | David Lisnard | 0 | 0 | 0 | 0 | Non relue |
+| Égalité et droits | Bruno Retailleau | 0 | 0 | 0 | 0 | Non relue |
+| Égalité et droits | Marine Le Pen | 0 | 0 | 0 | 0 | Non relue |
+| Égalité et droits | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
+| Climat et adaptation | François Ruffin | 115 | 115 | 2 | 0 | Non relue |
+| Climat et adaptation | Fabien Roussel | 98 | 98 | 3 | 0 | Non relue |
+| Climat et adaptation | Marine Tondelier | 108 | 108 | 3 | 1 | Non relue |
+| Climat et adaptation | Raphaël Glucksmann | 209 | 209 | 4 | 2 | Non relue |
+| Climat et adaptation | Gabriel Attal | 10 | 10 | 1 | 0 | Non relue |
+| Climat et adaptation | Édouard Philippe | 21 | 21 | 1 | 0 | Non relue |
+| Climat et adaptation | David Lisnard | 17 | 17 | 1 | 0 | Non relue |
+| Climat et adaptation | Bruno Retailleau | 59 | 59 | 2 | 1 | Non relue |
+| Climat et adaptation | Marine Le Pen | 49 | 49 | 2 | 0 | Non relue |
+| Climat et adaptation | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
+| Énergie | François Ruffin | 24 | 24 | 1 | 0 | Non relue |
+| Énergie | Fabien Roussel | 248 | 248 | 4 | 2 | Non relue |
+| Énergie | Marine Tondelier | 11 | 11 | 2 | 0 | Non relue |
+| Énergie | Raphaël Glucksmann | 91 | 91 | 1 | 0 | Non relue |
+| Énergie | Gabriel Attal | 111 | 111 | 2 | 1 | Non relue |
+| Énergie | Édouard Philippe | 13 | 13 | 1 | 0 | Non relue |
+| Énergie | David Lisnard | 29 | 29 | 1 | 0 | Non relue |
+| Énergie | Bruno Retailleau | 54 | 54 | 1 | 0 | Non relue |
+| Énergie | Marine Le Pen | 46 | 46 | 3 | 0 | Non relue |
+| Énergie | Éric Zemmour | 24 | 24 | 1 | 0 | Non relue |
+| Transports | François Ruffin | 13 | 13 | 2 | 0 | Non relue |
+| Transports | Fabien Roussel | 4 | 4 | 1 | 0 | Non relue |
+| Transports | Marine Tondelier | 218 | 218 | 3 | 1 | Non relue |
+| Transports | Raphaël Glucksmann | 104 | 104 | 2 | 1 | Non relue |
+| Transports | Gabriel Attal | 528 | 528 | 6 | 2 | Non relue |
+| Transports | Édouard Philippe | 6 | 6 | 1 | 0 | Non relue |
+| Transports | David Lisnard | 15 | 15 | 1 | 0 | Non relue |
+| Transports | Bruno Retailleau | 0 | 0 | 0 | 0 | Non relue |
+| Transports | Marine Le Pen | 0 | 0 | 0 | 0 | Non relue |
+| Transports | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
+| Agriculture et alimentation | François Ruffin | 50 | 50 | 3 | 0 | Non relue |
+| Agriculture et alimentation | Fabien Roussel | 0 | 1093 | 11 | 3 | Relue |
+| Agriculture et alimentation | Marine Tondelier | 77 | 77 | 1 | 0 | Non relue |
+| Agriculture et alimentation | Raphaël Glucksmann | 0 | 0 | 0 | 0 | Non relue |
+| Agriculture et alimentation | Gabriel Attal | 43 | 43 | 2 | 0 | Non relue |
+| Agriculture et alimentation | Édouard Philippe | 26 | 26 | 1 | 0 | Non relue |
+| Agriculture et alimentation | David Lisnard | 42 | 42 | 2 | 0 | Non relue |
+| Agriculture et alimentation | Bruno Retailleau | 65 | 65 | 2 | 1 | Non relue |
+| Agriculture et alimentation | Marine Le Pen | 0 | 0 | 0 | 0 | Non relue |
+| Agriculture et alimentation | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
+| Territoires et outre-mer | François Ruffin | 0 | 0 | 0 | 0 | Non relue |
+| Territoires et outre-mer | Fabien Roussel | 26 | 26 | 2 | 0 | Non relue |
+| Territoires et outre-mer | Marine Tondelier | 19 | 19 | 1 | 0 | Non relue |
+| Territoires et outre-mer | Raphaël Glucksmann | 0 | 0 | 0 | 0 | Non relue |
+| Territoires et outre-mer | Gabriel Attal | 47 | 47 | 2 | 0 | Non relue |
+| Territoires et outre-mer | Édouard Philippe | 85 | 85 | 3 | 0 | Non relue |
+| Territoires et outre-mer | David Lisnard | 37 | 37 | 2 | 0 | Non relue |
+| Territoires et outre-mer | Bruno Retailleau | 0 | 0 | 0 | 0 | Non relue |
+| Territoires et outre-mer | Marine Le Pen | 0 | 0 | 0 | 0 | Non relue |
+| Territoires et outre-mer | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
+| Europe | François Ruffin | 776 | 776 | 22 | 3 | Non relue |
+| Europe | Fabien Roussel | 915 | 915 | 21 | 4 | Non relue |
+| Europe | Marine Tondelier | 950 | 950 | 20 | 4 | Non relue |
+| Europe | Raphaël Glucksmann | 995 | 995 | 21 | 4 | Non relue |
+| Europe | Gabriel Attal | 885 | 885 | 12 | 4 | Non relue |
+| Europe | Édouard Philippe | 983 | 983 | 22 | 4 | Non relue |
+| Europe | David Lisnard | 789 | 789 | 19 | 3 | Non relue |
+| Europe | Bruno Retailleau | 829 | 829 | 23 | 3 | Non relue |
+| Europe | Marine Le Pen | 944 | 944 | 26 | 4 | Non relue |
+| Europe | Éric Zemmour | 832 | 832 | 28 | 3 | Non relue |
+| Défense et diplomatie | François Ruffin | 0 | 0 | 0 | 0 | Non relue |
+| Défense et diplomatie | Fabien Roussel | 18 | 18 | 1 | 0 | Non relue |
+| Défense et diplomatie | Marine Tondelier | 29 | 29 | 1 | 0 | Non relue |
+| Défense et diplomatie | Raphaël Glucksmann | 12 | 12 | 2 | 0 | Non relue |
+| Défense et diplomatie | Gabriel Attal | 17 | 17 | 1 | 0 | Non relue |
+| Défense et diplomatie | Édouard Philippe | 16 | 16 | 1 | 0 | Non relue |
+| Défense et diplomatie | David Lisnard | 27 | 27 | 1 | 0 | Non relue |
+| Défense et diplomatie | Bruno Retailleau | 0 | 0 | 0 | 0 | Non relue |
+| Défense et diplomatie | Marine Le Pen | 0 | 0 | 0 | 0 | Non relue |
+| Défense et diplomatie | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
+| Culture et médias | François Ruffin | 24 | 24 | 2 | 0 | Non relue |
+| Culture et médias | Fabien Roussel | 0 | 0 | 0 | 0 | Non relue |
+| Culture et médias | Marine Tondelier | 58 | 58 | 2 | 0 | Non relue |
+| Culture et médias | Raphaël Glucksmann | 94 | 94 | 3 | 1 | Non relue |
+| Culture et médias | Gabriel Attal | 0 | 0 | 0 | 0 | Non relue |
+| Culture et médias | Édouard Philippe | 0 | 0 | 0 | 0 | Non relue |
+| Culture et médias | David Lisnard | 0 | 0 | 0 | 0 | Non relue |
+| Culture et médias | Bruno Retailleau | 0 | 0 | 0 | 0 | Non relue |
+| Culture et médias | Marine Le Pen | 57 | 57 | 1 | 1 | Non relue |
+| Culture et médias | Éric Zemmour | 45 | 45 | 1 | 0 | Non relue |
+| Numérique et IA | François Ruffin | 40 | 40 | 2 | 0 | Non relue |
+| Numérique et IA | Fabien Roussel | 0 | 0 | 0 | 0 | Non relue |
+| Numérique et IA | Marine Tondelier | 35 | 35 | 2 | 0 | Non relue |
+| Numérique et IA | Raphaël Glucksmann | 53 | 53 | 2 | 0 | Non relue |
+| Numérique et IA | Gabriel Attal | 79 | 79 | 3 | 0 | Non relue |
+| Numérique et IA | Édouard Philippe | 47 | 47 | 2 | 0 | Non relue |
+| Numérique et IA | David Lisnard | 29 | 29 | 2 | 0 | Non relue |
+| Numérique et IA | Bruno Retailleau | 26 | 26 | 2 | 0 | Non relue |
+| Numérique et IA | Marine Le Pen | 0 | 856 | 10 | 4 | Relue |
+| Numérique et IA | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
