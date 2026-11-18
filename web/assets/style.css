@@ -161,3 +161,7 @@ footer{border-top:1px solid var(--line);color:var(--muted);font-size:.83rem}
   .foot{flex-wrap:wrap;padding-block:10px}
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+.github-link{display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;border:1px solid var(--line);border-radius:50%;flex:none;background:var(--card)}
+.github-link img{width:24px;height:24px}
+.github-link:hover{background:var(--soft);border-color:var(--muted)}
