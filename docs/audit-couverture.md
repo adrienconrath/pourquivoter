@@ -74,7 +74,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Industrie et entreprises | Éric Zemmour | 0 | 945 | 9 | 4 | Relue |
 | École et jeunesse | Jean-Luc Mélenchon | 0 | 950 | 7 | 4 | Relue |
 | École et jeunesse | François Ruffin | 16 | 973 | 8 | 5 | Relue |
-| École et jeunesse | Fabien Roussel | 153 | 153 | 3 | 1 | Non relue |
+| École et jeunesse | Fabien Roussel | 153 | 1047 | 14 | 5 | Relue |
 | École et jeunesse | Marine Tondelier | 12 | 992 | 10 | 3 | Relue |
 | École et jeunesse | Raphaël Glucksmann | 58 | 1006 | 12 | 4 | Relue |
 | École et jeunesse | Gabriel Attal | 151 | 957 | 23 | 3 | Relue |
