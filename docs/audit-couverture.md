@@ -64,7 +64,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Industrie et entreprises | Jean-Luc Mélenchon | 0 | 1151 | 12 | 3 | Relue |
 | Industrie et entreprises | François Ruffin | 45 | 1071 | 11 | 3 | Relue |
 | Industrie et entreprises | Fabien Roussel | 14 | 997 | 9 | 3 | Relue |
-| Industrie et entreprises | Marine Tondelier | 65 | 65 | 1 | 0 | Non relue |
+| Industrie et entreprises | Marine Tondelier | 65 | 980 | 8 | 3 | Relue |
 | Industrie et entreprises | Raphaël Glucksmann | 33 | 1009 | 8 | 4 | Relue |
 | Industrie et entreprises | Gabriel Attal | 15 | 1076 | 11 | 4 | Relue |
 | Industrie et entreprises | Édouard Philippe | 90 | 90 | 2 | 1 | Non relue |
