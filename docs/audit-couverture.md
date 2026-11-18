@@ -83,12 +83,12 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | École et jeunesse | Bruno Retailleau | 68 | 68 | 2 | 1 | Non relue |
 | École et jeunesse | Marine Le Pen | 51 | 51 | 2 | 0 | Non relue |
 | École et jeunesse | Éric Zemmour | 21 | 21 | 2 | 0 | Non relue |
-| Protection de l’enfance | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
+| Protection de l’enfance | Jean-Luc Mélenchon | 0 | 956 | 13 | 3 | Relue |
 | Protection de l’enfance | François Ruffin | 0 | 0 | 0 | 0 | Non relue |
 | Protection de l’enfance | Fabien Roussel | 0 | 0 | 0 | 0 | Non relue |
 | Protection de l’enfance | Marine Tondelier | 0 | 0 | 0 | 0 | Non relue |
 | Protection de l’enfance | Raphaël Glucksmann | 0 | 0 | 0 | 0 | Non relue |
-| Protection de l’enfance | Gabriel Attal | 0 | 0 | 0 | 0 | Non relue |
+| Protection de l’enfance | Gabriel Attal | 0 | 1019 | 19 | 4 | Relue |
 | Protection de l’enfance | Édouard Philippe | 0 | 0 | 0 | 0 | Non relue |
 | Protection de l’enfance | David Lisnard | 0 | 0 | 0 | 0 | Non relue |
 | Protection de l’enfance | Bruno Retailleau | 0 | 0 | 0 | 0 | Non relue |
@@ -149,7 +149,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Sécurité | Bruno Retailleau | 0 | 1063 | 12 | 5 | Relue |
 | Sécurité | Marine Le Pen | 29 | 1106 | 18 | 3 | Relue |
 | Sécurité | Éric Zemmour | 13 | 1068 | 12 | 5 | Relue |
-| Justice | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
+| Justice | Jean-Luc Mélenchon | 0 | 1023 | 9 | 3 | Relue |
 | Justice | François Ruffin | 0 | 968 | 8 | 5 | Relue |
 | Justice | Fabien Roussel | 0 | 1144 | 14 | 3 | Relue |
 | Justice | Marine Tondelier | 71 | 71 | 2 | 0 | Non relue |

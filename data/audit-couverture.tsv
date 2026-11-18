@@ -77,12 +77,12 @@ ecole|lisnard|182|182|6|4|2|1|insuffisant|non
 ecole|retailleau|68|68|3|2|1|0|insuffisant|non
 ecole|le-pen|51|51|2|2|0|0|insuffisant|non
 ecole|zemmour|21|21|2|2|0|0|insuffisant|non
-enfance|melenchon|0|0|0|0|0|0|vide|non
+enfance|melenchon|0|956|14|13|3|2|controle_qualitatif|relue
 enfance|ruffin|0|0|0|0|0|0|vide|non
 enfance|roussel|0|0|0|0|0|0|vide|non
 enfance|tondelier|0|0|0|0|0|0|vide|non
 enfance|glucksmann|0|0|0|0|0|0|vide|non
-enfance|attal|0|0|0|0|0|0|vide|non
+enfance|attal|0|1019|12|19|4|1|controle_qualitatif|relue
 enfance|philippe|0|0|0|0|0|0|vide|non
 enfance|lisnard|0|0|0|0|0|0|vide|non
 enfance|retailleau|0|0|0|0|0|0|vide|non
@@ -143,7 +143,7 @@ securite|lisnard|17|995|14|14|3|1|controle_qualitatif|relue
 securite|retailleau|0|1063|15|12|5|2|controle_qualitatif|relue
 securite|le-pen|29|1106|13|18|3|2|controle_qualitatif|relue
 securite|zemmour|13|1068|17|12|5|3|controle_qualitatif|relue
-justice|melenchon|0|0|0|0|0|0|vide|non
+justice|melenchon|0|1023|14|9|3|3|controle_qualitatif|relue
 justice|ruffin|0|968|15|8|5|1|controle_qualitatif|relue
 justice|roussel|0|1144|16|14|3|2|controle_qualitatif|relue
 justice|tondelier|71|71|3|2|0|1|insuffisant|non
