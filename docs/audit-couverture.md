@@ -164,7 +164,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Institutions et démocratie | François Ruffin | 47 | 47 | 3 | 0 | Non relue |
 | Institutions et démocratie | Fabien Roussel | 0 | 941 | 10 | 4 | Relue |
 | Institutions et démocratie | Marine Tondelier | 40 | 40 | 2 | 0 | Non relue |
-| Institutions et démocratie | Raphaël Glucksmann | 13 | 13 | 1 | 0 | Non relue |
+| Institutions et démocratie | Raphaël Glucksmann | 13 | 1029 | 10 | 3 | Relue |
 | Institutions et démocratie | Gabriel Attal | 15 | 15 | 1 | 0 | Non relue |
 | Institutions et démocratie | Édouard Philippe | 14 | 14 | 1 | 0 | Non relue |
 | Institutions et démocratie | David Lisnard | 15 | 15 | 2 | 0 | Non relue |
@@ -199,13 +199,13 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Énergie | Marine Tondelier | 11 | 1128 | 11 | 4 | Relue |
 | Énergie | Raphaël Glucksmann | 91 | 91 | 1 | 0 | Non relue |
 | Énergie | Gabriel Attal | 111 | 111 | 2 | 1 | Non relue |
-| Énergie | Édouard Philippe | 13 | 13 | 1 | 0 | Non relue |
+| Énergie | Édouard Philippe | 13 | 905 | 11 | 4 | Relue |
 | Énergie | David Lisnard | 29 | 29 | 1 | 0 | Non relue |
 | Énergie | Bruno Retailleau | 54 | 54 | 1 | 0 | Non relue |
 | Énergie | Marine Le Pen | 46 | 46 | 3 | 0 | Non relue |
 | Énergie | Éric Zemmour | 24 | 24 | 1 | 0 | Non relue |
 | Transports | Jean-Luc Mélenchon | 0 | 1015 | 10 | 3 | Relue |
-| Transports | François Ruffin | 13 | 13 | 2 | 0 | Non relue |
+| Transports | François Ruffin | 13 | 1088 | 12 | 4 | Relue |
 | Transports | Fabien Roussel | 4 | 965 | 8 | 3 | Relue |
 | Transports | Marine Tondelier | 218 | 218 | 3 | 1 | Non relue |
 | Transports | Raphaël Glucksmann | 104 | 104 | 2 | 1 | Non relue |
