@@ -39,17 +39,17 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Retraites | Bruno Retailleau | 196 | 1106 | 17 | 3 | Relue |
 | Retraites | Marine Le Pen | 357 | 1083 | 12 | 5 | Relue |
 | Retraites | Éric Zemmour | 41 | 1019 | 12 | 4 | Relue |
-| Impôts et patrimoine | Jean-Luc Mélenchon | 0 | 971 | 10 | 3 | Relue |
-| Impôts et patrimoine | François Ruffin | 836 | 1128 | 10 | 5 | Relue |
-| Impôts et patrimoine | Fabien Roussel | 842 | 1107 | 19 | 3 | Relue |
-| Impôts et patrimoine | Marine Tondelier | 895 | 1118 | 13 | 4 | Relue |
-| Impôts et patrimoine | Raphaël Glucksmann | 878 | 1044 | 15 | 5 | Relue |
-| Impôts et patrimoine | Gabriel Attal | 1000 | 1092 | 21 | 5 | Relue |
-| Impôts et patrimoine | Édouard Philippe | 916 | 1090 | 17 | 5 | Relue |
-| Impôts et patrimoine | David Lisnard | 952 | 1078 | 17 | 4 | Relue |
-| Impôts et patrimoine | Bruno Retailleau | 845 | 1105 | 15 | 5 | Relue |
-| Impôts et patrimoine | Marine Le Pen | 1016 | 1116 | 14 | 5 | Relue |
-| Impôts et patrimoine | Éric Zemmour | 925 | 1038 | 14 | 5 | Relue |
+| Impôts et patrimoine | Jean-Luc Mélenchon | 0 | 838 | 11 | 4 | Relue |
+| Impôts et patrimoine | François Ruffin | 836 | 897 | 11 | 5 | Relue |
+| Impôts et patrimoine | Fabien Roussel | 842 | 985 | 20 | 3 | Relue |
+| Impôts et patrimoine | Marine Tondelier | 895 | 1052 | 14 | 4 | Relue |
+| Impôts et patrimoine | Raphaël Glucksmann | 878 | 921 | 16 | 5 | Relue |
+| Impôts et patrimoine | Gabriel Attal | 1000 | 1074 | 22 | 6 | Relue |
+| Impôts et patrimoine | Édouard Philippe | 916 | 964 | 18 | 5 | Relue |
+| Impôts et patrimoine | David Lisnard | 952 | 1018 | 18 | 4 | Relue |
+| Impôts et patrimoine | Bruno Retailleau | 845 | 996 | 16 | 5 | Relue |
+| Impôts et patrimoine | Marine Le Pen | 1016 | 1040 | 15 | 5 | Relue |
+| Impôts et patrimoine | Éric Zemmour | 925 | 957 | 15 | 5 | Relue |
 | Travail et salaires | Jean-Luc Mélenchon | 0 | 1012 | 11 | 3 | Relue |
 | Travail et salaires | François Ruffin | 98 | 1065 | 12 | 3 | Relue |
 | Travail et salaires | Fabien Roussel | 72 | 947 | 10 | 3 | Relue |
