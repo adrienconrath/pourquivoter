@@ -61,17 +61,17 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Travail et salaires | Bruno Retailleau | 39 | 1139 | 12 | 3 | Relue |
 | Travail et salaires | Marine Le Pen | 140 | 1035 | 8 | 4 | Relue |
 | Travail et salaires | Éric Zemmour | 12 | 1119 | 12 | 5 | Relue |
-| Industrie et entreprises | Jean-Luc Mélenchon | 0 | 1151 | 12 | 3 | Relue |
-| Industrie et entreprises | François Ruffin | 45 | 1071 | 11 | 3 | Relue |
-| Industrie et entreprises | Fabien Roussel | 14 | 997 | 9 | 3 | Relue |
-| Industrie et entreprises | Marine Tondelier | 65 | 980 | 8 | 3 | Relue |
-| Industrie et entreprises | Raphaël Glucksmann | 33 | 1009 | 8 | 4 | Relue |
-| Industrie et entreprises | Gabriel Attal | 15 | 1076 | 11 | 4 | Relue |
-| Industrie et entreprises | Édouard Philippe | 90 | 977 | 10 | 3 | Relue |
-| Industrie et entreprises | David Lisnard | 22 | 1080 | 12 | 4 | Relue |
-| Industrie et entreprises | Bruno Retailleau | 16 | 1194 | 20 | 3 | Relue |
-| Industrie et entreprises | Marine Le Pen | 93 | 1044 | 10 | 3 | Relue |
-| Industrie et entreprises | Éric Zemmour | 0 | 945 | 9 | 4 | Relue |
+| Industrie et entreprises | Jean-Luc Mélenchon | 0 | 983 | 13 | 3 | Relue |
+| Industrie et entreprises | François Ruffin | 45 | 1090 | 12 | 3 | Relue |
+| Industrie et entreprises | Fabien Roussel | 14 | 986 | 10 | 3 | Relue |
+| Industrie et entreprises | Marine Tondelier | 65 | 986 | 9 | 3 | Relue |
+| Industrie et entreprises | Raphaël Glucksmann | 33 | 1010 | 9 | 7 | Relue |
+| Industrie et entreprises | Gabriel Attal | 15 | 980 | 13 | 5 | Relue |
+| Industrie et entreprises | Édouard Philippe | 90 | 982 | 11 | 5 | Relue |
+| Industrie et entreprises | David Lisnard | 22 | 1085 | 13 | 4 | Relue |
+| Industrie et entreprises | Bruno Retailleau | 16 | 1222 | 21 | 3 | Relue |
+| Industrie et entreprises | Marine Le Pen | 93 | 1046 | 11 | 4 | Relue |
+| Industrie et entreprises | Éric Zemmour | 0 | 970 | 10 | 4 | Relue |
 | École et jeunesse | Jean-Luc Mélenchon | 0 | 891 | 9 | 5 | Relue |
 | École et jeunesse | François Ruffin | 16 | 824 | 9 | 5 | Relue |
 | École et jeunesse | Fabien Roussel | 153 | 902 | 15 | 5 | Relue |
@@ -94,39 +94,39 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Protection de l’enfance | Bruno Retailleau | 0 | 818 | 14 | 3 | Relue |
 | Protection de l’enfance | Marine Le Pen | 0 | 800 | 9 | 3 | Relue |
 | Protection de l’enfance | Éric Zemmour | 0 | 918 | 14 | 5 | Relue |
-| Santé et accès aux soins | Jean-Luc Mélenchon | 0 | 1126 | 11 | 3 | Relue |
-| Santé et accès aux soins | François Ruffin | 60 | 955 | 10 | 4 | Relue |
-| Santé et accès aux soins | Fabien Roussel | 54 | 1075 | 13 | 3 | Relue |
-| Santé et accès aux soins | Marine Tondelier | 53 | 1081 | 10 | 3 | Relue |
-| Santé et accès aux soins | Raphaël Glucksmann | 30 | 931 | 8 | 3 | Relue |
-| Santé et accès aux soins | Gabriel Attal | 16 | 1098 | 15 | 4 | Relue |
-| Santé et accès aux soins | Édouard Philippe | 35 | 1029 | 9 | 4 | Relue |
-| Santé et accès aux soins | David Lisnard | 56 | 1076 | 14 | 4 | Relue |
-| Santé et accès aux soins | Bruno Retailleau | 112 | 1016 | 12 | 4 | Relue |
-| Santé et accès aux soins | Marine Le Pen | 118 | 1061 | 11 | 3 | Relue |
-| Santé et accès aux soins | Éric Zemmour | 66 | 1087 | 12 | 4 | Relue |
-| Logement | Jean-Luc Mélenchon | 0 | 1034 | 11 | 3 | Relue |
-| Logement | François Ruffin | 178 | 1051 | 9 | 4 | Relue |
-| Logement | Fabien Roussel | 130 | 1110 | 11 | 3 | Relue |
-| Logement | Marine Tondelier | 12 | 1092 | 13 | 4 | Relue |
-| Logement | Raphaël Glucksmann | 46 | 999 | 9 | 4 | Relue |
-| Logement | Gabriel Attal | 154 | 1057 | 15 | 5 | Relue |
-| Logement | Édouard Philippe | 40 | 982 | 9 | 4 | Relue |
-| Logement | David Lisnard | 171 | 989 | 16 | 3 | Relue |
-| Logement | Bruno Retailleau | 256 | 1142 | 25 | 4 | Relue |
-| Logement | Marine Le Pen | 154 | 1000 | 11 | 4 | Relue |
-| Logement | Éric Zemmour | 61 | 1083 | 11 | 4 | Relue |
-| Fonction publique | Jean-Luc Mélenchon | 0 | 1088 | 11 | 4 | Relue |
-| Fonction publique | François Ruffin | 41 | 1069 | 11 | 4 | Relue |
-| Fonction publique | Fabien Roussel | 119 | 984 | 13 | 5 | Relue |
-| Fonction publique | Marine Tondelier | 86 | 891 | 8 | 3 | Relue |
-| Fonction publique | Raphaël Glucksmann | 147 | 825 | 12 | 3 | Relue |
-| Fonction publique | Gabriel Attal | 123 | 1099 | 18 | 5 | Relue |
-| Fonction publique | Édouard Philippe | 118 | 973 | 8 | 4 | Relue |
-| Fonction publique | David Lisnard | 67 | 1105 | 14 | 4 | Relue |
-| Fonction publique | Bruno Retailleau | 122 | 1084 | 13 | 4 | Relue |
-| Fonction publique | Marine Le Pen | 74 | 922 | 11 | 4 | Relue |
-| Fonction publique | Éric Zemmour | 97 | 1067 | 11 | 4 | Relue |
+| Santé et accès aux soins | Jean-Luc Mélenchon | 0 | 875 | 13 | 3 | Relue |
+| Santé et accès aux soins | François Ruffin | 60 | 717 | 11 | 4 | Relue |
+| Santé et accès aux soins | Fabien Roussel | 54 | 785 | 14 | 3 | Relue |
+| Santé et accès aux soins | Marine Tondelier | 53 | 850 | 11 | 3 | Relue |
+| Santé et accès aux soins | Raphaël Glucksmann | 30 | 738 | 9 | 3 | Relue |
+| Santé et accès aux soins | Gabriel Attal | 16 | 883 | 16 | 4 | Relue |
+| Santé et accès aux soins | Édouard Philippe | 35 | 732 | 10 | 4 | Relue |
+| Santé et accès aux soins | David Lisnard | 56 | 822 | 15 | 4 | Relue |
+| Santé et accès aux soins | Bruno Retailleau | 112 | 797 | 13 | 4 | Relue |
+| Santé et accès aux soins | Marine Le Pen | 118 | 814 | 12 | 3 | Relue |
+| Santé et accès aux soins | Éric Zemmour | 66 | 800 | 13 | 4 | Relue |
+| Logement | Jean-Luc Mélenchon | 0 | 839 | 12 | 4 | Relue |
+| Logement | François Ruffin | 178 | 914 | 10 | 4 | Relue |
+| Logement | Fabien Roussel | 130 | 941 | 12 | 3 | Relue |
+| Logement | Marine Tondelier | 12 | 873 | 14 | 4 | Relue |
+| Logement | Raphaël Glucksmann | 46 | 862 | 10 | 4 | Relue |
+| Logement | Gabriel Attal | 154 | 891 | 16 | 5 | Relue |
+| Logement | Édouard Philippe | 40 | 809 | 12 | 5 | Relue |
+| Logement | David Lisnard | 171 | 875 | 17 | 3 | Relue |
+| Logement | Bruno Retailleau | 256 | 1034 | 25 | 4 | Relue |
+| Logement | Marine Le Pen | 154 | 846 | 12 | 4 | Relue |
+| Logement | Éric Zemmour | 61 | 812 | 12 | 4 | Relue |
+| Fonction publique | Jean-Luc Mélenchon | 0 | 848 | 14 | 4 | Relue |
+| Fonction publique | François Ruffin | 41 | 1056 | 12 | 5 | Relue |
+| Fonction publique | Fabien Roussel | 119 | 1001 | 14 | 5 | Relue |
+| Fonction publique | Marine Tondelier | 86 | 843 | 9 | 3 | Relue |
+| Fonction publique | Raphaël Glucksmann | 147 | 845 | 13 | 3 | Relue |
+| Fonction publique | Gabriel Attal | 123 | 1043 | 19 | 5 | Relue |
+| Fonction publique | Édouard Philippe | 118 | 877 | 9 | 4 | Relue |
+| Fonction publique | David Lisnard | 67 | 1027 | 16 | 5 | Relue |
+| Fonction publique | Bruno Retailleau | 122 | 1031 | 14 | 4 | Relue |
+| Fonction publique | Marine Le Pen | 74 | 948 | 12 | 4 | Relue |
+| Fonction publique | Éric Zemmour | 97 | 1026 | 12 | 6 | Relue |
 | Immigration et asile | Jean-Luc Mélenchon | 0 | 1117 | 13 | 4 | Relue |
 | Immigration et asile | François Ruffin | 182 | 1010 | 10 | 4 | Relue |
 | Immigration et asile | Fabien Roussel | 53 | 917 | 8 | 4 | Relue |
