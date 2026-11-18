@@ -215,7 +215,7 @@ agriculture|roussel|0|1093|15|11|3|1|controle_qualitatif|relue
 agriculture|tondelier|77|77|3|1|0|1|insuffisant|non
 agriculture|glucksmann|0|918|15|11|3|1|controle_qualitatif|relue
 agriculture|attal|43|43|2|2|0|0|insuffisant|non
-agriculture|philippe|26|974|13|10|3|2|controle_qualitatif|relue
+agriculture|philippe|26|1076|14|11|4|2|controle_qualitatif|relue
 agriculture|lisnard|42|42|2|2|0|0|insuffisant|non
 agriculture|retailleau|65|65|2|2|1|0|insuffisant|non
 agriculture|le-pen|0|1161|16|16|4|2|controle_qualitatif|relue
@@ -272,6 +272,6 @@ numerique|glucksmann|53|53|2|2|0|0|insuffisant|non
 numerique|attal|79|79|3|3|0|1|insuffisant|non
 numerique|philippe|47|47|2|2|0|0|insuffisant|non
 numerique|lisnard|29|29|1|2|0|0|insuffisant|non
-numerique|retailleau|26|1060|16|17|3|4|controle_qualitatif|relue
+numerique|retailleau|26|1051|16|17|3|4|controle_qualitatif|relue
 numerique|le-pen|0|856|12|10|4|1|controle_qualitatif|relue
 numerique|zemmour|0|1082|16|9|4|3|controle_qualitatif|relue

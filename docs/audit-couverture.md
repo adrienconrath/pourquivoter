@@ -221,7 +221,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Agriculture et alimentation | Marine Tondelier | 77 | 77 | 1 | 0 | Non relue |
 | Agriculture et alimentation | Raphaël Glucksmann | 0 | 918 | 11 | 3 | Relue |
 | Agriculture et alimentation | Gabriel Attal | 43 | 43 | 2 | 0 | Non relue |
-| Agriculture et alimentation | Édouard Philippe | 26 | 974 | 10 | 3 | Relue |
+| Agriculture et alimentation | Édouard Philippe | 26 | 1076 | 11 | 4 | Relue |
 | Agriculture et alimentation | David Lisnard | 42 | 42 | 2 | 0 | Non relue |
 | Agriculture et alimentation | Bruno Retailleau | 65 | 65 | 2 | 1 | Non relue |
 | Agriculture et alimentation | Marine Le Pen | 0 | 1161 | 16 | 4 | Relue |
@@ -278,6 +278,6 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Numérique et IA | Gabriel Attal | 79 | 79 | 3 | 0 | Non relue |
 | Numérique et IA | Édouard Philippe | 47 | 47 | 2 | 0 | Non relue |
 | Numérique et IA | David Lisnard | 29 | 29 | 2 | 0 | Non relue |
-| Numérique et IA | Bruno Retailleau | 26 | 1060 | 17 | 3 | Relue |
+| Numérique et IA | Bruno Retailleau | 26 | 1051 | 17 | 3 | Relue |
 | Numérique et IA | Marine Le Pen | 0 | 856 | 10 | 4 | Relue |
 | Numérique et IA | Éric Zemmour | 0 | 1082 | 9 | 4 | Relue |
