@@ -77,6 +77,17 @@ ecole|lisnard|182|182|6|4|2|1|insuffisant|non
 ecole|retailleau|68|68|3|2|1|0|insuffisant|non
 ecole|le-pen|51|51|2|2|0|0|insuffisant|non
 ecole|zemmour|21|21|2|2|0|0|insuffisant|non
+enfance|melenchon|0|0|0|0|0|0|vide|non
+enfance|ruffin|0|0|0|0|0|0|vide|non
+enfance|roussel|0|0|0|0|0|0|vide|non
+enfance|tondelier|0|0|0|0|0|0|vide|non
+enfance|glucksmann|0|0|0|0|0|0|vide|non
+enfance|attal|0|0|0|0|0|0|vide|non
+enfance|philippe|0|0|0|0|0|0|vide|non
+enfance|lisnard|0|0|0|0|0|0|vide|non
+enfance|retailleau|0|0|0|0|0|0|vide|non
+enfance|le-pen|0|0|0|0|0|0|vide|non
+enfance|zemmour|0|0|0|0|0|0|vide|non
 sante|melenchon|0|1126|14|11|3|3|controle_qualitatif|relue
 sante|ruffin|60|60|2|1|0|1|insuffisant|non
 sante|roussel|54|54|2|3|0|0|insuffisant|non

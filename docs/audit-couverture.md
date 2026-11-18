@@ -1,4 +1,4 @@
-# Relevé de couverture des 264 comparaisons
+# Relevé de couverture des 275 comparaisons
 
 Les mots comptent uniquement le texte éditorial, sans les titres des sources. Moins de 250 mots signale une fiche courte ; entre 250 et 599, une fiche à approfondir. Ces seuils servent au tri, pas à certifier la qualité. « Non relue » signifie que la recherche complète n'a pas encore été contrôlée dans cet audit, quelle que soit la longueur.
 
@@ -83,6 +83,17 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | École et jeunesse | Bruno Retailleau | 68 | 68 | 2 | 1 | Non relue |
 | École et jeunesse | Marine Le Pen | 51 | 51 | 2 | 0 | Non relue |
 | École et jeunesse | Éric Zemmour | 21 | 21 | 2 | 0 | Non relue |
+| Protection de l’enfance | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
+| Protection de l’enfance | François Ruffin | 0 | 0 | 0 | 0 | Non relue |
+| Protection de l’enfance | Fabien Roussel | 0 | 0 | 0 | 0 | Non relue |
+| Protection de l’enfance | Marine Tondelier | 0 | 0 | 0 | 0 | Non relue |
+| Protection de l’enfance | Raphaël Glucksmann | 0 | 0 | 0 | 0 | Non relue |
+| Protection de l’enfance | Gabriel Attal | 0 | 0 | 0 | 0 | Non relue |
+| Protection de l’enfance | Édouard Philippe | 0 | 0 | 0 | 0 | Non relue |
+| Protection de l’enfance | David Lisnard | 0 | 0 | 0 | 0 | Non relue |
+| Protection de l’enfance | Bruno Retailleau | 0 | 0 | 0 | 0 | Non relue |
+| Protection de l’enfance | Marine Le Pen | 0 | 0 | 0 | 0 | Non relue |
+| Protection de l’enfance | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
 | Santé et accès aux soins | Jean-Luc Mélenchon | 0 | 1126 | 11 | 3 | Relue |
 | Santé et accès aux soins | François Ruffin | 60 | 60 | 1 | 0 | Non relue |
 | Santé et accès aux soins | Fabien Roussel | 54 | 54 | 3 | 0 | Non relue |
