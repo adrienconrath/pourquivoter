@@ -84,7 +84,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | École et jeunesse | Marine Le Pen | 51 | 51 | 2 | 0 | Non relue |
 | École et jeunesse | Éric Zemmour | 21 | 21 | 2 | 0 | Non relue |
 | Protection de l’enfance | Jean-Luc Mélenchon | 0 | 956 | 13 | 3 | Relue |
-| Protection de l’enfance | François Ruffin | 0 | 0 | 0 | 0 | Non relue |
+| Protection de l’enfance | François Ruffin | 0 | 917 | 12 | 3 | Relue |
 | Protection de l’enfance | Fabien Roussel | 0 | 0 | 0 | 0 | Non relue |
 | Protection de l’enfance | Marine Tondelier | 0 | 0 | 0 | 0 | Non relue |
 | Protection de l’enfance | Raphaël Glucksmann | 0 | 0 | 0 | 0 | Non relue |
@@ -182,7 +182,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Égalité et droits | Bruno Retailleau | 0 | 1136 | 13 | 3 | Relue |
 | Égalité et droits | Marine Le Pen | 0 | 1161 | 15 | 4 | Relue |
 | Égalité et droits | Éric Zemmour | 0 | 1131 | 14 | 5 | Relue |
-| Climat et adaptation | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
+| Climat et adaptation | Jean-Luc Mélenchon | 0 | 1035 | 12 | 3 | Relue |
 | Climat et adaptation | François Ruffin | 115 | 115 | 2 | 0 | Non relue |
 | Climat et adaptation | Fabien Roussel | 98 | 98 | 3 | 0 | Non relue |
 | Climat et adaptation | Marine Tondelier | 108 | 108 | 3 | 1 | Non relue |
@@ -193,7 +193,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Climat et adaptation | Bruno Retailleau | 59 | 59 | 2 | 1 | Non relue |
 | Climat et adaptation | Marine Le Pen | 49 | 49 | 2 | 0 | Non relue |
 | Climat et adaptation | Éric Zemmour | 0 | 1013 | 9 | 4 | Relue |
-| Énergie | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
+| Énergie | Jean-Luc Mélenchon | 0 | 996 | 12 | 4 | Relue |
 | Énergie | François Ruffin | 24 | 24 | 1 | 0 | Non relue |
 | Énergie | Fabien Roussel | 248 | 248 | 4 | 2 | Non relue |
 | Énergie | Marine Tondelier | 11 | 11 | 2 | 0 | Non relue |

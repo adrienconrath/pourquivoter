@@ -78,7 +78,7 @@ ecole|retailleau|68|68|3|2|1|0|insuffisant|non
 ecole|le-pen|51|51|2|2|0|0|insuffisant|non
 ecole|zemmour|21|21|2|2|0|0|insuffisant|non
 enfance|melenchon|0|956|14|13|3|2|controle_qualitatif|relue
-enfance|ruffin|0|0|0|0|0|0|vide|non
+enfance|ruffin|0|917|14|12|3|1|controle_qualitatif|relue
 enfance|roussel|0|0|0|0|0|0|vide|non
 enfance|tondelier|0|0|0|0|0|0|vide|non
 enfance|glucksmann|0|0|0|0|0|0|vide|non
@@ -176,7 +176,7 @@ droits|lisnard|0|970|13|10|3|1|controle_qualitatif|relue
 droits|retailleau|0|1136|14|13|3|2|controle_qualitatif|relue
 droits|le-pen|0|1161|16|15|4|1|controle_qualitatif|relue
 droits|zemmour|0|1131|17|14|5|2|controle_qualitatif|relue
-climat|melenchon|0|0|0|0|0|0|vide|non
+climat|melenchon|0|1035|14|12|3|2|controle_qualitatif|relue
 climat|ruffin|115|115|4|2|0|2|insuffisant|non
 climat|roussel|98|98|3|3|0|1|insuffisant|non
 climat|tondelier|108|108|4|3|1|0|insuffisant|non
@@ -187,7 +187,7 @@ climat|lisnard|17|17|1|1|0|0|insuffisant|non
 climat|retailleau|59|59|2|2|1|0|insuffisant|non
 climat|le-pen|49|49|2|2|0|0|insuffisant|non
 climat|zemmour|0|1013|13|9|4|1|controle_qualitatif|relue
-energie|melenchon|0|0|0|0|0|0|vide|non
+energie|melenchon|0|996|14|12|4|3|controle_qualitatif|relue
 energie|ruffin|24|24|1|1|0|0|insuffisant|non
 energie|roussel|248|248|8|4|2|2|insuffisant|non
 energie|tondelier|11|11|1|2|0|0|insuffisant|non
