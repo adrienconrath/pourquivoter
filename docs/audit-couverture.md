@@ -126,8 +126,8 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Sécurité | Bruno Retailleau | 0 | 1063 | 12 | 5 | Relue |
 | Sécurité | Marine Le Pen | 29 | 1029 | 14 | 3 | Relue |
 | Sécurité | Éric Zemmour | 13 | 1068 | 12 | 5 | Relue |
-| Justice | François Ruffin | 0 | 0 | 0 | 0 | Non relue |
-| Justice | Fabien Roussel | 0 | 1144 | 13 | 3 | Relue |
+| Justice | François Ruffin | 0 | 968 | 8 | 5 | Relue |
+| Justice | Fabien Roussel | 0 | 1144 | 14 | 3 | Relue |
 | Justice | Marine Tondelier | 71 | 71 | 2 | 0 | Non relue |
 | Justice | Raphaël Glucksmann | 7 | 7 | 1 | 0 | Non relue |
 | Justice | Gabriel Attal | 93 | 93 | 3 | 1 | Non relue |
@@ -145,7 +145,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Institutions et démocratie | David Lisnard | 15 | 15 | 2 | 0 | Non relue |
 | Institutions et démocratie | Bruno Retailleau | 51 | 51 | 1 | 0 | Non relue |
 | Institutions et démocratie | Marine Le Pen | 20 | 20 | 2 | 0 | Non relue |
-| Institutions et démocratie | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
+| Institutions et démocratie | Éric Zemmour | 0 | 1055 | 11 | 4 | Relue |
 | Égalité et droits | François Ruffin | 20 | 20 | 1 | 0 | Non relue |
 | Égalité et droits | Fabien Roussel | 21 | 21 | 1 | 0 | Non relue |
 | Égalité et droits | Marine Tondelier | 16 | 16 | 1 | 0 | Non relue |

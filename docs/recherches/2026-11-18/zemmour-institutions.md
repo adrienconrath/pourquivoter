@@ -1,0 +1,42 @@
+Audit institutions|zemmour — 18 novembre 2026.
+Périmètre : case initialement vide, aucun fichier suivi modifié. Lecture .agents/skills/actualiser-pour-qui-voter/SKILL.md, catalogue data/sources.tsv et format positions.
+
+Requêtes web réellement exécutées :
+- Zemmour programme institutions référendum article 11 89 2022 juges sénat septennat
+- site:ericzemmour.fr 2027 constitution référendum institutions
+- site:ericzemmour.fr "Congrès" "constitutionnel"
+- Zemmour référendum 3 septembre 2026 constitution BFM
+- site:pourquijevote.com/transcripts Zemmour référendum constitution
+- Zemmour institutions proportionnelle septennat 2022 programme
+- Zemmour Conseil constitutionnel dernier mot parlement trois cinquièmes critiques constitutionnaliste 2022
+- Zemmour référendum 2026 Conseil constitutionnel RTL BFMTV Europe1
+- site:tf1info.fr Zemmour immigration constitution lois européennes 2278470
+
+URL ouvertes et lues :
+https://www.ericzemmour.fr/priorites : cinq priorités actuelles, pas de chapitre institutionnel autonome dans cette page. Immigration/préférence nationale/justice, sans calendrier de révision.
+https://pourquijevote.com/transcripts : index ouvert, avertissement sur transcriptions automatiques lu ; recherche via index moteur, puis consultation de textes complets.
+https://dixipolis.com/presidentielle-2027 : index candidats ouvert puis fiche liée.
+https://dixipolis.com/politicien/eric-zemmour : d’abord timeout puis chargement réussi ; corpus 1071 vidéos, 15624 prises de parole, dernières apparitions ; thèmes/vidéos dynamiques en chargement, pas de passage institutionnel directement lisible, aucune promesse déduite des statistiques/mots.
+https://pourquijevote.com/transcripts/a92fb7b9-7e68-4c57-bb17-d2185b358c30 : texte réel intégral lu. Métadonnées : reprise autoproduite sur canal Zemmour, 10/11/2026. Dialogue avec Gilles Bouleau identifié dans les échanges, pas à partir des labels IA (« intervenants pas encore identifiés »). 3:30 question légalité et majorité par journaliste ; 4:06 réponse Zemmour référendum, droit du sol, regroupement familial, étudiants ; 4:06–4:47 question dissolution par Bouleau, refus par Zemmour. Ne pas attribuer la dissolution au candidat. Citation exacte non nécessaire dans fiche.
+https://pourquijevote.com/transcripts/3974b537-d92a-49a4-9697-10e789c954d9 : texte réel 1:36:58–1:42:47 lu. 1:38:23 question de Melting Pot sur conservation du pouvoir et alternance : propos du questionneur, pas promesse Zemmour de supprimer alternance. 1:39:51–1:40:35 réponse sur institutions. 1:40:35 article11, article55, primauté loi postérieure, dernier mot parlementaire, analogie lit de justice (transcrit « lead »). « majorité des 2/33 » : transcription défectueuse, ne pas retenir un chiffre actuel certifié. L’archive écrit 3/5 ; entretien JDD2025 hésite expressément entre 3/5, 2/3 ou autre mécanisme.
+https://www.youtube.com/watch?v=ntOjSe5GkSo et https://www.youtube.com/watch?v=6qDUG34PYWo : liens originaux suivis, fetch limité (« Online fetch throttled »), vérification audiovisuelle du seuil non réalisable. D’où maintien explicite de la réserve.
+https://assets.nationbuilder.com/themes/61c071ce4764e8b1483d1a8c/attachments/original/1648220408/programme_eric_zemmour_presidentielle_2022.pdf?1648220408= : trop volumineux pour web, téléchargement curl réussi et conversion pdftotext en mémoire. Page6 référendums et Congrès3/5.
+https://assets.nationbuilder.com/themes/61c071ce4764e8b1483d1a8c/attachments/original/1647354531/ez_programme%202022-final5.pdf?1647354531= : document déjà catalogué zem-def-prog22 ; curl et pdftotext réussis, passages p6 identiques, p40 cumul maire-parlementaire/évaluation/étude d’impact/Cour des comptes vérifiés. Réutilisation de l’ID existant, pas ajout d’une quasi-copie.
+https://www.publicsenat.fr/actualites/politique/presidentielle-2022-eric-zemmour-detaille-son-programme-et-assume-le-terme : 23/03/2022 actualisé04/04, présentation programme et hiérarchie des normes ; recoupement p6 ; pas utilisé pour chiffrer une sanction.
+https://lessurligneurs.eu/eric-zemmour-je-ferai-passer-mes-reformes-par-referendum-des-mon-election-en-meme-temps-que-les-legislatives/ : auteurs Jean-Paul Markus/Isabelle Muller-Quoy, création17/12/2021, modification27/06/2022, entretienFranceInter16/12/2021 à16:15. Distinction contrôle loi référendaire/contrôle préalable actes, débat parlementaire préalable, article89. Analyse attribuée, pas certitude que référendum automatiquement impossible.
+https://lessurligneurs.eu/eric-zemmour-veut-modifier-larticle-55-de-la-constitution-et-instaurer-la-predominance-des-lois-nationales-sur-les-traites/ : Guillaume Baticle, relecture Markus,10–11/02/2024, analyse art55/88-1/obligations internationales/amendes ; ID existant zem-eu-surl réutilisé.
+https://questions.assemblee-nationale.fr/synthese/fonctionnement-assemblee-nationale/travail-legislatif/la-revision-de-la-constitution : texte institutionnel lu ; deux votes conformes puis ratification, Congrès seulement pour projet présidentiel et3/5exprimés. Ne pas écrire que l’article89 impose obligatoirement Congrès.
+https://lcp.fr/actualites/presidentielle-dix-idees-en-debat-pour-renouveler-les-institutions-107987 : Jason Wiels,1er/04/2022 actualisé05/04 ; sections référendums, Parlement, scrutin majoritaire ; dernier point archive et non promesse2027.
+https://www.lagrandeconversation.com/politique/eric-zemmour-contre-le-gouvernement-des-juges/ : Ariane Ferrand, étudiante,05/04/2022, tribune critique droits/contre-pouvoirs ; pas utilisée dans positions pour ne pas la présenter comme expertise juridictionnelle.
+https://www.publicsenat.fr/actualites/politique/critiques-envers-le-conseil-constitutionnel-laurent-fabius-fait-la-lecon-sans-le :25/01/2022 actualisé14/02 ; réponse Fabius sans nommer Zemmour, distinction État de droit/état du droit, droits et art89.
+https://www.lejdd.fr/politique/un-coup-detat-de-droit-eric-zemmour-en-croisade-contre-le-conseil-constitutionnel-155024 :15/02/2025 à20h, entretien par Antonin André/Jules Torres/Geoffroy Lejeune ; passages réels questions/réponses lus : suppression QPC explicite ; majorité3/5ou2/3ouautre non arrêtée ; réforme55. Les assertions historiques/polémiques du candidat ne deviennent pas faits éditoriaux.
+https://www.lejdd.fr/politique/eric-zemmour-au-jdd-tout-faire-pour-que-notre-avenir-soit-francais-188724 :15/11/2026, question mise en œuvre immigration puis réponse référendum. ID zem-fisc-jdd existant réutilisé. Aucun chiffre budgétaire de l’entretien repris dans institutions.
+https://www.leclubdesjuristes.com/politique/peut-on-donner-au-peuple-le-dernier-mot-face-au-conseil-constitutionnel-17393/ : Armel Le Divellec, professeurAssas,21/09/2026 ; mécanisme théoriquement possible mais complexité, droits, contrôle après référendum et dernier mot existant par révision89. Explicitement éclairage général, pas critique spécifique/chiffrage de Zemmour.
+
+Échecs directs :
+https://www.tf1info.fr/politique/videos/video-presidentielle-2027-eric-zemmour-officialise-sa-candidature-au-20h-de-tf1-4341-2475122.html :403 ; pas une lecture réussie. Utilisation transcription réelle de l’entretien reprise sur canal candidat.
+https://www.tf1info.fr/societe/immigration-inscrire-dans-la-constitution-une-superiorite-des-lois-francaises-comme-le-veut-zemmour-permettrait-il-de-contourner-les-regles-europeennes-2278470.html :403 ; pas de nouveaux éléments déduits du seul extrait moteur.
+
+Limites : pas de programme institutionnel complet2027 stabilisé trouvé dans pages officielles lues ; en revanche positions explicites actuelles établies par entretiens. Seuil parlementaire actuel laissé non certifié (transcription) ; maintien de 3/5 comme archive2022 seulement. QPC : engagement personnel2025 sans réannonce explicite novembre2026. Cumul/mode de scrutin/référendum obligatoire : archives identifiées, pas actualisation supposée. Pas de chiffrage spécifique des coûts d’organisation référendaire ou des sanctions financières, aucun montant inventé. Financement sans ligne artificielle : institutionnel, mécanismes/sanctions non chiffrés signalés. Aucun nouveau RIC, septennat ou VIeRépublique attribué faute d’élément primaire actuel établi dans cette recherche.
+
+Livrables :12blocs,1004mots de texte,8sources nouvelles + IDs déjà présents zem-def-prog22/zem-eu-surl/zem-fisc-jdd. Contrôle six colonnes, un couple seulement. Pas de citations verbatim longues ; synthèses réparties entre documents (programme environ180mots, chacune des analyses moins200mots).

@@ -120,8 +120,8 @@ securite|lisnard|17|995|14|14|3|1|controle_qualitatif|relue
 securite|retailleau|0|1063|15|12|5|2|controle_qualitatif|relue
 securite|le-pen|29|1029|12|14|3|2|controle_qualitatif|relue
 securite|zemmour|13|1068|17|12|5|3|controle_qualitatif|relue
-justice|ruffin|0|0|0|0|0|0|vide|non
-justice|roussel|0|1144|16|13|3|2|controle_qualitatif|relue
+justice|ruffin|0|968|15|8|5|1|controle_qualitatif|relue
+justice|roussel|0|1144|16|14|3|2|controle_qualitatif|relue
 justice|tondelier|71|71|3|2|0|1|insuffisant|non
 justice|glucksmann|7|7|1|1|0|0|insuffisant|non
 justice|attal|93|93|3|3|1|0|insuffisant|non
@@ -139,7 +139,7 @@ institutions|philippe|14|14|1|1|0|0|insuffisant|non
 institutions|lisnard|15|15|1|2|0|0|insuffisant|non
 institutions|retailleau|51|51|2|1|0|0|insuffisant|non
 institutions|le-pen|20|20|1|2|0|0|insuffisant|non
-institutions|zemmour|0|0|0|0|0|0|vide|non
+institutions|zemmour|0|1055|13|11|4|1|controle_qualitatif|relue
 droits|ruffin|20|20|1|1|0|0|insuffisant|non
 droits|roussel|21|21|2|1|0|1|insuffisant|non
 droits|tondelier|16|16|1|1|0|0|insuffisant|non
