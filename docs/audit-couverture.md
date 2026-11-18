@@ -60,7 +60,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Travail et salaires | David Lisnard | 18 | 18 | 1 | 0 | Non relue |
 | Travail et salaires | Bruno Retailleau | 39 | 39 | 1 | 0 | Non relue |
 | Travail et salaires | Marine Le Pen | 140 | 140 | 1 | 1 | Non relue |
-| Travail et salaires | Éric Zemmour | 12 | 12 | 1 | 0 | Non relue |
+| Travail et salaires | Éric Zemmour | 12 | 1103 | 11 | 5 | Relue |
 | Industrie et entreprises | Jean-Luc Mélenchon | 0 | 1151 | 12 | 3 | Relue |
 | Industrie et entreprises | François Ruffin | 45 | 45 | 2 | 0 | Non relue |
 | Industrie et entreprises | Fabien Roussel | 14 | 14 | 1 | 0 | Non relue |
