@@ -44,7 +44,7 @@ pcf-local|PCF Loos · Orientations de la campagne|Parti|https://loos.pcf.fr/?pag
 oral|Le Monde · Grand oral des services publics sur franceinfo, 12 novembre|Presse|https://www.lemonde.fr/politique/live/2026/11/12/en-direct-presidentielle-2027-suivez-le-grand-oral-de-huit-candidats-sur-franceinfo-edouard-philippe-maintient-sa-position-je-ne-me-soumettrai-pas-a-une-primaire-de-la-droite-et-du-centre_6809070_823448.html
 ruff-plan|François Ruffin · Plan de redressement|Campagne|https://nouspresident.fr/plan-de-redressement/
 ruff|François Ruffin · Propositions pour 2027|Campagne|https://nouspresident.fr/
-gluck-projet|Place publique · Acte I, projet de 42 chantiers|Parti|https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf
+gluck-projet|Place publique · Acte I, projet de 42 chantiers|Parti|https://drive.google.com/file/d/1Ols_EJxRAxOJeR-fLEKp7IzEk8-TSI1Q/view?usp=sharing
 lis|Nouvelle Énergie · Programme pour 2027|Parti|https://www.unenouvelleenergie.fr/notre-programme/
 lis-oral|Nouvelle Énergie · Entretien du 27 octobre sur CNews et Europe 1|Entretien|https://www.unenouvelleenergie.fr/david-lisnard-sur-cnews-et-europe-1-je-ne-suis-pas-candidat-pour-un-poste-je-viens-pour-redresser-le-pays/
 lis-imm|Nouvelle Énergie · Programme sur l’immigration|Parti|https://www.unenouvelleenergie.fr/notre-programme/immigration/
@@ -255,7 +255,7 @@ pen-fisc-ifi|Direction générale des finances publiques · L’impôt sur la fo
 pen-fisc-pfu|Service Public Entreprendre · Taux du prélèvement forfaitaire unique depuis 2026|Source publique|https://entreprendre.service-public.gouv.fr/actualites/A18796
 pen-fisc-rn|Groupe RN à l’Assemblée nationale · Contre-budget 2027, annexe des mesures chiffrées|Document de parti|https://back.deputes-rn.fr/wp-content/uploads/2026/10/GRN-CONTRE-BUDGET-2027-DOSSIER.pdf#page=12
 pen-fisc-ir30|Assemblée nationale · Amendement rejeté n° I-640 au projet de loi de finances 2027|Texte parlementaire|https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/640
-pen-fisc-quotient|Ministère de l’Économie · Calcul du quotient familial|Source publique|https://www.economie.gouv.fr/particuliers/impots-et-fiscalite/gerer-mon-impot-sur-le-revenu/quotient-familial-et-impot-sur-le-revenu-comment-ca-marche
+pen-fisc-quotient|Service Public · Quotient familial d’un couple marié ou pacsé|Source publique|https://www.service-public.gouv.fr/particuliers/vosdroits/F2705
 pen-fisc-ps|Public Sénat · Effets possibles de l’impôt sur la fortune financière proposé en 2025|Presse|https://www.publicsenat.fr/actualites/economie/limpot-sur-la-fortune-financiere-propose-par-le-rn-une-mesure-pour-faire-plaisir-aux-proprietaires
 pen-fisc-restos|Dixipolis · Grand débat LCI pour les Restos du Cœur, édition longue et horodatée|Transcription de débat|https://dixipolis.com/video/226545
 pen-fisc-gen|Génération Libre · Analyse de la trajectoire du RN dans son contre-budget libéral pour 2027|Analyse de cercle de réflexion|https://www.generationlibre.eu/wp-content/uploads/2026/11/Contre-budget-liberal-2027-de-Generation-Libre.pdf
@@ -266,3 +266,56 @@ ruff-fisc-verif-succ|L’argent public · Lecture du chiffrage des grandes succe
 ruff-fisc-verif-fortune|L’argent public · Lecture du chiffrage de la taxe sur les hauts patrimoines|Analyse documentaire|https://largentpublic.fr/proposition/ruffin/ruffin-taxe-hauts-patrimoines
 ruff-fisc-collet|Martin Collet, Les Échos · L’obstacle constitutionnel de la taxe Zucman|Tribune juridique|https://www.lecercledesfiscalistes.com/publications/reforme-fiscale/taxe-zucman-lobstacle-constitutionnel/
 ruff-fisc-ofce|OFCE · Guillaume Allègre et Xavier Timbeau sur la taxation des plus riches|Document de travail|https://www.ofce.fr/wp/2026/6/v0/
+ret-fisc-op|Bruno Retailleau · Entretien à L’Opinion, repris par Les Républicains, 26 août 2026|Entretien|https://republicains.fr/actualites/2026/08/26/je-serai-le-president-qui-baissera-les-impots-de-succession/
+ret-fisc-prod|Bruno Retailleau · Programme de baisse de la fiscalité des entreprises, mesure 34|Campagne|https://www.avecretailleau.fr/projet/mesure/reduire-de-60-le-handicap-fiscal-de-nos-entreprises-par
+ret-fisc-dons|Bruno Retailleau · Programme de donations entre générations, mesure 66|Campagne|https://www.avecretailleau.fr/projet/mesure/debloquer-la-transmission-entre-generations
+ret-fisc-trans|Bruno Retailleau · Programme sur la transmission des entreprises, mesure 33|Campagne|https://www.avecretailleau.fr/projet/mesure/liberer-et-faciliter-la-transmission-des-entreprises
+ret-fisc-dons-argent|Service Public · Exonérations de droit commun sur les dons d’argent|Droit en vigueur|https://www.service-public.gouv.fr/particuliers/vosdroits/F36656
+ret-fisc-larg-don|L’argent public · Examen des modalités de l’exonération pour les donations|Analyse documentaire|https://largentpublic.fr/proposition/retailleau/retailleau-transmission-patrimoniale
+ret-fisc-ipp|Institut des politiques publiques · Évaluation de la baisse des impôts de production, octobre 2025|Étude|https://www.ipp.eu/publication/la-baisse-des-impots-de-production-ciblage-et-evaluation/
+ret-fisc-tribune|La Tribune · Les résultats de l’évaluation des baisses de la CVAE et de la CFE, octobre 2025|Presse|https://www.latribune.fr/article/economie/fiscalite/19178926477799/la-baisse-de-10-milliards-des-impots-de-production-n-a-produit-aucun-effet-robuste-sur-l-investissement?id=19178926477799
+lis-fisc-baisse|Nouvelle Énergie · Les baisses de cotisations et d’impôts de David Lisnard|Campagne|https://www.unenouvelleenergie.fr/questions/david-lisnard-veut-il-baisser-les-impots/
+lis-fisc-trib|David Lisnard · Changer de logiciel fiscal, tribune du 16 avril 2026 dans Atlantico|Tribune de campagne|https://www.unenouvelleenergie.fr/changer-de-logiciel-fiscal/
+lis-fisc-redressement|David Lisnard · Entretien sur le redressement des finances et les prélèvements|Entretien republié par le parti|https://www.unenouvelleenergie.fr/david-lisnard-redresser-la-france-ne-se-resume-pas-a-un-slogan/
+lis-fisc-dixi-csg|CNews et Europe 1 via Dixipolis · Objectif Élysée, 27 octobre, CSG vers 16 min et budget vers 1 h 01|Transcription d’entretien|https://dixipolis.com/video/224603
+lis-fisc-industrie|Nouvelle Énergie · Programme industriel et fiscal|Projet de parti|https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/
+lis-fisc-cpo-prod|Conseil des prélèvements obligatoires · Cadre fiscal et social pour l’industrie française|Rapport public|https://www.ccomptes.fr/sites/default/files/2025-09/20250922-Tracer-cadre-fiscal-et-social-pluriannuel%20pour-industrie-francaise.pdf
+lis-fisc-figaro|Le Figaro Immobilier · Impôt forfaitaire sur les loyers et les placements chez Nouvelle Énergie, 7 novembre 2026|Presse|https://immobilier.lefigaro.fr/article/david-lisnard-veut-rapprocher-la-fiscalite-de-l-immobilier-de-celle-des-placements-financiers-20261107
+lis-fisc-ifi|Service Public · Seuil et assiette de l’impôt sur la fortune immobilière|Institution|https://www.service-public.gouv.fr/particuliers/vosdroits/F563
+lis-fisc-pqv|RMC et BFMTV via Pourquijevote · Face à Face du 28 août, héritage à partir de 4 min 25|Transcription d’entretien|https://pourquijevote.com/transcripts/f5468346-a567-42d7-ba4e-9735352e2ae9
+lis-fisc-publicsenat|Public Sénat · David Lisnard sur l’impôt local, 4 novembre, passage à 1 min 21|Entretien vidéo|https://www.dailymotion.com/video/xbtkoc2
+lis-fisc-dixi-loc|Dixipolis · Entretien de David Lisnard sur la fiscalité locale, Public Sénat, 4 novembre|Index vidéo|https://dixipolis.com/video/225413
+lis-fisc-atlantico|Atlantico · Hugo Spring-Ragain sur le financement des baisses de prélèvements de Lisnard, 23 octobre 2026|Analyse|https://atlantico.fr/article/decryptage/baisse-depenses-hausse-salaires-nets-ce-que-vaut-vraiment-plan-david-lisnard-presidentielle-2027-hugo-spring-ragain
+lis-fisc-cpo-local|Conseil des prélèvements obligatoires · Adapter la fiscalité locale aux compétences des collectivités, 17 novembre 2026|Rapport public|https://www.ccomptes.fr/fr/publications/adapter-la-fiscalite-locale-aux-competences-des-collectivites-territoriales
+lis-fisc-monde-local|Le Monde · Analyse du rapport sur la fiscalité locale, 17 novembre 2026|Presse|https://www.lemonde.fr/politique/article/2026/11/17/l-etat-pousse-a-revoir-le-financement-des-collectivites-locales-pour-corriger-les-reformes-macron_6812961_823448.html
+tond-fisc-annonce|Les Écologistes · Annonce de Marine Tondelier et Eva Sas sur les héritages, 26 août 2026|Campagne|https://lesecologistes.fr/posts/20uOkUL8XPvQeEiVWpSWCJ/heritage-la-grande-transmission-doit-financer-la-grande-transition
+tond-fisc-budget|Les Écologistes · Dossier budget 2027, propositions fiscales et dépenses climatiques, p. 4–8|Projet de parti|https://static1.squarespace.com/static/68b9a0c719c7a969b63b8a1a/t/6aac6f11caf6c24f064adddf/1789685521931/dossierpresse-budget2027.pdf#page=4
+tond-fisc-heritage-an|Assemblée nationale · Amendement I-55 du groupe Écologiste et Social sur les transmissions, rejeté le 16 octobre 2026|Débat parlementaire|https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/55
+tond-fisc-dutreil-an|Assemblée nationale · Texte de l’amendement d’Eva Sas sur l’abattement Dutreil au-delà de 50 millions|Débat parlementaire|https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/CION_FIN/CF40
+tond-fisc-debat-an|Assemblée nationale · Débat sur les amendements au pacte Dutreil, 30 octobre 2026|Débat parlementaire|https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/deuxieme-seance-du-vendredi-30-octobre-2026
+tond-fisc-don|Service Public · Calcul des droits de succession et abattements en vigueur|Institution|https://www.service-public.fr/particuliers/vosdroits/F14198
+tond-fisc-cae|Conseil d’analyse économique · Repenser l’héritage, répartition des patrimoines hérités|Étude|https://cae-eco.fr/static/pdf/cae-note069s.pdf
+tond-fisc-capus|Sénat · Rapport d’Emmanuel Capus sur la proposition d’impôt plancher|Rapport parlementaire|https://www.senat.fr/rap/l24-689/l24-689_mono.html
+tond-fisc-ifrap|Fondation iFRAP · Agnès Verdier-Molinié sur les droits de succession, 8 septembre 2026|Tribune|https://www.ifrap.org/budget-et-fiscalite/tout-prendre-larme-fiscale-de-ceux-qui-ne-savent-pas-creer-de-richesses
+rou-fisc-pqvfete|Pourquijevote · Discours de Fabien Roussel à la Fête de l’Humanité|Transcription|https://pourquijevote.com/transcripts/30a8cb81-c433-4233-827f-cd7e062a5ec8
+rou-fisc-pqvlux|Pourquijevote · Fabien Roussel face aux Français, échange sur les bénéfices des multinationales du 7 octobre 2026|Entretien|https://pourquijevote.com/transcripts/7cdfb1aa-b4af-4c3c-9a7a-01198ed51219
+rou-fisc-fs|France Stratégie · Rapport final du comité d’évaluation des réformes de la fiscalité du capital|Évaluation publique|https://www.strategie-plan.gouv.fr/files/files/Publications/Rapport/fs-2023-rapport-isf-quatrieme_rapport_complet_17octobre_2.pdf
+rou-fisc-bar|Service Public · Barème progressif de l’impôt sur le revenu|Source publique|https://www.service-public.gouv.fr/particuliers/vosdroits/F1419
+rou-fisc-min|Direction générale des finances publiques · Imposition minimale mondiale à 15 %|Source publique|https://www.impots.gouv.fr/professionnel/je-decouvre-limposition-minimale-mondiale
+rou-fisc-cdc|Cour des comptes · La lutte contre la fraude fiscale, synthèse du rapport de décembre 2025|Audit public|https://www.ccomptes.fr/sites/default/files/2025-12/20251216-synthese-Lutte-contre-la-fraude-fiscale.pdf
+rou-fisc-cahier|PCF · Cahier thématique sur la Sécurité sociale, simulation page 37|Projet de parti|https://po.pcf.fr/wp-content/uploads/sites/40/2025/10/Cahier-thematique-Secu.pdf#page=37
+rou-fisc-cae|Conseil d’analyse économique · Étude sur les effets de l’exil fiscal, juillet 2025|Étude|https://cae-eco.fr/static/pdf/Focus_118_emigration_fiscale_250725_v2.pdf
+rou-fisc-ps|Public Sénat · Effet de la fiscalité du capital sur les départs et l’activité|Presse|https://www.publicsenat.fr/actualites/economie/budget-la-taxation-des-ultra-riches-nentrainerait-pas-dexil-fiscal-significatif
+rou-fisc-medef|Medef · Cartes sur table 2026, volet sur les impôts de production|Patronat|https://www.medef.com/uploads/media/node/0020/08/17512-cartes-sur-table-2026.pdf
+rou-fisc-monde|Le Monde · Montants encaissés et notifiés par Bercy, 8 avril 2026|Presse|https://www.lemonde.fr/argent/article/2026/04/08/controles-fiscaux-bercy-laisse-echapper-pres-de-6-milliards-d-euros_6678229_1657007.html
+rou-fisc-controles|Ministère de l’Économie · Bilan du contrôle fiscal 2025|Source publique|https://www.economie.gouv.fr/actualites/lutte-contre-la-fraude-un-controle-fiscal-toujours-plus-efficace-en-2025
+zem-fisc-jdd|Le JDD · Éric Zemmour détaille sa trajectoire et ses mesures fiscales, 15 novembre 2026|Entretien|https://www.lejdd.fr/politique/eric-zemmour-au-jdd-tout-faire-pour-que-notre-avenir-soit-francais-188724
+zem-fisc-bfm|BFMTV via Pourquijevote · Éric Zemmour sur les carburants et la fiscalité, 17 septembre 2026|Entretien et débat|https://pourquijevote.com/transcripts/07bc26df-29a2-4661-910a-c5ad65cc45dc
+zem-fisc-pqv|Pourquijevote · Zemmour face aux voix d’internet, 1 h 20 à 1 h 22|Entretien|https://pourquijevote.com/transcripts/3974b537-d92a-49a4-9697-10e789c954d9
+zem-fisc-tf1|TF1 Info via Pourquijevote · Éric Zemmour au journal de 20 heures, 10 novembre 2026|Entretien|https://pourquijevote.com/transcripts/e2adc1f3-92b3-4836-83d2-c6ed0a319fc1
+zem-fisc-knafo|TF1 Info · Sarah Knafo interrogée par Alba Ventura, 7 septembre 2026|Entretien|https://www.tf1info.fr/politique/videos/video-face-a-alba-ventura-sarah-knafo-2462696.html
+zem-fisc-csg|Service Public · CSG et CRDS sur les revenus d’activité et de remplacement|Institution|https://www.service-public.gouv.fr/particuliers/vosdroits/F2971?quest5=0
+zem-fisc-cee|Ministère de la Transition écologique · Dispositif des certificats d’économies d’énergie|Institution|https://www.ecologie.gouv.fr/politiques-publiques/dispositif-certificats-deconomies-denergie
+zem-fisc-voies|Direction du Budget · Projet de loi de finances 2027, voies et moyens, tome I, p. 42|Projet de budget|https://www.budget.gouv.fr/documentation/file-download/34339#page=42
+zem-fisc-csg-ch|Déchiffrer 2027 · Estimation de la suppression de la CSG d’activité|Estimation|https://dechiffrer2027.fr/mesure/zemmour/csg
+zem-fisc-accise|Déchiffrer 2027 · Estimation de la baisse de l’accise sur les carburants|Estimation|https://dechiffrer2027.fr/mesure/zemmour/taxes-energie
