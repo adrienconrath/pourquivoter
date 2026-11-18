@@ -235,7 +235,10 @@ def build(snapshot, generated):
     column_headers = "".join(
         f'<div class="column-header" data-person="{p["id"]}">{portrait(p)}'
         f'<span class="column-ident"><strong>{escape(p["name"])}</strong>'
-        f'<small>{escape(p["party"])}</small></span></div>'
+        f'<small>{escape(p["party"])}</small></span>'
+        f'<button type="button" class="column-close" data-close-person="{p["id"]}" '
+        f'aria-label="Retirer {escape(p["name"])} de la comparaison" '
+        f'title="Retirer {escape(p["name"])} de la comparaison"><span aria-hidden="true">×</span></button></div>'
         for p in people.values()
     )
     timeline = "".join(

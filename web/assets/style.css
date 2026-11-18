@@ -58,7 +58,10 @@ h1 em{font-weight:400;color:#63574a}
 .compare-board.is-interactive .compare-sheet,.candidate-columns{width:max-content;min-width:100%}
 .candidate-columns,.is-interactive .positions{display:grid;grid-template-columns:var(--tracks)}
 .candidate-columns{border-bottom:1px solid #b6a993}
-.column-header{min-width:0;display:flex;align-items:center;gap:10px;height:52px;padding:5px 10px;border:0;border-right:1px solid #cabfac;background:#e4ddd0;text-align:left}
+.column-header{position:relative;min-width:0;display:flex;align-items:center;gap:10px;height:52px;padding:5px 42px 5px 10px;border:0;border-right:1px solid #cabfac;background:#e4ddd0;text-align:left}
+.column-close{position:absolute;top:3px;right:3px;display:grid;place-items:center;width:32px;height:32px;padding:0;border:1px solid transparent;border-radius:50%;background:transparent;color:var(--muted);font-size:24px;line-height:1}
+.column-close:hover{border-color:var(--line);background:var(--soft);color:var(--ink)}
+.column-close:focus-visible{outline-offset:-2px}
 .column-header:focus-visible{outline-offset:-3px}
 .column-header{text-decoration:none;background:#f8f4ec;border-bottom:3px solid #8a6d51}
 .column-header .portrait{width:34px;height:38px;border-radius:4px;flex:none}
