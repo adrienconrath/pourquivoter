@@ -1,4 +1,4 @@
-# Relevé de couverture des 240 comparaisons
+# Relevé de couverture des 264 comparaisons
 
 Les mots comptent uniquement le texte éditorial, sans les titres des sources. Moins de 250 mots signale une fiche courte ; entre 250 et 599, une fiche à approfondir. Ces seuils servent au tri, pas à certifier la qualité. « Non relue » signifie que la recherche complète n'a pas encore été contrôlée dans cet audit, quelle que soit la longueur.
 
@@ -6,6 +6,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 
 | Thème | Personnalité | Mots avant | Mots actuels | Sources | Paragraphes critiques | Relecture |
 | --- | --- | ---: | ---: | ---: | ---: | --- |
+| Dette et déficit | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | Dette et déficit | François Ruffin | 175 | 962 | 12 | 5 | Relue |
 | Dette et déficit | Fabien Roussel | 17 | 1034 | 15 | 5 | Relue |
 | Dette et déficit | Marine Tondelier | 17 | 1034 | 10 | 4 | Relue |
@@ -16,6 +17,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Dette et déficit | Bruno Retailleau | 290 | 1091 | 13 | 5 | Relue |
 | Dette et déficit | Marine Le Pen | 295 | 995 | 11 | 4 | Relue |
 | Dette et déficit | Éric Zemmour | 138 | 1080 | 11 | 6 | Relue |
+| Coût de la vie | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | Coût de la vie | François Ruffin | 18 | 1061 | 8 | 3 | Relue |
 | Coût de la vie | Fabien Roussel | 49 | 803 | 8 | 3 | Relue |
 | Coût de la vie | Marine Tondelier | 65 | 990 | 9 | 4 | Relue |
@@ -26,6 +28,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Coût de la vie | Bruno Retailleau | 44 | 1106 | 13 | 3 | Relue |
 | Coût de la vie | Marine Le Pen | 155 | 993 | 9 | 4 | Relue |
 | Coût de la vie | Éric Zemmour | 119 | 887 | 9 | 3 | Relue |
+| Retraites | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | Retraites | François Ruffin | 45 | 45 | 3 | 0 | Non relue |
 | Retraites | Fabien Roussel | 77 | 77 | 1 | 0 | Non relue |
 | Retraites | Marine Tondelier | 27 | 27 | 1 | 0 | Non relue |
@@ -36,6 +39,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Retraites | Bruno Retailleau | 196 | 196 | 3 | 2 | Non relue |
 | Retraites | Marine Le Pen | 357 | 357 | 5 | 4 | Non relue |
 | Retraites | Éric Zemmour | 41 | 41 | 1 | 0 | Non relue |
+| Impôts et patrimoine | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | Impôts et patrimoine | François Ruffin | 836 | 836 | 13 | 3 | Non relue |
 | Impôts et patrimoine | Fabien Roussel | 842 | 842 | 21 | 3 | Non relue |
 | Impôts et patrimoine | Marine Tondelier | 895 | 895 | 18 | 3 | Non relue |
@@ -46,6 +50,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Impôts et patrimoine | Bruno Retailleau | 845 | 845 | 19 | 3 | Non relue |
 | Impôts et patrimoine | Marine Le Pen | 1016 | 1016 | 15 | 4 | Non relue |
 | Impôts et patrimoine | Éric Zemmour | 925 | 925 | 19 | 3 | Non relue |
+| Travail et salaires | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | Travail et salaires | François Ruffin | 98 | 98 | 4 | 0 | Non relue |
 | Travail et salaires | Fabien Roussel | 72 | 72 | 4 | 0 | Non relue |
 | Travail et salaires | Marine Tondelier | 145 | 145 | 2 | 1 | Non relue |
@@ -56,6 +61,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Travail et salaires | Bruno Retailleau | 39 | 39 | 1 | 0 | Non relue |
 | Travail et salaires | Marine Le Pen | 140 | 140 | 1 | 1 | Non relue |
 | Travail et salaires | Éric Zemmour | 12 | 12 | 1 | 0 | Non relue |
+| Industrie et entreprises | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | Industrie et entreprises | François Ruffin | 45 | 45 | 2 | 0 | Non relue |
 | Industrie et entreprises | Fabien Roussel | 14 | 14 | 1 | 0 | Non relue |
 | Industrie et entreprises | Marine Tondelier | 65 | 65 | 1 | 0 | Non relue |
@@ -66,6 +72,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Industrie et entreprises | Bruno Retailleau | 16 | 16 | 1 | 0 | Non relue |
 | Industrie et entreprises | Marine Le Pen | 93 | 93 | 3 | 1 | Non relue |
 | Industrie et entreprises | Éric Zemmour | 0 | 945 | 9 | 4 | Relue |
+| École et jeunesse | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | École et jeunesse | François Ruffin | 16 | 16 | 1 | 0 | Non relue |
 | École et jeunesse | Fabien Roussel | 153 | 153 | 3 | 1 | Non relue |
 | École et jeunesse | Marine Tondelier | 12 | 12 | 1 | 0 | Non relue |
@@ -76,6 +83,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | École et jeunesse | Bruno Retailleau | 68 | 68 | 2 | 1 | Non relue |
 | École et jeunesse | Marine Le Pen | 51 | 51 | 2 | 0 | Non relue |
 | École et jeunesse | Éric Zemmour | 21 | 21 | 2 | 0 | Non relue |
+| Santé et accès aux soins | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | Santé et accès aux soins | François Ruffin | 60 | 60 | 1 | 0 | Non relue |
 | Santé et accès aux soins | Fabien Roussel | 54 | 54 | 3 | 0 | Non relue |
 | Santé et accès aux soins | Marine Tondelier | 53 | 53 | 1 | 0 | Non relue |
@@ -86,6 +94,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Santé et accès aux soins | Bruno Retailleau | 112 | 112 | 2 | 1 | Non relue |
 | Santé et accès aux soins | Marine Le Pen | 118 | 118 | 2 | 1 | Non relue |
 | Santé et accès aux soins | Éric Zemmour | 66 | 66 | 2 | 0 | Non relue |
+| Logement | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | Logement | François Ruffin | 178 | 178 | 4 | 1 | Non relue |
 | Logement | Fabien Roussel | 130 | 130 | 2 | 1 | Non relue |
 | Logement | Marine Tondelier | 12 | 12 | 1 | 0 | Non relue |
@@ -96,6 +105,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Logement | Bruno Retailleau | 256 | 256 | 4 | 2 | Non relue |
 | Logement | Marine Le Pen | 154 | 154 | 2 | 3 | Non relue |
 | Logement | Éric Zemmour | 61 | 61 | 2 | 1 | Non relue |
+| Fonction publique | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | Fonction publique | François Ruffin | 41 | 41 | 2 | 0 | Non relue |
 | Fonction publique | Fabien Roussel | 119 | 119 | 3 | 1 | Non relue |
 | Fonction publique | Marine Tondelier | 86 | 86 | 2 | 1 | Non relue |
@@ -106,6 +116,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Fonction publique | Bruno Retailleau | 122 | 122 | 3 | 1 | Non relue |
 | Fonction publique | Marine Le Pen | 74 | 74 | 2 | 1 | Non relue |
 | Fonction publique | Éric Zemmour | 97 | 97 | 3 | 1 | Non relue |
+| Immigration et asile | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | Immigration et asile | François Ruffin | 182 | 182 | 4 | 3 | Non relue |
 | Immigration et asile | Fabien Roussel | 53 | 53 | 1 | 0 | Non relue |
 | Immigration et asile | Marine Tondelier | 52 | 52 | 1 | 0 | Non relue |
@@ -116,6 +127,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Immigration et asile | Bruno Retailleau | 119 | 119 | 4 | 1 | Non relue |
 | Immigration et asile | Marine Le Pen | 157 | 157 | 4 | 2 | Non relue |
 | Immigration et asile | Éric Zemmour | 90 | 90 | 4 | 0 | Non relue |
+| Sécurité | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | Sécurité | François Ruffin | 109 | 1014 | 9 | 5 | Relue |
 | Sécurité | Fabien Roussel | 137 | 850 | 7 | 3 | Relue |
 | Sécurité | Marine Tondelier | 27 | 1065 | 12 | 4 | Relue |
@@ -126,6 +138,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Sécurité | Bruno Retailleau | 0 | 1063 | 12 | 5 | Relue |
 | Sécurité | Marine Le Pen | 29 | 1106 | 18 | 3 | Relue |
 | Sécurité | Éric Zemmour | 13 | 1068 | 12 | 5 | Relue |
+| Justice | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | Justice | François Ruffin | 0 | 968 | 8 | 5 | Relue |
 | Justice | Fabien Roussel | 0 | 1144 | 14 | 3 | Relue |
 | Justice | Marine Tondelier | 71 | 71 | 2 | 0 | Non relue |
@@ -136,6 +149,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Justice | Bruno Retailleau | 86 | 86 | 1 | 1 | Non relue |
 | Justice | Marine Le Pen | 0 | 1130 | 12 | 3 | Relue |
 | Justice | Éric Zemmour | 179 | 179 | 5 | 4 | Non relue |
+| Institutions et démocratie | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | Institutions et démocratie | François Ruffin | 47 | 47 | 3 | 0 | Non relue |
 | Institutions et démocratie | Fabien Roussel | 0 | 941 | 10 | 4 | Relue |
 | Institutions et démocratie | Marine Tondelier | 40 | 40 | 2 | 0 | Non relue |
@@ -146,6 +160,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Institutions et démocratie | Bruno Retailleau | 51 | 51 | 1 | 0 | Non relue |
 | Institutions et démocratie | Marine Le Pen | 20 | 20 | 2 | 0 | Non relue |
 | Institutions et démocratie | Éric Zemmour | 0 | 1055 | 11 | 4 | Relue |
+| Égalité et droits | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | Égalité et droits | François Ruffin | 20 | 20 | 1 | 0 | Non relue |
 | Égalité et droits | Fabien Roussel | 21 | 21 | 1 | 0 | Non relue |
 | Égalité et droits | Marine Tondelier | 16 | 16 | 1 | 0 | Non relue |
@@ -156,6 +171,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Égalité et droits | Bruno Retailleau | 0 | 1136 | 13 | 3 | Relue |
 | Égalité et droits | Marine Le Pen | 0 | 1161 | 15 | 4 | Relue |
 | Égalité et droits | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
+| Climat et adaptation | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | Climat et adaptation | François Ruffin | 115 | 115 | 2 | 0 | Non relue |
 | Climat et adaptation | Fabien Roussel | 98 | 98 | 3 | 0 | Non relue |
 | Climat et adaptation | Marine Tondelier | 108 | 108 | 3 | 1 | Non relue |
@@ -166,6 +182,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Climat et adaptation | Bruno Retailleau | 59 | 59 | 2 | 1 | Non relue |
 | Climat et adaptation | Marine Le Pen | 49 | 49 | 2 | 0 | Non relue |
 | Climat et adaptation | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
+| Énergie | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | Énergie | François Ruffin | 24 | 24 | 1 | 0 | Non relue |
 | Énergie | Fabien Roussel | 248 | 248 | 4 | 2 | Non relue |
 | Énergie | Marine Tondelier | 11 | 11 | 2 | 0 | Non relue |
@@ -176,6 +193,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Énergie | Bruno Retailleau | 54 | 54 | 1 | 0 | Non relue |
 | Énergie | Marine Le Pen | 46 | 46 | 3 | 0 | Non relue |
 | Énergie | Éric Zemmour | 24 | 24 | 1 | 0 | Non relue |
+| Transports | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | Transports | François Ruffin | 13 | 13 | 2 | 0 | Non relue |
 | Transports | Fabien Roussel | 4 | 965 | 8 | 3 | Relue |
 | Transports | Marine Tondelier | 218 | 218 | 3 | 1 | Non relue |
@@ -186,6 +204,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Transports | Bruno Retailleau | 0 | 0 | 0 | 0 | Non relue |
 | Transports | Marine Le Pen | 0 | 0 | 0 | 0 | Non relue |
 | Transports | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
+| Agriculture et alimentation | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | Agriculture et alimentation | François Ruffin | 50 | 50 | 3 | 0 | Non relue |
 | Agriculture et alimentation | Fabien Roussel | 0 | 1093 | 11 | 3 | Relue |
 | Agriculture et alimentation | Marine Tondelier | 77 | 77 | 1 | 0 | Non relue |
@@ -196,6 +215,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Agriculture et alimentation | Bruno Retailleau | 65 | 65 | 2 | 1 | Non relue |
 | Agriculture et alimentation | Marine Le Pen | 0 | 1161 | 16 | 4 | Relue |
 | Agriculture et alimentation | Éric Zemmour | 0 | 1189 | 13 | 5 | Relue |
+| Territoires et outre-mer | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | Territoires et outre-mer | François Ruffin | 0 | 0 | 0 | 0 | Non relue |
 | Territoires et outre-mer | Fabien Roussel | 26 | 26 | 2 | 0 | Non relue |
 | Territoires et outre-mer | Marine Tondelier | 19 | 19 | 1 | 0 | Non relue |
@@ -206,6 +226,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Territoires et outre-mer | Bruno Retailleau | 0 | 0 | 0 | 0 | Non relue |
 | Territoires et outre-mer | Marine Le Pen | 0 | 0 | 0 | 0 | Non relue |
 | Territoires et outre-mer | Éric Zemmour | 0 | 0 | 0 | 0 | Non relue |
+| Europe | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | Europe | François Ruffin | 776 | 776 | 22 | 3 | Non relue |
 | Europe | Fabien Roussel | 915 | 915 | 21 | 4 | Non relue |
 | Europe | Marine Tondelier | 950 | 950 | 20 | 4 | Non relue |
@@ -216,6 +237,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Europe | Bruno Retailleau | 829 | 829 | 23 | 3 | Non relue |
 | Europe | Marine Le Pen | 944 | 944 | 26 | 4 | Non relue |
 | Europe | Éric Zemmour | 832 | 832 | 28 | 3 | Non relue |
+| Défense et diplomatie | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | Défense et diplomatie | François Ruffin | 0 | 970 | 10 | 3 | Relue |
 | Défense et diplomatie | Fabien Roussel | 18 | 932 | 10 | 3 | Relue |
 | Défense et diplomatie | Marine Tondelier | 29 | 1038 | 10 | 5 | Relue |
@@ -226,6 +248,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Défense et diplomatie | Bruno Retailleau | 0 | 922 | 10 | 3 | Relue |
 | Défense et diplomatie | Marine Le Pen | 0 | 1133 | 12 | 4 | Relue |
 | Défense et diplomatie | Éric Zemmour | 0 | 1112 | 12 | 3 | Relue |
+| Culture et médias | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | Culture et médias | François Ruffin | 24 | 24 | 2 | 0 | Non relue |
 | Culture et médias | Fabien Roussel | 0 | 1053 | 12 | 3 | Relue |
 | Culture et médias | Marine Tondelier | 58 | 58 | 2 | 0 | Non relue |
@@ -236,6 +259,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Culture et médias | Bruno Retailleau | 0 | 864 | 10 | 4 | Relue |
 | Culture et médias | Marine Le Pen | 57 | 57 | 1 | 1 | Non relue |
 | Culture et médias | Éric Zemmour | 45 | 45 | 1 | 0 | Non relue |
+| Numérique et IA | Jean-Luc Mélenchon | 0 | 0 | 0 | 0 | Non relue |
 | Numérique et IA | François Ruffin | 40 | 40 | 2 | 0 | Non relue |
 | Numérique et IA | Fabien Roussel | 0 | 851 | 12 | 4 | Relue |
 | Numérique et IA | Marine Tondelier | 35 | 35 | 2 | 0 | Non relue |

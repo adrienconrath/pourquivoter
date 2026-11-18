@@ -1,5 +1,6 @@
 # Longueur indicative : ne prouve ni exhaustivité ni exactitude.
 # theme|personne|mots_avant|mots_actuels|blocs|sources_distinctes|critiques|financement|priorite|recherche_revue
+dette|melenchon|0|0|0|0|0|0|vide|non
 dette|ruffin|175|962|15|12|5|6|controle_qualitatif|relue
 dette|roussel|17|1034|13|15|5|3|controle_qualitatif|relue
 dette|tondelier|17|1034|14|10|4|3|controle_qualitatif|relue
@@ -10,6 +11,7 @@ dette|lisnard|200|1070|13|10|4|2|controle_qualitatif|relue
 dette|retailleau|290|1091|15|13|5|2|controle_qualitatif|relue
 dette|le-pen|295|995|13|11|4|4|controle_qualitatif|relue
 dette|zemmour|138|1080|15|11|6|3|controle_qualitatif|relue
+prix|melenchon|0|0|0|0|0|0|vide|non
 prix|ruffin|18|1061|12|8|3|2|controle_qualitatif|relue
 prix|roussel|49|803|10|8|3|1|controle_qualitatif|relue
 prix|tondelier|65|990|14|9|4|2|controle_qualitatif|relue
@@ -20,6 +22,7 @@ prix|lisnard|45|967|12|10|4|2|controle_qualitatif|relue
 prix|retailleau|44|1106|13|13|3|1|controle_qualitatif|relue
 prix|le-pen|155|993|12|9|4|2|controle_qualitatif|relue
 prix|zemmour|119|887|13|9|3|3|controle_qualitatif|relue
+retraites|melenchon|0|0|0|0|0|0|vide|non
 retraites|ruffin|45|45|2|3|0|0|insuffisant|non
 retraites|roussel|77|77|3|1|0|1|insuffisant|non
 retraites|tondelier|27|27|1|1|0|0|insuffisant|non
@@ -30,6 +33,7 @@ retraites|lisnard|15|15|1|1|0|0|insuffisant|non
 retraites|retailleau|196|196|6|3|2|1|insuffisant|non
 retraites|le-pen|357|357|10|5|4|2|a_approfondir|non
 retraites|zemmour|41|41|1|1|0|0|insuffisant|non
+fiscalite|melenchon|0|0|0|0|0|0|vide|non
 fiscalite|ruffin|836|836|12|13|3|2|controle_qualitatif|non
 fiscalite|roussel|842|842|11|21|3|2|controle_qualitatif|non
 fiscalite|tondelier|895|895|11|18|3|1|controle_qualitatif|non
@@ -40,6 +44,7 @@ fiscalite|lisnard|952|952|12|23|4|1|controle_qualitatif|non
 fiscalite|retailleau|845|845|10|19|3|2|controle_qualitatif|non
 fiscalite|le-pen|1016|1016|14|15|4|2|controle_qualitatif|non
 fiscalite|zemmour|925|925|11|19|3|2|controle_qualitatif|non
+travail|melenchon|0|0|0|0|0|0|vide|non
 travail|ruffin|98|98|4|4|0|1|insuffisant|non
 travail|roussel|72|72|3|4|0|0|insuffisant|non
 travail|tondelier|145|145|5|2|1|1|insuffisant|non
@@ -50,6 +55,7 @@ travail|lisnard|18|18|1|1|0|0|insuffisant|non
 travail|retailleau|39|39|2|1|0|1|insuffisant|non
 travail|le-pen|140|140|3|1|1|0|insuffisant|non
 travail|zemmour|12|12|1|1|0|0|insuffisant|non
+industrie|melenchon|0|0|0|0|0|0|vide|non
 industrie|ruffin|45|45|2|2|0|0|insuffisant|non
 industrie|roussel|14|14|1|1|0|0|insuffisant|non
 industrie|tondelier|65|65|2|1|0|1|insuffisant|non
@@ -60,6 +66,7 @@ industrie|lisnard|22|22|2|3|0|1|insuffisant|non
 industrie|retailleau|16|16|1|1|0|0|insuffisant|non
 industrie|le-pen|93|93|3|3|1|0|insuffisant|non
 industrie|zemmour|0|945|16|9|4|2|controle_qualitatif|relue
+ecole|melenchon|0|0|0|0|0|0|vide|non
 ecole|ruffin|16|16|1|1|0|0|insuffisant|non
 ecole|roussel|153|153|5|3|1|1|insuffisant|non
 ecole|tondelier|12|12|1|1|0|0|insuffisant|non
@@ -70,6 +77,7 @@ ecole|lisnard|182|182|6|4|2|1|insuffisant|non
 ecole|retailleau|68|68|3|2|1|0|insuffisant|non
 ecole|le-pen|51|51|2|2|0|0|insuffisant|non
 ecole|zemmour|21|21|2|2|0|0|insuffisant|non
+sante|melenchon|0|0|0|0|0|0|vide|non
 sante|ruffin|60|60|2|1|0|1|insuffisant|non
 sante|roussel|54|54|2|3|0|0|insuffisant|non
 sante|tondelier|53|53|2|1|0|0|insuffisant|non
@@ -80,6 +88,7 @@ sante|lisnard|56|56|2|1|0|0|insuffisant|non
 sante|retailleau|112|112|4|2|1|2|insuffisant|non
 sante|le-pen|118|118|3|2|1|1|insuffisant|non
 sante|zemmour|66|66|2|2|0|1|insuffisant|non
+logement|melenchon|0|0|0|0|0|0|vide|non
 logement|ruffin|178|178|6|4|1|2|insuffisant|non
 logement|roussel|130|130|5|2|1|1|insuffisant|non
 logement|tondelier|12|12|1|1|0|0|insuffisant|non
@@ -90,6 +99,7 @@ logement|lisnard|171|171|4|2|2|0|insuffisant|non
 logement|retailleau|256|256|8|4|2|1|a_approfondir|non
 logement|le-pen|154|154|5|2|3|0|insuffisant|non
 logement|zemmour|61|61|2|2|1|0|insuffisant|non
+services|melenchon|0|0|0|0|0|0|vide|non
 services|ruffin|41|41|1|2|0|0|insuffisant|non
 services|roussel|119|119|4|3|1|1|insuffisant|non
 services|tondelier|86|86|3|2|1|0|insuffisant|non
@@ -100,6 +110,7 @@ services|lisnard|67|67|3|3|1|0|insuffisant|non
 services|retailleau|122|122|4|3|1|2|insuffisant|non
 services|le-pen|74|74|2|2|1|0|insuffisant|non
 services|zemmour|97|97|3|3|1|0|insuffisant|non
+immigration|melenchon|0|0|0|0|0|0|vide|non
 immigration|ruffin|182|182|5|4|3|0|insuffisant|non
 immigration|roussel|53|53|2|1|0|0|insuffisant|non
 immigration|tondelier|52|52|2|1|0|0|insuffisant|non
@@ -110,6 +121,7 @@ immigration|lisnard|49|49|2|2|0|0|insuffisant|non
 immigration|retailleau|119|119|4|4|1|1|insuffisant|non
 immigration|le-pen|157|157|5|4|2|2|insuffisant|non
 immigration|zemmour|90|90|4|4|0|1|insuffisant|non
+securite|melenchon|0|0|0|0|0|0|vide|non
 securite|ruffin|109|1014|16|9|5|2|controle_qualitatif|relue
 securite|roussel|137|850|14|7|3|2|controle_qualitatif|relue
 securite|tondelier|27|1065|16|12|4|1|controle_qualitatif|relue
@@ -120,6 +132,7 @@ securite|lisnard|17|995|14|14|3|1|controle_qualitatif|relue
 securite|retailleau|0|1063|15|12|5|2|controle_qualitatif|relue
 securite|le-pen|29|1106|13|18|3|2|controle_qualitatif|relue
 securite|zemmour|13|1068|17|12|5|3|controle_qualitatif|relue
+justice|melenchon|0|0|0|0|0|0|vide|non
 justice|ruffin|0|968|15|8|5|1|controle_qualitatif|relue
 justice|roussel|0|1144|16|14|3|2|controle_qualitatif|relue
 justice|tondelier|71|71|3|2|0|1|insuffisant|non
@@ -130,6 +143,7 @@ justice|lisnard|117|117|4|4|1|0|insuffisant|non
 justice|retailleau|86|86|3|1|1|1|insuffisant|non
 justice|le-pen|0|1130|14|12|3|2|controle_qualitatif|relue
 justice|zemmour|179|179|5|5|4|0|insuffisant|non
+institutions|melenchon|0|0|0|0|0|0|vide|non
 institutions|ruffin|47|47|2|3|0|0|insuffisant|non
 institutions|roussel|0|941|14|10|4|1|controle_qualitatif|relue
 institutions|tondelier|40|40|2|2|0|0|insuffisant|non
@@ -140,6 +154,7 @@ institutions|lisnard|15|15|1|2|0|0|insuffisant|non
 institutions|retailleau|51|51|2|1|0|0|insuffisant|non
 institutions|le-pen|20|20|1|2|0|0|insuffisant|non
 institutions|zemmour|0|1055|13|11|4|1|controle_qualitatif|relue
+droits|melenchon|0|0|0|0|0|0|vide|non
 droits|ruffin|20|20|1|1|0|0|insuffisant|non
 droits|roussel|21|21|2|1|0|1|insuffisant|non
 droits|tondelier|16|16|1|1|0|0|insuffisant|non
@@ -150,6 +165,7 @@ droits|lisnard|0|970|13|10|3|1|controle_qualitatif|relue
 droits|retailleau|0|1136|14|13|3|2|controle_qualitatif|relue
 droits|le-pen|0|1161|16|15|4|1|controle_qualitatif|relue
 droits|zemmour|0|0|0|0|0|0|vide|non
+climat|melenchon|0|0|0|0|0|0|vide|non
 climat|ruffin|115|115|4|2|0|2|insuffisant|non
 climat|roussel|98|98|3|3|0|1|insuffisant|non
 climat|tondelier|108|108|4|3|1|0|insuffisant|non
@@ -160,6 +176,7 @@ climat|lisnard|17|17|1|1|0|0|insuffisant|non
 climat|retailleau|59|59|2|2|1|0|insuffisant|non
 climat|le-pen|49|49|2|2|0|0|insuffisant|non
 climat|zemmour|0|0|0|0|0|0|vide|non
+energie|melenchon|0|0|0|0|0|0|vide|non
 energie|ruffin|24|24|1|1|0|0|insuffisant|non
 energie|roussel|248|248|8|4|2|2|insuffisant|non
 energie|tondelier|11|11|1|2|0|0|insuffisant|non
@@ -170,6 +187,7 @@ energie|lisnard|29|29|1|1|0|0|insuffisant|non
 energie|retailleau|54|54|2|1|0|0|insuffisant|non
 energie|le-pen|46|46|2|3|0|0|insuffisant|non
 energie|zemmour|24|24|1|1|0|0|insuffisant|non
+transports|melenchon|0|0|0|0|0|0|vide|non
 transports|ruffin|13|13|1|2|0|0|insuffisant|non
 transports|roussel|4|965|13|8|3|2|controle_qualitatif|relue
 transports|tondelier|218|218|5|3|1|1|insuffisant|non
@@ -180,6 +198,7 @@ transports|lisnard|15|15|1|1|0|0|insuffisant|non
 transports|retailleau|0|0|0|0|0|0|vide|non
 transports|le-pen|0|0|0|0|0|0|vide|non
 transports|zemmour|0|0|0|0|0|0|vide|non
+agriculture|melenchon|0|0|0|0|0|0|vide|non
 agriculture|ruffin|50|50|2|3|0|0|insuffisant|non
 agriculture|roussel|0|1093|15|11|3|1|controle_qualitatif|relue
 agriculture|tondelier|77|77|3|1|0|1|insuffisant|non
@@ -190,6 +209,7 @@ agriculture|lisnard|42|42|2|2|0|0|insuffisant|non
 agriculture|retailleau|65|65|2|2|1|0|insuffisant|non
 agriculture|le-pen|0|1161|16|16|4|2|controle_qualitatif|relue
 agriculture|zemmour|0|1189|16|13|5|2|controle_qualitatif|relue
+territoires|melenchon|0|0|0|0|0|0|vide|non
 territoires|ruffin|0|0|0|0|0|0|vide|non
 territoires|roussel|26|26|1|2|0|0|insuffisant|non
 territoires|tondelier|19|19|1|1|0|0|insuffisant|non
@@ -200,6 +220,7 @@ territoires|lisnard|37|37|2|2|0|0|insuffisant|non
 territoires|retailleau|0|0|0|0|0|0|vide|non
 territoires|le-pen|0|0|0|0|0|0|vide|non
 territoires|zemmour|0|0|0|0|0|0|vide|non
+europe|melenchon|0|0|0|0|0|0|vide|non
 europe|ruffin|776|776|11|22|3|1|controle_qualitatif|non
 europe|roussel|915|915|11|21|4|2|controle_qualitatif|non
 europe|tondelier|950|950|12|20|4|2|controle_qualitatif|non
@@ -210,6 +231,7 @@ europe|lisnard|789|789|10|19|3|1|controle_qualitatif|non
 europe|retailleau|829|829|11|23|3|2|controle_qualitatif|non
 europe|le-pen|944|944|12|26|4|2|controle_qualitatif|non
 europe|zemmour|832|832|11|28|3|1|controle_qualitatif|non
+defense|melenchon|0|0|0|0|0|0|vide|non
 defense|ruffin|0|970|13|10|3|2|controle_qualitatif|relue
 defense|roussel|18|932|12|10|3|1|controle_qualitatif|relue
 defense|tondelier|29|1038|12|10|5|2|controle_qualitatif|relue
@@ -220,6 +242,7 @@ defense|lisnard|27|850|13|7|4|1|controle_qualitatif|relue
 defense|retailleau|0|922|14|10|3|2|controle_qualitatif|relue
 defense|le-pen|0|1133|15|12|4|2|controle_qualitatif|relue
 defense|zemmour|0|1112|18|12|3|4|controle_qualitatif|relue
+culture|melenchon|0|0|0|0|0|0|vide|non
 culture|ruffin|24|24|1|2|0|0|insuffisant|non
 culture|roussel|0|1053|13|12|3|2|controle_qualitatif|relue
 culture|tondelier|58|58|3|2|0|1|insuffisant|non
@@ -230,6 +253,7 @@ culture|lisnard|0|926|13|12|4|3|controle_qualitatif|relue
 culture|retailleau|0|864|12|10|4|2|controle_qualitatif|relue
 culture|le-pen|57|57|2|1|1|0|insuffisant|non
 culture|zemmour|45|45|2|1|0|1|insuffisant|non
+numerique|melenchon|0|0|0|0|0|0|vide|non
 numerique|ruffin|40|40|2|2|0|0|insuffisant|non
 numerique|roussel|0|851|13|12|4|1|controle_qualitatif|relue
 numerique|tondelier|35|35|1|2|0|0|insuffisant|non

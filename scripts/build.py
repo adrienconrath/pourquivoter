@@ -244,7 +244,7 @@ def build(snapshot, generated):
     )
     body = (ROOT / "web/index.html").read_text(encoding="utf-8")
     replacements = dict(
-        timeline=timeline,
+        timeline=timeline, candidate_count=str(len(people)),
         theme_filters=filters, column_headers=column_headers, candidate_picker=candidate_picker,
         comparisons="".join(comparison(t, people, entries) for t in themes.values()),
         snapshot=f'<time datetime="{snapshot}">{word_date(snapshot)}</time>',
