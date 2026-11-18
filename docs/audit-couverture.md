@@ -86,7 +86,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Protection de l’enfance | Jean-Luc Mélenchon | 0 | 956 | 15 | 3 | Relue |
 | Protection de l’enfance | François Ruffin | 0 | 917 | 12 | 3 | Relue |
 | Protection de l’enfance | Fabien Roussel | 0 | 832 | 8 | 3 | Relue |
-| Protection de l’enfance | Marine Tondelier | 0 | 903 | 9 | 4 | Relue |
+| Protection de l’enfance | Marine Tondelier | 0 | 967 | 10 | 4 | Relue |
 | Protection de l’enfance | Raphaël Glucksmann | 0 | 820 | 7 | 3 | Relue |
 | Protection de l’enfance | Gabriel Attal | 0 | 1019 | 19 | 4 | Relue |
 | Protection de l’enfance | Édouard Philippe | 0 | 926 | 9 | 4 | Relue |
@@ -190,7 +190,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Climat et adaptation | Gabriel Attal | 10 | 1180 | 21 | 4 | Relue |
 | Climat et adaptation | Édouard Philippe | 21 | 801 | 8 | 3 | Relue |
 | Climat et adaptation | David Lisnard | 17 | 974 | 11 | 4 | Relue |
-| Climat et adaptation | Bruno Retailleau | 59 | 59 | 2 | 1 | Non relue |
+| Climat et adaptation | Bruno Retailleau | 59 | 1089 | 16 | 4 | Relue |
 | Climat et adaptation | Marine Le Pen | 49 | 1108 | 15 | 4 | Relue |
 | Climat et adaptation | Éric Zemmour | 0 | 1013 | 9 | 4 | Relue |
 | Énergie | Jean-Luc Mélenchon | 0 | 996 | 12 | 4 | Relue |
