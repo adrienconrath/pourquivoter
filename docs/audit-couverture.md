@@ -274,7 +274,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Numérique et IA | François Ruffin | 40 | 973 | 8 | 4 | Relue |
 | Numérique et IA | Fabien Roussel | 0 | 851 | 12 | 4 | Relue |
 | Numérique et IA | Marine Tondelier | 35 | 851 | 7 | 3 | Relue |
-| Numérique et IA | Raphaël Glucksmann | 53 | 53 | 2 | 0 | Non relue |
+| Numérique et IA | Raphaël Glucksmann | 53 | 1023 | 10 | 5 | Relue |
 | Numérique et IA | Gabriel Attal | 79 | 79 | 3 | 0 | Non relue |
 | Numérique et IA | Édouard Philippe | 47 | 1046 | 10 | 3 | Relue |
 | Numérique et IA | David Lisnard | 29 | 1025 | 10 | 4 | Relue |
