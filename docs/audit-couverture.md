@@ -211,7 +211,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Transports | Raphaël Glucksmann | 104 | 104 | 2 | 1 | Non relue |
 | Transports | Gabriel Attal | 528 | 528 | 6 | 2 | Non relue |
 | Transports | Édouard Philippe | 6 | 980 | 14 | 3 | Relue |
-| Transports | David Lisnard | 15 | 15 | 1 | 0 | Non relue |
+| Transports | David Lisnard | 15 | 898 | 10 | 3 | Relue |
 | Transports | Bruno Retailleau | 0 | 1046 | 12 | 3 | Relue |
 | Transports | Marine Le Pen | 0 | 1040 | 13 | 4 | Relue |
 | Transports | Éric Zemmour | 0 | 1093 | 12 | 3 | Relue |
