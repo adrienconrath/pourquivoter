@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8"><title>Pour qui voter · Instagram · V003</title>
+  <link rel="stylesheet" href="film.css">
+  <script src="node_modules/gsap/dist/gsap.min.js"></script>
+</head>
+<body>
+<main id="film" data-composition-id="pqv-instagram" data-width="1080" data-height="1920" data-duration="30" data-fps="30" data-layout-allow-overlap data-layout-allow-overflow>
+  <section class="scene dark" id="overload">
+    <div class="kicker">PRÉSIDENTIELLE 2027</div>
+    <h1 class="headline">Des milliers<br>de ressources.</h1>
+    <div class="paper-stack hero-asset">
+      <div class="document doc-one"><div class="reference-bar">TF1 INFO · DÉBAT</div><img src="assets/references/v002/tf1-debat.png" alt="Vraie capture du débat LCI et Restos du Cœur sur TF1 Info"></div>
+      <div class="document doc-two"><div class="reference-bar">YOUTUBE</div><img src="assets/references/user-v001/youtube-restos-du-coeur.png" alt="Capture YouTube du débat des Restos du Cœur fournie par le créateur"></div>
+      <div class="document doc-three"><div class="reference-bar">PRESSE ÉCRITE</div><img src="assets/references/v002/alternatives-ruffin.png" alt="Entretien de François Ruffin dans Alternatives économiques"></div>
+    </div>
+  </section>
+  <section class="scene dark" id="me">
+    <div class="kicker">MOI AUSSI, JE ME SUIS POSÉ LA QUESTION.</div>
+    <h2 class="headline">Pas le temps<br>de <em>tout</em><br>regarder.</h2>
+    <div class="small-note hero-asset">Alors, j’ai construit un outil.</div>
+  </section>
+  <section class="scene" id="intro">
+    <div class="kicker">UN OUTIL POUR Y VOIR PLUS CLAIR</div>
+    <h2 class="headline brand-title">pourquivoter.fyi</h2>
+    <div class="ai-pill">Construit avec une IA.</div>
+    <div class="browser hero-asset"><div class="browser-bar"><i></i><i></i><i></i><span>pourquivoter.fyi</span></div><img src="assets/screens/v004/overview.png" alt="Le vrai site Pour qui voter"></div>
+  </section>
+  <section class="scene" id="themes">
+    <div class="kicker">01 / TES THÈMES</div>
+    <h2 class="headline">Ce qui compte<br>pour toi.</h2>
+    <div class="theme-capture hero-asset"><img src="assets/screens/v004/themes-off.png" alt="Les thèmes"><img id="themes-selected" src="assets/screens/v004/themes.png" alt="Coût de la vie sélectionné"></div>
+    <div class="tap" id="tap-theme"></div>
+    <div class="annotation">Logement, école, pouvoir d’achat…</div>
+  </section>
+  <section class="scene" id="people">
+    <div class="kicker">02 / TES CANDIDATS</div>
+    <h2 class="headline">Qui veux-tu<br>comparer ?</h2>
+    <div class="people-capture hero-asset"><div class="mini-label">Sélectionnez des candidats à comparer</div><div class="people-strip"><img src="assets/screens/v004/people-off.png" alt="Les onze portraits"><img id="people-one" src="assets/screens/v004/people-attal.png" alt="Un candidat sélectionné"><img id="people-two" src="assets/screens/v004/people-le-pen.png" alt="Deux candidats sélectionnés"></div></div>
+    <div class="tap" id="tap-person"></div>
+    <div class="annotation">Clique sur les portraits.</div>
+  </section>
+  <section class="scene" id="compare">
+    <div class="kicker">03 / LE MÊME THÈME, LES PROPOSITIONS</div>
+    <h2 class="headline">Tu compares.</h2>
+    <div class="topic-chip">Coût de la vie</div>
+    <div class="comparison hero-asset">
+      <div class="comparison-card"><img class="card-header" src="assets/screens/v004/attal-header.png" alt="Gabriel Attal"><div class="card-body"><img src="assets/screens/v004/attal-summary.png" alt="Résumé des propositions de Gabriel Attal"></div></div>
+      <div class="comparison-card"><img class="card-header" src="assets/screens/v004/le-pen-header.png" alt="Marine Le Pen"><div class="card-body"><img src="assets/screens/v004/le-pen-summary.png" alt="Résumé des propositions de Marine Le Pen"></div></div>
+    </div>
+    <div id="summary-badge">Un résumé. L’essentiel.</div>
+  </section>
+  <section class="scene" id="details">
+    <div class="kicker">POUR ALLER PLUS LOIN</div>
+    <h2 class="headline">Les détails.<br>Les sources.</h2>
+    <div class="capture-sheet hero-asset"><div class="sheet-layer"><img id="details-image" src="assets/screens/v004/details.png" alt="Le volet Détails ouvert"></div><div class="sheet-layer" id="sources-image"><img id="sources-capture" src="assets/screens/v004/sources.png" data-start="18.75" data-duration="1.37" alt="Le volet Sources ouvert"></div></div>
+  </section>
+  <section class="scene" id="verify">
+    <div class="kicker">ET SURTOUT</div>
+    <h2 class="headline">L’IA peut<br>se tromper.</h2>
+    <div class="verify-label">Vérifie les sources.</div>
+    <div class="capture-sheet hero-asset"><div class="sheet-layer"><img id="verification-source-list" src="assets/screens/v004/sources.png" data-start="20.12" data-duration="2.88" alt="Les références consultables"></div></div>
+  </section>
+  <section class="scene dark" id="end">
+    <div class="kicker">POUR QUI VOTER ?</div>
+    <h2 class="headline">Fais-toi<br><em>ton avis.</em></h2>
+    <div class="url hero-asset">pourquivoter.fyi<span>↗</span></div>
+    <div class="end-note">Compare les propositions.<br>Vérifie les sources.</div>
+  </section>
+  <div id="captions" aria-label="Sous-titres"><p class="caption" id="caption-0"><span class="caption-line"><span class="caption-word" id="caption-0-word-0">Des</span> <span class="caption-word" id="caption-0-word-1">milliers</span> <span class="caption-word" id="caption-0-word-2">de</span> <span class="caption-word" id="caption-0-word-3">ressources,</span> <span class="caption-word" id="caption-0-word-4">des</span> <span class="caption-word" id="caption-0-word-5">heures</span> <span class="caption-word" id="caption-0-word-6">d'interviews...</span></span></p>
+<p class="caption" id="caption-1"><span class="caption-line"><span class="caption-word" id="caption-1-word-0">Moi,</span> <span class="caption-word" id="caption-1-word-1">j'ai</span> <span class="caption-word" id="caption-1-word-2">pas</span> <span class="caption-word" id="caption-1-word-3">le</span> <span class="caption-word" id="caption-1-word-4">temps</span> <span class="caption-word" id="caption-1-word-5">de</span> <span class="caption-word" id="caption-1-word-6">tout</span> <span class="caption-word" id="caption-1-word-7">regarder.</span></span></p>
+<p class="caption" id="caption-2"><span class="caption-line"><span class="caption-word" id="caption-2-word-0">Alors</span> <span class="caption-word" id="caption-2-word-1">j'ai</span> <span class="caption-word" id="caption-2-word-2">créé</span> <span class="caption-word" id="caption-2-word-3">Pour</span> <span class="caption-word" id="caption-2-word-4">qui</span> <span class="caption-word" id="caption-2-word-5">voter.</span> <span class="caption-word" id="caption-2-word-6">avec</span> <span class="caption-word" id="caption-2-word-7">une</span> <span class="caption-word" id="caption-2-word-8">IA.</span></span></p>
+<p class="caption" id="caption-3"><span class="caption-line"><span class="caption-word" id="caption-3-word-0">Tu</span> <span class="caption-word" id="caption-3-word-1">choisis</span> <span class="caption-word" id="caption-3-word-2">tes</span> <span class="caption-word" id="caption-3-word-3">thèmes,</span></span></p>
+<p class="caption" id="caption-4"><span class="caption-line"><span class="caption-word" id="caption-4-word-0">tu</span> <span class="caption-word" id="caption-4-word-1">sélectionnes</span> <span class="caption-word" id="caption-4-word-2">les</span> <span class="caption-word" id="caption-4-word-3">candidats,</span></span></p>
+<p class="caption" id="caption-5"><span class="caption-line"><span class="caption-word" id="caption-5-word-0">et</span> <span class="caption-word" id="caption-5-word-1">tu</span> <span class="caption-word" id="caption-5-word-2">compares</span> <span class="caption-word" id="caption-5-word-3">leurs</span> <span class="caption-word" id="caption-5-word-4">propositions.</span></span></p>
+<p class="caption" id="caption-6"><span class="caption-line"><span class="caption-word" id="caption-6-word-0">Un</span> <span class="caption-word" id="caption-6-word-1">résumé</span> <span class="caption-word" id="caption-6-word-2">pour</span> <span class="caption-word" id="caption-6-word-3">comprendre</span> <span class="caption-word" id="caption-6-word-4">vite.</span></span></p>
+<p class="caption" id="caption-7"><span class="caption-line"><span class="caption-word" id="caption-7-word-0">Les</span> <span class="caption-word" id="caption-7-word-1">détails</span> <span class="caption-word" id="caption-7-word-2">et</span> <span class="caption-word" id="caption-7-word-3">les</span> <span class="caption-word" id="caption-7-word-4">sources</span> <span class="caption-word" id="caption-7-word-5">pour</span> <span class="caption-word" id="caption-7-word-6">creuser.</span></span></p>
+<p class="caption" id="caption-8"><span class="caption-line"><span class="caption-word" id="caption-8-word-0">L'IA</span> <span class="caption-word" id="caption-8-word-1">peut</span> <span class="caption-word" id="caption-8-word-2">se</span> <span class="caption-word" id="caption-8-word-3">tromper</span> <span class="caption-word" id="caption-8-word-4">:</span> <span class="caption-word" id="caption-8-word-5">vérifie</span> <span class="caption-word" id="caption-8-word-6">les</span> <span class="caption-word" id="caption-8-word-7">sources.</span></span></p>
+<p class="caption" id="caption-9"><span class="caption-line"><span class="caption-word" id="caption-9-word-0">Pour</span> <span class="caption-word" id="caption-9-word-1">qui</span> <span class="caption-word" id="caption-9-word-2">voter.</span></span></p>
+<p class="caption" id="caption-10"><span class="caption-line"><span class="caption-word" id="caption-10-word-0">Fais-toi</span> <span class="caption-word" id="caption-10-word-1">ton</span> <span class="caption-word" id="caption-10-word-2">avis.</span></span></p></div>
+  <audio id="soundtrack" src="assets/audio/edit-v002/mix.wav" data-start="0" data-duration="30" data-volume="1"></audio>
+</main>
+<script>window.filmData={"captions":[{"id":"caption-0","start":0.06440000000000001,"end":3.5883,"words":[{"text":"Des","start":0.2644,"end":0.4067,"id":"caption-0-word-0"},{"text":"milliers","start":0.4578,"end":0.9478,"id":"caption-0-word-1"},{"text":"de","start":0.9744,"end":1.0511,"id":"caption-0-word-2"},{"text":"ressources,","start":1.1156,"end":1.7356,"id":"caption-0-word-3"},{"text":"des","start":1.8,"end":1.98,"id":"caption-0-word-4"},{"text":"heures","start":2.0967,"end":2.3156,"id":"caption-0-word-5"},{"text":"d'interviews...","start":2.3411,"end":3.0767,"id":"caption-0-word-6"}]},{"id":"caption-1","start":3.6132999999999997,"end":6.0089,"words":[{"text":"Moi,","start":3.81,"end":3.9911,"id":"caption-1-word-0"},{"text":"j'ai","start":4.0166,"end":4.1455,"id":"caption-1-word-1"},{"text":"pas","start":4.21,"end":4.3655,"id":"caption-1-word-2"},{"text":"le","start":4.3911,"end":4.4422,"id":"caption-1-word-3"},{"text":"temps","start":4.4944,"end":4.7011,"id":"caption-1-word-4"},{"text":"de","start":4.7266,"end":4.8166,"id":"caption-1-word-5"},{"text":"tout","start":4.8811,"end":5.0489,"id":"caption-1-word-6"},{"text":"regarder.","start":5.0744,"end":5.6166,"id":"caption-1-word-7"}]},{"id":"caption-2","start":6.0339,"end":9.6872,"words":[{"text":"Alors","start":6.2111,"end":6.47,"id":"caption-2-word-0"},{"text":"j'ai","start":6.4956,"end":6.6245,"id":"caption-2-word-1"},{"text":"créé","start":6.65,"end":6.9211,"id":"caption-2-word-2"},{"text":"Pour","start":7.0367,"end":7.2311,"id":"caption-2-word-3"},{"text":"qui","start":7.2956,"end":7.4111,"id":"caption-2-word-4"},{"text":"voter.","start":7.4633,"end":7.8889,"id":"caption-2-word-5"},{"text":"avec","start":8.0689,"end":8.3656,"id":"caption-2-word-6"},{"text":"une","start":8.5211,"end":8.6367,"id":"caption-2-word-7"},{"text":"IA.","start":8.6756,"end":9.1267,"id":"caption-2-word-8"}]},{"id":"caption-3","start":9.712200000000001,"end":11.2456,"words":[{"text":"Tu","start":9.8578,"end":10.0122,"id":"caption-3-word-0"},{"text":"choisis","start":10.0511,"end":10.4122,"id":"caption-3-word-1"},{"text":"tes","start":10.4378,"end":10.5666,"id":"caption-3-word-2"},{"text":"thèmes,","start":10.6055,"end":10.9278,"id":"caption-3-word-3"}]},{"id":"caption-4","start":11.2706,"end":13.1006,"words":[{"text":"tu","start":11.4034,"end":11.5323,"id":"caption-4-word-0"},{"text":"sélectionnes","start":11.5967,"end":12.1,"id":"caption-4-word-1"},{"text":"les","start":12.1256,"end":12.2156,"id":"caption-4-word-2"},{"text":"candidats,","start":12.2545,"end":12.77,"id":"caption-4-word-3"}]},{"id":"caption-5","start":13.1256,"end":15.3711,"words":[{"text":"et","start":13.2712,"end":13.4134,"id":"caption-5-word-0"},{"text":"tu","start":13.4389,"end":13.5545,"id":"caption-5-word-1"},{"text":"compares","start":13.6189,"end":14.0189,"id":"caption-5-word-2"},{"text":"leurs","start":14.0456,"end":14.1734,"id":"caption-5-word-3"},{"text":"propositions.","start":14.2123,"end":14.9478,"id":"caption-5-word-4"}]},{"id":"caption-6","start":15.3961,"end":17.5056,"words":[{"text":"Un","start":15.5544,"end":15.6833,"id":"caption-6-word-0"},{"text":"résumé","start":15.7344,"end":16.0955,"id":"caption-6-word-1"},{"text":"pour","start":16.1478,"end":16.2633,"id":"caption-6-word-2"},{"text":"comprendre","start":16.3022,"end":16.7144,"id":"caption-6-word-3"},{"text":"vite.","start":16.7667,"end":17.1022,"id":"caption-6-word-4"}]},{"id":"caption-7","start":17.5306,"end":20.1033,"words":[{"text":"Les","start":17.6889,"end":17.8434,"id":"caption-7-word-0"},{"text":"détails","start":17.8689,"end":18.2823,"id":"caption-7-word-1"},{"text":"et","start":18.3334,"end":18.4367,"id":"caption-7-word-2"},{"text":"les","start":18.4756,"end":18.5789,"id":"caption-7-word-3"},{"text":"sources","start":18.6045,"end":18.9134,"id":"caption-7-word-4"},{"text":"pour","start":18.94,"end":19.0812,"id":"caption-7-word-5"},{"text":"creuser.","start":19.12,"end":19.5723,"id":"caption-7-word-6"}]},{"id":"caption-8","start":20.1444,"end":22.992800000000003,"words":[{"text":"L'IA","start":20.3444,"end":20.5766,"id":"caption-8-word-0"},{"text":"peut","start":20.6411,"end":20.7833,"id":"caption-8-word-1"},{"text":"se","start":20.8089,"end":20.8989,"id":"caption-8-word-2"},{"text":"tromper","start":20.9377,"end":21.35,"id":"caption-8-word-3"},{"text":":","start":21.3889,"end":21.4411,"id":"caption-8-word-4"},{"text":"vérifie","start":21.57,"end":21.9822,"id":"caption-8-word-5"},{"text":"les","start":22.0089,"end":22.1244,"id":"caption-8-word-6"},{"text":"sources.","start":22.15,"end":22.6144,"id":"caption-8-word-7"}]},{"id":"caption-9","start":23.0178,"end":25.8567,"words":[{"text":"Pour","start":23.1311,"end":23.3111,"id":"caption-9-word-0"},{"text":"qui","start":23.3756,"end":23.4922,"id":"caption-9-word-1"},{"text":"voter.","start":23.5311,"end":23.9311,"id":"caption-9-word-2"}]},{"id":"caption-10","start":25.8817,"end":29.020000000000003,"words":[{"text":"Fais-toi","start":26.0589,"end":26.3811,"id":"caption-10-word-0"},{"text":"ton","start":26.42,"end":26.5367,"id":"caption-10-word-1"},{"text":"avis.","start":26.6011,"end":26.8723,"id":"caption-10-word-2"}]}]};</script>
+<script>const tl=gsap.timeline({paused:true});
+tl.to({}, {duration:30},0);
+const phases=[['overload',0,3.55],['me',3.55,6.0],['intro',6.0,9.65],['themes',9.65,11.25],['people',11.25,13.10],['compare',13.10,17.55],['details',17.55,20.12],['verify',20.12,23.0],['end',23.0,30]];
+tl.set('.scene:not(#overload)',{autoAlpha:0},0);
+for(const[id,start,end]of phases){
+ const node=document.getElementById(id);
+ if(start===0){
+  tl.set(node,{autoAlpha:1},0);
+  tl.set(node.querySelector('.headline'),{y:0,opacity:1},0);
+ }else{
+  tl.fromTo(node,{autoAlpha:0},{autoAlpha:1,duration:.12,ease:'none'},start);
+  tl.fromTo(node.querySelector('.headline'),{y:55,opacity:0},{y:0,opacity:1,duration:.40,ease:'power3.out'},start+.04);
+ }
+ if(node.querySelector('.hero-asset'))tl.fromTo(node.querySelector('.hero-asset'),{y:65,opacity:0},{y:0,opacity:1,duration:.42,ease:'power3.out'},start+.12);
+ if(end<30)tl.to(node,{autoAlpha:0,duration:.08,ease:'none'},end-.04);
+}
+tl.fromTo('.doc-one',{y:180,opacity:0},{y:0,opacity:1,duration:.5,ease:'power3.out'},.2);
+tl.fromTo('.doc-two',{y:220,opacity:0},{y:0,opacity:1,duration:.5,ease:'power3.out'},.65);
+tl.fromTo('.doc-three',{y:220,opacity:0},{y:0,opacity:1,duration:.5,ease:'power3.out'},1.15);
+tl.to('#themes-selected',{opacity:1,duration:.1},10.18);
+tl.fromTo('#tap-theme',{opacity:0,scale:.65},{opacity:1,scale:1,duration:.18},10.0);
+tl.to('#tap-theme',{opacity:0,scale:1.25,duration:.3},10.22);
+tl.to('#people-one',{opacity:1,duration:.08},11.65);
+tl.to('#people-two',{opacity:1,duration:.08},12.4);
+tl.fromTo('#tap-person',{opacity:0,scale:.7},{opacity:1,scale:1,duration:.15},11.52);
+tl.to('#tap-person',{x:321,duration:.45,ease:'power2.inOut'},11.9);
+tl.to('#tap-person',{opacity:0,duration:.2},12.5);
+tl.fromTo('.comparison-card:nth-child(2)',{y:70},{y:0,duration:.55,ease:'power3.out'},13.55);
+tl.to('#summary-badge',{opacity:1,y:-15,duration:.2},15.4);
+tl.to('#sources-image',{opacity:1,duration:.15},18.75);
+tl.fromTo('#end .url',{scale:.95},{scale:1,duration:.55,ease:'back.out(1.3)'},23.35);
+for(const cue of window.filmData.captions){
+ tl.set('#'+cue.id,{opacity:1},cue.start);
+ tl.set('#'+cue.id,{opacity:0},cue.end);
+ for(const word of cue.words){
+  tl.set('#'+word.id,{color:'#d9e9b1'},word.start);
+  tl.set('#'+word.id,{color:'#fffdf8'},word.end+.04);
+ }
+}
+window.__timelines=window.__timelines||{};
+window.__timelines['pqv-instagram']=tl;
+</script>
+</body></html>

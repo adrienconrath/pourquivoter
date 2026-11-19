@@ -1,0 +1,96 @@
+{
+  "source": "https://pourquivoter.fyi/",
+  "sourceCommit": "9d537dea5f42e42feac650df8ee762fb5d9d45cd",
+  "capturedAt": "2026-11-19T09:22:28.951Z",
+  "note": "Captures du vrai HTML généré par le dépôt. Recadrages de démonstration ; les personnes choisies illustrent les commandes, sans soutien politique.",
+  "records": [
+    {
+      "file": "themes-off.png",
+      "selector": ".theme-stack",
+      "width": 268.296875,
+      "height": 132.1875,
+      "deviceScaleFactor": 2,
+      "sha256": "6f5488085519db5229c220599337235d86df9b23bc29b0e5f33680132f31ff77"
+    },
+    {
+      "file": "themes.png",
+      "selector": ".theme-stack",
+      "width": 268.296875,
+      "height": 132.1875,
+      "deviceScaleFactor": 2,
+      "sha256": "51d2818cebd8e23052895e84c7dddd4f54db0115ecf7deece5cb98d9e8863441"
+    },
+    {
+      "file": "people-off.png",
+      "selector": ".candidate-choices",
+      "width": 544,
+      "height": 49,
+      "deviceScaleFactor": 2,
+      "sha256": "b89a40424de381ce06c12f3a727a49bf9422f7149f246d31a8b54c6df5cc94bd"
+    },
+    {
+      "file": "people-attal.png",
+      "selector": ".candidate-choices",
+      "width": 544,
+      "height": 49,
+      "deviceScaleFactor": 2,
+      "sha256": "f194ccf3012af6fe006ab686855d2e35809540c11cff38b2dd88e6cb4fcc1c44"
+    },
+    {
+      "file": "people-le-pen.png",
+      "selector": ".candidate-choices",
+      "width": 544,
+      "height": 49,
+      "deviceScaleFactor": 2,
+      "sha256": "fc20623ee8c4972aed057d1ded61056e403076c884cd3a2f6f7dc1b7655be734"
+    },
+    {
+      "file": "attal-header.png",
+      "selector": ".column-header[data-person=\"attal\"]",
+      "width": 432,
+      "height": 52,
+      "deviceScaleFactor": 2,
+      "sha256": "1cf8135cb7380268c4a011362138cf83f13d77497c0de1d54f3bb214727624a5"
+    },
+    {
+      "file": "attal-summary.png",
+      "selector": "#position-prix-attal .position-summary",
+      "width": 399,
+      "height": 173.6875,
+      "deviceScaleFactor": 2,
+      "sha256": "4f6242a5d53ab62d244f6874b1e38bdb0fbbadb700a6adc7b9ac461e77ec7123"
+    },
+    {
+      "file": "le-pen-header.png",
+      "selector": ".column-header[data-person=\"le-pen\"]",
+      "width": 432,
+      "height": 52,
+      "deviceScaleFactor": 2,
+      "sha256": "5ed278b1f85d1a360895baa4cdd49b51e3c63b68179500fc5f2e70fa52c78fbb"
+    },
+    {
+      "file": "le-pen-summary.png",
+      "selector": "#position-prix-le-pen .position-summary",
+      "width": 399,
+      "height": 148.875,
+      "deviceScaleFactor": 2,
+      "sha256": "620f4af1502bed1a23be94538ef70af7bb9e50bcfd56c9c40ac13d6e10733792"
+    },
+    {
+      "file": "details.png",
+      "selector": "#position-prix-attal .position-details",
+      "width": 399,
+      "height": 410,
+      "deviceScaleFactor": 2,
+      "sha256": "3d74478ee1ab44c3382d1e9bb5169a1c9ed67895033f704223801e026d5e7656"
+    },
+    {
+      "file": "sources.png",
+      "selector": "#position-prix-attal .position-sources",
+      "width": 399,
+      "height": 410,
+      "deviceScaleFactor": 2,
+      "sha256": "d757b5c2bc16c142503c3cf8cce0a95369adeaefe38b0603dfe4965f2f769c26"
+    }
+  ]
+}

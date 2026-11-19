@@ -1,2 +1,9 @@
 /dist/
 __pycache__/
+node_modules/
+.env
+.env.*
+!.env.example
+/video/instagram/.hyperframes/
+/video/instagram/renders/
+/video/instagram/node_modules/

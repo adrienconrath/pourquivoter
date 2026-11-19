@@ -36,3 +36,7 @@ Le générateur vérifie que chaque candidat dispose d’une fiche pour chaque t
 La [revue de cohérence des 275 résumés du 19 novembre 2026](docs/relectures/2026-11-19-resumes/README.md) contient les corrections, les relevés avant/après et les points à contrôler lors des prochaines réécritures.
 
 La [vérification des affirmations contre leurs sources du 19 novembre 2026](docs/relectures/2026-11-19-verification-sources/README.md) liste les corrections de chiffres, d’attributions et de formulations non soutenues par les sources.
+
+## Vidéo de présentation
+
+Le [projet Instagram](video/instagram/README.md) contient le film vertical de trente secondes, les sources Hyperframes et GSAP, les captures du site, la narration, la musique ElevenLabs et les commandes de reproduction. La génération de nouveaux audios utilise une clé fournie par l’environnement ; les prises archivées permettent de refaire le rendu sans clé.
