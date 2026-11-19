@@ -138,17 +138,17 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Immigration et asile | Bruno Retailleau | 119 | 880 | 19 | 4 | Relue |
 | Immigration et asile | Marine Le Pen | 157 | 906 | 13 | 5 | Relue |
 | Immigration et asile | Éric Zemmour | 90 | 810 | 12 | 4 | Relue |
-| Sécurité | Jean-Luc Mélenchon | 0 | 1106 | 12 | 3 | Relue |
-| Sécurité | François Ruffin | 109 | 1014 | 9 | 5 | Relue |
-| Sécurité | Fabien Roussel | 137 | 850 | 7 | 3 | Relue |
-| Sécurité | Marine Tondelier | 27 | 1065 | 12 | 4 | Relue |
-| Sécurité | Raphaël Glucksmann | 18 | 1204 | 10 | 4 | Relue |
-| Sécurité | Gabriel Attal | 27 | 1352 | 23 | 4 | Relue |
-| Sécurité | Édouard Philippe | 35 | 1095 | 11 | 5 | Relue |
-| Sécurité | David Lisnard | 17 | 995 | 14 | 3 | Relue |
-| Sécurité | Bruno Retailleau | 0 | 1063 | 12 | 5 | Relue |
-| Sécurité | Marine Le Pen | 29 | 1106 | 18 | 3 | Relue |
-| Sécurité | Éric Zemmour | 13 | 1068 | 12 | 5 | Relue |
+| Sécurité | Jean-Luc Mélenchon | 0 | 875 | 14 | 4 | Relue |
+| Sécurité | François Ruffin | 109 | 916 | 10 | 5 | Relue |
+| Sécurité | Fabien Roussel | 137 | 886 | 8 | 3 | Relue |
+| Sécurité | Marine Tondelier | 27 | 1079 | 13 | 5 | Relue |
+| Sécurité | Raphaël Glucksmann | 18 | 1120 | 11 | 4 | Relue |
+| Sécurité | Gabriel Attal | 27 | 1248 | 24 | 5 | Relue |
+| Sécurité | Édouard Philippe | 35 | 1062 | 12 | 5 | Relue |
+| Sécurité | David Lisnard | 17 | 994 | 15 | 4 | Relue |
+| Sécurité | Bruno Retailleau | 0 | 1099 | 12 | 5 | Relue |
+| Sécurité | Marine Le Pen | 29 | 1107 | 19 | 6 | Relue |
+| Sécurité | Éric Zemmour | 13 | 1005 | 13 | 7 | Relue |
 | Justice | Jean-Luc Mélenchon | 0 | 1023 | 9 | 3 | Relue |
 | Justice | François Ruffin | 0 | 968 | 8 | 5 | Relue |
 | Justice | Fabien Roussel | 0 | 1144 | 14 | 3 | Relue |
