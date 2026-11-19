@@ -18,6 +18,10 @@ Ouvrir [localhost:8000](http://localhost:8000). Le HTML contient le comparateur 
 
 Chaque build génère aussi une version texte du comparateur pour les agents IA : `dist/markdown/<candidat>/<theme>.md` (275 fichiers, non liés depuis les pages du site) et `dist/llms.txt`, qui les référence tous. Régénérable seul avec `python3 scripts/export_markdown.py`. Aucun changement visuel sur le site.
 
+## Explication par ChatGPT
+
+Quand au moins deux candidats et un thème sont sélectionnés, un lien de la barre d’actions ouvre ChatGPT avec un prompt pré-rempli (`web/assets/ia.js`). Le prompt demande une vulgarisation des visions du monde puis des plans, avec les liens vers les fichiers Markdown publiés de chaque candidat et thème (24 fichiers au plus).
+
 ## Mettre à jour une édition
 
 Suivre le [skill d’actualisation](.agents/skills/actualiser-pour-qui-voter/SKILL.md). Les tables sont délimitées par le caractère `|`. Les identifiants sont stables et les références multiples prennent la forme `source-a,source-b`.
@@ -37,3 +41,7 @@ Le générateur vérifie que chaque candidat dispose d’une fiche pour chaque t
 La [revue de cohérence des 275 résumés du 19 novembre 2026](docs/relectures/2026-11-19-resumes/README.md) contient les corrections, les relevés avant/après et les points à contrôler lors des prochaines réécritures.
 
 La [vérification des affirmations contre leurs sources du 19 novembre 2026](docs/relectures/2026-11-19-verification-sources/README.md) liste les corrections de chiffres, d’attributions et de formulations non soutenues par les sources.
+
+## Vidéo de présentation
+
+Le [projet Instagram](video/instagram/README.md) contient le film vertical de trente secondes, les sources Hyperframes et GSAP, les captures du site, la narration, la musique ElevenLabs et les commandes de reproduction. La génération de nouveaux audios utilise une clé fournie par l’environnement ; les prises archivées permettent de refaire le rendu sans clé.

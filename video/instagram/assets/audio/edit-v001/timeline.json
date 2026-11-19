@@ -1,0 +1,423 @@
+{
+  "duration": 30,
+  "narrationEnd": 27.121,
+  "tempo": 0.9,
+  "lead": 0.2,
+  "gaps": [
+    0.45,
+    0.35,
+    0.55,
+    0.32,
+    0.32,
+    0.4,
+    0.38,
+    0.45,
+    0.4,
+    0.4
+  ],
+  "phrases": [
+    {
+      "text": "Des milliers de ressources, des heures d'interviews...",
+      "start": 0.2,
+      "sourceStart": 0.0,
+      "sourceEnd": 2.7165
+    },
+    {
+      "text": "Moi, j'ai pas le temps de tout regarder.",
+      "start": 3.6683,
+      "sourceStart": 2.7165,
+      "sourceEnd": 4.58
+    },
+    {
+      "text": "Alors j'ai créé Pour qui voter, avec une IA.",
+      "start": 6.0889,
+      "sourceStart": 4.58,
+      "sourceEnd": 7.3955
+    },
+    {
+      "text": "Tu choisis tes thèmes,",
+      "start": 9.7672,
+      "sourceStart": 7.3955,
+      "sourceEnd": 8.51
+    },
+    {
+      "text": "tu sélectionnes les candidats,",
+      "start": 11.3256,
+      "sourceStart": 8.51,
+      "sourceEnd": 9.8915
+    },
+    {
+      "text": "et tu compares leurs propositions.",
+      "start": 13.1806,
+      "sourceStart": 9.8915,
+      "sourceEnd": 11.575
+    },
+    {
+      "text": "Un résumé pour comprendre vite.",
+      "start": 15.4511,
+      "sourceStart": 11.575,
+      "sourceEnd": 13.154
+    },
+    {
+      "text": "Les détails et les sources pour creuser.",
+      "start": 17.5856,
+      "sourceStart": 13.154,
+      "sourceEnd": 15.087
+    },
+    {
+      "text": "L'IA peut se tromper : vérifie les sources.",
+      "start": 20.1833,
+      "sourceStart": 15.087,
+      "sourceEnd": 17.3275
+    },
+    {
+      "text": "Pour qui voter, point F Y I.",
+      "start": 23.0728,
+      "sourceStart": 17.3275,
+      "sourceEnd": 19.545
+    },
+    {
+      "text": "Fais-toi ton avis.",
+      "start": 25.9367,
+      "sourceStart": 19.545,
+      "sourceEnd": 20.610612
+    }
+  ],
+  "words": [
+    {
+      "text": "Des",
+      "start": 0.2644,
+      "end": 0.4067
+    },
+    {
+      "text": "milliers",
+      "start": 0.4578,
+      "end": 0.9478
+    },
+    {
+      "text": "de",
+      "start": 0.9744,
+      "end": 1.0511
+    },
+    {
+      "text": "ressources,",
+      "start": 1.1156,
+      "end": 1.7356
+    },
+    {
+      "text": "des",
+      "start": 1.8,
+      "end": 1.98
+    },
+    {
+      "text": "heures",
+      "start": 2.0967,
+      "end": 2.3156
+    },
+    {
+      "text": "d'interviews...",
+      "start": 2.3411,
+      "end": 3.0767
+    },
+    {
+      "text": "Moi,",
+      "start": 3.81,
+      "end": 3.9911
+    },
+    {
+      "text": "j'ai",
+      "start": 4.0166,
+      "end": 4.1455
+    },
+    {
+      "text": "pas",
+      "start": 4.21,
+      "end": 4.3655
+    },
+    {
+      "text": "le",
+      "start": 4.3911,
+      "end": 4.4422
+    },
+    {
+      "text": "temps",
+      "start": 4.4944,
+      "end": 4.7011
+    },
+    {
+      "text": "de",
+      "start": 4.7266,
+      "end": 4.8166
+    },
+    {
+      "text": "tout",
+      "start": 4.8811,
+      "end": 5.0489
+    },
+    {
+      "text": "regarder.",
+      "start": 5.0744,
+      "end": 5.6166
+    },
+    {
+      "text": "Alors",
+      "start": 6.2111,
+      "end": 6.47
+    },
+    {
+      "text": "j'ai",
+      "start": 6.4956,
+      "end": 6.6245
+    },
+    {
+      "text": "créé",
+      "start": 6.65,
+      "end": 6.9211
+    },
+    {
+      "text": "Pour",
+      "start": 7.0367,
+      "end": 7.2311
+    },
+    {
+      "text": "qui",
+      "start": 7.2956,
+      "end": 7.4111
+    },
+    {
+      "text": "voter,",
+      "start": 7.4633,
+      "end": 7.8889
+    },
+    {
+      "text": "avec",
+      "start": 8.0689,
+      "end": 8.3656
+    },
+    {
+      "text": "une",
+      "start": 8.5211,
+      "end": 8.6367
+    },
+    {
+      "text": "IA.",
+      "start": 8.6756,
+      "end": 9.1267
+    },
+    {
+      "text": "Tu",
+      "start": 9.8578,
+      "end": 10.0122
+    },
+    {
+      "text": "choisis",
+      "start": 10.0511,
+      "end": 10.4122
+    },
+    {
+      "text": "tes",
+      "start": 10.4378,
+      "end": 10.5666
+    },
+    {
+      "text": "thèmes,",
+      "start": 10.6055,
+      "end": 10.9278
+    },
+    {
+      "text": "tu",
+      "start": 11.4034,
+      "end": 11.5323
+    },
+    {
+      "text": "sélectionnes",
+      "start": 11.5967,
+      "end": 12.1
+    },
+    {
+      "text": "les",
+      "start": 12.1256,
+      "end": 12.2156
+    },
+    {
+      "text": "candidats,",
+      "start": 12.2545,
+      "end": 12.77
+    },
+    {
+      "text": "et",
+      "start": 13.2712,
+      "end": 13.4134
+    },
+    {
+      "text": "tu",
+      "start": 13.4389,
+      "end": 13.5545
+    },
+    {
+      "text": "compares",
+      "start": 13.6189,
+      "end": 14.0189
+    },
+    {
+      "text": "leurs",
+      "start": 14.0456,
+      "end": 14.1734
+    },
+    {
+      "text": "propositions.",
+      "start": 14.2123,
+      "end": 14.9478
+    },
+    {
+      "text": "Un",
+      "start": 15.5544,
+      "end": 15.6833
+    },
+    {
+      "text": "résumé",
+      "start": 15.7344,
+      "end": 16.0955
+    },
+    {
+      "text": "pour",
+      "start": 16.1478,
+      "end": 16.2633
+    },
+    {
+      "text": "comprendre",
+      "start": 16.3022,
+      "end": 16.7144
+    },
+    {
+      "text": "vite.",
+      "start": 16.7667,
+      "end": 17.1022
+    },
+    {
+      "text": "Les",
+      "start": 17.6889,
+      "end": 17.8434
+    },
+    {
+      "text": "détails",
+      "start": 17.8689,
+      "end": 18.2823
+    },
+    {
+      "text": "et",
+      "start": 18.3334,
+      "end": 18.4367
+    },
+    {
+      "text": "les",
+      "start": 18.4756,
+      "end": 18.5789
+    },
+    {
+      "text": "sources",
+      "start": 18.6045,
+      "end": 18.9134
+    },
+    {
+      "text": "pour",
+      "start": 18.94,
+      "end": 19.0812
+    },
+    {
+      "text": "creuser.",
+      "start": 19.12,
+      "end": 19.5723
+    },
+    {
+      "text": "L'IA",
+      "start": 20.3444,
+      "end": 20.5766
+    },
+    {
+      "text": "peut",
+      "start": 20.6411,
+      "end": 20.7833
+    },
+    {
+      "text": "se",
+      "start": 20.8089,
+      "end": 20.8989
+    },
+    {
+      "text": "tromper",
+      "start": 20.9377,
+      "end": 21.35
+    },
+    {
+      "text": ":",
+      "start": 21.3889,
+      "end": 21.4411
+    },
+    {
+      "text": "vérifie",
+      "start": 21.57,
+      "end": 21.9822
+    },
+    {
+      "text": "les",
+      "start": 22.0089,
+      "end": 22.1244
+    },
+    {
+      "text": "sources.",
+      "start": 22.15,
+      "end": 22.6144
+    },
+    {
+      "text": "Pour",
+      "start": 23.1311,
+      "end": 23.3111
+    },
+    {
+      "text": "qui",
+      "start": 23.3756,
+      "end": 23.4922
+    },
+    {
+      "text": "voter,",
+      "start": 23.5311,
+      "end": 23.9311
+    },
+    {
+      "text": "point",
+      "start": 24.1111,
+      "end": 24.4078
+    },
+    {
+      "text": "F",
+      "start": 24.4467,
+      "end": 24.6267
+    },
+    {
+      "text": "Y",
+      "start": 24.95,
+      "end": 25.0011
+    },
+    {
+      "text": "I.",
+      "start": 25.1178,
+      "end": 25.4145
+    },
+    {
+      "text": "Fais-toi",
+      "start": 26.0589,
+      "end": 26.3811
+    },
+    {
+      "text": "ton",
+      "start": 26.42,
+      "end": 26.5367
+    },
+    {
+      "text": "avis.",
+      "start": 26.6011,
+      "end": 26.8723
+    }
+  ]
+}

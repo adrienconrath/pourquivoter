@@ -1,0 +1,10 @@
+{
+  "provider": "ElevenLabs",
+  "createdAt": "2026-11-19T09:13:40.100663+00:00",
+  "route": "/v1/text-to-speech/R2zfCl7xyI0UyX6zoGu4/with-timestamps?output_format=mp3_44100_192",
+  "model": "eleven_multilingual_v2",
+  "sha256": "ddcad4022b5507c76f9fc682d4d6c55d1aad85bc0698d998042afb843d3add22",
+  "reproducibility": "Use the archived MP3 for exact replay; a new generation may differ.",
+  "voiceId": "R2zfCl7xyI0UyX6zoGu4",
+  "voiceName": "Dorian - Parisian"
+}
