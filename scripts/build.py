@@ -154,6 +154,12 @@ def position_field(field, label, records):
     return f'<section class="position-field position-{field}"><h5>{label}</h5>{body}</section>'
 
 
+def undocumented(fields):
+    return (set(fields) == {"resume"}
+            and len(fields["resume"]) == 1
+            and fields["resume"][0]["kind"] == "Position non documentée")
+
+
 def comparison(theme, people, entries):
     key = theme["id"]
     cards = []
@@ -177,11 +183,14 @@ def comparison(theme, people, entries):
                 ref for records in fields.values() for record in records
                 for ref in record["refs"].split(",")
             )]
-            content = (
-                f'<div class="position-summary">{intro}</div>'
+            detail_section = (
                 '<details class="disclosure position-details"><summary>Détails</summary>'
                 f'<div class="details-content">{details}</div></details>'
-                + source_section(refs)
+                if details else ""
+            )
+            content = (
+                f'<div class="position-summary">{intro}</div>'
+                + detail_section + source_section(refs)
             )
         else:
             content = '<p class="missing">Position à documenter pour cette édition.</p>'
@@ -249,8 +258,8 @@ def validate():
             raise ValueError(f"Résumé de moins de 100 mots attendu : {pair}")
         seen.add(claim_key)
         entries[pair][field].append(record)
-    if any("mesure" not in values for values in entries.values()):
-        raise ValueError("Chaque position documentée doit avoir une proposition ou une déclaration.")
+    if any("mesure" not in values and not undocumented(values) for values in entries.values()):
+        raise ValueError("Chaque position documentée doit avoir une proposition ou une déclaration ; une fiche sans proposition doit être explicitement marquée Position non documentée.")
     expected_pairs = {(theme, person) for theme in themes for person in people}
     if set(entries) != expected_pairs:
         raise ValueError("Chaque candidat doit avoir une fiche pour chaque thème.")
@@ -320,8 +329,11 @@ def build(snapshot, generated):
     (DIST / ".nojekyll").touch()
     notes = sum(len(records) for fields in entries.values() for records in fields.values())
     analyses = sum(len(fields.get("critique", [])) for fields in entries.values())
+    undocumented_count = sum(undocumented(fields) for fields in entries.values())
     print(
-        f"{len(people)} profils · {len(themes)} thèmes · {len(entries)} comparaisons documentées · "
+        f"{len(people)} profils · {len(themes)} thèmes · "
+        f"{len(entries) - undocumented_count} comparaisons documentées · "
+        f"{undocumented_count} positions non documentées · "
         f"{notes} notes, dont {analyses} points critiques · {len(sources)} sources"
     )
 
