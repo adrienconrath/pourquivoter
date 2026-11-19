@@ -1,0 +1,5227 @@
+[
+ {
+  "cell": "melenchon--dette",
+  "sourcesRead": [
+   "mel-dette-budget",
+   "mel-dette-psbudget",
+   "mel-dette-banque",
+   "mel-dette-moulin",
+   "mel-dette-pscrit",
+   "mel-dette-lagarde",
+   "mel-dette-programme",
+   "mel-dette-europe",
+   "mel-dette-amfis",
+   "mel-dette-lille",
+   "dixi-restos"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "attal--dette",
+  "sourcesRead": [
+   "ad-cible",
+   "af-gel",
+   "att-effectifs",
+   "att-fin",
+   "ad-secu",
+   "af-lettre",
+   "ad-parisien",
+   "att-jeunesse",
+   "dixi-oral",
+   "ad-chomage",
+   "ad-net",
+   "dixi-restos",
+   "att-ia",
+   "ad-ccss-mai2026",
+   "att-trav-attac",
+   "att-crit",
+   "ad-cae-chomage"
+  ],
+  "sourcesUnreadable": [
+   "ad-monde-bilan2026"
+  ]
+ },
+ {
+  "cell": "glucksmann--dette",
+  "sourcesRead": [
+   "gluck-climat",
+   "gluck-chiffres",
+   "ad-dette-insee",
+   "gluck-dette-vert",
+   "gluck-prix-bfm",
+   "dixi-restos",
+   "gluck-en-depeche",
+   "gluck-fisc-rtl",
+   "gluck-dette-hcfp",
+   "gluck-dette-tresor",
+   "gluck-eu-budget"
+  ],
+  "sourcesUnreadable": [
+   "gluck-projet",
+   "gluck-fisc-monde"
+  ]
+ },
+ {
+  "cell": "le-pen--dette",
+  "sourcesRead": [
+   "pen-dette-rtl-plan",
+   "pen-fin-prim",
+   "pen-dette-publicsenat",
+   "pen-fisc-rn",
+   "pen-dette-depeche",
+   "pen-fisc-conf",
+   "pen-dette-terranova",
+   "pen-dette-rtl-erreurs",
+   "pen-dette-lenglet",
+   "pen-dette-retraites-rtl"
+  ],
+  "sourcesUnreadable": [
+   "pen-fin-monde"
+  ]
+ },
+ {
+  "cell": "lisnard--dette",
+  "sourcesRead": [
+   "lis-fin",
+   "lis-prix-achat",
+   "lis-eco",
+   "lis-dette-faq",
+   "rou-dette-comptes (communiqué Cour des comptes du 25 juin 2026, via copie en cache)",
+   "lis-eu-projet",
+   "lis-oral",
+   "pqv-lis-oral",
+   "lis-dette-dixi",
+   "lis-fisc-atlantico (résumé seulement)"
+  ],
+  "sourcesUnreadable": [
+   "lis-fisc-atlantico (article payant : seuls le chapeau et les mots-clés sont lisibles ; les détails de L79 et L81, comme le seuil de deux à quatre Smic ou le déficit hors intérêts en fin de mandat, n'ont pas pu être vérifiés)",
+   "rou-dette-comptes (URL directe en timeout ; vérifié via le communiqué de presse du 25 juin 2026 en cache)"
+  ]
+ },
+ {
+  "cell": "philippe--dette",
+  "sourcesRead": [
+   "phil-fin",
+   "phil-prix-travail",
+   "phil-ret",
+   "phil-dette-hollande",
+   "phil-rtl",
+   "phil-cult-dixi",
+   "phil-fisc-ps",
+   "phil-dette-martinot"
+  ],
+  "sourcesUnreadable": [
+   "phil-dette-pisani",
+   "phil-dette-conseil",
+   "insee-dette"
+  ]
+ },
+ {
+  "cell": "retailleau--dette",
+  "sourcesRead": [
+   "ret-dette-trajectoire",
+   "ret-dette-deficit",
+   "ret-dette-etat",
+   "ret-dette-lcp",
+   "ret-dette-theme",
+   "lr-fin",
+   "ret-cult-perimetre",
+   "ret-dette-fraude",
+   "lr-fin-senat",
+   "ret-dette-regle",
+   "ret-dette-conference",
+   "lr-argent",
+   "dixi-restos"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "roussel--dette",
+  "sourcesRead": [
+   "rou-eu-alt",
+   "pcf-discours",
+   "ad-dette-insee",
+   "rou-dette-bouclage",
+   "rou-eu-voeux",
+   "pcf-fete",
+   "rou-eu-marseille",
+   "dixi-oral",
+   "roussel-achat",
+   "rou-dette-dechif",
+   "rou-dette-aides",
+   "rou-dette-pourki",
+   "rou-dette-bce",
+   "rou-dette-rtl"
+  ],
+  "sourcesUnreadable": [
+   "rou-dette-comptes"
+  ]
+ },
+ {
+  "cell": "ruffin--dette",
+  "sourcesRead": [
+   "ruff-plan",
+   "ruff-lecture",
+   "ruff-fisc-verif-succ",
+   "ruff-aides-analyse",
+   "ruff-dette-ofce",
+   "ruff-dette-publicsenat",
+   "ruff-dette-fondapol",
+   "ruff-dette-rtl",
+   "ruff-eu-industrie-pdf",
+   "pqv-ruff-secu"
+  ],
+  "sourcesUnreadable": [
+   "ruff-def-crayon"
+  ]
+ },
+ {
+  "cell": "tondelier--dette",
+  "sourcesRead": [
+   "pqv-tond-oral",
+   "tond-fisc-budget",
+   "tond-dette-cour",
+   "tond-eu-tribune",
+   "tond-dette-plan25",
+   "tond-fisc-ifrap",
+   "tond-fisc-capus",
+   "tond-dette-dixi"
+  ],
+  "sourcesUnreadable": [
+   "vert",
+   "tond-fisc-annonce"
+  ]
+ },
+ {
+  "cell": "zemmour--dette",
+  "sourcesRead": [
+   "zem-eu-dixi",
+   "dixi-oral",
+   "knafo",
+   "zem-fisc-bfm",
+   "zem-dette-qde",
+   "zem-eu-bfm",
+   "zem-prix-knafo-crit",
+   "zem-def-prog22",
+   "zem-dette-montaigne22"
+  ],
+  "sourcesUnreadable": [
+   "zem-fisc-jdd",
+   "insee-dette"
+  ]
+ },
+ {
+  "cell": "melenchon--prix",
+  "sourcesRead": [
+   "mel-prix-ppl",
+   "mel-prix-blog",
+   "mel-prix-pauvrete",
+   "mel-prix-richesses",
+   "mel-prix-besoins",
+   "mel-prix-guette",
+   "mel-prix-tf1smic",
+   "mel-prix-debat",
+   "mel-prix-altereco",
+   "mel-prix-lcp"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "attal--prix",
+  "sourcesRead": [
+   "ad-net",
+   "ap-aides",
+   "ap-restos",
+   "dixi-restos",
+   "ad-parisien",
+   "ap-csg-matin",
+   "ap-finances",
+   "att-mobilite",
+   "ap-eau",
+   "ap-electricite",
+   "att-en",
+   "att-services",
+   "ad-cae-chomage"
+  ],
+  "sourcesUnreadable": [
+   "ad-chomage-presse",
+   "ad-retraites",
+   "urssaf-csg"
+  ]
+ },
+ {
+  "cell": "glucksmann--prix",
+  "sourcesRead": [
+   "gluck-chiffres",
+   "gluck-prix-courrier",
+   "gluck-climat",
+   "gluck-prix-bfm",
+   "dixi-restos",
+   "gluck-prix-polmatin",
+   "gluck-prix-sudradio",
+   "gluck-dette-vert",
+   "gluck-fisc-rtl",
+   "gluck-projet (via copie locale /tmp/pqv-deep/gluck-europe-acte.txt)"
+  ],
+  "sourcesUnreadable": [
+   "urssaf-csg (non ouvert, simple définition)",
+   "gluck-projet (Drive illisible via fetch ; copie locale utilisée)"
+  ]
+ },
+ {
+  "cell": "le-pen--prix",
+  "sourcesRead": [
+   "pen-prix-rtl",
+   "pen-prix-salaires",
+   "pen-prix-jdn",
+   "pen-fin-prim",
+   "pen-energie-pdf",
+   "dixi-restos",
+   "pen-fisc-rn",
+   "pen-prix-asteres"
+  ],
+  "sourcesUnreadable": [
+   "pen-tva-crit"
+  ]
+ },
+ {
+  "cell": "lisnard--prix",
+  "sourcesRead": [
+   "lis-prix-achat",
+   "lis-prix-afp",
+   "lis-prix-salaire",
+   "lis-prix-csg-sp",
+   "pqv-lis-oral",
+   "lis-prix-carburant",
+   "lis-logement-presse",
+   "lis-eco",
+   "lis-oral",
+   "lis-fisc-atlantico"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "philippe--prix",
+  "sourcesRead": [
+   "phil-prix-travail",
+   "phil-rtl",
+   "phil-fin",
+   "phil-eu-st-raph",
+   "phil-fisc-fr2",
+   "phil-fisc-famille",
+   "phil-energie",
+   "dixi-oral"
+  ],
+  "sourcesUnreadable": [
+   "phil-prix-morin",
+   "phil-prix-mieux"
+  ]
+ },
+ {
+  "cell": "retailleau--prix",
+  "sourcesRead": [
+   "ret-prix-500",
+   "ret-prix-zero",
+   "ret-prix-elec",
+   "ret-prix-plafond",
+   "ret-prix-ria",
+   "ret-prix-cee",
+   "lr-fin",
+   "ret-eu-bfm",
+   "dixi-restos",
+   "lr-famille",
+   "ret-fisc-revenu-familial",
+   "ret-log-interets",
+   "ret-prix-reponse",
+   "ret-prix-marianne"
+  ],
+  "sourcesUnreadable": [
+   "ret-prix-decodeurs"
+  ]
+ },
+ {
+  "cell": "roussel--prix",
+  "sourcesRead": [
+   "rou-prix-nov8",
+   "pcf-discours",
+   "dixi-oral",
+   "rou-prix-nov3",
+   "pcf-logement",
+   "roussel-achat",
+   "rou-prix-courrier"
+  ],
+  "sourcesUnreadable": [
+   "pen-tva-crit"
+  ]
+ },
+ {
+  "cell": "ruffin--prix",
+  "sourcesRead": [
+   "ruff-prix-bfm",
+   "ruff-logement",
+   "ruff-statut",
+   "ruff-industrie",
+   "ruff-plan",
+   "ruff-prix-surligneurs",
+   "ruff-prix-lenglet",
+   "ruff-prix-cpo"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "tondelier--prix",
+  "sourcesRead": [
+   "tond-fisc-budget",
+   "pqv-tond-oral",
+   "tond-prix-afp",
+   "tond-prix-te",
+   "tond-prix-bfm",
+   "vert (programme, copie locale /tmp/pqv-docs/vert-miroir.txt)"
+  ],
+  "sourcesUnreadable": [
+   "tond-prix-travail-pdf",
+   "tond-prix-bouclier-pdf",
+   "vert-prix"
+  ]
+ },
+ {
+  "cell": "zemmour--prix",
+  "sourcesRead": [
+   "zem-fisc-bfm",
+   "zem-fisc-csg",
+   "zem-prix-tf1cee",
+   "zem-eu-dixi",
+   "zem",
+   "zem-fisc-accise",
+   "zem-prix-knafo-crit",
+   "zem-prix-montaigne2022"
+  ],
+  "sourcesUnreadable": [
+   "zem-fisc-jdd"
+  ]
+ },
+ {
+  "cell": "melenchon--retraites",
+  "sourcesRead": [
+   "mel-ret-rtl2027",
+   "mel-prix-besoins",
+   "mel-dette-psbudget",
+   "mel-ret-cfdt2022",
+   "mel-ret-nupes2023",
+   "mel-ret-montaigne2022",
+   "dixi-restos",
+   "mel-ret-tf1exemple"
+  ],
+  "sourcesUnreadable": [
+   "mel-ret-parisien2022",
+   "mel-ret-afpfactuel",
+   "mel-ret-zemmour2022"
+  ]
+ },
+ {
+  "cell": "attal--retraites",
+  "sourcesRead": [
+   "att-ret",
+   "ai-capital",
+   "att-capital",
+   "att-eu-lenglet",
+   "att-trav-per",
+   "att-ret-fipeco",
+   "af-lci-pme",
+   "att-ret-lcp25",
+   "att-trav-petites",
+   "att-ia",
+   "att-num-echos",
+   "ad-parisien",
+   "zem-ret-depeche26"
+  ],
+  "sourcesUnreadable": [
+   "att-ret-bercy26 (Le Monde, paywall 402 ; la reprise Titres Presse est tronquée et ne donne ni les 37 milliards ni les 20 %)",
+   "att-ret-cour24 (ccomptes.fr, délai dépassé ; chiffres 1,8 Md€ en 2022 et publication du 7 novembre 2024 confirmés via Previssima, mais pas la formule sur l'assurance-vie)"
+  ]
+ },
+ {
+  "cell": "glucksmann--retraites",
+  "sourcesRead": [
+   "gluck-ret-gg",
+   "gluck-ret-grandjury",
+   "gluck-fisc-pqv",
+   "gluck-imm-lcp",
+   "gluck-projet",
+   "gluck-ret-cour-emploi"
+  ],
+  "sourcesUnreadable": [
+   "gluck-ret-binet",
+   "gluck-ret-inegalites",
+   "gluck-ret-senior"
+  ]
+ },
+ {
+  "cell": "le-pen--retraites",
+  "sourcesRead": [
+   "pen-dette-retraites-rtl",
+   "pen-ret-lcp-capitalisation",
+   "pen-ret-senat",
+   "pen-trav-conf17",
+   "pen-ret-lcp-penibilite",
+   "pen-ret-ifrap17",
+   "pen-ret-medef18"
+  ],
+  "sourcesUnreadable": [
+   "pen-ret-crit",
+   "pen-ret-senior17",
+   "pen-ret-monde",
+   "pen-log-pap26"
+  ]
+ },
+ {
+  "cell": "lisnard--retraites",
+  "sourcesRead": [
+   "lis-ret-repartition",
+   "lis-ret-capital",
+   "lis-fisc-industrie",
+   "lis-ret-age",
+   "lis-ret-csr",
+   "lis-ret-unsa",
+   "lis-ret-depeche",
+   "lis-fisc-atlantico (résumé seulement)"
+  ],
+  "sourcesUnreadable": [
+   "lis-ret-jdd26 (403)",
+   "lis-ret-jdd23 (403)"
+  ]
+ },
+ {
+  "cell": "philippe--retraites",
+  "sourcesRead": [
+   "phil-ret-sept",
+   "phil-ret-reponses",
+   "phil-ret-annonce",
+   "phil-ret",
+   "phil-ret-tf1",
+   "phil-prix-travail",
+   "phil-ret-europe2025",
+   "phil-ret-porcher",
+   "phil-ret-molinari",
+   "phil-ret-juvin"
+  ],
+  "sourcesUnreadable": [
+   "phil-ret-monde",
+   "phil-ret-2019",
+   "tond-ret-tauxplein"
+  ]
+ },
+ {
+  "cell": "retailleau--retraites",
+  "sourcesRead": [
+   "ret-ret-ages",
+   "ret-ret-longues",
+   "ret-ret-capital",
+   "ret-ret-theme",
+   "ret-ret-sud18",
+   "ret-ret-penible",
+   "ret-ret-cumul",
+   "ret-ret-surcote",
+   "ret-ret-droitcumul",
+   "ret-ret-volontaire",
+   "lr-fin",
+   "zem-ret-depeche26",
+   "ret-ret-contrepoints",
+   "pen-fisc-restos",
+   "ret-ret-femmes"
+  ],
+  "sourcesUnreadable": [
+   "att-ret-bercy26"
+  ]
+ },
+ {
+  "cell": "roussel--retraites",
+  "sourcesRead": [
+   "pcf-discours",
+   "rou-ret-toulouse",
+   "rou-eu-lci-nov",
+   "rou-prix-nov8",
+   "rou-inst-prog22",
+   "rou-ret-adoption",
+   "rou-fisc-cahier",
+   "rou-ret-montaigne22",
+   "tond-ret-cour-fin",
+   "rou-ret-capitalps"
+  ],
+  "sourcesUnreadable": [
+   "rou-ret-monde24"
+  ]
+ },
+ {
+  "cell": "ruffin--retraites",
+  "sourcesRead": [
+   "ruff-ret-alter26",
+   "ruff-ret-anjuin25",
+   "ruff-statut",
+   "ruff-ret-c2p26",
+   "ruff-loisirs",
+   "ruff-ret-lettre25",
+   "ruff-ret-anmars25",
+   "ruff-def-crayon",
+   "gluck-ret-cour-emploi",
+   "tond-ret-bouzou",
+   "ruff-def-lci"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "tondelier--retraites",
+  "sourcesRead": [
+   "tond-ret-frinfo",
+   "tond-ret-suspension",
+   "tond-ret-lci",
+   "tond-ret-cour-fin",
+   "tond-ret-bouzou",
+   "tond-ret-tf1",
+   "tond-ret-mico",
+   "gluck-ret-cour-emploi",
+   "tond-ret-agirc",
+   "tond-ret-tauxplein",
+   "vert (copie locale /tmp/pqv-docs/vert-miroir.txt)"
+  ],
+  "sourcesUnreadable": [
+   "vert (URL directe lesecologistes.fr, 403)",
+   "tond-ret-aspa (non rouverte)"
+  ]
+ },
+ {
+  "cell": "zemmour--retraites",
+  "sourcesRead": [
+   "zem-ret-europe126",
+   "zem-fisc-bfm",
+   "zem-ret-bfm",
+   "zem-eu-dixi",
+   "zem-def-prog22",
+   "zem-ret-montaigne22",
+   "zem-ret-depeche26",
+   "zem-ret-senat26"
+  ],
+  "sourcesUnreadable": [
+   "zem-fisc-jdd",
+   "zem-ret-knafo-point",
+   "zem-ret-monde-cor26"
+  ]
+ },
+ {
+  "cell": "melenchon--fiscalite",
+  "sourcesRead": [
+   "mel-prix-richesses",
+   "mel-prix-debat",
+   "mel-dette-psbudget",
+   "mel-fisc-amend",
+   "mel-fisc-senat-zuc",
+   "mel-dette-budget",
+   "mel-fisc-paul",
+   "mel-fisc-collet-an"
+  ],
+  "sourcesUnreadable": [
+   "mel-fisc-pfu (HTTP 403, 31,4 % / 12,8 % / 18,6 % non vérifiés dans la source)",
+   "mel-fisc-monde (HTTP 402, paywall, éditorial du Monde du 16 octobre non vérifié)"
+  ]
+ },
+ {
+  "cell": "attal--fiscalite",
+  "sourcesRead": [
+   "af-gel",
+   "dixi-restos",
+   "att-fisc",
+   "af-cvae",
+   "af-lci-pme",
+   "af-is (via rapport Sénat)",
+   "af-cdc-du",
+   "af-cdc-cir",
+   "ad-net",
+   "af-afer",
+   "af-lettre",
+   "af-senat-is",
+   "af-ipp",
+   "af-tribune (en-tête seulement)",
+   "af-vigi-csg",
+   "ad-ccss-mai2026"
+  ],
+  "sourcesUnreadable": [
+   "af-jdd (HTTP 403)",
+   "af-drees-csg (PDF vide)",
+   "af-cir (non rouvert)",
+   "phil-agri-dutreilregle (non rouvert)",
+   "ret-fisc-dons-argent (non rouvert)"
+  ]
+ },
+ {
+  "cell": "glucksmann--fiscalite",
+  "sourcesRead": [
+   "gluck-prix-bfm",
+   "gluck-fisc-pqv",
+   "gluck-trav-lenoir",
+   "gluck-fisc-rtl",
+   "gluck-climat",
+   "gluck-fisc-zuc25",
+   "gluck-chiffres",
+   "gluck-en-depeche",
+   "gluck-fisc-dutreil",
+   "gluck-fisc-decideurs",
+   "gluck-fisc-dutreil-ipp"
+  ],
+  "sourcesUnreadable": [
+   "gluck-fisc-bfm",
+   "gluck-fisc-frinfo",
+   "gluck-fisc-monde",
+   "gluck-projet",
+   "gluck-fisc-cgi787"
+  ]
+ },
+ {
+  "cell": "le-pen--fiscalite",
+  "sourcesRead": [
+   "pen-fisc-conf",
+   "pen-fisc-restos",
+   "pen-fin-prim",
+   "pen-fisc-pfu",
+   "pen-fisc-ps",
+   "pen-fisc-ir30",
+   "pen-fisc-rn",
+   "pen-dette-retraites-rtl",
+   "patrimoine-ccomptes",
+   "pen-dette-terranova",
+   "pen-dette-rtl-erreurs"
+  ],
+  "sourcesUnreadable": [
+   "pen-imm-monde-taxe",
+   "pen-tva-crit"
+  ]
+ },
+ {
+  "cell": "lisnard--fiscalite",
+  "sourcesRead": [
+   "lis-fisc-baisse",
+   "lis-repartition",
+   "lis-fisc-redressement",
+   "lis-fisc-dixi-csg",
+   "zem-fisc-csg",
+   "lis-fisc-trib",
+   "lis-fisc-industrie",
+   "lis-fisc-cpo-prod",
+   "lis-fisc-pfu26",
+   "lis-heritage",
+   "phil-fisc-don",
+   "lis-fisc-pqv",
+   "patrimoine-ccomptes",
+   "lis-fisc-cpo-local"
+  ],
+  "sourcesUnreadable": [
+   "lis-fisc-figaro (403 Forbidden)",
+   "lis-fisc-atlantico (seul le chapeau accessible, article payant : détails sur solde avant intérêts, 2 à 4 SMIC et recommandation d’ordre non vérifiables)",
+   "lis-fisc-publicsenat (page Dailymotion sans transcription, seulement le titre)"
+  ]
+ },
+ {
+  "cell": "philippe--fiscalite",
+  "sourcesRead": [
+   "phil-industrie",
+   "phil-fin",
+   "phil-fisc-horizons",
+   "phil-fisc-c3s",
+   "phil-fisc-ps",
+   "phil-fisc-ref",
+   "phil-prix-travail",
+   "phil-fisc-famille",
+   "phil-fisc-fr2",
+   "phil-fisc-don",
+   "phil-fisc-cour",
+   "phil-ind-doze",
+   "phil-fisc-terra",
+   "phil-ind-ipp",
+   "af-cdc-du"
+  ],
+  "sourcesUnreadable": [
+   "phil-fisc-cvae",
+   "phil-fisc-cfe"
+  ]
+ },
+ {
+  "cell": "retailleau--fiscalite",
+  "sourcesRead": [
+   "ret-fisc-dons",
+   "ret-fisc-trans",
+   "ret-fisc-op",
+   "ret-fisc-prod",
+   "ret-fisc-dons-argent",
+   "phil-fisc-ref",
+   "gluck-fisc-dutreil",
+   "ret-fisc-revenu-familial",
+   "ret-log-interets",
+   "lr-fin",
+   "ret-fisc-ipp",
+   "gluck-fisc-dutreil-ipp",
+   "ret-fisc-frinfo",
+   "dixi-restos"
+  ],
+  "sourcesUnreadable": [
+   "gluck-impot"
+  ]
+ },
+ {
+  "cell": "roussel--fiscalite",
+  "sourcesRead": [
+   "rou-prix-nov8",
+   "dixi-oral",
+   "pcf-tract-sp",
+   "pcf-fete",
+   "rou-fisc-succ22",
+   "rou-inst-prog22",
+   "pen-fisc-pfu",
+   "af-is",
+   "af-cvae",
+   "rou-fisc-pqvlux",
+   "rou-fisc-cahier",
+   "rou-fisc-rexec26",
+   "rou-fisc-cae",
+   "rou-fisc-medef",
+   "ret-fisc-ipp",
+   "rou-fisc-cdc"
+  ],
+  "sourcesUnreadable": [
+   "pen-fisc-ifi (en maintenance ; 2,3 Md€ en 2025 confirmé par recherche web sur le bulletin DGFiP Statistiques n°45)",
+   "rou-fisc-min (en maintenance ; seuil 750 M€ et 15 % conformes aux connaissances générales)",
+   "rou-fisc-controles (403 ; 17,1 Md€ notifiés et 11,4 Md€ encaissés confirmés par recherche web)"
+  ]
+ },
+ {
+  "cell": "ruffin--fiscalite",
+  "sourcesRead": [
+   "ruff-plan",
+   "ruff-fisc-senat",
+   "pqv-ruff-secu",
+   "ruff-fisc-an31",
+   "gluck-fisc-cae",
+   "ruff-fisc-an-div",
+   "ruff-fisc-dixi",
+   "ruff-fisc-collet",
+   "ruff-fisc-ofce",
+   "ruff-dette-rtl"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "tondelier--fiscalite",
+  "sourcesRead": [
+   "tond-trans-blog",
+   "pqv-tond-oral",
+   "tond-fisc-capus",
+   "vert",
+   "tond-ret-tf1",
+   "tond-fisc-budget",
+   "tond-fisc-heritage-an",
+   "tond-fisc-dutreil-an",
+   "tond-fisc-debat-an",
+   "gluck-fisc-dutreil-ipp",
+   "tond-fisc-ifrap"
+  ],
+  "sourcesUnreadable": [
+   "tond-fisc-annonce",
+   "tond-fisc-don"
+  ]
+ },
+ {
+  "cell": "zemmour--fiscalite",
+  "sourcesRead": [
+   "zem",
+   "zem-fisc-pqv",
+   "zem-fisc-csg",
+   "tond-fisc-don",
+   "zem-fisc-ifi-regle",
+   "phil-fisc-cvae",
+   "zem-fisc-bfm",
+   "zem-fisc-fipeco",
+   "gluck-fisc-cae",
+   "patrimoine-ccomptes",
+   "zem-dette-qde",
+   "zem-prix-knafo-crit"
+  ],
+  "sourcesUnreadable": [
+   "zem-fisc-jdd",
+   "zem-fisc-voies"
+  ]
+ },
+ {
+  "cell": "melenchon--travail",
+  "sourcesRead": [
+   "mel-prix-ppl",
+   "mel-prix-guette",
+   "mel-prix-besoins",
+   "mel-travail-rtl",
+   "mel-prix-richesses",
+   "mel-def-collectivisme",
+   "mel-dette-budget",
+   "mel-prix-tf1smic",
+   "mel-travail-montaigneemploi",
+   "mel-travail-montaigneconges",
+   "mel-prix-pauvrete"
+  ],
+  "sourcesUnreadable": [
+   "mel-travail-duree"
+  ]
+ },
+ {
+  "cell": "attal--travail",
+  "sourcesRead": [
+   "ad-net",
+   "att-trav-chantier",
+   "att-trav-constitution",
+   "att-eco",
+   "dixi-restos",
+   "att-num-pqv",
+   "ad-chomage",
+   "att-num-formation",
+   "att-num-mistral",
+   "att-trav-petites",
+   "att-capital",
+   "att-trav-per",
+   "att-trav-attac",
+   "ad-cae-chomage",
+   "att-trav-surligneurs"
+  ],
+  "sourcesUnreadable": [
+   "att-num-crit-cgt"
+  ]
+ },
+ {
+  "cell": "glucksmann--travail",
+  "sourcesRead": [
+   "gluck-trav-ebra",
+   "gluck-fisc-pqv",
+   "gluck-projet",
+   "gluck-trav-senat",
+   "gluck-trav-oral",
+   "gluck-trav-insee",
+   "gluck-trav-index",
+   "gluck-fisc-rtl",
+   "gluck-trav-lenoir",
+   "gluck-trav-capital"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "le-pen--travail",
+  "sourcesRead": [
+   "pen-prix-salaires",
+   "dixi-restos",
+   "pen-trav-montaigne22",
+   "pen-agri-entreprise",
+   "pen-fisc-rn",
+   "pen-trav-conf17"
+  ],
+  "sourcesUnreadable": [
+   "pen-trav-afpdroit22"
+  ]
+ },
+ {
+  "cell": "lisnard--travail",
+  "sourcesRead": [
+   "lis-prix-salaire",
+   "lis-fisc-industrie",
+   "lis-fisc-dixi-csg",
+   "lis-trav-livre",
+   "lis-trav-temps",
+   "lis-trav-chomage",
+   "pqv-lis-oral",
+   "lis-fin",
+   "lis-fisc-baisse",
+   "lis-eco",
+   "lis-fisc-atlantico",
+   "lis-trav-depeche",
+   "lis-trav-contrepoints"
+  ],
+  "sourcesUnreadable": [
+   "lis-fisc-atlantico (corps de l'article réservé aux abonnés : seule l'introduction est lisible, donc rien affirmé sur « entre deux et quatre SMIC » ni sur le détail du 40 milliards)",
+   "lis-trav-depeche (article tronqué par le paywall après le passage de Buzin ; les propos de Buzin sont lisibles)",
+   "zem-fisc-csg (non rouvert)"
+  ]
+ },
+ {
+  "cell": "philippe--travail",
+  "sourcesRead": [
+   "phil-prix-travail",
+   "phil-fin",
+   "phil-trav-rtl25",
+   "phil-fisc-fr2",
+   "phil-trav-urssaf",
+   "phil-inst-bfm",
+   "dixi-oral",
+   "phil-dette-martinot",
+   "phil-sante-egora",
+   "phil-trav-senat"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "retailleau--travail",
+  "sourcesRead": [
+   "ret-prix-500",
+   "ret-prix-ria",
+   "ret-trav-chom",
+   "lr-travail",
+   "ret-prix-zero",
+   "ret-prix-plafond",
+   "lr-fin",
+   "ret-trav-seniors",
+   "ret-ind-cpo3",
+   "ret-trav-mfrb"
+  ],
+  "sourcesUnreadable": [
+   "ret-prix-decodeurs"
+  ]
+ },
+ {
+  "cell": "roussel--travail",
+  "sourcesRead": [
+   "pcf-discours",
+   "rou-prix-nov8",
+   "mel-prix-tf1smic",
+   "rou-trav-montaigne32",
+   "rou-fisc-pqvlux",
+   "rou-inst-lci",
+   "pcf-tract-sp",
+   "rou-trav-cahiersecu"
+  ],
+  "sourcesUnreadable": [
+   "rou-trav-bfm7",
+   "rou-trav-duvoux"
+  ]
+ },
+ {
+  "cell": "ruffin--travail",
+  "sourcesRead": [
+   "ruff-fisc-dixi",
+   "ruff-statut",
+   "pqv-ruff-secu",
+   "ruff-numerique",
+   "ruff-loisirs",
+   "ruff-plan",
+   "ruff-trav-rmcmai",
+   "ruff-trav-32an",
+   "ruff-trav-rsaan",
+   "ruff-trav-bdf",
+   "ruff-trav-bozio",
+   "ruff-trav-rp"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "tondelier--travail",
+  "sourcesRead": [
+   "tond-trav-afp",
+   "tond-clim-droit",
+   "tond-trav-courrier",
+   "tond-clim-hubert",
+   "tond-eu-pqv"
+  ],
+  "sourcesUnreadable": [
+   "tond-prix-travail-pdf",
+   "vert",
+   "tond-trav-mondejuillet",
+   "tond-dette-dixi"
+  ]
+ },
+ {
+  "cell": "zemmour--travail",
+  "sourcesRead": [
+   "zem",
+   "zem-eu-edc",
+   "zem-fisc-bfm",
+   "zem-inst-tf1trans",
+   "zem-def-prog22",
+   "zem-eu-reconquete",
+   "zem-prix-montaigne2022",
+   "zem-trav-montheures",
+   "zem-trav-cles",
+   "zem-ind-robots-dep"
+  ],
+  "sourcesUnreadable": [
+   "zem-trav-monde21"
+  ]
+ },
+ {
+  "cell": "melenchon--industrie",
+  "sourcesRead": [
+   "mel-ind-programme",
+   "mel-prix-ppl",
+   "mel-ind-auto",
+   "mel-def-collectivisme",
+   "mel-dette-programme",
+   "mel-ind-textile",
+   "mel-ind-btp",
+   "mel-dette-banque",
+   "mel-ind-senat",
+   "mel-ind-an-debat",
+   "mel-ind-an-texte"
+  ],
+  "sourcesUnreadable": [
+   "mel-ind-pme-monde (Le Monde, paywall HTTP 402 : attributions CPME/U2P et propos de Mélenchon non vérifiables)"
+  ]
+ },
+ {
+  "cell": "attal--industrie",
+  "sourcesRead": [
+   "att-eu-reims",
+   "ai-capital",
+   "att-eco",
+   "att-fisc",
+   "att-eu-piac",
+   "ai-depeche",
+   "af-lci-pme",
+   "ai-fne",
+   "ai-fabrique"
+  ],
+  "sourcesUnreadable": [
+   "ai-afp (Le Parisien, 403 Forbidden)",
+   "ai-monde-energie (Le Monde, paywall 402 ; la capture archive.org ne contient pas le texte de l'article)"
+  ]
+ },
+ {
+  "cell": "glucksmann--industrie",
+  "sourcesRead": [
+   "gluck-eu-industrie",
+   "gluck-climat",
+   "gluck-prix-bfm",
+   "gluck-ind-tdie24",
+   "gluck-ind-fi",
+   "gluck-ind-euronews (partiel)"
+  ],
+  "sourcesUnreadable": [
+   "gluck-projet",
+   "gluck-ind-ocde"
+  ]
+ },
+ {
+  "cell": "le-pen--industrie",
+  "sourcesRead": [
+   "pen-fin-prim",
+   "pen-ind-bfmmif",
+   "pen-ind-mif",
+   "pen-fisc-conf",
+   "pen-eu-brux",
+   "pen-fisc-rn",
+   "pen-ecole-archive22",
+   "pen-en-vert26"
+  ],
+  "sourcesUnreadable": [
+   "pen-fin-monde",
+   "ret-ind-cpo"
+  ]
+ },
+ {
+  "cell": "lisnard--industrie",
+  "sourcesRead": [
+   "lis-fisc-baisse",
+   "lis-fisc-industrie",
+   "lis-ind-made",
+   "lis-energie",
+   "rou-ind-ref",
+   "lis-repartition",
+   "lis-eco",
+   "ret-fisc-ipp",
+   "lis-ind-gazette"
+  ],
+  "sourcesUnreadable": [
+   "lis-ind-parisien",
+   "lis-ind-monde-aides",
+   "ret-ind-cpo"
+  ]
+ },
+ {
+  "cell": "philippe--industrie",
+  "sourcesRead": [
+   "phil-fisc-ref",
+   "phil-fisc-horizons",
+   "phil-fisc-ps",
+   "phil-industrie",
+   "phil-num-politico",
+   "phil-energie",
+   "phil-clim-plan",
+   "phil-ind-doze",
+   "phil-ind-ipp"
+  ],
+  "sourcesUnreadable": [
+   "ret-ind-cpo"
+  ]
+ },
+ {
+  "cell": "retailleau--industrie",
+  "sourcesRead": [
+   "lr-projet (via pages mesures)",
+   "ret-ind-fonds",
+   "ret-ind-elec",
+   "ret-def-lci",
+   "ret-fisc-prod",
+   "ret-ind-iref",
+   "ret-dette-trajectoire",
+   "lr-fin-senat",
+   "ret-ind-crevnu",
+   "ret-ind-exeltium",
+   "ret-ind-friches",
+   "ret-ind-priorites",
+   "ret-ind-recherche",
+   "ret-ind-formation",
+   "ret-ind-normes",
+   "ret-ind-import",
+   "ret-ind-epargne",
+   "ret-fisc-ipp",
+   "ret-ind-cpo3",
+   "ret-ind-cpo"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "roussel--industrie",
+  "sourcesRead": [
+   "pcf-fete",
+   "rou-ind-ref",
+   "rou-sec-bfm16",
+   "rou-ind-afp",
+   "rou-eu-alt",
+   "rou-ind-edc",
+   "rou-ind-senat"
+  ],
+  "sourcesUnreadable": [
+   "rou-ind-humatch",
+   "rou-ind-monde"
+  ]
+ },
+ {
+  "cell": "ruffin--industrie",
+  "sourcesRead": [
+   "ruff-industrie",
+   "ruff-ind-aluminium",
+   "ruff-def-crayon",
+   "ruff-ind-edf25",
+   "ruff-plan",
+   "ruff-eu-frinfo",
+   "ruff-eu-made",
+   "ruff-ind-anmittal",
+   "ruff-ind-senat26"
+  ],
+  "sourcesUnreadable": [
+   "ruff-ind-mondeprotec",
+   "rou-ind-monde"
+  ]
+ },
+ {
+  "cell": "tondelier--industrie",
+  "sourcesRead": [
+   "tond-prix-afp",
+   "tond-en-postpetrole",
+   "tond-ind-bfm",
+   "tond-ind-patronat"
+  ],
+  "sourcesUnreadable": [
+   "tond-prix-travail-pdf",
+   "vert",
+   "zem-en-courcee24",
+   "tond-ind-cci"
+  ]
+ },
+ {
+  "cell": "zemmour--industrie",
+  "sourcesRead": [
+   "zem-eu-edc",
+   "zem-ind-jdf",
+   "zem-eu-cnews",
+   "zem-fisc-pqv",
+   "zem-ind-montaigne22",
+   "zem-ind-robots-dep",
+   "zem-eu-rte"
+  ],
+  "sourcesUnreadable": [
+   "zem-ind-robots-rmc",
+   "zem"
+  ]
+ },
+ {
+  "cell": "melenchon--ecole",
+  "sourcesRead": [
+   "mel-ecole-professeurs",
+   "mel-ecole-programme",
+   "mel-ecole-esr",
+   "mel-dette-budget",
+   "mel-ecole-oral",
+   "mel-ecole-marianne",
+   "mel-ecole-hcfea"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "attal--ecole",
+  "sourcesRead": [
+   "att-ecole-certificat",
+   "att-ecole-passerelle",
+   "att-ecole-salaires",
+   "att-ecole-chantier",
+   "att-ecole-aout",
+   "af-roc",
+   "att-ecole-remplacements",
+   "att-ecole-singapour",
+   "att-ecole-groupes",
+   "att-ecole-bareme",
+   "att-ecole-discipline",
+   "att-ecole-formationia",
+   "att-ecole-tuteur",
+   "att-ecole-voltaire",
+   "dixi-oral",
+   "ecole-senat",
+   "att-ecole-cnesco",
+   "att-ecole-uniformetel",
+   "att-services"
+  ],
+  "sourcesUnreadable": [
+   "att-ecole-monde",
+   "att-ecole-abrogation",
+   "att-ecole-uniformedepp",
+   "att-ecole-uniformebudget"
+  ]
+ },
+ {
+  "cell": "glucksmann--ecole",
+  "sourcesRead": [
+   "gluck-dette-vert",
+   "gluck-imm-senat",
+   "gluck-ecole-inter",
+   "gluck-ecole-depp",
+   "gluck-projet",
+   "gluck-secu-matignon26",
+   "dixi-oral",
+   "gluck-ecole-rtl",
+   "gluck-ecole-vendee",
+   "gluck-ecole-cnesco"
+  ],
+  "sourcesUnreadable": [
+   "gluck-ecole-afp",
+   "gluck-ecole-monde",
+   "gluck-ecole-prive"
+  ]
+ },
+ {
+  "cell": "le-pen--ecole",
+  "sourcesRead": [
+   "ecole-senat",
+   "pen-droits-lcp",
+   "pen-fisc-restos",
+   "pen-ecole-diaz26",
+   "pen-ecole-archive22",
+   "pen-ecole-montclasses22",
+   "pen-ecole-montsal22",
+   "pen-ecole-franceuniv26"
+  ],
+  "sourcesUnreadable": [
+   "pen-ecole-afp26",
+   "pen-ecole-lelievre22"
+  ]
+ },
+ {
+  "cell": "lisnard--ecole",
+  "sourcesRead": [
+   "lis-ecole-autonomie",
+   "lis-ecole-cheque",
+   "lis-cult-civique",
+   "lis-ecole-faq",
+   "lis-ecole",
+   "pqv-lis-oral",
+   "lis-ecole-bfm",
+   "lis-fisc-dixi-csg",
+   "lis-ecole-destinee",
+   "lis-repartition",
+   "lis-ecole-contractuels",
+   "lis-ecole-manifeste"
+  ],
+  "sourcesUnreadable": [
+   "sectorisation"
+  ]
+ },
+ {
+  "cell": "philippe--ecole",
+  "sourcesRead": [
+   "phil-ecole",
+   "phil-ecole-qa",
+   "phil-ecole-lcp",
+   "phil-ia",
+   "phil-cult-oral",
+   "dixi-oral",
+   "phil-ter-ap18",
+   "phil-ecole-demo",
+   "phil-ecole-devin"
+  ],
+  "sourcesUnreadable": [
+   "phil-ecole-lecture"
+  ]
+ },
+ {
+  "cell": "retailleau--ecole",
+  "sourcesRead": [
+   "ret-eco-trans",
+   "ret-eco-auto",
+   "ret-eco-sal",
+   "dixi-oral",
+   "ret-eco-col",
+   "ret-eco-ps",
+   "ret-ter-ecoles",
+   "ret-eco-lycee",
+   "ret-ind-formation",
+   "ret-eco-intern",
+   "ret-eco-cnesco",
+   "ret-eco-merle",
+   "ret-eco-igen",
+   "ret-eco-cnews"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "roussel--ecole",
+  "sourcesRead": [
+   "rou-ecole-pqv",
+   "pcf-ecole",
+   "pcf-plan-jeunes",
+   "oral-senat",
+   "dixi-oral",
+   "rou-cult-pacte",
+   "rou-ecole-archive",
+   "pcf-discours",
+   "rou-ecole-aides",
+   "rou-ecole-paccaud"
+  ],
+  "sourcesUnreadable": [
+   "rou-ecole-oise",
+   "rou-ecole-viaud",
+   "rou-ecole-mas"
+  ]
+ },
+ {
+  "cell": "ruffin--ecole",
+  "sourcesRead": [
+   "ruff-ecole",
+   "pqv-ruff-secu",
+   "ruff-def-crayon",
+   "ruff-plan",
+   "mel-ecole-marianne",
+   "ruff-ecole-anbac25",
+   "ruff-ecole-amf",
+   "af-cdc-du"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "tondelier--ecole",
+  "sourcesRead": [
+   "ecole-senat",
+   "tond-ecole-profs",
+   "vert",
+   "pqv-tond-oral",
+   "mel-ecole-marianne",
+   "tond-ecole-primaire"
+  ],
+  "sourcesUnreadable": [
+   "tond-ecole-rentree",
+   "tond-enf-livret",
+   "tond-ecole-cour",
+   "tond-ecole-depp"
+  ]
+ },
+ {
+  "cell": "zemmour--ecole",
+  "sourcesRead": [
+   "zem-eu-dixi",
+   "zem-eu-edc",
+   "zem-ecole-edcdixi",
+   "zem-def-prog22",
+   "zem-ecole-montaigne22",
+   "zem-ecole-atterres22",
+   "zem-ecole-causeur22",
+   "zem-ecole-handicap22",
+   "zem-ecole-daj23 (via rapport Cour des comptes: vie-publique.fr/files/rapport/pdf/289657.pdf, 22 % et 23 % confirmés; 8 Md€ confirmé via diplomeo)"
+  ],
+  "sourcesUnreadable": [
+   "zem-ecole-exclusion26 (Légifrance, HTTP 403)",
+   "zem-ecole-daj23 (page economie.gouv.fr, HTTP 403, chiffres recoupés via le rapport)"
+  ]
+ },
+ {
+  "cell": "melenchon--enfance",
+  "sourcesRead": [
+   "mel-dette-budget",
+   "mel-sante-plan",
+   "mel-sante-autonomie",
+   "mel-sec-femmes",
+   "mel-ecole-programme",
+   "mel-sec-programme",
+   "mel-enf-saintdenis",
+   "mel-enf-maximi",
+   "mel-enf-senat"
+  ],
+  "sourcesUnreadable": [
+   "mel-enf-cour2020",
+   "mel-enf-ciivise-suivi",
+   "mel-enf-ciivise-suivi-page",
+   "mel-enf-ciivise-cout",
+   "mel-enf-ciivise-cout-page",
+   "mel-just-vssmonde"
+  ]
+ },
+ {
+  "cell": "attal--enfance",
+  "sourcesRead": [
+   "as-parquet",
+   "as-48h",
+   "ae-honorabilite",
+   "as-bfm",
+   "ae-figaro",
+   "ae-renseignement",
+   "as-fichiers",
+   "as-troismois",
+   "dixi-oral",
+   "ae-imprescriptibilite",
+   "as-perpetuite",
+   "ae-an2024",
+   "att-services",
+   "ae-senat2024",
+   "ae-ash",
+   "ae-rtl",
+   "ae-eji",
+   "ae-ce2025 (via conseil-etat.fr)",
+   "ae-decret (via recherche web, partiel)"
+  ],
+  "sourcesUnreadable": [
+   "ae-decret (Légifrance 403, vérifié seulement par sources secondaires)",
+   "ae-ce2025 (Légifrance 403, lu sur conseil-etat.fr)"
+  ]
+ },
+ {
+  "cell": "glucksmann--enfance",
+  "sourcesRead": [
+   "gluck-projet",
+   "gluck-fisc-pqv",
+   "gluck-enf-ps",
+   "rou-enf-departements",
+   "mel-enf-senat"
+  ],
+  "sourcesUnreadable": [
+   "rou-enf-personnels",
+   "mel-enf-cour2020"
+  ]
+ },
+ {
+  "cell": "le-pen--enfance",
+  "sourcesRead": [
+   "pen-enf-off",
+   "pen-enf-totem",
+   "pen-eu-cnews",
+   "pen-enf-archive",
+   "pen-sec-rtl",
+   "pen-enf-conf",
+   "pen-enf-ddd"
+  ],
+  "sourcesUnreadable": [
+   "pen-enf-monde"
+  ]
+ },
+ {
+  "cell": "lisnard--enfance",
+  "sourcesRead": [
+   "lis-enf-taverny",
+   "lis-enf-formation",
+   "lis-enf-baltz",
+   "lis-enf-sud",
+   "lis-enf-cd06",
+   "lis-enf-amf",
+   "mel-enf-senat",
+   "pqv-lis-oral",
+   "lis-oral"
+  ],
+  "sourcesUnreadable": [
+   "lis-enf-monde",
+   "lis-enf-ciivise"
+  ]
+ },
+ {
+  "cell": "philippe--enfance",
+  "sourcesRead": [
+   "phil-enf-programme",
+   "phil-enf-handicap",
+   "phil-enf-anacej"
+  ],
+  "sourcesUnreadable": [
+   "phil-enf-parisien",
+   "phil-enf-nomination",
+   "phil-enf-strategie",
+   "mel-enf-cour2020",
+   "phil-enf-monde",
+   "phil-enf-point"
+  ]
+ },
+ {
+  "cell": "retailleau--enfance",
+  "sourcesRead": [
+   "ret-enf-bfm",
+   "ret-enf-ps-experts",
+   "ret-enf-nomination",
+   "ret-enf-martin-juillet",
+   "ret-enf-martin-effectifs",
+   "ret-enf-martin-pegase",
+   "ret-enf-martin-parental",
+   "ret-enf-vendee",
+   "ret-droits-creches",
+   "mel-enf-senat",
+   "ret-enf-surligneurs"
+  ],
+  "sourcesUnreadable": [
+   "ret-enf-monde-prevention",
+   "lr-projet"
+  ]
+ },
+ {
+  "cell": "roussel--enfance",
+  "sourcesRead": [
+   "rou-enf-unifie",
+   "rou-enf-assises",
+   "pcf-discours",
+   "rou-inst-prog22",
+   "dixi-oral",
+   "rou-enf-departements",
+   "mel-enf-senat"
+  ],
+  "sourcesUnreadable": [
+   "rou-enf-personnels"
+  ]
+ },
+ {
+  "cell": "ruffin--enfance",
+  "sourcesRead": [
+   "ruff-enf-placement26",
+   "ruff-enf-11926",
+   "ruff-enf-jeunes26",
+   "ruff-jus-senat26",
+   "ruff-enf-parcours21",
+   "ruff-enf-an21",
+   "ruff-jus-rmc26",
+   "ruff-enf-dixi26",
+   "ruff-enf-bilan21",
+   "ruff-enf-eji26",
+   "ruff-jus-tf126"
+  ],
+  "sourcesUnreadable": [
+   "mel-enf-cour2020"
+  ]
+ },
+ {
+  "cell": "tondelier--enfance",
+  "sourcesRead": [
+   "tond-enf-afp",
+   "tond-droits-vss",
+   "pqv-tond-oral",
+   "tond-enf-majeurs",
+   "mel-enf-senat",
+   "tond-enf-prescription"
+  ],
+  "sourcesUnreadable": [
+   "tond-enf-livret",
+   "tond-enf-off",
+   "vert",
+   "vert-culture"
+  ]
+ },
+ {
+  "cell": "zemmour--enfance",
+  "sourcesRead": [
+   "zem-enf-cnews26",
+   "zem-enf-lettre22",
+   "zem-sec-priorites",
+   "zem-enf-fijais26",
+   "zem-def-prog22",
+   "zem-enf-lille22",
+   "zem-enf-vasque26",
+   "zem-enf-courmna20",
+   "zem-enf-cnape20",
+   "zem-enf-rosenczveig20",
+   "zem-enf-cese24"
+  ],
+  "sourcesUnreadable": [
+   "mel-enf-cour2020",
+   "zem-enf-monde20"
+  ]
+ },
+ {
+  "cell": "melenchon--sante",
+  "sourcesRead": [
+   "mel-sante-rmc2026",
+   "mel-dette-budget",
+   "mel-sante-dixipolis",
+   "mel-prix-besoins",
+   "mel-sante-plan",
+   "mel-sec-cannabis",
+   "mel-sante-autonomie",
+   "mel-sante-blog",
+   "mel-sante-senat",
+   "mel-sante-egora",
+   "mel-sante-tf1"
+  ],
+  "sourcesUnreadable": [
+   "mel-sante-parisien"
+  ]
+ },
+ {
+  "cell": "attal--sante",
+  "sourcesRead": [
+   "att-sante-blois",
+   "att-sante-assistant",
+   "att-sante-rtl2024",
+   "att-sante-politico",
+   "att-clim-droit",
+   "att-clim-etabl",
+   "att-clim-pfas",
+   "ad-secu",
+   "af-lettre",
+   "af-lci-pme",
+   "att-sante-has",
+   "att-sante-publicsenat"
+  ],
+  "sourcesUnreadable": [
+   "att-sante-psy2024",
+   "att-sante-mondeclim"
+  ]
+ },
+ {
+  "cell": "glucksmann--sante",
+  "sourcesRead": [
+   "gluck-sante-egora",
+   "dixi-oral",
+   "gluck-projet",
+   "gluck-sante-cour",
+   "gluck-sante-mental",
+   "gluck-sante-rtl25",
+   "gluck-sante-igf",
+   "gluck-sante-has"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "le-pen--sante",
+  "sourcesRead": [
+   "pen-eu-cnews",
+   "pen-sante-moselle26",
+   "pen-fin-prim",
+   "pen-eu-schengen",
+   "pen-fisc-rn",
+   "pen-droits-lcp",
+   "pen-sante-livret22",
+   "pen-sante-qdm22",
+   "pen-sante-publicsenat22",
+   "pen-sante-doctissimo22"
+  ],
+  "sourcesUnreadable": [
+   "pen-fin-monde"
+  ]
+ },
+ {
+  "cell": "lisnard--sante",
+  "sourcesRead": [
+   "lis-sante-concurrence",
+   "lis-sante-egoranov",
+   "lis-sante-egoramai",
+   "lis-sante-tribune",
+   "lis-sante-deserts",
+   "lis-sante-livret",
+   "lis-sante-ars",
+   "lis-fisc-dixi-csg",
+   "lis-sante-rauch",
+   "lis-sante-rmc",
+   "lis-sante-paysbas",
+   "lis-sante-figaro"
+  ],
+  "sourcesUnreadable": [
+   "lis-sante-mondedoyens",
+   "lis-sante-courprevention"
+  ]
+ },
+ {
+  "cell": "philippe--sante",
+  "sourcesRead": [
+   "phil-prix-travail",
+   "phil-fin",
+   "phil-sante-genr",
+   "phil-sante-install",
+   "phil-sante-csmf",
+   "phil-sante-egora",
+   "phil-sante-insee",
+   "phil-sante-cour"
+  ],
+  "sourcesUnreadable": [
+   "phil-sante-hpv"
+  ]
+ },
+ {
+  "cell": "retailleau--sante",
+  "sourcesRead": [
+   "gluck-sante-egora",
+   "ret-sec-services",
+   "dixi-oral",
+   "ret-sante-faq",
+   "ret-sante-senat27",
+   "zem-sante-sp26",
+   "zem-sante-ccss25",
+   "lr-fin",
+   "ret-sante-hcaam25",
+   "ret-sante-parisien22 (via archive.org)",
+   "lis-imm-acad"
+  ],
+  "sourcesUnreadable": [
+   "ret-sante-drees25"
+  ]
+ },
+ {
+  "cell": "roussel--sante",
+  "sourcesRead": [
+   "rou-sante-franchises",
+   "pcf-sante",
+   "rou-sante-conf3nov",
+   "rou-fisc-cahier",
+   "pcf-plan-jeunes",
+   "rou-prix-nov8",
+   "rou-sante-hcaam",
+   "rou-sante-gueniau",
+   "rou-sante-gueniau-bio",
+   "rou-sante-csmf",
+   "rou-sante-cfecgc",
+   "rou-sante-qd22"
+  ],
+  "sourcesUnreadable": [
+   "rou-sante-monde"
+  ]
+ },
+ {
+  "cell": "ruffin--sante",
+  "sourcesRead": [
+   "ruff-industrie",
+   "pqv-ruff-secu",
+   "ruff-ecole",
+   "ruff-sant-dixi",
+   "ruff-imm",
+   "ruff-plan",
+   "ruff-sant-contre",
+   "ruff-sant-pharma",
+   "ruff-sant-prev",
+   "ruff-sant-egora"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "tondelier--sante",
+  "sourcesRead": [
+   "tond-sante-concours",
+   "pqv-tond-oral",
+   "tond-sante-env",
+   "tond-sante-egora",
+   "tond-fisc-budget",
+   "tond-sante-cades",
+   "mel-sante-egora"
+  ],
+  "sourcesUnreadable": [
+   "vert",
+   "vert-sante",
+   "tond-sante-dpia"
+  ]
+ },
+ {
+  "cell": "zemmour--sante",
+  "sourcesRead": [
+   "zem",
+   "zem-sante-pqv",
+   "dixi-oral",
+   "gluck-sante-egora",
+   "zem-sante-tract25",
+   "zem-sante-indextract",
+   "zem-sante-sp26",
+   "zem-sante-ccss25",
+   "zem-sante-mont22",
+   "zem-sante-fhf25",
+   "zem-sante-egoraame23"
+  ],
+  "sourcesUnreadable": [
+   "zem-sante-monderet24"
+  ]
+ },
+ {
+  "cell": "melenchon--logement",
+  "sourcesRead": [
+   "mel-ind-btp",
+   "mel-log-programme",
+   "mel-log-agence",
+   "mel-log-ecologie",
+   "mel-dette-budget",
+   "mel-dette-banque",
+   "mel-log-cour",
+   "mel-log-loyers",
+   "mel-log-knafo",
+   "mel-log-blog",
+   "mel-prix-debat"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "attal--logement",
+  "sourcesRead": [
+   "att-services",
+   "ap-restos",
+   "att-log-visale",
+   "att-log-sud",
+   "att-log-jda",
+   "att-log-seloger",
+   "att-inst-recours",
+   "dixi-restos",
+   "att-sante-blois",
+   "att-log-batimat",
+   "att-log-genie",
+   "att-log-batinfo",
+   "phil-log-apur"
+  ],
+  "sourcesUnreadable": [
+   "att-log-visalemonde",
+   "att-log-ademe"
+  ]
+ },
+ {
+  "cell": "glucksmann--logement",
+  "sourcesRead": [
+   "dixi-restos",
+   "gluck-climat",
+   "gluck-log-afp",
+   "mel-log-cour",
+   "phil-log-apur",
+   "gluck-log-sapiens",
+   "gluck-log-brs"
+  ],
+  "sourcesUnreadable": [
+   "gluck-projet",
+   "phil-log-bercy"
+  ]
+ },
+ {
+  "cell": "le-pen--logement",
+  "sourcesRead": [
+   "pen-droits-lcp",
+   "pen-log-jda",
+   "pen-log-discours",
+   "pen-trav-conf17",
+   "pen-log-lcpcrit",
+   "pen-log-lcidebat",
+   "pen-log-renov25",
+   "pen-log-renovdebat25"
+  ],
+  "sourcesUnreadable": [
+   "pen-log-lettre",
+   "pen-log-srumonde",
+   "pen-log-pap26"
+  ]
+ },
+ {
+  "cell": "lisnard--logement",
+  "sourcesRead": [
+   "lis-log-seloger26",
+   "lis-fisc-industrie",
+   "lis-log-entretien25",
+   "lis-trav-livre",
+   "lis-logement-presse",
+   "lis-log-rmc25",
+   "lis-fisc-trib",
+   "lis-log-amf26",
+   "lis-log-ffb25",
+   "lis-log-cannes25",
+   "lis-fin",
+   "lis-repartition",
+   "lis-log-cour25",
+   "lis-log-an-expuls25"
+  ],
+  "sourcesUnreadable": [
+   "lis-fisc-figaro",
+   "pen-log-srumonde"
+  ]
+ },
+ {
+  "cell": "philippe--logement",
+  "sourcesRead": [
+   "phil-log-afp",
+   "phil-rtl",
+   "phil-fisc-famille",
+   "phil-log-fnaim",
+   "log-montaigne-dmto24",
+   "log-montaigne-reperes26",
+   "phil-log-apur",
+   "mel-log-cour"
+  ],
+  "sourcesUnreadable": [
+   "phil-log-frais",
+   "phil-log-bercy",
+   "phil-log-localtis"
+  ]
+ },
+ {
+  "cell": "retailleau--logement",
+  "sourcesRead": [
+   "ret-log-livret",
+   "ret-log-urbanisme",
+   "ret-log-bureaux",
+   "ret-clim-normes",
+   "ret-ter-zan",
+   "ret-ter-communes",
+   "ret-log-ptz",
+   "ret-log-interets",
+   "ret-fisc-dons",
+   "ret-log-bailleur",
+   "ret-log-daubresse",
+   "ret-log-expulsions",
+   "ret-log-attributions",
+   "ret-log-financement",
+   "mel-log-cour",
+   "ret-log-uniopss",
+   "dixi-restos",
+   "ret-log-srumonde (extrait partiel via archive : Domergue)"
+  ],
+  "sourcesUnreadable": [
+   "ret-ter-pap (403)",
+   "ret-clim-dpecrit (paywall)",
+   "ret-log-srumonde (paywall, propos de Cosse non lisibles)",
+   "ret-log-sru",
+   "ret-log-vente",
+   "ret-clim-dpe",
+   "ret-log-loyers",
+   "lr-logement (non récupérées, mais contenu couvert par le livret)"
+  ]
+ },
+ {
+  "cell": "roussel--logement",
+  "sourcesRead": [
+   "rou-log-sru",
+   "pcf-logement",
+   "rou-log-franceinfo",
+   "rou-log-seloger",
+   "rou-log-cahier",
+   "rou-ret-toulouse",
+   "pcf-discours",
+   "rou-dette-dechif",
+   "tond-log-fnaim",
+   "rou-clim-rac22"
+  ],
+  "sourcesUnreadable": [
+   "rou-log-perspectives"
+  ]
+ },
+ {
+  "cell": "ruffin--logement",
+  "sourcesRead": [
+   "ruff-log-pqv",
+   "ruff-logement",
+   "ruff-enf-jeunes26",
+   "ruff-trans-eco",
+   "ruff-plan",
+   "tond-log-fnaim",
+   "phil-log-apur",
+   "mel-log-cour",
+   "ruff-log-cpo"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "tondelier--logement",
+  "sourcesRead": [
+   "tond-log-afp-avril",
+   "tond-log-afp-controle",
+   "tond-log-tourisme-droit",
+   "tond-log-fnaim",
+   "tond-fisc-budget",
+   "mel-log-cour",
+   "tond-log-rtl",
+   "tond-prix-bfm"
+  ],
+  "sourcesUnreadable": [
+   "tond-prix-bouclier-pdf",
+   "vert",
+   "tond-log-littoral",
+   "tond-enf-livret",
+   "tond-log-mpr-monde"
+  ]
+ },
+ {
+  "cell": "zemmour--logement",
+  "sourcesRead": [
+   "zem",
+   "zem-def-prog22",
+   "zem-log-montsru22",
+   "zem-log-montachat22",
+   "zem-log-robert22",
+   "zem-fisc-pqv",
+   "zem-eu-dixi",
+   "zem-log-dalo26"
+  ],
+  "sourcesUnreadable": [
+   "zem-log-jdd26",
+   "zem-log-parisien22",
+   "fabius-pref"
+  ]
+ },
+ {
+  "cell": "melenchon--services",
+  "sourcesRead": [
+   "mel-prix-richesses",
+   "mel-dette-budget",
+   "mel-serv-indice",
+   "mel-serv-institutions",
+   "mel-serv-numerique",
+   "mel-ecole-oral",
+   "mel-serv-cour",
+   "mel-prix-besoins",
+   "mel-ecole-programme",
+   "mel-ecole-esr",
+   "mel-log-programme",
+   "mel-ter-rural"
+  ],
+  "sourcesUnreadable": [
+   "mel-serv-monde"
+  ]
+ },
+ {
+  "cell": "attal--services",
+  "sourcesRead": [
+   "att-effectifs",
+   "att-inst-nominations",
+   "att-services",
+   "dixi-oral",
+   "att-ter-bigbang",
+   "att-inst-deuxmois",
+   "att-inst-recours",
+   "att-eu-lenglet",
+   "aj-recrutement",
+   "att-serv-fs24",
+   "att-crit",
+   "att-ia",
+   "att-num-crit-albert",
+   "lis-serv-ddd-acces",
+   "att-inst-rtl"
+  ],
+  "sourcesUnreadable": [
+   "tond-ter-fs",
+   "att-num-albert2024",
+   "att-inst-maires"
+  ]
+ },
+ {
+  "cell": "glucksmann--services",
+  "sourcesRead": [
+   "dixi-oral",
+   "gluck-serv-ps29",
+   "oral-senat",
+   "gluck-climat",
+   "gluck-chiffres",
+   "gluck-inst-conf25",
+   "gluck-ter-ddd",
+   "zem-serv-couria"
+  ],
+  "sourcesUnreadable": [
+   "gluck-projet",
+   "tond-ter-fs",
+   "phil-serv-sens26",
+   "gluck-serv-monde-fs24"
+  ]
+ },
+ {
+  "cell": "le-pen--services",
+  "sourcesRead": [
+   "pen-fisc-conf",
+   "pen-eu-cnews",
+   "pen-ter-acteurs",
+   "pen-fin-prim",
+   "pen-fisc-rn",
+   "pen-num-2022",
+   "pen-serv-senat26",
+   "pen-serv-hospitalia25",
+   "dixi-restos",
+   "pen-en-vert26"
+  ],
+  "sourcesUnreadable": [
+   "pen-fin-monde"
+  ]
+ },
+ {
+  "cell": "lisnard--services",
+  "sourcesRead": [
+   "lis-serv-statut",
+   "lis-eu-projet",
+   "lis-fisc-dixi-csg",
+   "lis-cult-prive",
+   "lis-oral",
+   "lis-serv-normes",
+   "lis-ia",
+   "lis-eco",
+   "lis-serv-effectifs",
+   "lis-serv-lavarde",
+   "pqv-lis-oral",
+   "lis-num-nvo26",
+   "lis-serv-ddd26",
+   "lis-serv-ddd-acces"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "philippe--services",
+  "sourcesRead": [
+   "phil-fin",
+   "phil-ter-ap18",
+   "phil-cult-dixi",
+   "phil-ia",
+   "mel-serv-cour",
+   "phil-serv-fo26"
+  ],
+  "sourcesUnreadable": [
+   "oral-effectifs",
+   "phil-serv-sens26"
+  ]
+ },
+ {
+  "cell": "retailleau--services",
+  "sourcesRead": [
+   "lr-fin",
+   "ret-dette-etat",
+   "ret-cult-perimetre",
+   "ret-serv-medef",
+   "ret-ter-acteurspublics",
+   "lr-fin-senat",
+   "dixi-oral",
+   "ret-num-etat",
+   "ret-num-marianne",
+   "lis-serv-lavarde",
+   "ret-serv-lenoir"
+  ],
+  "sourcesUnreadable": [
+   "ret-ter-monde-fp",
+   "oral-effectifs"
+  ]
+ },
+ {
+  "cell": "roussel--services",
+  "sourcesRead": [
+   "rou-serv-entrevue",
+   "rou-serv-pcf16",
+   "pcf-discours",
+   "pcf-tract-sp",
+   "dixi-oral",
+   "oral-senat",
+   "rou-ret-toulouse",
+   "rou-serv-pcfbudget",
+   "tond-serv-contractuels",
+   "rou-dette-bce",
+   "rou-serv-indice"
+  ],
+  "sourcesUnreadable": [
+   "rou-serv-afp",
+   "tond-ter-fs"
+  ]
+ },
+ {
+  "cell": "ruffin--services",
+  "sourcesRead": [
+   "ruff-numerique",
+   "ruff-probite",
+   "pqv-ruff-secu",
+   "ruff-serv-caf26",
+   "ruff-statut",
+   "ruff-plan",
+   "ruff-serv-tresor26",
+   "ruff-dette-publicsenat",
+   "ruff-fisc-dixi",
+   "ruff-terr-senat25"
+  ],
+  "sourcesUnreadable": [
+   "ruff-serv-monde25"
+  ]
+ },
+ {
+  "cell": "tondelier--services",
+  "sourcesRead": [
+   "tond-serv-aa",
+   "pqv-tond-oral",
+   "oral-senat",
+   "tond-fisc-budget",
+   "tond-serv-contractuels",
+   "gluck-ter-ddd"
+  ],
+  "sourcesUnreadable": [
+   "vert",
+   "tond-ter-fs"
+  ]
+ },
+ {
+  "cell": "zemmour--services",
+  "sourcesRead": [
+   "dixi-oral",
+   "zem-serv-tf1ess",
+   "zem-fisc-bfm",
+   "zem-sec-priorites",
+   "zem-serv-pqv12",
+   "zem-fisc-jdd (via archive web.archive.org)",
+   "knafo",
+   "zem-ter-acteurs22",
+   "zem-dette-qde",
+   "zem-serv-couria"
+  ],
+  "sourcesUnreadable": [
+   "oral-effectifs (Le Monde, paywall 402 : attributions Ruiz/Scordia non vérifiées)"
+  ]
+ },
+ {
+  "cell": "melenchon--immigration",
+  "sourcesRead": [
+   "mel-def-cooperations",
+   "mel-imm-servicepublic",
+   "mel-sec-discriminations",
+   "mel-ecole-programme",
+   "mel-imm-20minutes2025",
+   "mel-imm-budgetblog2026",
+   "mel-imm-tf1trans2026",
+   "mel-imm-afpmayotte2026",
+   "mel-imm-lomayotte2026",
+   "mel-imm-anretention2026",
+   "mel-dette-budget"
+  ],
+  "sourcesUnreadable": [
+   "mel-imm-bfm2023",
+   "mel-imm-pacte"
+  ]
+ },
+ {
+  "cell": "attal--immigration",
+  "sourcesRead": [
+   "att-imm-quotas",
+   "att-points",
+   "att-imm-front",
+   "att-imm-famille",
+   "af-roc",
+   "dixi-restos",
+   "att-imm-ftda"
+  ],
+  "sourcesUnreadable": [
+   "att-imm-loi24",
+   "att-imm-slama",
+   "lis-imm-cour24"
+  ]
+ },
+ {
+  "cell": "glucksmann--immigration",
+  "sourcesRead": [
+   "gluck-imm-rtl26",
+   "gluck-imm-ppl26",
+   "gluck-imm-jury",
+   "gluck-imm-senat",
+   "gluck-imm-rodwell26",
+   "pqv-ruff-secu",
+   "gluck-imm-rapport26"
+  ],
+  "sourcesUnreadable": [
+   "gluck-imm-parisien26",
+   "gluck-projet",
+   "gluck-acte-page",
+   "lis-imm-cour24",
+   "gluck-imm-ammr-corr"
+  ]
+ },
+ {
+  "cell": "le-pen--immigration",
+  "sourcesRead": [
+   "pen-eu-cnews",
+   "pen-fisc-restos",
+   "pen-droits-lcp-binational",
+   "pen-inst-an2024",
+   "pen-droits-lcp",
+   "pen-eu-schengen-lci",
+   "pen-fisc-rn",
+   "pen-imm-publicsenat",
+   "pen-fin-prim",
+   "pen-imm-cc2024"
+  ],
+  "sourcesUnreadable": [
+   "pen-imm-monde-taxe",
+   "pen-imm-cedh2026"
+  ]
+ },
+ {
+  "cell": "lisnard--immigration",
+  "sourcesRead": [
+   "pqv-lis-oral",
+   "lis-imm-faq",
+   "lis-imm-tf124",
+   "lis-imm",
+   "lis-imm-jdd26",
+   "lis-imm-ref",
+   "lis-imm-delit",
+   "lis-imm-ame",
+   "lis-imm-acad"
+  ],
+  "sourcesUnreadable": [
+   "lis-imm-cour24",
+   "ined-famille",
+   "lis-imm-cjue11",
+   "lis-imm-emploi26"
+  ]
+ },
+ {
+  "cell": "philippe--immigration",
+  "sourcesRead": [
+   "phil-imm-lcp26",
+   "phil-imm",
+   "phil-imm-aa26",
+   "phil-imm-pm19"
+  ],
+  "sourcesUnreadable": [
+   "phil-imm-par26",
+   "phil-imm-mondeined",
+   "imm-centre",
+   "phil-imm-algercrit24",
+   "lis-imm-cour24"
+  ]
+ },
+ {
+  "cell": "retailleau--immigration",
+  "sourcesRead": [
+   "ret-imm-trav",
+   "ret-imm-nationalite",
+   "ret-sante-faq",
+   "ret-imm-aides",
+   "ret-imm-livret",
+   "ret-sec-services",
+   "ret-imm-etudes",
+   "ret-imm-asile",
+   "ret-imm-taxes",
+   "ret-imm-famille",
+   "ret-imm-eloign",
+   "ret-imm-retour",
+   "ret-imm-diplomatie",
+   "ret-eu-ps",
+   "ret-imm-chojnicki",
+   "ret-imm-campus",
+   "ret-imm-stefanini",
+   "ret-eu-bfm"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "roussel--immigration",
+  "sourcesRead": [
+   "rou-inst-lci",
+   "rou-imm-ps22",
+   "pcf-fete",
+   "mel-imm-servicepublic",
+   "rou-fisc-pqvlux",
+   "rou-inst-prog22",
+   "rou-imm-sen26",
+   "rou-imm-regards23"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "ruffin--immigration",
+  "sourcesRead": [
+   "pqv-ruff-imm-inter26",
+   "ruff-imm-accueil26",
+   "ruff-imm",
+   "pqv-ruff-imm-juin26",
+   "ruff-imm-gaspard26",
+   "ruff-imm-oqtf23",
+   "ruff-plan",
+   "ruff-imm-publicsenat26"
+  ],
+  "sourcesUnreadable": [
+   "ruff-imm-hautcoeur26",
+   "ruff-imm-medef25"
+  ]
+ },
+ {
+  "cell": "tondelier--immigration",
+  "sourcesRead": [
+   "tond-droits-priorites",
+   "vert",
+   "tond-en-sudradio",
+   "tond-eu-pqv",
+   "tond-imm-senat26",
+   "ruff-imm",
+   "tond-imm-bv",
+   "tond-imm-ret"
+  ],
+  "sourcesUnreadable": [
+   "mel-imm-pacte",
+   "lis-imm-cour24",
+   "tond-imm-inedmonde"
+  ]
+ },
+ {
+  "cell": "zemmour--immigration",
+  "sourcesRead": [
+   "zem-fisc-tf1",
+   "zem-fisc-bfm",
+   "zem",
+   "zem-sec-priorites",
+   "dixi-oral",
+   "zem-imm-prog22",
+   "zem-imm-montaigne",
+   "zem-imm-verif"
+  ],
+  "sourcesUnreadable": [
+   "zem-fisc-jdd",
+   "zem-imm-monde1945",
+   "lis-imm-cour24"
+  ]
+ },
+ {
+  "cell": "melenchon--securite",
+  "sourcesRead": [
+   "mel-sec-lcp2027",
+   "mel-sante-plan",
+   "mel-dette-budget",
+   "mel-sec-pqv2022",
+   "mel-sec-programme",
+   "mel-sec-politis2022",
+   "mel-sec-femmes",
+   "mel-sec-plan2024",
+   "mel-sec-rtl2022",
+   "mel-sec-senat2024",
+   "mel-sec-afp2026",
+   "mel-sec-discriminations",
+   "mel-sec-cannabis"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "attal--securite",
+  "sourcesRead": [
+   "as-cnews",
+   "as-parquet",
+   "as-48h",
+   "as-equipe",
+   "att-services",
+   "as-comparution",
+   "as-reparer",
+   "as-viry",
+   "as-fichiers",
+   "as-bfm",
+   "as-troismois",
+   "dixi-oral",
+   "as-perpetuite",
+   "as-occupation",
+   "as-maintien",
+   "as-lcp",
+   "as-rtl",
+   "as-ordre"
+  ],
+  "sourcesUnreadable": [
+   "as-conseil",
+   "as-unicef",
+   "as-parisien-ordre",
+   "as-monde-ordre",
+   "repere-jap"
+  ]
+ },
+ {
+  "cell": "glucksmann--securite",
+  "sourcesRead": [
+   "gluck-ter-amf",
+   "gluck-secu-bfm25",
+   "gluck-secu-lcp26",
+   "dixi-oral",
+   "gluck-secu-rtl26",
+   "gluck-secu-matignon26",
+   "gluck-secu-cour",
+   "gluck-projet (via téléchargement direct du PDF Acte I, pages imprimées 59-61)"
+  ],
+  "sourcesUnreadable": [
+   "gluck-secu-gg26",
+   "gluck-secu-obs26"
+  ]
+ },
+ {
+  "cell": "le-pen--securite",
+  "sourcesRead": [
+   "pen-sec-ppl",
+   "pen-sec-livret",
+   "pen-sec-montaigne",
+   "pen-sec-ipp",
+   "pen-sec-lcp",
+   "pen-sec-rtl",
+   "pen-sec-orleans",
+   "pen-fin-prim",
+   "pen-sec-tf1voile",
+   "pen-eu-schengen",
+   "pen-droits-lcp",
+   "pen-jus-lci",
+   "pen-jus-poly",
+   "pen-sec-basta",
+   "pen-sec-an",
+   "repere-amenagements"
+  ],
+  "sourcesUnreadable": [
+   "pen-sec-euronews",
+   "pen-eu-schengen-lci"
+  ]
+ },
+ {
+  "cell": "lisnard--securite",
+  "sourcesRead": [
+   "lis-sec-prison",
+   "lis-sec-parents",
+   "lis-sec-moyens",
+   "lis-sec-ici",
+   "lis-secu",
+   "lis-sec-narco",
+   "lis-sec-municipale",
+   "lis-sec-point",
+   "lis-sec-peines",
+   "as-conseil (via conseil-constitutionnel.fr, décision 2025-886 DC et communiqué)",
+   "zem-sec-ipppdf",
+   "pqv-lis-oral",
+   "lis-sec-cannesactus"
+  ],
+  "sourcesUnreadable": [
+   "lis-sec-cnil (Légifrance 403 et pages CNIL introuvables : rien affirmé sur L2335/L2336 concernant l’avis du 12 mars 2026)"
+  ]
+ },
+ {
+  "cell": "philippe--securite",
+  "sourcesRead": [
+   "phil-secu",
+   "phil-sec-justice",
+   "phil-sec-cav",
+   "phil-cult-dixi",
+   "phil-sec-narco",
+   "prison-ccomptes",
+   "pen-sec-ipp",
+   "ret-sec-amenagement",
+   "phil-sec-surl"
+  ],
+  "sourcesUnreadable": [
+   "phil-sec-jdd",
+   "repere-jap"
+  ]
+ },
+ {
+  "cell": "retailleau--securite",
+  "sourcesRead": [
+   "ret-sec-europe1",
+   "ret-eu-ps",
+   "ret-sec-droit",
+   "ret-sec-services",
+   "lr-fin",
+   "pen-sec-ipp",
+   "ret-sec-amenagement"
+  ],
+  "sourcesUnreadable": [
+   "ret-sec-nanterre",
+   "ret-sec-facial",
+   "ret-sec-lequesne",
+   "repere-jap"
+  ]
+ },
+ {
+  "cell": "roussel--securite",
+  "sourcesRead": [
+   "rou-inst-lci",
+   "dixi-oral",
+   "rou-sec-collectif25",
+   "pcf-discours",
+   "pcf-feu",
+   "rou-sec-bfm16"
+  ],
+  "sourcesUnreadable": [
+   "rou-sec-couvrefeu"
+  ]
+ },
+ {
+  "cell": "ruffin--securite",
+  "sourcesRead": [
+   "ruff-secu-frinfo",
+   "ruff-def-lci",
+   "pqv-ruff-secu",
+   "ruff-secu-cdc",
+   "ruff-secu-ddd",
+   "ruff-secu-tig",
+   "ruff-plan",
+   "ruff-programme"
+  ],
+  "sourcesUnreadable": [
+   "ruff-secu-rmc (happyscribe 403 Cloudflare ; le passage a seulement été recoupé via la transcription Dixipolis https://dixipolis.com/video/225948, qui ne permet pas de vérifier le rôle d'Antoine Diers ni qui prononce l'objection sur les 47 millions)"
+  ]
+ },
+ {
+  "cell": "tondelier--securite",
+  "sourcesRead": [
+   "tond-sec-dijon",
+   "tond-sec-preface",
+   "tond-prix-bfm",
+   "vert (copie locale /tmp/pqv-docs/vert-miroir.txt)",
+   "tond-sec-audition",
+   "tond-sec-lyhanna",
+   "pqv-tond-oral",
+   "tond-sec-21news"
+  ],
+  "sourcesUnreadable": [
+   "tond-sec-ordre (Le Monde, paywall 402)",
+   "tond-sec-gaz (Le Monde, paywall 402)",
+   "vert-feu (403)",
+   "tond-sec-portugal (non ouvert)"
+  ]
+ },
+ {
+  "cell": "zemmour--securite",
+  "sourcesRead": [
+   "zem-sec-priorites",
+   "dixi-oral",
+   "zem-fisc-bfm",
+   "prison-ccomptes",
+   "zem-sec-courpdf",
+   "pen-sec-ipp",
+   "zem-sec-ipppdf",
+   "ret-sec-amenagement",
+   "zem-sec-mineurs",
+   "zem-eu-dixi"
+  ],
+  "sourcesUnreadable": [
+   "repere-jap",
+   "zem"
+  ]
+ },
+ {
+  "cell": "melenchon--justice",
+  "sourcesRead": [
+   "mel-dette-budget",
+   "mel-sec-programme",
+   "mel-sante-autonomie",
+   "mel-sec-femmes",
+   "mel-just-greffiers",
+   "mel-just-prisondebat",
+   "mel-just-cours"
+  ],
+  "sourcesUnreadable": [
+   "mel-just-vssmonde",
+   "mel-just-cjip"
+  ]
+ },
+ {
+  "cell": "attal--justice",
+  "sourcesRead": [
+   "aj-recrutement",
+   "as-troismois",
+   "as-48h",
+   "ae-imprescriptibilite",
+   "as-parquet",
+   "ae-renseignement",
+   "as-fichiers",
+   "ae-honorabilite",
+   "as-comparution",
+   "att-num-justice",
+   "as-bfm",
+   "att-services",
+   "ae-figaro",
+   "att-inst-jddcamp",
+   "dixi-oral",
+   "att-eu-lenglet",
+   "att-clim-lci",
+   "zem-sec-mineurs",
+   "ae-rtl"
+  ],
+  "sourcesUnreadable": [
+   "aj-monde2025",
+   "aj-gazette2026",
+   "aj-decret2024",
+   "as-conseil",
+   "aj-circulaire2022",
+   "repere-procedure-penale"
+  ]
+ },
+ {
+  "cell": "glucksmann--justice",
+  "sourcesRead": [
+   "gluck-projet",
+   "gluck-secu-bfm25",
+   "dixi-oral",
+   "gluck-fisc-pqv",
+   "gluck-jus-ps",
+   "gluck-eu-frinfo",
+   "gluck-jus-scpo",
+   "gluck-jus-cglpl",
+   "gluck-jus-senat"
+  ],
+  "sourcesUnreadable": [
+   "gluck-jus-acces",
+   "gluck-jus-rest"
+  ]
+ },
+ {
+  "cell": "le-pen--justice",
+  "sourcesRead": [
+   "pen-jus-lci",
+   "pen-sec-ppl",
+   "pen-fisc-rn",
+   "pen-sec-orleans",
+   "pen-jus-poly",
+   "pen-droits-lcp",
+   "pen-sec-livret",
+   "pen-jus-anbudget",
+   "pen-jus-csm",
+   "pen-sec-ipp"
+  ],
+  "sourcesUnreadable": [
+   "pen-jus-salas",
+   "repere-amenagements"
+  ]
+ },
+ {
+  "cell": "lisnard--justice",
+  "sourcesRead": [
+   "lis-secu",
+   "lis-sec-prison",
+   "lis-jus-magistrats",
+   "lis-sec-peines",
+   "lis-jus-rapide",
+   "lis-repartition",
+   "pqv-lis-oral",
+   "lis-jus-sud25",
+   "pen-sec-ipp",
+   "ret-sec-amenagement",
+   "zem-sec-mineurs",
+   "prison-ccomptes"
+  ],
+  "sourcesUnreadable": [
+   "aj-circulaire2022",
+   "lis-jus-cncdh"
+  ]
+ },
+ {
+  "cell": "philippe--justice",
+  "sourcesRead": [
+   "phil-sec-justice",
+   "phil-cult-dixi",
+   "phil-secu",
+   "phil-jus-marseille",
+   "phil-fin",
+   "zem-sec-courpdf",
+   "phil-jus-cncdh",
+   "as-conseil",
+   "phil-jus-infostat",
+   "gluck-jus-cglpl"
+  ],
+  "sourcesUnreadable": [
+   "phil-sec-surl (article payant, seule l'introduction est lisible : auteur, date, thèse constitutionnelle/traités et critique de l'analogie militaire confirmées, le reste non vérifié)"
+  ]
+ },
+ {
+  "cell": "retailleau--justice",
+  "sourcesRead": [
+   "ret-sec-droit",
+   "ret-jus-cour",
+   "lr-projet",
+   "ret-sec-services",
+   "dixi-oral",
+   "ret-inst-ref",
+   "lr-fin",
+   "lr-fin-senat",
+   "pen-sec-ipp",
+   "prison-ccomptes",
+   "ret-jus-ddd"
+  ],
+  "sourcesUnreadable": [
+   "ret-jus-rtl",
+   "ret-jus-amenag",
+   "repere-amenagements",
+   "ret-jus-pnaco"
+  ]
+ },
+ {
+  "cell": "roussel--justice",
+  "sourcesRead": [
+   "pcf-discours",
+   "rou-jus-bfm25",
+   "rou-jus-lcp26",
+   "dixi-oral",
+   "pcf-tract-sp",
+   "rou-inst-prog22",
+   "rou-jus-senat26",
+   "pcf-fete",
+   "rou-jus-tribune25"
+  ],
+  "sourcesUnreadable": [
+   "rou-jus-huma22",
+   "rou-jus-reprise22",
+   "rou-jus-cjip",
+   "rou-jus-pnf26",
+   "repere-jap"
+  ]
+ },
+ {
+  "cell": "ruffin--justice",
+  "sourcesRead": [
+   "ruff-probite",
+   "ruff-secu-frinfo",
+   "ruff-jus-senat26",
+   "ruff-jus-rmc26",
+   "ruff-jus-tif26",
+   "ruff-jus-tigsp",
+   "ruff-secu-tig",
+   "ruff-jus-tf126"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "tondelier--justice",
+  "sourcesRead": [
+   "pqv-tond-oral",
+   "tond-jus-dixi",
+   "tond-ret-frinfo",
+   "tond-jus-rtl",
+   "vert",
+   "rou-jus-senat26"
+  ],
+  "sourcesUnreadable": [
+   "tond-jus-recrut",
+   "mel-just-cjip",
+   "tond-jus-regulation",
+   "gluck-jus-acces",
+   "gluck-jus-rest",
+   "rou-jus-cjip"
+  ]
+ },
+ {
+  "cell": "zemmour--justice",
+  "sourcesRead": [
+   "zem-sec-priorites",
+   "dixi-oral",
+   "zem-fisc-bfm",
+   "zem-def-prog22",
+   "zem-jus-montprison22",
+   "zem-jus-montpersonnel22",
+   "prison-ccomptes",
+   "zem-sec-ipppdf",
+   "zem-sec-mineurs",
+   "zem-jus-surlperpet22",
+   "zem-jus-cedhbodein"
+  ],
+  "sourcesUnreadable": [
+   "zem-jus-monde25"
+  ]
+ },
+ {
+  "cell": "melenchon--institutions",
+  "sourcesRead": [
+   "mel-inst-tf1verif",
+   "mel-sec-lcp2027",
+   "mel-serv-institutions",
+   "mel-sec-programme",
+   "mel-dette-budget",
+   "mel-inst-publicsenat2026",
+   "mel-inst-an2019",
+   "mel-inst-ric2019",
+   "mel-inst-aoc2023",
+   "mel-inst-reporterre2026",
+   "mel-inst-express2026",
+   "mel-inst-bourget-dixi",
+   "mel-def-bourget"
+  ],
+  "sourcesUnreadable": [
+   "mel-inst-jdd2026"
+  ]
+ },
+ {
+  "cell": "attal--institutions",
+  "sourcesRead": [
+   "att-inst-annuel",
+   "att-inst-local",
+   "att-inst-maires",
+   "att-inst-nominations",
+   "att-inst-deuxmois",
+   "att-inst-recours",
+   "af-lci-pme",
+   "att-jeunesse",
+   "att-inst-pacte",
+   "att-inst-marianne",
+   "att-inst-rtl",
+   "att-inst-jddcamp"
+  ],
+  "sourcesUnreadable": [
+   "att-inst-jdd",
+   "att-inst-monderef",
+   "gluck-inst-revision"
+  ]
+ },
+ {
+  "cell": "glucksmann--institutions",
+  "sourcesRead": [
+   "gluck-prix-bfm",
+   "gluck-inst-conf25",
+   "gluck-inst-afp25",
+   "gluck-projet",
+   "gluck-ter-amf",
+   "gluck-climat",
+   "gluck-inst-revision",
+   "rou-inst-fondapol"
+  ],
+  "sourcesUnreadable": [
+   "gluck-inst-blondiaux",
+   "gluck-inst-cage"
+  ]
+ },
+ {
+  "cell": "le-pen--institutions",
+  "sourcesRead": [
+   "pen-sec-orleans",
+   "pen-eu-schengen",
+   "gluck-inst-revision",
+   "pen-inst-an2024",
+   "pen-fin-prim",
+   "pen-dette-publicsenat",
+   "pen-fisc-rn",
+   "mel-inst-publicsenat2026",
+   "pen-eu-cnews",
+   "pen-inst-surligneurs",
+   "lis-inst-regle",
+   "pen-inst-profession22"
+  ],
+  "sourcesUnreadable": [
+   "pen-inst-mathieu"
+  ]
+ },
+ {
+  "cell": "lisnard--institutions",
+  "sourcesRead": [
+   "lis-eu-bayeux",
+   "lis-eu-projet",
+   "lis-cult-civique",
+   "lis-dette-faq",
+   "gluck-inst-revision",
+   "lis-inst-feldman",
+   "pqv-lis-oral",
+   "lis-inst-regle"
+  ],
+  "sourcesUnreadable": [
+   "lis-inst-bfm",
+   "lis-inst-jdd",
+   "lis-inst-cncdh"
+  ]
+ },
+ {
+  "cell": "philippe--institutions",
+  "sourcesRead": [
+   "phil-fin",
+   "phil-inst-rtl",
+   "phil-inst-lille",
+   "phil-inst-constitution",
+   "phil-cult-dixi",
+   "phil-inst-bfm",
+   "phil-inst-senat-ord",
+   "phil-inst-dette-audition"
+  ],
+  "sourcesUnreadable": [
+   "phil-inst-proport",
+   "phil-inst-francois"
+  ]
+ },
+ {
+  "cell": "retailleau--institutions",
+  "sourcesRead": [
+   "ret-sec-fig",
+   "ret-inst-ref",
+   "ret-inst-rip",
+   "ret-inst-last",
+   "ret-inst-pdf",
+   "ret-droits-laicite",
+   "ret-inst-prec",
+   "dixi-oral",
+   "ret-eu-ps",
+   "ret-inst-surl",
+   "phil-agri-gossement"
+  ],
+  "sourcesUnreadable": [
+   "ret-inst-art89",
+   "ret-inst-art11",
+   "ret-eu-const"
+  ]
+ },
+ {
+  "cell": "roussel--institutions",
+  "sourcesRead": [
+   "rou-inst-lci",
+   "rou-inst-info23",
+   "rou-inst-afp25",
+   "rou-inst-cn25",
+   "rou-inst-prog22",
+   "rou-fisc-pqvfete",
+   "rou-inst-ps22",
+   "rou-inst-fondapol",
+   "rou-inst-ricps"
+  ],
+  "sourcesUnreadable": [
+   "rou-inst-parisien22"
+  ]
+ },
+ {
+  "cell": "ruffin--institutions",
+  "sourcesRead": [
+   "pqv-ruff-secu",
+   "ruff-democratie",
+   "ruff-inst-ric25",
+   "ruff-probite",
+   "ruff-inst-lcp26",
+   "ruff-inst-drago",
+   "ruff-trans-rmc"
+  ],
+  "sourcesUnreadable": [
+   "ruff-inst-millet"
+  ]
+ },
+ {
+  "cell": "tondelier--institutions",
+  "sourcesRead": [
+   "vert",
+   "tond-inst-constituante25",
+   "tond-inst-mensonge",
+   "pqv-tond-oral",
+   "rou-inst-fondapol",
+   "tond-inst-ricrapport"
+  ],
+  "sourcesUnreadable": [
+   "tond-inst-parisienmensonge",
+   "tond-inst-egger",
+   "phil-inst-constitution"
+  ]
+ },
+ {
+  "cell": "zemmour--institutions",
+  "sourcesRead": [
+   "zem-inst-tf1trans",
+   "zem-fisc-jdd (copie web.archive.org)",
+   "zem-def-prog22",
+   "zem-fisc-pqv",
+   "zem-inst-jdd25 (copie web.archive.org)",
+   "zem-inst-an89",
+   "zem-inst-lcp22",
+   "zem-inst-surlref",
+   "zem-inst-fabius22",
+   "zem-eu-surl",
+   "zem-inst-divellec26"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "melenchon--droits",
+  "sourcesRead": [
+   "mel-droits-toutes26",
+   "mel-dette-budget",
+   "mel-droits-lcpvss",
+   "mel-droits-tetu",
+   "mel-sec-femmes",
+   "mel-sante-autonomie",
+   "mel-sec-discriminations",
+   "mel-serv-institutions",
+   "mel-droits-mdm",
+   "mel-droits-ceabaya",
+   "mel-sec-lcp2027",
+   "mel-ter-rural",
+   "repere-esat-droit",
+   "repere-ald-droit",
+   "dixi-restos",
+   "mel-droits-grandjury",
+   "mel-droits-postboy26"
+  ],
+  "sourcesUnreadable": [
+   "mel-droits-mondeabaya",
+   "mel-droits-mondeprogramme26"
+  ]
+ },
+ {
+  "cell": "attal--droits",
+  "sourcesRead": [
+   "att-droits-pension",
+   "att-droits-carte",
+   "att-droits-repit",
+   "att-droits-inter",
+   "att-droits-ivg",
+   "att-droits-ce24",
+   "att-droits-lcp",
+   "att-droits-an15",
+   "att-droits-separation",
+   "att-droits-caf",
+   "att-droits-bfm",
+   "att-droits-handipresse",
+   "att-droits-ce23",
+   "att-droits-an7"
+  ],
+  "sourcesUnreadable": [
+   "att-droits-crif",
+   "att-cult-handicap2024",
+   "att-droits-mondeparite"
+  ]
+ },
+ {
+  "cell": "glucksmann--droits",
+  "sourcesRead": [
+   "gluck-droits-budget",
+   "dixi-restos",
+   "gluck-projet",
+   "gluck-fisc-pqv",
+   "gluck-droits-gpa",
+   "gluck-droits-voile",
+   "rou-droits-lcpcout",
+   "tond-droits-conge"
+  ],
+  "sourcesUnreadable": [
+   "gluck-droits-laicmonde",
+   "gluck-droits-etrangeres"
+  ]
+ },
+ {
+  "cell": "le-pen--droits",
+  "sourcesRead": [
+   "pen-droits-lcp",
+   "pen-eu-cnews",
+   "pen-droits-vss-vote",
+   "pen-droits-vss-texte",
+   "pen-droits-lcp-binational",
+   "pen-droits-rtl-droit",
+   "pen-droits-rtl-ret",
+   "pen-droits-rtl-debat",
+   "pen-droits-afp-cbs",
+   "pen-droits-ddd",
+   "pen-droits-ivg-vote",
+   "pen-droits-vss-dossier",
+   "pen-droits-handicap22",
+   "pen-droits-caf",
+   "pen-droits-dixi-restos"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "lisnard--droits",
+  "sourcesRead": [
+   "lis-droits-gpa",
+   "lis-droits-fin-vie",
+   "lis-droits-laicite",
+   "lis-droits-handicap",
+   "lis-droits-ce",
+   "lis-droits-cese"
+  ],
+  "sourcesUnreadable": [
+   "lis-droits-victimes",
+   "lis-droits-mandat",
+   "lis-droits-metoo",
+   "lis-droits-gpa-transcrit"
+  ]
+ },
+ {
+  "cell": "philippe--droits",
+  "sourcesRead": [
+   "phil-ecole",
+   "phil-droits-cnews",
+   "phil-secu",
+   "gluck-prix-bfm",
+   "phil-droits-senat",
+   "phil-droits-grenellefin (PDF du discours du 25 novembre 2019)",
+   "phil-droits-afp (via la version non-amp de Times of Israël)"
+  ],
+  "sourcesUnreadable": [
+   "phil-droits-inclusion (Le Monde, paywall)",
+   "phil-droits-bio (403, vérifié partiellement par recherche)",
+   "phil-droits-grenelleouvert (justice.gouv.fr en maintenance ; 5 M€ et 1000 places confirmés par recherche)",
+   "phil-droits-grenellejustice",
+   "phil-droits-europe1 (403 ; chiffres 25 et 40-50 € confirmés par Public Sénat)",
+   "phil-droits-index (403)",
+   "phil-droits-indexcrit (Le Monde, paywall)"
+  ]
+ },
+ {
+  "cell": "retailleau--droits",
+  "sourcesRead": [
+   "ret-droits-bourdin",
+   "ret-droits-laicite",
+   "ret-droits-conge",
+   "ret-eu-bfm",
+   "pen-droits-rtl-ret",
+   "ret-droits-rtl2025",
+   "ret-droits-creches",
+   "ret-droits-garde",
+   "ret-prix-plafond",
+   "ret-droits-senat2024"
+  ],
+  "sourcesUnreadable": [
+   "ret-droits-votes",
+   "ret-droits-conservatisme"
+  ]
+ },
+ {
+  "cell": "roussel--droits",
+  "sourcesRead": [
+   "pcf-fete",
+   "pcf-discours",
+   "rou-droits-loi",
+   "pen-droits-vss-dossier",
+   "rou-droits-coherence",
+   "rou-droits-lcpcommission",
+   "rou-droits-lcpcout",
+   "rou-inst-prog22",
+   "pen-droits-caf",
+   "rou-droits-tetu22",
+   "mel-droits-mdm",
+   "rou-droits-antisem",
+   "rou-jus-bfm25",
+   "rou-droits-sud23",
+   "mel-droits-ceabaya"
+  ],
+  "sourcesUnreadable": [
+   "rou-droits-amnesty"
+  ]
+ },
+ {
+  "cell": "ruffin--droits",
+  "sourcesRead": [
+   "ruff-statut",
+   "ruff-droits-cortex26",
+   "ruff-droits-laic25",
+   "ruff-droits-tetu25",
+   "pen-droits-vss-vote",
+   "pen-droits-vss-texte",
+   "ruff-droits-inter25",
+   "ruff-plan",
+   "ruff-droits-an9oct26",
+   "ruff-droits-tf123",
+   "ruff-droits-ce24",
+   "ruff-droits-ddd25",
+   "ruff-droits-rtlbd26"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "tondelier--droits",
+  "sourcesRead": [
+   "tond-droits-vss",
+   "tond-droits-an",
+   "tond-droits-priorites",
+   "pqv-tond-oral",
+   "tond-droits-tetu",
+   "tond-droits-fdf",
+   "tond-droits-conge",
+   "tond-droits-jaures",
+   "tond-droits-ce"
+  ],
+  "sourcesUnreadable": [
+   "vert-sante",
+   "vert"
+  ]
+ },
+ {
+  "cell": "zemmour--droits",
+  "sourcesRead": [
+   "zem-fisc-pqv",
+   "zem-sec-priorites",
+   "zem-def-prog22",
+   "dixi-oral",
+   "zem-droits-femmes22",
+   "zem-droits-figaro22",
+   "zem-droits-tetu22",
+   "zem-droits-surl25",
+   "zem-droits-cedh19",
+   "zem-droits-aah24"
+  ],
+  "sourcesUnreadable": [
+   "zem-droits-bfm26",
+   "zem-droits-rtl24",
+   "zem-droits-mariage23",
+   "zem-droits-inclusion22"
+  ]
+ },
+ {
+  "cell": "melenchon--climat",
+  "sourcesRead": [
+   "mel-clim-psnouveau",
+   "mel-clim-plan",
+   "mel-log-ecologie",
+   "mel-ind-btp",
+   "mel-clim-biens",
+   "mel-ind-auto",
+   "mel-dette-budget",
+   "mel-dette-banque",
+   "mel-prix-altereco",
+   "mel-clim-tf1",
+   "mel-clim-greenpeace"
+  ],
+  "sourcesUnreadable": [
+   "mel-clim-monde",
+   "mel-clim-jdd"
+  ]
+ },
+ {
+  "cell": "attal--climat",
+  "sourcesRead": [
+   "att-clim-dette",
+   "att-en",
+   "att-clim-geo5",
+   "att-clim-geo160",
+   "att-clim-droit",
+   "att-clim-etabl",
+   "att-clim-lci",
+   "att-clim-reseaux",
+   "att-clim-eauact",
+   "att-clim-pfas",
+   "ap-eau",
+   "att-clim-eaufin",
+   "att-clim-eauafp",
+   "att-clim-courgeo",
+   "att-clim-lisnard",
+   "att-clim-ministere",
+   "att-clim-ong"
+  ],
+  "sourcesUnreadable": [
+   "att-clim-ademe (403 Forbidden)",
+   "att-clim-monde (402 Payment Required)",
+   "att-clim-ecophyto (403)",
+   "att-clim-ecodisc (403)"
+  ]
+ },
+ {
+  "cell": "glucksmann--climat",
+  "sourcesRead": [
+   "gluck-en-depeche",
+   "gluck-chiffres",
+   "gluck-climat",
+   "gluck-dette-vert",
+   "gluck-en-ecoinfos",
+   "dixi-restos",
+   "gluck-agri-rmc",
+   "gluck-clim-hcc26"
+  ],
+  "sourcesUnreadable": [
+   "gluck-climat-monde",
+   "gluck-dette-parisien",
+   "gluck-projet"
+  ]
+ },
+ {
+  "cell": "le-pen--climat",
+  "sourcesRead": [
+   "pen-fin-prim",
+   "pen-sec-orleans",
+   "pen-clim-hulot26",
+   "pen-clim-lcp26",
+   "pen-clim-dpe26",
+   "pen-energie-pdf",
+   "pen-clim-senat26",
+   "pen-clim-tanguy26",
+   "pen-en-vert26",
+   "pen-clim-ecologie22",
+   "pen-clim-shift22",
+   "pen-clim-neutralite"
+  ],
+  "sourcesUnreadable": [
+   "pen-climat",
+   "pen-en-renov26",
+   "att-clim-ademe"
+  ]
+ },
+ {
+  "cell": "lisnard--climat",
+  "sourcesRead": [
+   "lis-energie",
+   "lis-clim-faq",
+   "lis-clim-prag",
+   "lis-clim-inter24",
+   "lis-clim-inond",
+   "lis-clim-tribune",
+   "lis-prix-carburant",
+   "lis-prix-afp",
+   "lis-clim-comets",
+   "lis-clim-wwf",
+   "lis-clim-i4ce"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "philippe--climat",
+  "sourcesRead": [
+   "phil-clim-plan",
+   "phil-clim-rtl",
+   "phil-clim-adapt",
+   "phil-energie",
+   "phil-clim-i4chaleur",
+   "phil-clim-inrae",
+   "lis-clim-i4ce"
+  ],
+  "sourcesUnreadable": [
+   "phil-clim-monde"
+  ]
+ },
+ {
+  "cell": "retailleau--climat",
+  "sourcesRead": [
+   "ret-def-lci",
+   "ret-clim-space",
+   "ret-clim-adapt",
+   "ret-clim-feux",
+   "ret-clim-eau",
+   "ret-clim-fermes",
+   "ret-clim-normes",
+   "ret-clim-dpe",
+   "ret-prix-cee",
+   "ret-clim-bfm25",
+   "ret-en-subventions",
+   "ret-en-epr2",
+   "ret-en-ser",
+   "ret-clim-bretagnolle"
+  ],
+  "sourcesUnreadable": [
+   "ret-clim-dpecrit",
+   "lr-climat-monde"
+  ]
+ },
+ {
+  "cell": "roussel--climat",
+  "sourcesRead": [
+   "pcf-discours",
+   "rou-prix-nov8",
+   "rou-trans-avril",
+   "dixi-oral",
+   "rou-ret-toulouse",
+   "rou-agri-eau",
+   "rou-agri-afp",
+   "rou-inst-prog22",
+   "rou-clim-rac22",
+   "rou-clim-shifters22",
+   "rou-sante-conf3nov",
+   "rou-agri-fourrage"
+  ],
+  "sourcesUnreadable": [
+   "rou-clim-cahier",
+   "rou-clim-mondeclim"
+  ]
+ },
+ {
+  "cell": "ruffin--climat",
+  "sourcesRead": [
+   "ruff-fisc-dixi",
+   "ruff-climat",
+   "ruff-trans-eco",
+   "pqv-ruff-secu",
+   "ruff-logement",
+   "ruff-plan",
+   "ruff-agri-agra26",
+   "ruff-agri",
+   "zem-en-courcee24",
+   "ruff-clim-hcc25",
+   "ruff-trans-jauto"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "tondelier--climat",
+  "sourcesRead": [
+   "tond-en-postpetrole",
+   "vert (via copie texte locale du programme de juillet 2026 dans le répertoire de travail)",
+   "pqv-tond-oral",
+   "tond-agri-pacte",
+   "tond-eu-pqv",
+   "tond-dette-dixi (partiel, via le journal de recherche)",
+   "tond-log-rtl",
+   "tond-fisc-budget",
+   "tond-clim-hubert",
+   "tond-clim-barbier",
+   "tond-clim-droit",
+   "lis-clim-i4ce"
+  ],
+  "sourcesUnreadable": [
+   "tond-prix-bouclier-pdf (403)",
+   "tond-prix-travail-pdf (403)",
+   "tond-log-littoral (403)",
+   "tond-log-mpr-monde (402, payant)"
+  ]
+ },
+ {
+  "cell": "zemmour--climat",
+  "sourcesRead": [
+   "zem-clim-info26",
+   "zem-clim-couraut",
+   "zem-fisc-bfm",
+   "zem-eu-cnews",
+   "zem-prix-tf1cee",
+   "zem-eu-rte",
+   "zem-eu-reconquete"
+  ],
+  "sourcesUnreadable": [
+   "att-clim-ademe",
+   "zem-sec-priorites"
+  ]
+ },
+ {
+  "cell": "melenchon--energie",
+  "sourcesRead": [
+   "mel-en-ecoinfos",
+   "mel-log-ecologie",
+   "mel-en-foi22",
+   "mel-dette-europe",
+   "mel-en-bourget",
+   "mel-dette-budget",
+   "mel-dette-banque",
+   "mel-en-rteaie",
+   "mel-en-actu22",
+   "mel-en-montaigne",
+   "mel-en-checknews",
+   "mel-en-cre"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "attal--energie",
+  "sourcesRead": [
+   "att-en",
+   "att-en-ppe25",
+   "att-en-sept",
+   "att-clim-dette",
+   "att-clim-geo5",
+   "att-clim-geo160",
+   "ap-electricite",
+   "att-num-mistral",
+   "att-en-fusion",
+   "att-droits-bfm",
+   "tond-en-courepr",
+   "att-clim-courgeo",
+   "att-en-rte",
+   "att-en-sud24"
+  ],
+  "sourcesUnreadable": [
+   "att-en-tribune"
+  ]
+ },
+ {
+  "cell": "glucksmann--energie",
+  "sourcesRead": [
+   "gluck-en-ecoinfos",
+   "gluck-en-depeche",
+   "gluck-climat",
+   "gluck-imm-jury",
+   "gluck-dette-vert",
+   "gluck-projet",
+   "gluck-chiffres",
+   "dixi-restos",
+   "tond-en-courepr"
+  ],
+  "sourcesUnreadable": [
+   "gluck-en-monde"
+  ]
+ },
+ {
+  "cell": "le-pen--energie",
+  "sourcesRead": [
+   "pen-energie-pdf",
+   "pen-agri-entreprise",
+   "pen-fisc-rn",
+   "pen-fisc-restos",
+   "zem-eu-cre",
+   "zem-en-cpn26",
+   "pen-en-vert26",
+   "pen-en-cpo23"
+  ],
+  "sourcesUnreadable": [
+   "pen-eu-elec",
+   "pen-en-renov26",
+   "pen-en-renov-juin26",
+   "pen-tva-crit"
+  ]
+ },
+ {
+  "cell": "lisnard--energie",
+  "sourcesRead": [
+   "lis-en-offshore",
+   "lis-prix-carburant",
+   "lis-en-ppe",
+   "lis-en-rte",
+   "lis-en-afp",
+   "zem-en-cpn26",
+   "zem-en-courcee24",
+   "lis-cult-civique",
+   "lis-en-diplomate",
+   "lis-en-dixi",
+   "lis-droits-gpa-transcrit",
+   "tond-en-courepr",
+   "lis-energie"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "philippe--energie",
+  "sourcesRead": [
+   "phil-energie",
+   "att-clim-courgeo",
+   "phil-en-bechu",
+   "phil-en-dpg2019 (via PDF info.gouv.fr)",
+   "lis-enf-taverny",
+   "phil-en-ribadeau",
+   "phil-en-plf2027",
+   "tond-en-cour2026",
+   "phil-en-courepr",
+   "phil-en-ape"
+  ],
+  "sourcesUnreadable": [
+   "phil-en-fessenheim (Légifrance 403 ; dates 22 février et 30 juin 2020 confirmées par l'audition Lewandowski à l'Assemblée nationale)"
+  ]
+ },
+ {
+  "cell": "retailleau--energie",
+  "sourcesRead": [
+   "ret-en-80ans",
+   "ret-en-epr2",
+   "ret-en-subventions",
+   "ret-prix-elec",
+   "ret-en-hydro",
+   "ret-en-flex",
+   "ret-ind-elec",
+   "ret-prix-cee",
+   "ret-en-rapides",
+   "zem-en-cpn26",
+   "ret-prix-marianne",
+   "ret-en-ser",
+   "ret-en-couraud"
+  ],
+  "sourcesUnreadable": [
+   "ret-en-lrcrit",
+   "lr-energie"
+  ]
+ },
+ {
+  "cell": "roussel--energie",
+  "sourcesRead": [
+   "rou-trans-avril",
+   "dixi-oral",
+   "pcf-discours",
+   "rou-inst-prog22",
+   "rou-en-nucleaire25",
+   "rou-en-synth24",
+   "rou-en-plan23",
+   "rou-en-rtlmai",
+   "roussel-achat",
+   "rou-eu-lci-nov",
+   "rou-en-tribuneoct",
+   "zem-en-cpn26",
+   "rou-en-contrepoints",
+   "tond-en-courepr",
+   "rou-clim-rac22"
+  ],
+  "sourcesUnreadable": [
+   "rou-en-tribuneoct (article La Tribune réservé aux abonnés ; la fiche de 500 milliards sur cinq ans, avances à taux zéro via le pôle public bancaire, a été vérifiée via un extrait et le discours pcf-discours)"
+  ]
+ },
+ {
+  "cell": "ruffin--energie",
+  "sourcesRead": [
+   "pqv-ruff-secu",
+   "ruff-industrie",
+   "ruff-trans-eco",
+   "mel-en-cre",
+   "ruff-plan",
+   "tond-en-cour2026",
+   "ruff-en-courmodele",
+   "ruff-en-an1902",
+   "tond-en-rte2050"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "tondelier--energie",
+  "sourcesRead": [
+   "tond-en-postpetrole",
+   "tond-en-tecsol",
+   "tond-en-sudradio",
+   "tond-eu-pqv",
+   "tond-en-cour2026",
+   "tond-en-rte2050",
+   "tond-en-courepr"
+  ],
+  "sourcesUnreadable": [
+   "vert",
+   "tond-en-cfd",
+   "tond-en-bfmclip",
+   "tond-en-grandjury"
+  ]
+ },
+ {
+  "cell": "zemmour--energie",
+  "sourcesRead": [
+   "zem-eu-edc",
+   "zem-ecole-edcdixi",
+   "zem-fisc-bfm",
+   "knafo",
+   "zem-def-prog22",
+   "zem-eu-cre",
+   "zem-en-edf25",
+   "zem-en-cpn26",
+   "zem-en-montaigne22",
+   "zem-agri-greenpeace22",
+   "zem-en-newstank26",
+   "zem-en-courcee24"
+  ],
+  "sourcesUnreadable": [
+   "zem-num-discours26"
+  ]
+ },
+ {
+  "cell": "melenchon--transports",
+  "sourcesRead": [
+   "mel-ter-rural",
+   "mel-ind-auto",
+   "mel-log-ecologie",
+   "mel-clim-plan",
+   "mel-log-programme",
+   "mel-dette-budget",
+   "mel-trans-senat",
+   "mel-trans-delli",
+   "mel-trans-montaigne",
+   "mel-sec-lcp2027"
+  ],
+  "sourcesUnreadable": [
+   "mel-trans-sncf (403 anti-bot, page SNCF inaccessible ; le fait de contexte, SNCF détenue à 100 % par l'État avec actions incessibles, est connu et correct)"
+  ]
+ },
+ {
+  "cell": "attal--transports",
+  "sourcesRead": [
+   "att-en",
+   "att-jeunesse",
+   "att-mobilite",
+   "att-trans-bfm26",
+   "att-trans-fi26",
+   "att-trans-imt24",
+   "att-trans-numeriques26"
+  ],
+  "sourcesUnreadable": [
+   "att-trans-bercy26",
+   "leasing-monde-offre",
+   "att-trans-dpg24",
+   "att-trans-rac24",
+   "att-trans-i4ce26"
+  ]
+ },
+ {
+  "cell": "glucksmann--transports",
+  "sourcesRead": [
+   "gluck-chiffres",
+   "gluck-dette-vert",
+   "gluck-ret-grandjury",
+   "gluck-acte-page",
+   "dixi-restos",
+   "gluck-climat",
+   "gluck-projet (export Google Drive)",
+   "gluck-ind-tdie24",
+   "gluck-trans-ufc",
+   "gluck-trans-pass"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "le-pen--transports",
+  "sourcesRead": [
+   "pen-eu-schengen",
+   "pen-fisc-restos",
+   "pen-fin-prim",
+   "pen-fisc-rn",
+   "mel-trans-montaigne",
+   "pen-trans-zfe",
+   "pen-trans-zfe-crit",
+   "pen-trans-rac",
+   "pen-trans-tdie",
+   "pen-trans-22"
+  ],
+  "sourcesUnreadable": [
+   "pen-trans-auto26",
+   "pen-fin-monde",
+   "pen-tva-crit"
+  ]
+ },
+ {
+  "cell": "lisnard--transports",
+  "sourcesRead": [
+   "lis-trans-zfe",
+   "lis-fisc-industrie",
+   "lis-energie",
+   "lis-cult-civique",
+   "lis-trans-h2presse",
+   "lis-trans-h2budget",
+   "ret-tra-insee",
+   "lis-trans-infras",
+   "lis-trans-carbus"
+  ],
+  "sourcesUnreadable": [
+   "lis-trans-cnews25"
+  ]
+ },
+ {
+  "cell": "philippe--transports",
+  "sourcesRead": [
+   "phil-energie",
+   "phil-tra-rtl",
+   "phil-adidas",
+   "phil-tra-carbcamp",
+   "phil-tra-pacte",
+   "phil-tra-lom",
+   "phil-tra-tram",
+   "phil-tra-nddl",
+   "phil-tra-depeche80",
+   "phil-tra-autoplus"
+  ],
+  "sourcesUnreadable": [
+   "phil-tra-parisien2018",
+   "phil-tra-dette2018",
+   "phil-tra-cgt",
+   "phil-tra-rural"
+  ]
+ },
+ {
+  "cell": "retailleau--transports",
+  "sourcesRead": [
+   "ret-tra-ps",
+   "ret-tra-conf",
+   "ret-tra-jdd",
+   "lis-prix-afp",
+   "ret-tra-fi",
+   "ret-tra-tribune",
+   "ret-tra-insee",
+   "ret-tra-auto",
+   "lr-projet"
+  ],
+  "sourcesUnreadable": [
+   "ret-tra-bareme",
+   "ret-tra-monde",
+   "ret-tra-ter"
+  ]
+ },
+ {
+  "cell": "roussel--transports",
+  "sourcesRead": [
+   "rou-trans-avril",
+   "pcf-discours",
+   "rou-trans-juin",
+   "rou-trans-cahier",
+   "rou-trans-municipal",
+   "rou-trans-cour",
+   "rou-trans-fnaut",
+   "rou-prix-nov3"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "ruffin--transports",
+  "sourcesRead": [
+   "ruff-plan",
+   "ruff-def-lci",
+   "ruff-trans-sud",
+   "ruff-industrie",
+   "ruff-trans-eco",
+   "ruff-loisirs",
+   "ruff-trans-air19",
+   "ruff-trans-jauto",
+   "tond-prix-te",
+   "ruff-trans-cour",
+   "ruff-trans-rmc"
+  ],
+  "sourcesUnreadable": [
+   "ret-tra-monde"
+  ]
+ },
+ {
+  "cell": "tondelier--transports",
+  "sourcesRead": [
+   "pqv-tond-oral",
+   "tond-trans-blog",
+   "vert",
+   "tond-fisc-budget",
+   "tond-prix-te",
+   "ruff-trans-jauto",
+   "tond-trans-fnaut",
+   "tond-ter-mobilite"
+  ],
+  "sourcesUnreadable": [
+   "tond-prix-bouclier-pdf"
+  ]
+ },
+ {
+  "cell": "zemmour--transports",
+  "sourcesRead": [
+   "zem-fisc-bfm",
+   "zem-eu-cnews",
+   "zem-trans-jauto22",
+   "zem-fisc-accise",
+   "zem-trans-leasing26",
+   "zem-trans-min2035",
+   "zem-trans-argus22",
+   "zem-trans-fnaut22",
+   "zem-trans-rtl-auto22",
+   "zem-trans-rtl-permis21",
+   "zem-trans-rtl-ligue21",
+   "ret-tra-insee"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "melenchon--agriculture",
+  "sourcesRead": [
+   "mel-log-ecologie",
+   "mel-ecole-oral",
+   "mel-ind-programme",
+   "mel-ecole-programme",
+   "mel-clim-biens",
+   "mel-sec-cannabis",
+   "mel-prix-besoins",
+   "mel-sante-dixipolis",
+   "mel-agri-secheresse",
+   "mel-dette-budget",
+   "mel-agri-planchers",
+   "mel-agri-bompard",
+   "mel-agri-cr",
+   "repere-miroirs",
+   "mel-agri-lci"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "attal--agriculture",
+  "sourcesRead": [
+   "att-agri-publicsenat",
+   "att-agri-plancher",
+   "att-agri-contrats",
+   "att-agri-agra",
+   "att-agri-pac",
+   "att-agri-ja",
+   "att-agri-miroirs",
+   "att-agri-mercosur",
+   "att-agri-batiments",
+   "phil-fisc-ref",
+   "att-agri-ipp",
+   "repere-miroirs",
+   "att-agri-fne",
+   "att-agri-selosse",
+   "dixi-oral"
+  ],
+  "sourcesUnreadable": [
+   "att-agri-pouch"
+  ]
+ },
+ {
+  "cell": "glucksmann--agriculture",
+  "sourcesRead": [
+   "gluck-agri-ici",
+   "gluck-agri-reaction",
+   "gluck-climat",
+   "gluck-agri-rmc",
+   "gluck-agri-psn",
+   "gluck-agri-senat",
+   "gluck-projet (via copie locale du PDF Acte I)"
+  ],
+  "sourcesUnreadable": [
+   "gluck-projet (URL Google Drive illisible via fetch.py, lu via copie locale /tmp/pqv-deep/gluck-europe-acte.txt)",
+   "rou-agri-etile (Le Monde, HTTP 402 paywall)"
+  ]
+ },
+ {
+  "cell": "le-pen--agriculture",
+  "sourcesRead": [
+   "pen-agri-cournon",
+   "pen-eu-schengen",
+   "phil-agri-dutreilregle",
+   "pen-agri-entreprise",
+   "pen-agri-prix2024",
+   "pen-agri-mercosur",
+   "gluck-eu-mercosur-import",
+   "pen-agri-2022",
+   "pen-agri-an-juillet",
+   "pen-eu-cnews",
+   "pen-eu-pac",
+   "rn-historique",
+   "pen-agri-volonte",
+   "pen-agri-montaigne",
+   "pen-agri-barbut",
+   "pen-agri-agra"
+  ],
+  "sourcesUnreadable": [
+   "pen-agri-afp-cantines"
+  ]
+ },
+ {
+  "cell": "lisnard--agriculture",
+  "sourcesRead": [
+   "lis-agri",
+   "lis-agri-chalons26",
+   "lis-en-dixi",
+   "lis-agri-ntg-min26",
+   "lis-fin",
+   "phil-agri-gossement",
+   "lis-agri-ntg-tf126"
+  ],
+  "sourcesUnreadable": [
+   "lis-agri-carnet26",
+   "lis-agri-bassines-monde24"
+  ]
+ },
+ {
+  "cell": "philippe--agriculture",
+  "sourcesRead": [
+   "phil-agri-moselle",
+   "phil-industrie",
+   "phil-agri-dutreilregle",
+   "phil-agri-pleinchamp",
+   "phil-clim-adapt",
+   "phil-agri-charte",
+   "pen-agri-volonte",
+   "phil-agri-dutreilcour",
+   "phil-agri-feldman",
+   "phil-agri-inrae",
+   "phil-agri-gossement"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "retailleau--agriculture",
+  "sourcesRead": [
+   "lr-agri",
+   "ret-agri-salon",
+   "ret-agri-const",
+   "ret-agri-prec",
+   "ret-agri-anses",
+   "ret-agri-ofb",
+   "ret-agri-normes",
+   "ret-clim-eau",
+   "ret-clim-fermes",
+   "ret-agri-trans",
+   "ret-agri-achats",
+   "ret-eu-agri",
+   "ret-agri-pac",
+   "ret-agri-ja",
+   "ret-agri-assos",
+   "ret-agri-ansesfaq",
+   "ret-agri-senatofb",
+   "ret-clim-bretagnolle",
+   "ret-eu-bfm"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "roussel--agriculture",
+  "sourcesRead": [
+   "rou-agri-rungis",
+   "rou-agri-rtl",
+   "rou-agri-publicsenat",
+   "rou-agri-afp",
+   "rou-agri-pleinchamp",
+   "rou-eu-alt",
+   "rou-agri-eau",
+   "rou-eu-pcf-mercosur",
+   "rou-agri-fourrage",
+   "rou-agri-agra"
+  ],
+  "sourcesUnreadable": [
+   "rou-agri-etile (Le Monde, paywall ; seul le chapeau repris par la Chaire Économie du Climat est lisible)"
+  ]
+ },
+ {
+  "cell": "ruffin--agriculture",
+  "sourcesRead": [
+   "ruff-agri",
+   "ruff-trans-eco",
+   "ruff-agri-sommet26",
+   "ruff-agri-agra26",
+   "ruff-plan",
+   "mel-agri-planchers",
+   "ruff-agri-ipp24",
+   "ruff-eu-dixi"
+  ],
+  "sourcesUnreadable": [
+   "att-agri-pouch"
+  ]
+ },
+ {
+  "cell": "tondelier--agriculture",
+  "sourcesRead": [
+   "tond-agri-pacte",
+   "att-agri-publicsenat",
+   "att-agri-ja",
+   "ret-agri-ja",
+   "tond-agri-marianne24",
+   "tond-agri-frinfosept",
+   "dixi-oral",
+   "att-agri-ipp",
+   "tond-agri-picarde",
+   "vert (via copie locale /tmp/pqv-docs/vert-miroir.txt, p. 48-50)"
+  ],
+  "sourcesUnreadable": [
+   "tond-prix-bouclier-pdf (403 : panier sain, repas à tarif social non vérifiés)",
+   "rou-agri-etile (Le Monde, 402 payant)",
+   "vert (fetch direct 403, lu via copie locale)"
+  ]
+ },
+ {
+  "cell": "zemmour--agriculture",
+  "sourcesRead": [
+   "zem-agri-agra26",
+   "zem-agri-sommet26",
+   "pen-eu-pac",
+   "zem-agri-decouples",
+   "zem-eu-reconquete",
+   "zem-agri-agra22",
+   "zem-agri-montaigne22",
+   "zem-eu-bfm",
+   "zem-agri-contrepoints22",
+   "zem-agri-greenpeace22",
+   "zem-agri-rtl24"
+  ],
+  "sourcesUnreadable": [
+   "zem-agri-cnews24",
+   "zem-agri-psn"
+  ]
+ },
+ {
+  "cell": "melenchon--territoires",
+  "sourcesRead": [
+   "mel-log-programme",
+   "mel-inst-reporterre2026",
+   "mel-ter-rural",
+   "mel-clim-plan",
+   "mel-clim-tf1",
+   "mel-imm-tf1trans2026",
+   "mel-dette-budget"
+  ],
+  "sourcesUnreadable": [
+   "mel-clim-jdd",
+   "mel-ter-giraut"
+  ]
+ },
+ {
+  "cell": "attal--territoires",
+  "sourcesRead": [
+   "att-ter-bigbang",
+   "att-clim-reseaux",
+   "att-clim-geo160",
+   "att-inst-maires",
+   "att-rural",
+   "att-inst-local",
+   "att-eu-lenglet",
+   "af-lci-pme",
+   "att-clim-eauafp",
+   "ap-eau",
+   "att-clim-pfas",
+   "att-clim-ministere",
+   "att-clim-geo5",
+   "att-ter-outre-ref",
+   "att-ter-fusions (via archive web.archive.org)",
+   "att-ter-amfjan",
+   "att-ter-amffev"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "glucksmann--territoires",
+  "sourcesRead": [
+   "gluck-ter-amf",
+   "gluck-climat",
+   "gluck-projet",
+   "dixi-oral",
+   "gluck-ter-ppfin",
+   "gluck-ter-ddd",
+   "gluck-ter-cour",
+   "gluck-ter-octroi",
+   "repere-octroi"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "le-pen--territoires",
+  "sourcesRead": [
+   "pen-ter-acteurs",
+   "pen-fisc-conf",
+   "pen-fisc-rn",
+   "pen-ter-anpp22",
+   "pen-ter-mayotte",
+   "pen-ter-outre22",
+   "pen-ter-interco",
+   "pen-eu-cnews",
+   "pen-ter-accdom"
+  ],
+  "sourcesUnreadable": [
+   "pen-ter-rouge",
+   "pen-ter-localtis"
+  ]
+ },
+ {
+  "cell": "lisnard--territoires",
+  "sourcesRead": [
+   "lis-eu-bayeux",
+   "lis-cult-civique",
+   "lis-fisc-dixi-loc",
+   "lis-ter-amf",
+   "lis-ter-budget",
+   "lis-ter-fusion",
+   "lis-ter-provinces",
+   "lis-ter-cour26",
+   "lis-ter-ce24"
+  ],
+  "sourcesUnreadable": [
+   "lis-ter-monde25"
+  ]
+ },
+ {
+  "cell": "philippe--territoires",
+  "sourcesRead": [
+   "phil-ter-ap18",
+   "phil-outre",
+   "phil-cult-dixi",
+   "phil-cult-oral",
+   "phil-fin",
+   "phil-clim-adapt",
+   "phil-ter-antenne",
+   "pen-serv-senat26",
+   "lis-fisc-cpo-local",
+   "phil-ter-amfoctroi",
+   "phil-ter-eau"
+  ],
+  "sourcesUnreadable": [
+   "phil-ter-zinfos"
+  ]
+ },
+ {
+  "cell": "retailleau--territoires",
+  "sourcesRead": [
+   "ret-ter-ecoles",
+   "ret-ter-communes",
+   "ret-dette-etat",
+   "ret-ter-zan",
+   "lr-fin-senat",
+   "ret-ter-pacte2016",
+   "dixi-oral",
+   "ret-ter-acteurspublics",
+   "ret-ter-outremer",
+   "ret-ter-amf"
+  ],
+  "sourcesUnreadable": [
+   "ret-ter-pap",
+   "ret-ter-monde-fp"
+  ]
+ },
+ {
+  "cell": "roussel--territoires",
+  "sourcesRead": [
+   "rou-ind-edc",
+   "rou-serv-pcf16",
+   "pcf-tract-sp",
+   "rou-ter-resolution",
+   "rou-inst-prog22",
+   "dixi-oral",
+   "pcf-discours",
+   "tond-ter-finlocales",
+   "rou-dette-bce",
+   "tond-ter-fs"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "ruffin--territoires",
+  "sourcesRead": [
+   "ruff-logement",
+   "ruff-loisirs",
+   "ruff-numerique",
+   "ruff-plan",
+   "ruff-terr-outre26",
+   "ruff-terr-rome24",
+   "ruff-terr-senat25"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "tondelier--territoires",
+  "sourcesRead": [
+   "tond-fisc-budget",
+   "pqv-tond-oral",
+   "tond-ter-fs",
+   "tond-ter-finlocales"
+  ],
+  "sourcesUnreadable": [
+   "vert",
+   "tond-log-littoral"
+  ]
+ },
+ {
+  "cell": "zemmour--territoires",
+  "sourcesRead": [
+   "zem-eu-edc",
+   "zem-sec-priorites",
+   "zem-ter-acteurs22",
+   "zem-ter-chateaudun",
+   "zem-ter-saulieu",
+   "zem-ter-lettremaires22",
+   "zem-ter-montaigne22",
+   "zem-ter-fugue22",
+   "zem-ter-outre22",
+   "zem-ter-polynesie22"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "melenchon--europe",
+  "sourcesRead": [
+   "mel-dette-europe",
+   "mel-dette-programme",
+   "mel-dette-lagarde",
+   "mel-dette-pscrit",
+   "mel-sante-dixipolis",
+   "mel-ind-programme",
+   "mel-dette-budget",
+   "mel-eu-lci"
+  ],
+  "sourcesUnreadable": [
+   "mel-eu-art48",
+   "eu-tfue-fr",
+   "mel-eu-art258",
+   "mel-eu-art260"
+  ]
+ },
+ {
+  "cell": "attal--europe",
+  "sourcesRead": [
+   "att-sante-politico",
+   "att-eu-lenglet",
+   "att-eu-camp",
+   "att-eu-senat",
+   "att-eu-reims",
+   "att-eu-dixi",
+   "att-eu-piac",
+   "att-eu-uef",
+   "att-eu-jdf",
+   "att-eu-upr"
+  ],
+  "sourcesUnreadable": [
+   "att-eu-tfue",
+   "att-eu-tue"
+  ]
+ },
+ {
+  "cell": "glucksmann--europe",
+  "sourcesRead": [
+   "gluck-eu-industrie",
+   "gluck-eu-frinfo",
+   "gluck-ecole-inter",
+   "gluck-projet",
+   "dixi-oral",
+   "gluck-imm-jury",
+   "gluck-climat",
+   "gluck-euf-lci",
+   "gluck-euf-aide",
+   "gluck-euf-mr",
+   "gluck-eu-eca"
+  ],
+  "sourcesUnreadable": [
+   "gluck-euf-monde",
+   "gluck-euf-inter24",
+   "gluck-eu-budget",
+   "gluck-euf-senat"
+  ]
+ },
+ {
+  "cell": "le-pen--europe",
+  "sourcesRead": [
+   "pen-eu-cnews",
+   "pen-fisc-conf",
+   "pen-eu-brux",
+   "pen-eu-deplacements26",
+   "pen-eu-schengen",
+   "pen-eu-an",
+   "pen-fisc-rn",
+   "pen-eu-philippot26",
+   "pen-eu-schengen-sem26"
+  ],
+  "sourcesUnreadable": [
+   "pen-eu-decodeurs",
+   "pen-eu-brux-presse",
+   "pen-eu-monde-evolution26",
+   "pen-eu-elec",
+   "pen-eu-cfp",
+   "pen-eu-coe",
+   "pen-trav-afpdroit22",
+   "pen-eu-tue",
+   "pen-eu-art123",
+   "pen-eu-schengen-lci"
+  ]
+ },
+ {
+  "cell": "lisnard--europe",
+  "sourcesRead": [
+   "lis-eu-projet",
+   "lis-en-diplomate",
+   "lis-eu-bayeux",
+   "lis-def-ukraine",
+   "lis-energie",
+   "lis-eu-dixi",
+   "pqv-lis-oral",
+   "lis-inst-feldman"
+  ],
+  "sourcesUnreadable": [
+   "lis-eu-cnews",
+   "pen-eu-elec",
+   "lis-eu-monde-merc"
+  ]
+ },
+ {
+  "cell": "philippe--europe",
+  "sourcesRead": [
+   "phil-eu-gaullien",
+   "phil-industrie",
+   "phil-ia",
+   "phil-adidas",
+   "phil-energie",
+   "eu-cbam",
+   "phil-imm",
+   "phil-defense",
+   "eu-pref-suede",
+   "phil-imm-crit",
+   "phil-eu-euronaval-lepen"
+  ],
+  "sourcesUnreadable": [
+   "phil-eu-rtl24",
+   "phil-eu-merc19",
+   "eu-tfue-fr"
+  ]
+ },
+ {
+  "cell": "retailleau--europe",
+  "sourcesRead": [
+   "ret-eu-defense",
+   "ret-eu-compet",
+   "ret-eu-bfm",
+   "ret-eu-ce",
+   "ret-eu-sauve",
+   "ret-eu-ps",
+   "ret-imm-asile",
+   "ret-eu-agri",
+   "ret-agri-pac",
+   "ret-eu-elec",
+   "ret-eu-num",
+   "ret-eu-cfp",
+   "dixi-restos",
+   "ret-eu-militaires",
+   "ret-eu-gendarme"
+  ],
+  "sourcesUnreadable": [
+   "ret-eu-monde",
+   "ret-eu-ppe",
+   "ret-eu-grid",
+   "ret-eu-grid-press",
+   "ret-eu-prim",
+   "ret-eu-conseil-dist",
+   "ret-eu-const"
+  ]
+ },
+ {
+  "cell": "roussel--europe",
+  "sourcesRead": [
+   "pcf-discours",
+   "rou-eu-alt",
+   "rou-eu-lci-nov",
+   "rou-eu-congres",
+   "rou-eu-marseille",
+   "ruff-en-an1902",
+   "rou-eu-voeux",
+   "rou-eu-pcf-mercosur",
+   "gluck-eu-mercosur-import",
+   "rou-agri-publicsenat",
+   "rou-dette-bce",
+   "rou-eu-ps-electricite",
+   "rou-eu-rte",
+   "rou-eu-lcp-mercosur",
+   "rou-eu-publicsenat",
+   "rou-eu-senat",
+   "rou-def-cahier"
+  ],
+  "sourcesUnreadable": [
+   "pen-eu-elec"
+  ]
+ },
+ {
+  "cell": "ruffin--europe",
+  "sourcesRead": [
+   "ruff-eu-pqv",
+   "ruff-euf-manifeste",
+   "ruff-def-grand",
+   "ruff-euf-inter25",
+   "ruff-industrie",
+   "ruff-plan",
+   "ruff-def-an2025",
+   "ruff-euf-lettre24",
+   "pqv-ruff-secu",
+   "ruff-euf-combe18",
+   "ruff-euf-confront25",
+   "ruff-eu-local",
+   "ruff-eu-an"
+  ],
+  "sourcesUnreadable": [
+   "ruff-ind-mondeprotec (Le Monde, paywall 402)",
+   "gluck-euf-inter24 (Dailymotion, page vide)",
+   "ruff-eu-vote (Conseil UE, 403; règle 55 % des États / 65 % de la population et minorité de blocage 4 États / 35 % vérifiée par connaissance générale)",
+   "eu-tfue-fr (non ouvert, compétence exclusive de l’Union en matière commerciale connue)"
+  ]
+ },
+ {
+  "cell": "tondelier--europe",
+  "sourcesRead": [
+   "tond-eu-strasbourg",
+   "tond-eu-pqv",
+   "tond-eu-tribune",
+   "tond-eu-dixi",
+   "gluck-eu-mercosur-import",
+   "tond-eu-mff",
+   "tond-eu-reuters",
+   "eu-pref-suede",
+   "tond-eu-lists-objections"
+  ],
+  "sourcesUnreadable": [
+   "tond-eu-bellamy",
+   "vert",
+   "tond-eu-vote",
+   "ret-eu-conseil-dist",
+   "tond-eu-russie",
+   "tond-eu-budget27",
+   "tond-eu-belgique",
+   "att-eu-tue"
+  ]
+ },
+ {
+  "cell": "zemmour--europe",
+  "sourcesRead": [
+   "zem-eu-bfm",
+   "zem-eu-dixi",
+   "zem-fisc-pqv",
+   "knafo",
+   "zem-eu-reconquete",
+   "zem-eu-cnews",
+   "zem-eu-edc",
+   "zem-eu-cope",
+   "zem-eu-surl",
+   "zem-eu-rte",
+   "tond-eu-mff",
+   "pen-eu-visas",
+   "zem-fisc-jdd (via copie archivée)"
+  ],
+  "sourcesUnreadable": [
+   "zem-eu-jullien24 (Le Monde, paywall)",
+   "zem-eu-mff-old (403)",
+   "pen-eu-cfp (403)",
+   "pen-eu-tue",
+   "eu-tfue-fr",
+   "ret-eu-conseil-dist",
+   "gluck-eu-tue"
+  ]
+ },
+ {
+  "cell": "melenchon--defense",
+  "sourcesRead": [
+   "mel-def-ukrainecomm",
+   "mel-def-programme",
+   "mel-def-collectivisme",
+   "mel-def-nucleaire",
+   "mel-def-bourget",
+   "mel-def-cooperations",
+   "mel-def-figaro2025",
+   "mel-def-investissements",
+   "mel-def-lcpukraine",
+   "mel-def-rtlref",
+   "mel-def-politis",
+   "mel-def-archive2022"
+  ],
+  "sourcesUnreadable": [
+   "mel-def-lciotan",
+   "mel-def-afpjuin",
+   "mel-def-inter2025",
+   "mel-def-mondeedito"
+  ]
+ },
+ {
+  "cell": "attal--defense",
+  "sourcesRead": [
+   "att-def-dome",
+   "att-eu-reims",
+   "att-def-eurosatory",
+   "att-def-livre",
+   "att-def-audit",
+   "att-def-commande",
+   "att-def-dependance",
+   "att-def-preference",
+   "att-def-aix",
+   "att-eu-lenglet",
+   "att-def-rtl",
+   "att-def-fonds",
+   "gluck-def-lcpavoirs",
+   "att-eu-uef"
+  ],
+  "sourcesUnreadable": [
+   "pen-def-lpm"
+  ]
+ },
+ {
+  "cell": "glucksmann--defense",
+  "sourcesRead": [
+   "gluck-projet",
+   "gluck-def-rtl26",
+   "gluck-def-kessel",
+   "gluck-def-edip",
+   "gluck-imm-senat",
+   "gluck-def-lcpavoirs",
+   "gluck-def-css"
+  ],
+  "sourcesUnreadable": [
+   "repere-edip-conseil",
+   "gluck-eu-tribune",
+   "gluck-def-snu26",
+   "gluck-def-snu25",
+   "gluck-def-rtl25"
+  ]
+ },
+ {
+  "cell": "le-pen--defense",
+  "sourcesRead": [
+   "rou-eu-publicsenat",
+   "pen-def-reutersukr",
+   "pen-sec-orleans",
+   "pen-def-lcp",
+   "phil-eu-euronaval-lepen",
+   "pen-def-anmai",
+   "pen-def-archive22",
+   "pen-def-elysee",
+   "pen-def-lpm (via copie PDF du JO sur fhf.fr)",
+   "pen-def-dissuasion (via copie nicolasdragon.com)",
+   "pen-def-reutersotan (via copies Reuters sur d'autres sites)"
+  ],
+  "sourcesUnreadable": [
+   "pen-def-euronews"
+  ]
+ },
+ {
+  "cell": "lisnard--defense",
+  "sourcesRead": [
+   "lis-def-diplomate",
+   "lis-def-nucleaire",
+   "lis-defense",
+   "lis-def-ukraine",
+   "lis-def-sud2024",
+   "lis-def-senfin",
+   "lis-def-sennuc"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "philippe--defense",
+  "sourcesRead": [
+   "phil-defense",
+   "phil-def-eurosatory",
+   "phil",
+   "phil-outre",
+   "phil-def-marine",
+   "phil-eu-st-raph",
+   "phil-eu-euronaval-lepen",
+   "phil-def-senat-lpm",
+   "phil-def-senat-snu"
+  ],
+  "sourcesUnreadable": [
+   "phil-eu-euronaval",
+   "phil-def-kyiv"
+  ]
+ },
+ {
+  "cell": "retailleau--defense",
+  "sourcesRead": [
+   "ret-def-sen2",
+   "ret-eu-bfm",
+   "ret-def-lci",
+   "ret-eu-defense",
+   "ret-def-nucleaire",
+   "ret-def-frs",
+   "ret-def-sen9",
+   "ret-def-ps"
+  ],
+  "sourcesUnreadable": [
+   "ret-def-point",
+   "pen-def-lpm"
+  ]
+ },
+ {
+  "cell": "roussel--defense",
+  "sourcesRead": [
+   "rou-prix-nov8",
+   "pcf-discours",
+   "repere-otan5",
+   "rou-def-inter",
+   "rou-def-volia",
+   "rou-def-lci",
+   "rou-def-cahier",
+   "rou-eu-congres",
+   "rou-def-mandon"
+  ],
+  "sourcesUnreadable": [
+   "pen-def-lpm",
+   "rou-def-haroche"
+  ]
+ },
+ {
+  "cell": "ruffin--defense",
+  "sourcesRead": [
+   "ruff-def-grand",
+   "ruff-def-crayon",
+   "ruff-industrie",
+   "ruff-def-lci",
+   "ruff-def-an2025",
+   "ruff-def-paix2022",
+   "ruff-def-mandon"
+  ],
+  "sourcesUnreadable": [
+   "ruff-def-monde2024",
+   "ruff-plan",
+   "ruff-programme"
+  ]
+ },
+ {
+  "cell": "tondelier--defense",
+  "sourcesRead": [
+   "tond-eu-tribune",
+   "tond-eu-pqv",
+   "tond-eu-dixi2",
+   "tond-fisc-budget",
+   "tond-def-ps2025",
+   "tond-def-avoirs-an",
+   "tond-eu-dixi",
+   "tond-def-legac"
+  ],
+  "sourcesUnreadable": [
+   "vert",
+   "tond-def-afp2026"
+  ]
+ },
+ {
+  "cell": "zemmour--defense",
+  "sourcesRead": [
+   "zem-fisc-bfm",
+   "zem-sec-priorites",
+   "zem-eu-dixi",
+   "zem-def-bfm25",
+   "zem-def-condamnation",
+   "zem-def-europe124",
+   "zem-def-discours22",
+   "zem-def-prog22",
+   "zem-eu-reconquete",
+   "zem-def-montaigne22",
+   "zem-def-lci25"
+  ],
+  "sourcesUnreadable": [
+   "pen-def-lpm"
+  ]
+ },
+ {
+  "cell": "melenchon--culture",
+  "sourcesRead": [
+   "mel-cult-programme",
+   "mel-serv-institutions",
+   "mel-cult-bourget",
+   "mel-cult-synthese",
+   "mel-dette-budget",
+   "mel-cult-reponse",
+   "mel-cult-pqv",
+   "mel-cult-actualitte",
+   "mel-cult-senat"
+  ],
+  "sourcesUnreadable": [
+   "mel-cult-mondegratuite",
+   "mel-cult-rsf",
+   "mel-cult-actujuridique",
+   "mel-cult-coalition",
+   "mel-cult-cinema"
+  ]
+ },
+ {
+  "cell": "attal--culture",
+  "sourcesRead": [
+   "att-jeunesse",
+   "att-cult-lyonmag",
+   "att-cult-fig2023",
+   "att-cult-municipales",
+   "att-cult-anhandicap",
+   "att-cult-cour2024",
+   "att-cult-senbudget",
+   "att-cult-cgt",
+   "att-cult-igac",
+   "att-cult-anretard",
+   "att-cult-an2022"
+  ],
+  "sourcesUnreadable": [
+   "att-cult-handicap2024",
+   "att-cult-mondeholding"
+  ]
+ },
+ {
+  "cell": "glucksmann--culture",
+  "sourcesRead": [
+   "gluck-cult-pacte26",
+   "dixi-oral",
+   "gluck-cult-senat24",
+   "gluck-cult-avignon",
+   "gluck-ecole-inter",
+   "gluck-cult-avignon-local",
+   "gluck-projet",
+   "gluck-cult-scam24",
+   "gluck-cult-sne25",
+   "ruff-cult-eac",
+   "gluck-cult-telerama25"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "le-pen--culture",
+  "sourcesRead": [
+   "pen-cult-influencia26",
+   "pen-cult-nominations",
+   "pen-fisc-rn",
+   "pen-cult-patrimoine22",
+   "pen-cult-an252",
+   "pen-cult-negrier24",
+   "zem-cult-scam26"
+  ],
+  "sourcesUnreadable": [
+   "pen-cult-lettre26",
+   "pen-cult-monde24",
+   "pen-cult-monde26"
+  ]
+ },
+ {
+  "cell": "lisnard--culture",
+  "sourcesRead": [
+   "lis-cult-civique",
+   "lis-cult-cannes",
+   "lis-cult-offre",
+   "lis-cult-technik",
+   "lis-cult-tribune",
+   "lis-cult-prive",
+   "lis-cult-spi",
+   "lis-cult-ftv"
+  ],
+  "sourcesUnreadable": [
+   "lis-cult-rtl",
+   "lis-cult-franceinfo",
+   "lis-cult-monde-canal",
+   "lis-cult-monde-artistes"
+  ]
+ },
+ {
+  "cell": "philippe--culture",
+  "sourcesRead": [
+   "phil-cult-oral",
+   "phil-cult-dixi",
+   "phil-cult-horizons",
+   "phil-cult-havre26",
+   "phil-cult-oceanes",
+   "phil-cult-sma",
+   "phil",
+   "phil-cult-sud"
+  ],
+  "sourcesUnreadable": [
+   "phil-cult-jdd",
+   "phil-cult-livre",
+   "phil-cult-havre24",
+   "phil-cult-local",
+   "phil-cult-morancais"
+  ]
+ },
+ {
+  "cell": "retailleau--culture",
+  "sourcesRead": [
+   "ret-cult-ecole",
+   "lr-fin",
+   "lr-projet",
+   "ret-cult-sud",
+   "ret-sec-fig",
+   "ret-cult-perimetre",
+   "ret-cult-creches",
+   "ret-cult-afp",
+   "af-cdc-du"
+  ],
+  "sourcesUnreadable": [
+   "ret-cult-ernotte"
+  ]
+ },
+ {
+  "cell": "roussel--culture",
+  "sourcesRead": [
+   "rou-cult-bollore",
+   "rou-cult-ia",
+   "rou-cult-pacte",
+   "rou-cult-patrimoine",
+   "rou-cult-ce",
+   "rou-cult-syndeac",
+   "pcf-ecole",
+   "rou-inst-prog22",
+   "rou-cult-courrier",
+   "rou-cult-frandroid",
+   "rou-cult-flac",
+   "rou-cult-bourdin"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "ruffin--culture",
+  "sourcesRead": [
+   "ruff-loisirs",
+   "ruff-cult-avignon",
+   "ruff-cult-budget",
+   "ruff-plan",
+   "ruff-cult-courpass",
+   "ruff-cult-eac",
+   "ruff-cult-tf1",
+   "ruff-cult-micro",
+   "ruff-cult-mecenat"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "tondelier--culture",
+  "sourcesRead": [
+   "dixi-oral",
+   "tond-cult-avignon",
+   "tond-cult-newstank (partie publique)",
+   "ruff-cult-courpass",
+   "tond-cult-livres",
+   "mel-cult-senat",
+   "vert (copie locale /tmp/pqv-docs/vert-miroir.txt, chapitre 26, p. 98-101)"
+  ],
+  "sourcesUnreadable": [
+   "vert-culture (403 Forbidden)",
+   "tond-cult-lancement (403 Forbidden)",
+   "vert (403 via fetch, vérifié via la copie locale)"
+  ]
+ },
+ {
+  "cell": "zemmour--culture",
+  "sourcesRead": [
+   "zem-def-prog22",
+   "zem-cult-montaigne22",
+   "zem-cult-actualitte22",
+   "zem-cult-allocine22",
+   "zem-cult-box22",
+   "zem-cult-scam26",
+   "knafo",
+   "zem-sec-priorites",
+   "zem-eu-dixi"
+  ],
+  "sourcesUnreadable": [
+   "zem-cult-knafojdd25",
+   "zem-cult-monde26",
+   "zem-fisc-pqv"
+  ]
+ },
+ {
+  "cell": "melenchon--numerique",
+  "sourcesRead": [
+   "mel-num-reporterre",
+   "mel-sec-lcp2027",
+   "mel-dette-budget",
+   "mel-num-decolon",
+   "mel-serv-numerique",
+   "mel-num-bourget",
+   "mel-cult-pqv",
+   "mel-prix-besoins",
+   "mel-num-synth"
+  ],
+  "sourcesUnreadable": [
+   "mel-num-monde",
+   "mel-num-intro"
+  ]
+ },
+ {
+  "cell": "attal--numerique",
+  "sourcesRead": [
+   "att-ia",
+   "att-num-mistral",
+   "att-eu-vivatech",
+   "att-num-pqv",
+   "att-eu-piac",
+   "att-num-formation",
+   "att-num-echos",
+   "att-jeunesse",
+   "att-num-justice",
+   "af-lci-pme",
+   "att-num-referendum",
+   "gluck-num-cc",
+   "att-num-cyber2024",
+   "att-num-crit-age",
+   "att-num-crit-albert"
+  ],
+  "sourcesUnreadable": [
+   "att-num-albert2024",
+   "att-num-crit-cgt"
+  ]
+ },
+ {
+  "cell": "glucksmann--numerique",
+  "sourcesRead": [
+   "gluck-trav-ebra",
+   "dixi-oral",
+   "gluck-climat",
+   "gluck-eu-dsa",
+   "gluck-num-depeche",
+   "gluck-num-meta",
+   "gluck-ter-ddd",
+   "gluck-num-cnil"
+  ],
+  "sourcesUnreadable": [
+   "gluck-projet",
+   "gluck-num-cc"
+  ]
+ },
+ {
+  "cell": "le-pen--numerique",
+  "sourcesRead": [
+   "pen-num-europe1",
+   "pen-eu-cnews",
+   "pen-num-2024",
+   "pen-num-2022",
+   "pen-num-numerama",
+   "pen-fisc-rn",
+   "pen-num-latombe",
+   "pen-num-forensics-etude"
+  ],
+  "sourcesUnreadable": [
+   "pen-num-lebreton",
+   "pen-num-forensics"
+  ]
+ },
+ {
+  "cell": "lisnard--numerique",
+  "sourcesRead": [
+   "lis-ia",
+   "lis-num-souveraine24",
+   "lis-num-opinion26",
+   "lis-fisc-industrie",
+   "pqv-lis-oral",
+   "lis-def-diplomate",
+   "lis-eu-dixi",
+   "lis-num-nvo26",
+   "lis-num-ddd24 (lecture partielle)"
+  ],
+  "sourcesUnreadable": [
+   "lis-num-vsa25 (Le Monde, HTTP 402 Payment Required)"
+  ]
+ },
+ {
+  "cell": "philippe--numerique",
+  "sourcesRead": [
+   "phil-ia",
+   "phil-ecole",
+   "phil-eu-st-raph",
+   "phil-num-maddy",
+   "phil-cult-dixi",
+   "phil-num-politico",
+   "phil-num-adlc",
+   "phil-num-rte",
+   "lis-num-ddd24"
+  ],
+  "sourcesUnreadable": [
+   "phil-num-profs"
+  ]
+ },
+ {
+  "cell": "retailleau--numerique",
+  "sourcesRead": [
+   "ret-num-marianne",
+   "ret-num-centres",
+   "ret-num-livret",
+   "ret-def-lci",
+   "ret-num-donnees",
+   "ret-eu-num",
+   "ret-num-etat",
+   "dixi-oral",
+   "ret-num-formation",
+   "ret-num-pme",
+   "ret-num-regles",
+   "ret-num-cyber",
+   "ret-num-acteurs",
+   "ret-num-mazzola",
+   "ret-num-nextlab",
+   "ret-num-lcp",
+   "ret-num-numeum"
+  ],
+  "sourcesUnreadable": []
+ },
+ {
+  "cell": "roussel--numerique",
+  "sourcesRead": [
+   "rou-cult-ia",
+   "rou-prix-nov8",
+   "rou-num-auteurs",
+   "rou-num-oit26",
+   "rou-num-oit25",
+   "rou-num-sen435",
+   "rou-num-senenv",
+   "rou-inst-prog22",
+   "rou-cult-ce"
+  ],
+  "sourcesUnreadable": [
+   "repere-ia-modele",
+   "repere-ia-apprentissage",
+   "repere-datacentres"
+  ]
+ },
+ {
+  "cell": "ruffin--numerique",
+  "sourcesRead": [
+   "ruff-num-resolution",
+   "ruff-numerique",
+   "ruff-def-grand",
+   "ruff-industrie",
+   "ruff-num-obs20",
+   "ruff-secu-frinfo",
+   "ruff-num-numerama"
+  ],
+  "sourcesUnreadable": [
+   "ruff-num-localtis"
+  ]
+ },
+ {
+  "cell": "tondelier--numerique",
+  "sourcesRead": [
+   "tond-num-tribune",
+   "tond-num-carnet",
+   "tond-num-lci",
+   "tond-num-terrestres",
+   "tond-num-arcep"
+  ],
+  "sourcesUnreadable": [
+   "vert",
+   "tond-num-jdd"
+  ]
+ },
+ {
+  "cell": "zemmour--numerique",
+  "sourcesRead": [
+   "zem-ind-robots-dep",
+   "zem-fisc-bfm",
+   "zem-eu-dixi",
+   "zem-eu-edc",
+   "zem-num-cope26",
+   "zem-def-prog22",
+   "zem-eu-reconquete",
+   "zem-num-adn22"
+  ],
+  "sourcesUnreadable": [
+   "zem-num-discours26"
+  ]
+ }
+]
