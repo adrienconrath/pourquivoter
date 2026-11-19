@@ -13,7 +13,7 @@ await fs.mkdir(out, {recursive: false});
 const items = [
   {name:'youtube-roussel',sourceId:'rou-eu-grand-lci',url:'https://www.youtube.com/watch?v=ojWGei6jeY8',clip:{x:0,y:0,width:950,height:730}},
   {name:'tf1-debat',sourceId:'af-tf1-restos',url:'https://www.tf1info.fr/politique/elections/presidentielle/quelle-societe-pour-demain-precarite-logement-retraites-revoyez-les-temps-forts-du-debat-organise-par-lci-en-association-avec-les-restos-du-coeur-2471255.html',clip:{x:0,y:0,width:1360,height:470}},
-  {name:'tf1-zemmour',sourceId:'zem-tf1',url:'https://www.tf1info.fr/politique/videos/video-presidentielle-2027-eric-zemmour-officialise-sa-candidature-au-20h-de-tf1-4341-2475122.html',clip:{x:0,y:0,width:1360,height:470}},
+  {name:'alternatives-ruffin',sourceId:'ruff-ret-alter26',url:'https://www.alternatives-economiques.fr/francois-ruffin-il-est-temps-de-refermer-la-parenthese-liberale',clip:{x:0,y:0,width:1360,height:610}},
 ];
 const browser = await chromium.launch({headless:true,args:['--no-sandbox']});
 const records=[];
@@ -24,7 +24,7 @@ try {
     if (!response?.ok()) throw Error('Could not load '+item.name);
     await page.waitForTimeout(2500);
     for (const frame of page.frames()) {
-      for (const label of ['Tout refuser','Refuser tout','Continuer sans accepter','Reject all']) {
+      for (const label of ['Tout refuser','Refuser tout','Continuer sans accepter','Reject all','REFUSER']) {
         const target=frame.getByText(label,{exact:true});
         if (await target.count()) {
           try { await target.first().click({timeout:2000,force:true}); } catch {}

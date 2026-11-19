@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="fr">
 <head>
-  <meta charset="utf-8"><title>Pour qui voter · Instagram · V002</title>
+  <meta charset="utf-8"><title>Pour qui voter · Instagram · V003</title>
   <link rel="stylesheet" href="film.css">
   <script src="node_modules/gsap/dist/gsap.min.js"></script>
 </head>
@@ -11,9 +11,9 @@
     <div class="kicker">PRÉSIDENTIELLE 2027</div>
     <h1 class="headline">Des milliers<br>de ressources.</h1>
     <div class="paper-stack hero-asset">
-      <div class="document doc-one"><div class="reference-bar">TF1 INFO · DÉBAT</div><img src="assets/references/v001/tf1-debat.png" alt="Vraie capture du débat LCI et Restos du Cœur sur TF1 Info"></div>
-      <div class="document doc-two"><div class="reference-bar">YOUTUBE · LCI</div><img src="assets/references/user-v001/youtube-restos-du-coeur.png" alt="Capture YouTube du débat des Restos du Cœur fournie par le créateur"></div>
-      <div class="document doc-three"><div class="reference-bar">TF1 INFO · INTERVIEW</div><img src="assets/references/v001/tf1-zemmour.png" alt="Vraie capture de l’interview d’Éric Zemmour au 20H de TF1"></div>
+      <div class="document doc-one"><div class="reference-bar">TF1 INFO · DÉBAT</div><img src="assets/references/v002/tf1-debat.png" alt="Vraie capture du débat LCI et Restos du Cœur sur TF1 Info"></div>
+      <div class="document doc-two"><div class="reference-bar">YOUTUBE</div><img src="assets/references/user-v001/youtube-restos-du-coeur.png" alt="Capture YouTube du débat des Restos du Cœur fournie par le créateur"></div>
+      <div class="document doc-three"><div class="reference-bar">PRESSE ÉCRITE</div><img src="assets/references/v002/alternatives-ruffin.png" alt="Entretien de François Ruffin dans Alternatives économiques"></div>
     </div>
   </section>
   <section class="scene dark" id="me">

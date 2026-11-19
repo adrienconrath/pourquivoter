@@ -1,0 +1,48 @@
+{
+  "capturedAt": "2026-11-19T10:14:58.745Z",
+  "note": "Captures réelles de pages déjà référencées par le site. Extraits du titre, de l’en-tête et des images ; aucun article complet. Les médias et personnes représentés ne soutiennent pas ce projet.",
+  "records": [
+    {
+      "name": "youtube-roussel",
+      "sourceId": "rou-eu-grand-lci",
+      "url": "https://www.youtube.com/watch?v=ojWGei6jeY8",
+      "clip": {
+        "x": 0,
+        "y": 0,
+        "width": 950,
+        "height": 730
+      },
+      "file": "youtube-roussel.png",
+      "title": "La Grande Confrontation avec Fabien Roussel｜LCI - YouTube",
+      "sha256": "3a594935fe4e98819a67dce920e4307f6dfa2abfa242cf4f67c66914449b918e"
+    },
+    {
+      "name": "tf1-debat",
+      "sourceId": "af-tf1-restos",
+      "url": "https://www.tf1info.fr/politique/elections/presidentielle/quelle-societe-pour-demain-precarite-logement-retraites-revoyez-les-temps-forts-du-debat-organise-par-lci-en-association-avec-les-restos-du-coeur-2471255.html",
+      "clip": {
+        "x": 0,
+        "y": 0,
+        "width": 1360,
+        "height": 470
+      },
+      "file": "tf1-debat.png",
+      "title": "\"Quelle société pour demain ?\" : précarité, logement, retraites... revoyez les temps forts du débat organisé par LCI en association avec les Restos du Cœur | TF1 Info",
+      "sha256": "96db60c264e2cb80dde6703ce56d74f4f76e0ae825e8d41bdfadc1bed7d7cea9"
+    },
+    {
+      "name": "alternatives-ruffin",
+      "sourceId": "ruff-ret-alter26",
+      "url": "https://www.alternatives-economiques.fr/francois-ruffin-il-est-temps-de-refermer-la-parenthese-liberale",
+      "clip": {
+        "x": 0,
+        "y": 0,
+        "width": 1360,
+        "height": 610
+      },
+      "file": "alternatives-ruffin.png",
+      "title": "François Ruffin : « Il est temps de refermer la parenthèse libérale » | Alternatives économiques",
+      "sha256": "a3bdbee82b6b2975ae00234124a0a66de42a391c7ce4dfff98e82a71f5ad83dc"
+    }
+  ]
+}

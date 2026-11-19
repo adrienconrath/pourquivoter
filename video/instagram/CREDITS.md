@@ -42,3 +42,8 @@ L’ouverture montre des extraits réels des pages suivantes, déjà référenc�
 - TF1 Info : [interview d’Éric Zemmour au 20H](https://www.tf1info.fr/politique/videos/video-presidentielle-2027-eric-zemmour-officialise-sa-candidature-au-20h-de-tf1-4341-2475122.html), source `zem-tf1`.
 
 Les marques, images et interfaces de ces captures appartiennent à leurs titulaires respectifs. Les empreintes, URLs et cadrages sont consignés dans `assets/references/v001/manifest.json` et `assets/references/user-v001/manifest.json` et `assets/references/user-v001/manifest.json` ; ces fichiers ne sont pas proposés sous la licence des portraits Wikimedia. La V002 réutilise la voix Dorian et la musique ElevenLabs de la V001, avec retrait du suffixe oral de l’adresse et sans nouvelle génération.
+
+
+## Mise à jour des captures — V003
+
+La troisième carte est remplacée par l’[entretien écrit de François Ruffin dans Alternatives économiques, par Eva Moysan et Vincent Grimault, 11 juillet 2026](https://www.alternatives-economiques.fr/francois-ruffin-il-est-temps-de-refermer-la-parenthese-liberale), source `ruff-ret-alter26`. Seuls l’en-tête, le titre, le chapô et la signature sont montrés. La capture et son empreinte figurent dans `assets/references/v002/` ; le texte intégral n’est pas reproduit. Le journal ne soutient pas le projet. La carte TF1 du débat et la capture YouTube fournie par le créateur sont conservées. Les médias antérieurs restent archivés avec leurs livraisons.
