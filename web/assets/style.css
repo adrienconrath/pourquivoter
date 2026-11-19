@@ -23,9 +23,9 @@ p,h1,h2,h3,h4,h5{margin:0}
 .back-link{font-size:.85rem;font-weight:650}
 .hero{background:var(--hero);border-bottom:1px solid var(--line)}
 .hero-layout{display:flex;align-items:center;padding-block:8px}
-.hero .election-title{display:flex;align-items:baseline;gap:0 14px;font-size:clamp(26px,3.3vw,48px);line-height:1.08;letter-spacing:-.025em}
+.hero .election-title{display:flex;align-items:baseline;gap:0 14px;font-size:clamp(26px,3vw,42px);line-height:1.08;letter-spacing:-.025em}
 .election-year,.site-title{white-space:nowrap}
-.site-title{font-size:.68em;letter-spacing:-.02em}
+.site-title{font-size:1em;letter-spacing:-.02em}
 .title-divider{font-family:var(--sans);font-size:.52em;color:var(--muted)}
 .edition-top,.evidence{font-size:.73rem;font-weight:700;letter-spacing:.075em;text-transform:uppercase}
 h1,h2,.theme-heading h3{font-family:var(--serif);font-weight:400;line-height:.98}
@@ -42,7 +42,7 @@ h1 em{font-weight:400;color:#63574a}
 .wide{width:calc(100% - 32px);margin-inline:auto}
 .compare-section{--open-track:clamp(290px,30vw,440px);padding-block:14px 18px;flex:1;display:flex;flex-direction:column}
 .section-head{display:flex;align-items:baseline;flex-wrap:wrap;gap:3px 16px;margin-bottom:9px}
-.section-head h2{font-size:clamp(29px,3vw,43px);letter-spacing:-.025em}
+.section-head h2{font-size:clamp(24px,2.5vw,36px);letter-spacing:-.025em}
 .section-head p{font-size:.79rem;color:var(--muted)}
 .theme-picker{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1.13fr) minmax(0,1.13fr) minmax(0,1.46fr) minmax(0,.74fr) minmax(0,.71fr);gap:6px}
 .theme-stack{min-width:0;padding:5px 6px 6px;background:var(--card);border:1px solid var(--line);border-radius:5px}
@@ -160,7 +160,7 @@ footer{border-top:1px solid var(--line);color:var(--muted);font-size:.83rem}
   .nav,.foot{min-height:50px;gap:10px}
   .brand{font-size:24px;gap:4px}
   .brand-mark{font-size:18px}
-  .hero .election-title{font-size:clamp(22px,6.5vw,30px);gap:0 8px}
+  .hero .election-title{font-size:clamp(22px,7vw,30px);gap:0 8px}
   .edition-top{font-size:.58rem}
   .section-head p{display:none}
   .theme-options button{padding-block:5px}
