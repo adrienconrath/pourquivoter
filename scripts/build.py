@@ -67,10 +67,75 @@ def source_refs(refs):
     return ids
 
 
-def claim(value, refs):
+GLOSSARY = {}
+GLOSSARY_RX = None
+GLOSSARY_KEYS = {}
+GLOSSARY_USED = set()
+
+
+def is_acronym(form):
+    return form.upper() == form and any(char.isalpha() for char in form)
+
+
+def compile_glossary(items):
+    """Un seul motif, formes les plus longues d'abord ; les sigles respectent la casse."""
+    global GLOSSARY, GLOSSARY_RX, GLOSSARY_KEYS
+    GLOSSARY, GLOSSARY_KEYS = items, {}
+    alternatives = []
+    for item in items.values():
+        item["form_list"] = [form.strip() for form in item["forms"].split(";;") if form.strip()]
+        if not item["form_list"] or "|" in item["sentence"] or "\n" in item["sentence"]:
+            raise ValueError(f"Entrée de glossaire invalide : {item['id']}")
+        https(item["url"])
+        for form in item["form_list"]:
+            exact = is_acronym(form)
+            key = form if exact else form.casefold()
+            if key in GLOSSARY_KEYS and GLOSSARY_KEYS[key] != item["id"]:
+                raise ValueError(f"Forme de glossaire en double : {form}")
+            GLOSSARY_KEYS[key] = item["id"]
+            alternatives.append((len(form), re.escape(form) if exact else f"(?i:{re.escape(form)})"))
+    alternatives.sort(key=lambda alternative: -alternative[0])
+    GLOSSARY_RX = re.compile(
+        r"(?<![\w’'-])(?:" + "|".join(pattern for _, pattern in alternatives) + r")(?!\w)"
+    ) if alternatives else None
+
+
+def render_text(value, seen=None):
+    """Échappe le texte et relie la première occurrence de chaque terme du glossaire (par bloc)."""
+    if seen is None or GLOSSARY_RX is None:
+        return escape(value)
+    parts, position = [], 0
+    for match in GLOSSARY_RX.finditer(value):
+        text = match.group(0)
+        key = GLOSSARY_KEYS.get(text) or GLOSSARY_KEYS.get(text.casefold())
+        if key is None or key in seen:
+            continue
+        seen.add(key)
+        GLOSSARY_USED.add(key)
+        parts.append(escape(value[position:match.start()]))
+        parts.append(
+            f'<a class="gl" href="{https(GLOSSARY[key]["url"])}" target="_blank" rel="noopener" '
+            f'data-gl="{key}">{escape(text)}</a>'
+        )
+        position = match.end()
+    parts.append(escape(value[position:]))
+    return "".join(parts)
+
+
+def glossary_json():
+    import json
+    data = {
+        key: {"label": GLOSSARY[key]["label"], "source": GLOSSARY[key]["source"],
+              "url": GLOSSARY[key]["url"], "sentence": GLOSSARY[key]["sentence"]}
+        for key in sorted(GLOSSARY_USED)
+    }
+    return json.dumps(data, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+
+
+def claim(value, refs, seen=None):
     ids = source_refs(refs)
     return (
-        f'<div class="claim" data-sources="{escape(" ".join(ids))}">{escape(value)}</div>'
+        f'<div class="claim" data-sources="{escape(" ".join(ids))}">{render_text(value, seen)}</div>'
     )
 
 
@@ -141,11 +206,11 @@ POSITION_FIELDS = (
     ("critique", "Critiques, réponses et points à vérifier"),
 )
 
-def position_field(field, label, records):
+def position_field(field, label, records, seen=None):
     if records:
         body = "".join(
             f'<li><span class="evidence">{escape(record["kind"])}</span>'
-            f'{claim(record["text"], record["refs"])}</li>'
+            f'{claim(record["text"], record["refs"], seen)}</li>'
             for record in records
         )
         body = f'<ul class="position-notes">{body}</ul>'
@@ -162,16 +227,17 @@ def comparison(theme, people, entries):
         fields = entries.get((key, person_key))
         if fields:
             summary = fields["resume"]
-            intro = "".join(claim(record["text"], record["refs"]) for record in summary)
+            seen_summary, seen_details = set(), set()
+            intro = "".join(claim(record["text"], record["refs"], seen_summary) for record in summary)
             measures = sorted(
                 (record for field in ("orientation", "mesure", "explication")
                  for record in fields.get(field, [])),
                 key=lambda record: record["sequence"],
             )
             details = (
-                position_field("mesure", "Mesures", measures)
-                + position_field("financement", "Financement", fields.get("financement", []))
-                + position_field("critique", "Points à vérifier", fields.get("critique", []))
+                position_field("mesure", "Mesures", measures, seen_details)
+                + position_field("financement", "Financement", fields.get("financement", []), seen_details)
+                + position_field("critique", "Points à vérifier", fields.get("critique", []), seen_details)
             )
             refs = [f"bio-{person_key}", *(
                 ref for records in fields.values() for record in records
@@ -211,6 +277,7 @@ def validate():
     themes = indexed(rows("themes", "id group name question"))
     all_sources = indexed(rows("sources", "id title kind url"))
     images = indexed(rows("portraits", "id url credit license"))
+    compile_glossary(indexed(rows("glossaire", "id label source url forms sentence")))
     if set(people) != set(images):
         raise ValueError("Chaque profil doit avoir exactement un portrait.")
     for record in images.values():
@@ -294,6 +361,7 @@ def build(snapshot, generated):
         timeline=timeline, candidate_count=str(len(people)),
         theme_filters=filters, column_headers=column_headers, candidate_picker=candidate_picker,
         comparisons="".join(comparison(t, people, entries) for t in themes.values()),
+        glossary_data="",
         snapshot=f'<time datetime="{snapshot}">{word_date(snapshot)}</time>',
         generated=f'<time datetime="{generated}">{word_date(generated)}</time>',
     )
@@ -303,6 +371,7 @@ def build(snapshot, generated):
     def render(template, values):
         return re.sub(r"\{\{(\w+)\}\}", lambda match: values[match[1]], template)
 
+    replacements["glossary_data"] = glossary_json()
     (DIST / "index.html").write_text(render(body, replacements), encoding="utf-8")
     profile_template = (ROOT / "web/profile.html").read_text(encoding="utf-8")
     profile_dir = DIST / "profils"
@@ -325,7 +394,8 @@ def build(snapshot, generated):
     analyses = sum(len(fields.get("critique", [])) for fields in entries.values())
     print(
         f"{len(people)} profils · {len(themes)} thèmes · {len(entries)} comparaisons documentées · "
-        f"{notes} notes, dont {analyses} points critiques · {len(sources)} sources"
+        f"{notes} notes, dont {analyses} points critiques · {len(sources)} sources · "
+        f"{len(GLOSSARY_USED)}/{len(GLOSSARY)} termes du glossaire reliés"
     )
 
 

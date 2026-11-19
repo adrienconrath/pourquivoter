@@ -78,6 +78,7 @@ function updateBoard() {
   board.hidden = columnScroll.hidden = expanded.length === 0;
   clearThemes.disabled = count === 0;
   closeColumns.disabled = expanded.length === 0;
+  window.dispatchEvent(new Event("pqv:selection"));
   resultCount.textContent = `${expanded.length} ${expanded.length === 1 ? "colonne ouverte" : "colonnes ouvertes"} · ${count} ${count === 1 ? "thème" : "thèmes"}`;
 }
 
