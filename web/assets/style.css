@@ -170,3 +170,25 @@ footer{border-top:1px solid var(--line);color:var(--muted);font-size:.83rem}
 .github-link{display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;border:1px solid var(--line);border-radius:50%;flex:none;background:var(--card)}
 .github-link img{width:24px;height:24px}
 .github-link:hover{background:var(--soft);border-color:var(--muted)}
+.foot-actions{display:flex;align-items:center;gap:8px}
+.theme-toggle{display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;padding:0;border:1px solid var(--line);border-radius:50%;background:var(--card);color:var(--muted);font-size:19px;line-height:1}
+.theme-toggle:hover{background:var(--soft);color:var(--ink);border-color:var(--muted)}
+[data-theme="dark"]{color-scheme:dark;--paper:#1d1a16;--card:#25211c;--ink:#ece5d8;--muted:#a79b87;--line:#3d372c;--soft:#2b2620;--hero:#211d18}
+[data-theme="dark"] .skip{background:var(--card)}
+[data-theme="dark"] button:focus-visible,[data-theme="dark"] a:focus-visible,[data-theme="dark"] summary:focus-visible,[data-theme="dark"] input:focus-visible{outline-color:#c9a87c}
+[data-theme="dark"] h1 em{color:#b7a88f}
+[data-theme="dark"] .edition-top{color:var(--muted)}
+[data-theme="dark"] .portrait{background:#3a342a}
+[data-theme="dark"] .theme-options button:hover,[data-theme="dark"] .candidate-choice:hover{border-color:#c9a87c}
+[data-theme="dark"] .candidate-choice[aria-pressed=true]{border-color:#c9a87c;background:#c9a87c}
+[data-theme="dark"] .column-scroll,[data-theme="dark"] .compare-board.is-interactive{border-color:#4a4335}
+[data-theme="dark"] .candidate-columns{border-bottom-color:#4a4335}
+[data-theme="dark"] .column-header{border-right-color:#4a4335;background:#2e2921;border-bottom-color:#c9a87c}
+[data-theme="dark"] .position:target{outline-color:#c9a87c}
+[data-theme="dark"] .is-interactive .position{border-right-color:#4a4335}
+[data-theme="dark"] .disclosure>summary,[data-theme="dark"] .position-field h5{color:#c4b49c}
+[data-theme="dark"] .position-notes .evidence{color:#cfc0a6}
+[data-theme="dark"] .position-critique{border-left-color:#6b5f4c;background:#2b251c}
+[data-theme="dark"] .status{color:#cfc0a6}
+[data-theme="dark"] .choice-mark{background:#3aa655}
+[data-theme="dark"] .github-link img{filter:invert(1)}
