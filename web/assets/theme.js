@@ -3,10 +3,9 @@ const THEME_COLORS = {light: "#f7f5f0", dark: "#1d1a16"};
 
 function savedTheme() {
   try {
-    const saved = localStorage.getItem(THEME_KEY);
-    if (saved === "dark" || saved === "light") return saved;
+    if (localStorage.getItem(THEME_KEY) === "dark") return "dark";
   } catch (error) {}
-  return matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+  return "light";
 }
 
 function applyTheme(theme) {
