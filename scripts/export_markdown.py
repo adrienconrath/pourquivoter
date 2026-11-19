@@ -113,9 +113,10 @@ def export(dist=DIST):
         for theme in themes.values():
             fields = entries[(theme["id"], person["id"])]
             (person_dir / f"{theme['id']}.md").write_text(
-                render_case(person, theme, fields, sources, snapshot), encoding="utf-8"
+                render_case(person, theme, fields, sources, snapshot), encoding="utf-8-sig"
             )
-    (dist / "llms.txt").write_text(render_llms_txt(people, themes, snapshot), encoding="utf-8")
+    # BOM UTF-8 : les .txt/.md sont servis sans charset, le BOM force la détection.
+    (dist / "llms.txt").write_text(render_llms_txt(people, themes, snapshot), encoding="utf-8-sig")
     count = len(people) * len(themes)
     print(f"{count} fichiers Markdown + llms.txt dans {dist.relative_to(ROOT)}/")
 
