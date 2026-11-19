@@ -1,0 +1,1513 @@
+[
+  {
+    "theme": "dette",
+    "candidat": "le-pen",
+    "statut": "corrige",
+    "motif": "Le terme équilibre primaire était inexpliqué et la contestation finale anonyme. L’objectif hors intérêts est traduit sans le confondre avec l’équilibre de l’ensemble du budget.",
+    "texte_avant": "Marine Le Pen vise un déficit sous 3 % en 2030, avec un ajustement de 140 milliards d’euros en 2032 par rapport à 2026. Elle promet aussi au moins 30 milliards de baisses d’impôts nettes. Son équilibre primaire attendu en dix-huit mois laisse les intérêts à financer. Les rendements de certaines économies et recettes, ainsi que les accords européens nécessaires, restent contestés.",
+    "texte_apres": "Marine Le Pen vise un déficit inférieur à 3 % de la richesse nationale en 2030 et un effort budgétaire de 140 milliards d’euros en 2032 par rapport à 2026. Elle promet aussi au moins 30 milliards de baisses d’impôts nettes. En dix-huit mois, elle veut que les recettes couvrent les dépenses hors intérêts de la dette. Cet « équilibre primaire » laisserait donc encore les intérêts à payer.",
+    "sources_avant": "pen-dette-rtl-plan,pen-fin-prim",
+    "sources_apres": "pen-dette-rtl-plan,pen-fin-prim",
+    "verification_sources": [
+      "https://www.marinelepen.com/actualites/marine-le-pen-presente-un-plan-de-redressement-budgetaire-pour-la-france"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "dette",
+    "candidat": "lisnard",
+    "statut": "corrige",
+    "motif": "La réserve abstraite sur les « restrictions sociales » ne disait pas quelles dépenses changeraient. Les contreparties sont nommées et le montant de fin de mandat reste annuel.",
+    "texte_avant": "David Lisnard vise 80 milliards d’euros d’économies la première année, puis 200 milliards annuels en 2032. Nouvelle Énergie en affecte 160 milliards aux baisses de prélèvements et 40 milliards à la dette. Les réorganisations administratives et les restrictions sociales proposées attendent encore un tableau complet de rendement et de calendrier.",
+    "texte_apres": "David Lisnard vise 80 milliards d’euros d’économies la première année, puis 200 milliards par an en 2032. Son parti en affecterait 120 milliards aux prélèvements sur le travail, 40 aux impôts de production et 40 au redressement des comptes. Il compte notamment réduire les dépenses administratives, plafonner des prestations et moins revaloriser certaines pensions. Ces économies sont des objectifs de campagne, pas des sommes déjà disponibles.",
+    "sources_avant": "lis-fin,lis-prix-achat",
+    "sources_apres": "lis-fin,lis-prix-achat,lis-eco",
+    "verification_sources": [
+      "https://www.unenouvelleenergie.fr/questions/quelles-economies-david-lisnard-propose-t-il-et-ou-exactement/",
+      "https://www.unenouvelleenergie.fr/questions/le-programme-de-david-lisnard-est-il-chiffre/",
+      "https://www.unenouvelleenergie.fr/questions/que-propose-david-lisnard-pour-le-pouvoir-d-achat/"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "dette",
+    "candidat": "retailleau",
+    "statut": "corrige",
+    "motif": "Le terme ajustement et les restrictions sociales étaient abstraits ; le déficit en pourcentage n’avait pas de dénominateur. Les leviers et le sens de l’objectif sont explicités.",
+    "texte_avant": "Bruno Retailleau annonce un ajustement annuel de 197 milliards d’euros en 2032 : 146 milliards réduiraient le déficit et 51 financeraient des baisses de prélèvements. Il vise 2,2 % de déficit en fin de mandat. Les suppressions de postes et les restrictions de dépenses sociales structurent son effort ; les rendements et les recoupements entre mesures restent à vérifier.",
+    "texte_apres": "Bruno Retailleau vise un effort budgétaire annuel de 197 milliards d’euros en 2032 : 146 milliards pour réduire le déficit et 51 pour baisser les prélèvements. Il prévoit notamment de ne pas remplacer 400 000 départs en retraite dans la fonction publique et de réduire certaines dépenses de retraites, de chômage et d’aides sociales. Son objectif reste un déficit de 2,2 % de la richesse nationale en fin de mandat, pas un budget à l’équilibre.",
+    "sources_avant": "ret-dette-trajectoire,ret-dette-deficit",
+    "sources_apres": "ret-dette-trajectoire,ret-dette-deficit,ret-dette-etat,ret-dette-lcp",
+    "verification_sources": [
+      "https://www.avecretailleau.fr/projet/mesure/la-trajectoire-financiere-du-projet-197-md-dont-146-md-pour"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "dette",
+    "candidat": "zemmour",
+    "statut": "corrige",
+    "motif": "Le partage « entre prélèvements et déficit » et la liste de restrictions étaient abstraits. Les leviers concrets et le statut annuel de l’objectif sont précisés.",
+    "texte_avant": "Éric Zemmour vise 280 milliards d’euros de dépenses en moins par an en 2032, partagés également entre baisses de prélèvements et déficit. Effectifs publics réduits, agences et prestations supprimées structurent le projet. La décomposition complète, les coûts de transformation et les gains nets restent à établir.",
+    "texte_apres": "Éric Zemmour vise 280 milliards d’euros de dépenses publiques en moins par an en 2032. Il en consacrerait la moitié aux baisses de prélèvements et l’autre à la réduction du déficit. Il prévoit notamment de supprimer 800 000 emplois publics, de fermer des agences et de limiter le revenu de solidarité active à trois ans. Il ne publie pas encore de calendrier financier complet pour atteindre cette enveloppe.",
+    "sources_avant": "zem-fisc-jdd,zem-eu-dixi",
+    "sources_apres": "zem-fisc-jdd,zem-eu-dixi",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case.",
+      "Accès web échoué ou bloqué lors de cette passe : https://dixipolis.com/video/225941"
+    ]
+  },
+  {
+    "theme": "prix",
+    "candidat": "le-pen",
+    "statut": "corrige",
+    "motif": "Développer le sigle TVA pour rendre le mécanisme fiscal lisible sans connaissances préalables ; préserver la distinction entre baisse de taxe et baisse effective des prix.",
+    "texte_avant": "Marine Le Pen propose de supprimer la TVA sur des produits essentiels et de la ramener à 5,5 % sur les énergies. Elle encourage des hausses salariales de 10 % par des exonérations patronales, à la décision des entreprises. Le gain dépendrait de la transmission des baisses de taxe aux prix payés.",
+    "texte_apres": "Marine Le Pen propose de supprimer la taxe sur la valeur ajoutée (TVA) sur des produits essentiels et de la ramener à 5,5 % sur les énergies. Elle encourage des hausses salariales de 10 % par des exonérations patronales, à la décision des entreprises. Le gain dépendrait de la transmission des baisses de taxe aux prix payés.",
+    "sources_avant": "pen-prix-rtl,pen-prix-salaires,pen-prix-jdn",
+    "sources_apres": "pen-prix-rtl,pen-prix-salaires,pen-prix-jdn",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "prix",
+    "candidat": "lisnard",
+    "statut": "corrige",
+    "motif": "Le lien entre obligations d’économies d’énergie et prix à la pompe était inexpliqué. La condition de transmission est désormais rattachée aux seuls carburants, pas aux salaires.",
+    "texte_avant": "David Lisnard veut augmenter le salaire net par des baisses de prélèvements, financées par des économies publiques. Il veut aussi suspendre six mois les obligations d’économies d’énergie sur les carburants. Les gains dépendent des économies réalisées et de leur transmission aux prix.",
+    "texte_apres": "David Lisnard veut augmenter le salaire net en baissant les prélèvements sur la paie, après des économies publiques. Pour réduire le prix des carburants, il suspendrait six mois les certificats d’économies d’énergie. Ce mécanisme oblige les vendeurs d’énergie à financer, par exemple, des travaux de rénovation. La baisse à la pompe dépendrait de ce que les vendeurs répercuteraient aux clients.",
+    "sources_avant": "lis-prix-achat,lis-prix-afp",
+    "sources_apres": "lis-prix-achat,lis-prix-afp",
+    "verification_sources": [
+      "https://www.unenouvelleenergie.fr/questions/que-propose-david-lisnard-pour-le-pouvoir-d-achat/"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "prix",
+    "candidat": "retailleau",
+    "statut": "corrige",
+    "motif": "La critique anonyme « sont discutées » et « gain conditionné aux horaires » étaient floues. Le financement et la limite des heures supplémentaires sont reliés aux mesures décrites.",
+    "texte_avant": "Bruno Retailleau combine baisses de cotisations, heures supplémentaires allégées et réduction des factures électriques. Il annonce environ 500 euros net annuels au salaire médian sans travailler davantage, avec un gain supplémentaire conditionné aux horaires. Il veut aussi plafonner certaines aides et réformer le soutien à la reprise d’emploi. Les économies sociales annoncées et la possibilité réelle de travailler davantage sont discutées.",
+    "texte_apres": "Bruno Retailleau veut baisser les cotisations sur la paie et les factures d’électricité. Il annonce environ 500 euros nets par an au salaire médian, sans travailler davantage. D’autres allègements viseraient les heures supplémentaires. Il compte financer les baisses de cotisations notamment par une assurance chômage réduite et un plafonnement de certaines aides sociales. Les personnes ne pouvant pas travailler davantage ne bénéficieraient pas des gains liés aux heures supplémentaires.",
+    "sources_avant": "ret-prix-500,ret-prix-zero,ret-prix-elec,ret-prix-plafond,ret-prix-ria,lr-fin,ret-eu-bfm",
+    "sources_apres": "ret-prix-500,ret-prix-zero,ret-prix-elec,ret-prix-plafond,ret-prix-ria,lr-fin,ret-eu-bfm",
+    "verification_sources": [
+      "https://www.avecretailleau.fr/projet/mesure/rendre-30-milliards-d-euros-aux-salaries-et-aux-entreprises"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "prix",
+    "candidat": "zemmour",
+    "statut": "corrige",
+    "motif": "La baisse de prix « par les obligations » pouvait signifier leur renforcement plutôt que leur suppression. Le mécanisme et la différence entre salaire et carburant sont explicités.",
+    "texte_avant": "Éric Zemmour veut supprimer la contribution sociale généralisée (CSG) sur les revenus du travail et réduire le prix des carburants par la fiscalité et les obligations d’économies d’énergie. Zemmour finance ses baisses de prélèvements par un vaste plan d’économies publiques. Le gain final sur la paie et à la pompe dépendrait des modalités fiscales, des compensations sociales et du comportement des fournisseurs.",
+    "texte_apres": "Éric Zemmour veut supprimer la contribution sociale généralisée (CSG) sur les revenus du travail pour augmenter le salaire net. Pour les carburants, il réduirait une taxe et supprimerait les certificats qui obligent les fournisseurs à financer des économies d’énergie. Il compte compenser les recettes publiques perdues par des dépenses réduites. La baisse à la pompe dépendrait aussi de sa répercussion par les distributeurs.",
+    "sources_avant": "zem-fisc-jdd,zem-fisc-bfm,zem-fisc-csg,zem-prix-tf1cee",
+    "sources_apres": "zem-fisc-jdd,zem-fisc-bfm,zem-fisc-csg,zem-prix-tf1cee",
+    "verification_sources": [
+      "https://pourquijevote.com/transcripts/07bc26df-29a2-4661-910a-c5ad65cc45dc"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "retraites",
+    "candidat": "le-pen",
+    "statut": "corrige",
+    "motif": "« Droits plus difficiles à acquérir » ne disait pas ce qui change. Le déficit non qualifié est remplacé par les conditions d’acquisition et le financement de l’épargne.",
+    "texte_avant": "Marine Le Pen propose des départs entre 60 et 62 ans selon l’entrée dans l’emploi stable, avec des droits plus difficiles à acquérir. Elle ajoute une épargne obligatoire pour les travailleurs de moins de 52 ans. Le RN promet de réduire le déficit, sans équilibre annoncé en 2032.",
+    "texte_apres": "Marine Le Pen propose des départs entre 60 et 62 ans selon l’âge du premier emploi stable. En contrepartie, les périodes de chômage donneraient moins de droits et il faudrait davantage d’heures travaillées pour valider un trimestre. Elle ajouterait une épargne retraite obligatoire pour les travailleurs de moins de 52 ans, financée en réorientant des cotisations aujourd’hui consacrées au logement et à la formation.",
+    "sources_avant": "pen-dette-retraites-rtl,pen-ret-lcp-capitalisation",
+    "sources_apres": "pen-dette-retraites-rtl,pen-ret-lcp-capitalisation,pen-ret-senat",
+    "verification_sources": [
+      "https://lcp.fr/actualites/reforme-des-retraites-c-est-quoi-la-capitalisation-obligatoire-que-marine-le-pen-veut"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage.",
+      "Accès web échoué ou bloqué lors de cette passe : https://www.publicsenat.fr/actualites/politique/catalogue-de-contradictions-vaste-arnaque-financiere-la-reforme-des-retraites-du-rn-suscite-la-critique-de-certains-candidats"
+    ]
+  },
+  {
+    "theme": "retraites",
+    "candidat": "lisnard",
+    "statut": "corrige",
+    "motif": "Répartition et capitalisation étaient énumérées sans définition. L’origine de l’épargne de départ et sa conséquence sont explicitées.",
+    "texte_avant": "David Lisnard propose une base par répartition, une capitalisation collective obligatoire et une épargne facultative. Il veut amorcer l’épargne nouvelle en limitant la revalorisation de certaines pensions.",
+    "texte_apres": "David Lisnard veut conserver un socle de pension payé par les cotisations des actifs, mais remplacer une partie du système par une épargne collective obligatoire placée pour la retraite. Une épargne facultative s’y ajouterait. Pour amorcer ce changement, il propose de moins augmenter certaines pensions avec les prix. Les retraités concernés perdraient ainsi du pouvoir d’achat en période d’inflation.",
+    "sources_avant": "lis-ret-repartition,lis-ret-depeche",
+    "sources_apres": "lis-ret-repartition,lis-ret-capital",
+    "verification_sources": [
+      "https://www.unenouvelleenergie.fr/questions/david-lisnard-est-il-favorable-a-la-retraite-par-capitalisation/",
+      "https://www.unenouvelleenergie.fr/questions/que-pense-david-lisnard-du-systeme-de-retraite-par-repartition/"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "retraites",
+    "candidat": "retailleau",
+    "statut": "corrige",
+    "motif": "« Référence de 65 ans et 43 années » confondait âge, durée et calcul ; taux plein était inexpliqué. Les règles ordinaires et l’exception de carrière complète sont distinguées.",
+    "texte_avant": "Bruno Retailleau associe départ possible avec pension réduite, prolongation du travail et épargne retraite. Il confirme une référence de 65 ans et 43 années requises. Même à taux plein, les carrières incomplètes resteraient soumises au calcul proportionnel. Les rendements de l’épargne et le financement de la transition restent à évaluer.",
+    "texte_apres": "Bruno Retailleau propose un départ dès 63 ans, avec une pension réduite d’environ 7 % par année avant 65 ans. À 65 ans, il supprimerait cette réduction liée à l’âge, mais la pension resterait proportionnelle à la durée cotisée, sur une référence de 43 ans. Une carrière complète de 43 ans permettrait exceptionnellement de partir sans cette réduction dès 63 ans. Il ajouterait une épargne retraite obligatoire placée pour les pensions futures.",
+    "sources_avant": "ret-ret-theme,ret-ret-sud18,ret-ret-ages",
+    "sources_apres": "ret-ret-ages,ret-ret-longues,ret-ret-capital",
+    "verification_sources": [
+      "https://www.avecretailleau.fr/projet/mesure/d"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "retraites",
+    "candidat": "zemmour",
+    "statut": "corrige",
+    "motif": "Répartition, capitalisation et double cotisation étaient laissées sans définition ; l’objection financière est maintenant compréhensible sans connaissance du système.",
+    "texte_avant": "Éric Zemmour veut quitter progressivement la répartition pour la capitalisation. Il évoque 64 ou 65 ans et une durée de cotisation allongée, sans arrêter tous les paramètres. Zemmour annonce une transition progressive sans double cotisation immédiate, mais le paiement des pensions actuelles pendant la constitution de l’épargne future reste à financer précisément.",
+    "texte_apres": "Éric Zemmour veut remplacer progressivement le système où les cotisations des actifs paient les pensions actuelles par une épargne placée pour la retraite future. Il évoque un départ à 64 ou 65 ans et une durée de cotisation allongée, sans fixer tous les paramètres. Il refuse de demander immédiatement aux actifs de payer à la fois les pensions actuelles et leur propre épargne, mais ne détaille pas le financement de cette transition.",
+    "sources_avant": "zem-fisc-jdd,zem-fisc-bfm,zem-ret-europe126",
+    "sources_apres": "zem-fisc-jdd,zem-fisc-bfm,zem-ret-europe126",
+    "verification_sources": [
+      "https://pourquijevote.com/transcripts/07bc26df-29a2-4661-910a-c5ad65cc45dc"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "fiscalite",
+    "candidat": "le-pen",
+    "statut": "corrige",
+    "motif": "Les taxes sur les transmissions et le sigle TVA ne sont plus laissés implicites ; la réserve sur les règles européennes, sans objet précis, est retirée.",
+    "texte_avant": "Marine Le Pen veut réduire les taxes sur l’énergie et les transmissions, et remplacer l’impôt sur la fortune immobilière par un impôt financier protégeant immobilier et biens professionnels. Les gains de TVA dépendraient de leur transmission aux prix ; le financement et les règles européennes restent des questions distinctes à résoudre.",
+    "texte_apres": "Marine Le Pen veut réduire la taxe sur la valeur ajoutée (TVA) sur l’énergie et les droits payés lors des donations et successions. Elle remplacerait l’impôt sur la fortune immobilière par un impôt sur la fortune financière, en épargnant l’immobilier et les biens professionnels. Une baisse de TVA réduirait les prix seulement si les vendeurs la répercutent. Le financement des allègements repose sur son plan général d’économies.",
+    "sources_avant": "pen-fisc-conf,pen-fisc-restos",
+    "sources_apres": "pen-fisc-conf,pen-fisc-restos,pen-fin-prim",
+    "verification_sources": [
+      "https://www.marinelepen.com/actualites/marine-le-pen-presente-un-plan-de-redressement-budgetaire-pour-la-france"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "fiscalite",
+    "candidat": "lisnard",
+    "statut": "corrige",
+    "motif": "La dernière phrase introduisait des règles successorales absentes des mesures résumées. Elle est retirée ; la répartition de l’enveloppe est conservée.",
+    "texte_avant": "David Lisnard privilégie la baisse des prélèvements sur le travail, puis sur la production, après des économies de dépenses. Son enveloppe annuelle de fin de mandat réserverait 120 milliards d’euros au travail, 40 à la production et 40 à la dette. Le financement précis de chaque réforme Lisnard et certaines règles successorales restent à stabiliser.",
+    "texte_apres": "David Lisnard veut baisser les prélèvements sur le travail et les impôts payés par les entreprises sur leur production. Il conditionne ces baisses à des économies publiques préalables. Sur les 200 milliards d’euros d’économies annuelles visées en fin de mandat, son parti réserverait 120 milliards au travail, 40 à la production et 40 au redressement des comptes.",
+    "sources_avant": "lis-fisc-baisse,lis-repartition",
+    "sources_apres": "lis-fisc-baisse,lis-repartition",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "fiscalite",
+    "candidat": "retailleau",
+    "statut": "corrige",
+    "motif": "Dutreil était cité sans définition et la réserve sur la trésorerie n’expliquait pas la différence entre délai de paiement et exonération.",
+    "texte_avant": "Bruno Retailleau veut faciliter les donations aux jeunes et reporter le paiement des droits de transmission des entreprises à leur vente ou liquidation. Il maintient parallèlement Dutreil. L’articulation avec les exonérations actuelles et le coût de trésorerie pour l’État restent à préciser.",
+    "texte_apres": "Bruno Retailleau veut faciliter les donations familiales aux jeunes. Pour transmettre une entreprise, les droits seraient calculés au transfert mais payés seulement à sa vente ou à sa liquidation, tant que l’activité continue. Il maintiendrait aussi le pacte Dutreil, qui réduit déjà l’impôt sous conditions de conservation de l’entreprise. Le report de paiement ne serait donc pas une suppression générale des droits.",
+    "sources_avant": "ret-fisc-dons,ret-fisc-trans",
+    "sources_apres": "ret-fisc-dons,ret-fisc-trans",
+    "verification_sources": [
+      "https://www.avecretailleau.fr/projet/mesure/liberer-et-faciliter-la-transmission-des-entreprises"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "fiscalite",
+    "candidat": "zemmour",
+    "statut": "corrige",
+    "motif": "« Contribution sociale » et « ligne directe » étaient incomplets ou techniques. La réserve financière est reliée à la recette supprimée.",
+    "texte_avant": "Éric Zemmour veut supprimer la contribution sociale sur les revenus d’activité, l’impôt sur la fortune immobilière et les droits de succession en ligne directe. Il compte financer les allègements par des dépenses réduites. Les économies nettes, les compensations sociales et le gain final après impôt restent à établir.",
+    "texte_apres": "Éric Zemmour veut supprimer la contribution sociale généralisée (CSG) sur les revenus du travail, l’impôt sur la fortune immobilière et les droits de succession entre parents et enfants. Il compte remplacer les recettes perdues par des économies de dépenses publiques. La suppression de la CSG réduirait notamment les ressources de la protection sociale ; leur compensation reste à détailler.",
+    "sources_avant": "zem,zem-fisc-pqv",
+    "sources_apres": "zem,zem-fisc-pqv",
+    "verification_sources": [
+      "https://pourquijevote.com/transcripts/3974b537-d92a-49a4-9697-10e789c954d9"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "travail",
+    "candidat": "le-pen",
+    "statut": "conserve",
+    "motif": "La hausse salariale volontaire par exonération est décrite avant la limite sur l’absence de gain garanti ; cette réserve découle bien de la mesure.",
+    "texte_avant": "Marine Le Pen veut encourager les entreprises à augmenter les salaires par des exonérations de cotisations patronales, plutôt qu’imposer une hausse du salaire minimum. L’entreprise déciderait d’accorder ou non l’augmentation : cette incitation ne garantit donc pas le même gain à chaque salarié.",
+    "texte_apres": "Marine Le Pen veut encourager les entreprises à augmenter les salaires par des exonérations de cotisations patronales, plutôt qu’imposer une hausse du salaire minimum. L’entreprise déciderait d’accorder ou non l’augmentation : cette incitation ne garantit donc pas le même gain à chaque salarié.",
+    "sources_avant": "pen-prix-salaires",
+    "sources_apres": "pen-prix-salaires",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "travail",
+    "candidat": "lisnard",
+    "statut": "corrige",
+    "motif": "Le contrat unique n’était pas expliqué et « garanties des nouvelles règles » était indéterminé. Chaque mécanisme est désormais décrit sans inventer de barème.",
+    "texte_avant": "David Lisnard veut augmenter le salaire net par des prélèvements réduits et élargir la négociation dans l’entreprise. Il propose notamment de ramener la contribution sociale généralisée (CSG) d’activité de 9,2 % à 6,6 %, ainsi qu’un contrat unique pour les nouveaux emplois. Les économies publiques et les garanties des nouvelles règles restent à préciser.",
+    "texte_apres": "David Lisnard veut augmenter le salaire net en ramenant la contribution sociale généralisée (CSG) sur les revenus d’activité de 9,2 % à 6,6 %. Ce prélèvement finance la protection sociale ; il compte remplacer les recettes perdues par des économies publiques. Son parti propose aussi un contrat unique pour les nouveaux emplois, réunissant les contrats à durée déterminée et indéterminée. Les accords d’entreprise décideraient davantage de l’organisation du travail.",
+    "sources_avant": "lis-prix-salaire,lis-fisc-industrie,lis-fisc-dixi-csg",
+    "sources_apres": "lis-prix-salaire,lis-fisc-industrie,lis-fisc-dixi-csg",
+    "verification_sources": [
+      "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "travail",
+    "candidat": "retailleau",
+    "statut": "corrige",
+    "motif": "« Prestations orientées » et « restent discutés » n’expliquaient ni la réforme ni ses contreparties. Le texte décrit les changements sans suggérer une critique collective non attribuée.",
+    "texte_avant": "Bruno Retailleau combine baisse des cotisations, travail supplémentaire et prestations davantage orientées vers la reprise d’emploi. Il annonce environ 500 euros annuels au salaire médian sans heure supplémentaire, puis d’autres gains selon les horaires. Retailleau financerait ces mesures par des économies, notamment sur le chômage et les aides ; leur rendement et les effets pour les allocataires restent discutés.",
+    "texte_apres": "Bruno Retailleau veut baisser les cotisations pour augmenter le salaire net et réduire le coût du travail. Il annonce environ 500 euros nets par an au salaire médian, sans heures supplémentaires. Il veut aussi alléger les cotisations sur le travail supplémentaire. Il financerait ces baisses notamment par des indemnisations chômage plus courtes et par une aide à la reprise d’emploi remplaçant plusieurs prestations actuelles.",
+    "sources_avant": "ret-prix-500,ret-prix-ria,ret-trav-chom",
+    "sources_apres": "ret-prix-500,ret-prix-ria,ret-trav-chom",
+    "verification_sources": [
+      "https://www.avecretailleau.fr/projet/mesure/rendre-30-milliards-d-euros-aux-salaries-et-aux-entreprises"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "travail",
+    "candidat": "zemmour",
+    "statut": "corrige",
+    "motif": "« Alléger le droit » et « compensation des recettes » étaient abstraits ; la fonction de la baisse de CSG et son financement sont reliés.",
+    "texte_avant": "Éric Zemmour veut supprimer la contribution sociale généralisée (CSG) sur les revenus du travail, alléger le droit et durcir l’assurance chômage. Il propose un Code du travail fortement raccourci, sans détailler toutes les garanties conservées. Le gain net annoncé par Zemmour et la compensation des recettes sociales dépendent de modalités encore à préciser.",
+    "texte_apres": "Éric Zemmour veut supprimer la contribution sociale généralisée (CSG) prélevée sur les revenus du travail pour augmenter le salaire net. Il souhaite aussi raccourcir fortement le Code du travail, sans préciser toutes les protections conservées, et rendre l’indemnisation chômage plus restrictive. Il compte sur des économies publiques pour compenser les recettes sociales perdues, sans en détailler l’affectation aux différents organismes.",
+    "sources_avant": "zem,zem-eu-edc,zem-fisc-bfm",
+    "sources_apres": "zem,zem-eu-edc,zem-fisc-bfm",
+    "verification_sources": [
+      "https://pourquijevote.com/transcripts/07bc26df-29a2-4661-910a-c5ad65cc45dc",
+      "https://pourquijevote.com/transcripts/c94cec30-2346-4c89-b1cc-615887de6ce0"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "industrie",
+    "candidat": "le-pen",
+    "statut": "corrige",
+    "motif": "La distinction entre annonces personnelles et contre-budget n’était pas expliquée par des chiffres comparables. Le résumé conserve l’annonce personnelle et précise son périmètre.",
+    "texte_avant": "Marine Le Pen associe priorité nationale dans les achats publics, normes allégées et 20 milliards d’euros d’impôts de production en moins. Elle veut aussi favoriser la robotisation par une déduction fiscale. Les annonces personnelles et le contre-budget parlementaire ont des périmètres différents ; le financement repose sur le plan budgétaire global.",
+    "texte_apres": "Marine Le Pen veut donner la priorité aux productions françaises dans les achats publics, alléger les normes et baisser les impôts de production de 20 milliards d’euros. Elle propose aussi une déduction fiscale pour l’achat de robots, destinée aux petites entreprises et aux exploitations agricoles. Ces allègements seraient financés dans son plan budgétaire global, sans enveloppe réservée à la seule industrie.",
+    "sources_avant": "pen-fin-prim,pen-ind-bfmmif",
+    "sources_apres": "pen-fin-prim,pen-ind-bfmmif",
+    "verification_sources": [
+      "https://www.marinelepen.com/actualites/marine-le-pen-presente-un-plan-de-redressement-budgetaire-pour-la-france"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "industrie",
+    "candidat": "lisnard",
+    "statut": "conserve",
+    "motif": "L’objectif de baisse de 40 milliards, les pôles de recherche et la réserve sur leur financement concernent tous les mesures introduites ; aucun sujet orphelin repéré.",
+    "texte_avant": "David Lisnard privilégie une industrie rentable avec des prélèvements réduits, des règles stables et des pôles réunissant recherche, entreprises et investisseurs. Il annonce 40 milliards d’euros de baisses des impôts de production. La ventilation des baisses et leur financement annuel par les économies publiques restent à préciser.",
+    "texte_apres": "David Lisnard privilégie une industrie rentable avec des prélèvements réduits, des règles stables et des pôles réunissant recherche, entreprises et investisseurs. Il annonce 40 milliards d’euros de baisses des impôts de production. La ventilation des baisses et leur financement annuel par les économies publiques restent à préciser.",
+    "sources_avant": "lis-fisc-baisse,lis-fisc-industrie",
+    "sources_apres": "lis-fisc-baisse,lis-fisc-industrie",
+    "verification_sources": [
+      "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "industrie",
+    "candidat": "retailleau",
+    "statut": "corrige",
+    "motif": "La liste finale de conditions à vérifier ne disait pas quelles participations étaient attendues. Le montage annoncé et son statut sont reliés au fonds.",
+    "texte_avant": "Bruno Retailleau associe fiscalité réduite, énergie prévisible et modernisation ciblée. Il propose un fonds de 600 millions d’euros annuels pour les équipements productifs et des contrats électriques de long terme. La participation des régions et de l’Europe, les économies annoncées et les réductions de prix restent à vérifier.",
+    "texte_apres": "Bruno Retailleau veut réduire les impôts des entreprises et leur proposer des contrats d’électricité de long terme pour rendre les prix plus prévisibles. Il annonce aussi un fonds de 600 millions d’euros par an pour moderniser les équipements productifs. Son financement associerait l’État, les régions et l’Europe ; ces participations ne sont pas encore des crédits acquis.",
+    "sources_avant": "lr-projet,ret-ind-fonds,ret-ind-elec",
+    "sources_apres": "lr-projet,ret-ind-fonds,ret-ind-elec",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "industrie",
+    "candidat": "zemmour",
+    "statut": "corrige",
+    "motif": "Impôts de production et protection commerciale n’étaient pas expliqués ; la réserve est recentrée sur les mesures effectivement présentées.",
+    "texte_avant": "Éric Zemmour veut supprimer les impôts de production, alléger les normes et baisser le coût électrique des usines. Il défend une protection commerciale contre la Chine. Les taxes supprimées, les mécanismes de prix électriques et leur compensation restent à préciser ; ses annonces ne forment pas encore un budget industriel complet.",
+    "texte_apres": "Éric Zemmour veut supprimer les impôts de production, que les entreprises peuvent payer même sans bénéfice, et alléger les normes. Il propose aussi de réduire les taxes sur l’électricité des usines et de protéger les productions françaises par des droits de douane contre la Chine. La liste complète des impôts supprimés et le coût de ces allègements restent à préciser.",
+    "sources_avant": "zem-eu-edc",
+    "sources_apres": "zem-eu-edc",
+    "verification_sources": [
+      "https://pourquijevote.com/transcripts/c94cec30-2346-4c89-b1cc-615887de6ce0"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "ecole",
+    "candidat": "le-pen",
+    "statut": "corrige",
+    "motif": "Le résumé parlait d’admission et d’un nouveau calendrier sans nommer Parcoursup ni les études supérieures. Les archives non décrites sont retirées.",
+    "texte_avant": "Marine Le Pen privilégie savoirs, autorité et examens nationaux. Son nouveau calendrier utiliserait le seul bac pour l’admission, avec choix classés après les résultats puis affectation début juillet. Les capacités supplémentaires et les règles de départage restent à préciser. Ses propositions de 2022 et celles du parti en 2024 restent des archives distinctes.",
+    "texte_apres": "Marine Le Pen veut supprimer Parcoursup et fonder l’admission à l’université ou en école sur les résultats du baccalauréat. Elle supprimerait le contrôle continu en première et terminale et avancerait les épreuves en mai. Les élèves classeraient leurs choix après les résultats de fin juin, pour une affectation début juillet. Elle prévoit une commission pour ceux qui restent sans place, sans préciser comment départager des candidats aux mêmes notes.",
+    "sources_avant": "ecole-senat,pen-ecole-afp26",
+    "sources_apres": "pen-ecole-afp26",
+    "verification_sources": [
+      "https://information.tv5monde.com/france/lycee-le-pen-veut-supprimer-parcoursup-le-controle-continu-et-avancer-le-bac-en-mai-2845996"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "ecole",
+    "candidat": "lisnard",
+    "statut": "corrige",
+    "motif": "Le financement suivant l’élève est relié à sa conséquence pour les établissements délaissés ; la liste de coûts sans explication est remplacée par un lien concret.",
+    "texte_avant": "David Lisnard veut des établissements autonomes et un financement suivant l’élève vers l’école choisie par sa famille. L’État garderait contrôles, bourses et examens nationaux. Transports, places nouvelles et dépenses fixes des écoles perdant des élèves restent à chiffrer chez Lisnard.",
+    "texte_apres": "David Lisnard veut laisser les familles choisir l’école et faire suivre le financement public avec l’élève. Les établissements gagneraient en autonomie pour leur recrutement, leur budget et leurs méthodes. L’État conserverait les contrôles, les bourses et les examens nationaux. Ce changement demanderait notamment d’organiser les places disponibles et de financer les écoles qui perdraient des élèves tout en gardant des dépenses fixes.",
+    "sources_avant": "lis-ecole-autonomie,lis-ecole-cheque,lis-cult-civique",
+    "sources_apres": "lis-ecole-autonomie,lis-ecole-cheque,lis-cult-civique",
+    "verification_sources": [
+      "https://www.unenouvelleenergie.fr/questions/quel-candidat-propose-le-cheque-education/"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "ecole",
+    "candidat": "retailleau",
+    "statut": "corrige",
+    "motif": "« Autonomie contractualisée » et « financées par la démographie » étaient opaques. Le mécanisme budgétaire et le périmètre de l’autonomie sont explicités.",
+    "texte_avant": "Bruno Retailleau privilégie les savoirs fondamentaux et une autonomie contractualisée pour 1 000 établissements d’ici 2032. Il promet des hausses de salaire de base financées par la démographie et refuse des recrutements supplémentaires. Le choix porte donc aussi sur l’utilisation des moyens libérés par la baisse du nombre d’élèves.",
+    "texte_apres": "Bruno Retailleau veut renforcer les savoirs fondamentaux et donner plus de liberté de recrutement et d’organisation à 1 000 établissements publics d’ici 2032. Il promet des hausses du salaire de base des enseignants, sans recrutements supplémentaires. Il compte utiliser les moyens libérés par la baisse du nombre d’élèves pour financer ces rémunérations.",
+    "sources_avant": "ret-eco-trans,ret-eco-auto,ret-eco-sal,dixi-oral",
+    "sources_apres": "ret-eco-trans,ret-eco-auto,ret-eco-sal,dixi-oral",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "ecole",
+    "candidat": "zemmour",
+    "statut": "conserve",
+    "motif": "Les examens sélectifs et la réduction des admissions universitaires relèvent d’un même levier de sélection ; les disciplines visées sont reliées au critère de débouchés du candidat.",
+    "texte_avant": "Éric Zemmour veut des examens d’entrée en sixième et en seconde, un bac plus sélectif et deux fois moins d’étudiants par la sélection. Il réserverait des places limitées aux disciplines dont il conteste les débouchés.",
+    "texte_apres": "Éric Zemmour veut des examens d’entrée en sixième et en seconde, un bac plus sélectif et deux fois moins d’étudiants par la sélection. Il réserverait des places limitées aux disciplines dont il conteste les débouchés.",
+    "sources_avant": "zem-eu-dixi",
+    "sources_apres": "zem-eu-dixi",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case.",
+      "Accès web échoué ou bloqué lors de cette passe : https://dixipolis.com/video/225941"
+    ]
+  },
+  {
+    "theme": "enfance",
+    "candidat": "lisnard",
+    "statut": "corrige",
+    "motif": "Le résumé appelait « bilan » une formation municipale programmée et la portée du délai pouvait être mal comprise. Statut local et premières vérifications sont distingués.",
+    "texte_avant": "David Lisnard veut vérifier les plaintes d’enfants sous trente jours, avec un dossier numérique unique et des responsabilités clarifiées. Cannes programme aussi des formations au repérage des violences. Ce bilan local doit être distingué du projet national, dont places, professionnels et financement restent à définir.",
+    "texte_apres": "David Lisnard veut vérifier les plaintes d’enfants sous trente jours et créer un dossier numérique unique par victime, partagé de manière sécurisée entre magistrats. Ce délai concerne les premières vérifications, pas la fin du procès. Il cite aussi des formations au repérage des violences prévues à Cannes. Ces actions municipales sont distinctes d’un dispositif national, dont les personnels et le financement restent à définir.",
+    "sources_avant": "lis-enf-taverny,lis-enf-formation",
+    "sources_apres": "lis-enf-taverny,lis-enf-formation",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "enfance",
+    "candidat": "retailleau",
+    "statut": "conserve",
+    "motif": "Le traitement inhibant la libido est présenté avant les objections attribuées à des psychiatres ; la limite de couverture du projet porte explicitement sur la protection de l’enfance.",
+    "texte_avant": "Bruno Retailleau privilégie des fichiers interconnectés et les alertes aux autorités. Il veut imposer aux pédocriminels les plus dangereux un traitement inhibant la libido. Des psychiatres contestent le traitement sans consentement et sa capacité à prévenir toutes les récidives. Son projet reste à préciser pour les placements, les familles d’accueil, les soins et les jeunes majeurs.",
+    "texte_apres": "Bruno Retailleau privilégie des fichiers interconnectés et les alertes aux autorités. Il veut imposer aux pédocriminels les plus dangereux un traitement inhibant la libido. Des psychiatres contestent le traitement sans consentement et sa capacité à prévenir toutes les récidives. Son projet reste à préciser pour les placements, les familles d’accueil, les soins et les jeunes majeurs.",
+    "sources_avant": "ret-enf-bfm,ret-enf-ps-experts",
+    "sources_apres": "ret-enf-bfm,ret-enf-ps-experts",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "enfance",
+    "candidat": "le-pen",
+    "statut": "conserve",
+    "motif": "La reprise nationale des responsabilités, l’accueil familial et le suivi après 18 ans sont introduits ; la réserve sur les personnels et crédits concerne cette recentralisation.",
+    "texte_avant": "Marine Le Pen propose de recentraliser la protection de l’enfance, de renforcer l’aide aux parents et de privilégier l’accueil familial. Elle promet aussi un accompagnement après 18 ans, sans âge maximal fixé. Les personnels transférés, les crédits supplémentaires et les économies nettes attendues restent à préciser.",
+    "texte_apres": "Marine Le Pen propose de recentraliser la protection de l’enfance, de renforcer l’aide aux parents et de privilégier l’accueil familial. Elle promet aussi un accompagnement après 18 ans, sans âge maximal fixé. Les personnels transférés, les crédits supplémentaires et les économies nettes attendues restent à préciser.",
+    "sources_avant": "pen-enf-off",
+    "sources_apres": "pen-enf-off",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "enfance",
+    "candidat": "zemmour",
+    "statut": "corrige",
+    "motif": "« Publicité » pouvait être comprise comme publicité commerciale ; la réserve finale sur les places et jeunes majeurs introduisait un autre sujet. Le statut d’archive est conservé.",
+    "texte_avant": "Éric Zemmour veut ouvrir les fichiers de délinquants sexuels au public. Les garanties de cette publicité restent à définir. Zemmour soutenait aussi en 2022 des psychothérapies financées par l’État et des visites parentales suspendues pendant l’enquête. Ces archives ne constituent pas un programme social renouvelé : places, personnels et soutien aux jeunes majeurs restent à préciser.",
+    "texte_apres": "Éric Zemmour veut rendre accessibles au public les fichiers de délinquants sexuels, sans préciser les garanties encadrant cette publication. En 2022, il soutenait aussi des psychothérapies financées par l’État pour les enfants victimes et la suspension des visites parentales pendant une enquête. Ces propositions anciennes ne sont pas automatiquement des engagements renouvelés pour 2027.",
+    "sources_avant": "zem-enf-cnews26,zem-enf-lettre22",
+    "sources_apres": "zem-enf-cnews26,zem-enf-lettre22",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "sante",
+    "candidat": "le-pen",
+    "statut": "corrige",
+    "motif": "La famille et l’enfance n’apparaissaient que dans la réserve finale. La contrepartie budgétaire est conservée, mais les incertitudes portent sur les soins effectivement présentés.",
+    "texte_avant": "Marine Le Pen veut réduire l’administration hospitalière sans diminuer les soignants et mobiliser l’État face aux inégalités territoriales. Elle promet de réaffecter des économies à l’accès aux soins, notamment dentaires, optiques et auditifs. Le Pen privilégie des réallocations ciblées ; les économies invoquées financeraient aussi famille et enfance, sans partage complet publié.",
+    "texte_apres": "Marine Le Pen veut réduire les effectifs administratifs hospitaliers sans diminuer les soignants. Elle souhaite que l’État coordonne l’accès aux médecins avec les communes, plutôt que de les laisser se concurrencer pour attirer des praticiens. Elle promet de réaffecter des économies à l’accès aux soins dentaires, aux lunettes et aux appareils auditifs. Les bénéficiaires, les remboursements et les sommes consacrées à chacun de ces soins restent à préciser.",
+    "sources_avant": "pen-eu-cnews,pen-sante-moselle26,pen-fin-prim",
+    "sources_apres": "pen-eu-cnews,pen-sante-moselle26,pen-fin-prim",
+    "verification_sources": [
+      "https://www.marinelepen.com/actualites/marine-le-pen-presente-un-plan-de-redressement-budgetaire-pour-la-france"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "sante",
+    "candidat": "lisnard",
+    "statut": "corrige",
+    "motif": "« Transition assurantielle » était technocratique ; le lien entre formation et médecins disponibles est conservé dans un français explicite.",
+    "texte_avant": "David Lisnard veut que chacun choisisse son organisme d’assurance maladie, avec couverture obligatoire et interdiction de refuser un assuré. Lisnard mise aussi sur deux fois plus d’étudiants en médecine d’ici 2030 et sur l’exercice supervisé plus tôt. Former davantage ne garantit pas autant de médecins disponibles immédiatement ; cotisations et transition assurantielle restent à préciser.",
+    "texte_apres": "David Lisnard veut permettre à chacun de choisir son organisme d’assurance maladie, tout en rendant la couverture obligatoire et en interdisant de refuser un assuré. Il vise aussi deux fois plus d’étudiants en médecine d’ici 2030 et un exercice supervisé plus tôt dans la formation. Cela augmenterait les capacités de formation, sans rendre immédiatement disponibles autant de médecins supplémentaires. Le passage au nouveau système d’assurance reste à financer.",
+    "sources_avant": "lis-sante-concurrence,lis-sante-egoranov",
+    "sources_apres": "lis-sante-concurrence,lis-sante-egoranov",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "sante",
+    "candidat": "retailleau",
+    "statut": "corrige",
+    "motif": "Le mot « complémentaires » ne disait pas qu’il s’agissait des assurances santé. Les deux publics de médecins et le rôle de ces assurances sont explicités.",
+    "texte_avant": "Bruno Retailleau propose des médecins volontaires indemnisés dans les zones en manque et un paiement à l’acte des généralistes en fin de formation. Les complémentaires organiseraient la prévention, avec un bonus réduisant la cotisation des assurés. Tarifs, critères et financement de ces incitations restent à préciser.",
+    "texte_apres": "Bruno Retailleau propose d’indemniser des médecins volontaires pour exercer dans les zones qui en manquent. Il veut aussi payer à l’acte les généralistes en fin de formation. Les assurances complémentaires santé organiseraient des actions de prévention, avec un bonus réduisant la cotisation des assurés. Les tarifs, les critères et le financement de ces incitations restent à préciser.",
+    "sources_avant": "gluck-sante-egora",
+    "sources_apres": "gluck-sante-egora",
+    "verification_sources": [
+      "https://www.egora.fr/actus-pro/politiques/deserts-medicaux-hopital-ame-huit-candidats-la-presidentielle-devoilent-leurs"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "sante",
+    "candidat": "zemmour",
+    "statut": "corrige",
+    "motif": "L’AME et les agences régionales n’étaient pas définies ; les anciens objectifs de recrutement étaient seulement évoqués pour dire qu’ils ne sont pas reconduits.",
+    "texte_avant": "Éric Zemmour veut supprimer l’aide médicale d’État et réorganiser les soins. Il propose de faire revenir les médecins retraités par une exonération fiscale et de partager davantage les actes avec infirmiers et pharmaciens. Il remplacerait aussi les agences régionales par des responsabilités préfectorales et médicales. Ses anciens objectifs de recrutement ne sont pas clairement reconduits.",
+    "texte_apres": "Éric Zemmour veut supprimer l’aide médicale d’État, qui permet sous conditions de soigner des étrangers sans titre de séjour. Il propose aussi une exonération fiscale pour faire revenir des médecins retraités et veut confier davantage d’actes aux infirmiers et pharmaciens. Les préfets et les médecins reprendraient des responsabilités aujourd’hui exercées par les agences régionales de santé. Le nombre de praticiens supplémentaires attendus n’est pas fixé dans ces annonces.",
+    "sources_avant": "zem,zem-sante-pqv,gluck-sante-egora",
+    "sources_apres": "zem,zem-sante-pqv,gluck-sante-egora",
+    "verification_sources": [
+      "https://www.egora.fr/actus-pro/politiques/deserts-medicaux-hopital-ame-huit-candidats-la-presidentielle-devoilent-leurs"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "logement",
+    "candidat": "le-pen",
+    "statut": "corrige",
+    "motif": "Les obligations de la SRU et MaPrimeRénov’ étaient nommées sans définition ; la réserve sur les intérêts d’un prêt « sans intérêt » devenait déroutante. Qui rembourse quoi est précisé.",
+    "texte_avant": "Marine Le Pen privilégie les Français pour les logements sociaux et veut supprimer les obligations communales de la loi SRU. Elle facilite l’achat et remplacerait MaPrimeRénov’ par un prêt sans intérêt. Un prêt reste remboursable : intérêts, garanties et financement des missions logement restent à préciser.",
+    "texte_apres": "Marine Le Pen veut donner la priorité aux Français dans le logement social et supprimer les proportions minimales de logements sociaux imposées à certaines communes par la loi SRU. Elle souhaite aussi faciliter l’achat immobilier. Pour les travaux énergétiques, elle remplacerait l’aide MaPrimeRénov’ par un prêt sans intérêt. Les ménages devraient donc rembourser les travaux, même si l’État prenait les intérêts en charge.",
+    "sources_avant": "pen-log-lettre,pen-droits-lcp,pen-log-jda",
+    "sources_apres": "pen-log-lettre,pen-droits-lcp,pen-log-jda",
+    "verification_sources": [
+      "https://rassemblementnational.fr/lettre-ouverte/lettre-ouverte-de-marine-le-pen-aux-professionnels-de-limmobilier"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "logement",
+    "candidat": "lisnard",
+    "statut": "corrige",
+    "motif": "Les expressions « offre libérée », « stock social » et « article 55 de la SRU » masquaient les changements concrets pour communes et ménages.",
+    "texte_avant": "David Lisnard vise 500 000 logements par an par une offre libérée, des crédits assouplis et davantage de décisions locales. Il propose de supprimer les obligations de stock social de l’article 55 de la SRU. Coût net et équilibre territorial du projet Lisnard restent à préciser.",
+    "texte_apres": "David Lisnard vise 500 000 logements par an en simplifiant la construction et en assouplissant le crédit, notamment pour les jeunes actifs. Son parti veut supprimer les proportions minimales de logements sociaux que la loi impose à certaines communes. Les décisions locales auraient davantage de poids. Le financement de l’objectif national et la répartition des logements entre territoires restent à préciser.",
+    "sources_avant": "lis-log-seloger26,lis-fisc-industrie",
+    "sources_apres": "lis-log-seloger26,lis-fisc-industrie",
+    "verification_sources": [
+      "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "logement",
+    "candidat": "retailleau",
+    "statut": "corrige",
+    "motif": "Les quotas et le droit au logement opposable n’étaient pas expliqués, alors que leur suppression change concrètement les garanties des ménages.",
+    "texte_avant": "Bruno Retailleau veut accroître l’offre et l’achat, avec un million de logements supplémentaires ou maintenus en location sur cinq ans. Il remplacerait les quotas sociaux par des contrats locaux et ferait progressivement disparaître le droit au logement opposable. Le financement et les garanties des ménages précaires restent des points déterminants du projet Retailleau.",
+    "texte_apres": "Bruno Retailleau vise un million de logements supplémentaires ou maintenus en location sur cinq ans. Il remplacerait les proportions minimales de logements sociaux imposées aux communes par des contrats locaux. Il ferait aussi progressivement disparaître le droit au logement opposable, qui permet aux ménages prioritaires de demander au juge de contraindre l’État à les loger. Il veut parallèlement faciliter l’achat immobilier.",
+    "sources_avant": "ret-log-livret,ret-log-sru,dixi-restos",
+    "sources_apres": "ret-log-livret,ret-log-sru,dixi-restos",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "logement",
+    "candidat": "zemmour",
+    "statut": "corrige",
+    "motif": "Les obligations de la SRU étaient opaques ; « cession » et « recette ponctuelle » sont remplacés par le mécanisme concret pour les bailleurs.",
+    "texte_avant": "Éric Zemmour réserve le logement social aux Français, veut abroger les obligations communales de la loi SRU et vendre des logements aux locataires français. Une cession fournit une recette ponctuelle mais retire des loyers futurs. Le nombre de ventes, leur remplacement et les garanties des ménages concernés restent à préciser.",
+    "texte_apres": "Éric Zemmour veut réserver le logement social aux Français et supprimer les proportions minimales de logements sociaux que la loi impose à certaines communes. Il veut aussi vendre des logements sociaux à leurs locataires français. Ces ventes apporteraient de l’argent immédiatement, mais les bailleurs perdraient ensuite les loyers correspondants. Le nombre de ventes et le remplacement des logements vendus restent à préciser.",
+    "sources_avant": "zem,zem-log-jdd26",
+    "sources_apres": "zem,zem-log-jdd26",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "services",
+    "candidat": "le-pen",
+    "statut": "conserve",
+    "motif": "Les réorganisations, suppressions et départs non remplacés sont présentés avant la réserve sur les coûts de missions transférées ; le raisonnement n’assimile pas suppression d’agence et disparition de dépense.",
+    "texte_avant": "Marine Le Pen veut supprimer ou réintégrer des agences et réduire surtout les effectifs administratifs. Son équipe prévoit 85 000 départs non remplacés dans les organismes et 116 000 dans les collectivités ; elle promet d’épargner les soignants. Transférer les missions aux ministères ne garantit pas la disparition de tous leurs coûts.",
+    "texte_apres": "Marine Le Pen veut supprimer ou réintégrer des agences et réduire surtout les effectifs administratifs. Son équipe prévoit 85 000 départs non remplacés dans les organismes et 116 000 dans les collectivités ; elle promet d’épargner les soignants. Transférer les missions aux ministères ne garantit pas la disparition de tous leurs coûts.",
+    "sources_avant": "pen-fisc-conf,pen-eu-cnews,pen-ter-acteurs",
+    "sources_apres": "pen-fisc-conf,pen-eu-cnews,pen-ter-acteurs",
+    "verification_sources": [
+      "https://acteurspublics.fr/articles/la-reforme-de-letat-et-des-collectivites-au-coeur-des-economies-programmees-par-le-rn/"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "services",
+    "candidat": "lisnard",
+    "statut": "corrige",
+    "motif": "La mention de versions écrites et orales divergentes n’apportait aucun chiffre compréhensible. La distinction entre redéploiement et suppression est reliée aux économies.",
+    "texte_avant": "David Lisnard veut réserver progressivement le statut de fonctionnaire aux missions régaliennes, comme la sécurité ou la justice, et développer le contrat ailleurs. Il distingue réorganisation, agents redéployés et postes supprimés. Les versions écrites et orales des effectifs diffèrent ; les protections de transition et les économies par service restent à préciser.",
+    "texte_apres": "David Lisnard veut réserver progressivement le statut de fonctionnaire aux missions comme la sécurité et la justice, et développer les contrats pour les autres services. Il veut aussi réorganiser les administrations en supprimant certains postes et en déplaçant d’autres agents vers le terrain. Déplacer un agent ne supprime pas sa rémunération : les économies dépendraient donc des postes réellement supprimés et des services maintenus.",
+    "sources_avant": "lis-serv-statut,lis-eu-projet",
+    "sources_apres": "lis-serv-statut,lis-eu-projet,lis-fisc-dixi-csg",
+    "verification_sources": [
+      "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-reformer-le-statut-de-la-fonction-publique/"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "services",
+    "candidat": "retailleau",
+    "statut": "corrige",
+    "motif": "« 400 000 retraites » désignait maladroitement les postes et « rendements » était technocratique. Les trois fonctions publiques et l’échéance sont explicités.",
+    "texte_avant": "Bruno Retailleau vise 400 000 retraites non remplacées dans les trois fonctions publiques, sans licenciement. Il associe cette réduction aux réorganisations, aux agences supprimées ou réintégrées et à l’intelligence artificielle. Les économies de Retailleau sont des rendements attendus en 2032 ; elles ne sont ni immédiatement acquises ni cumulées sur cinq ans.",
+    "texte_apres": "Bruno Retailleau veut ne pas remplacer 400 000 départs en retraite sur cinq ans dans les services de l’État, les collectivités et les hôpitaux, sans licenciements. Il compte aussi supprimer ou réintégrer des agences et utiliser l’intelligence artificielle pour réorganiser le travail. Les économies annoncées correspondent au niveau attendu en 2032 : elles ne seraient pas toutes réalisées dès le début du mandat.",
+    "sources_avant": "lr-fin,ret-dette-etat",
+    "sources_apres": "lr-fin,ret-dette-etat",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "services",
+    "candidat": "zemmour",
+    "statut": "corrige",
+    "motif": "Le résumé cumulait « essentiel discuté » et « arrondis des flux » sans expliquer le calcul. La réduction nette malgré des recrutements est explicitée.",
+    "texte_avant": "Éric Zemmour veut 800 000 emplois publics en moins sur cinq ans, sans licenciement, tout en conservant des recrutements et 2,2 millions de postes considérés comme essentiels. La définition de l’essentiel reste un choix politique discuté ; la répartition des suppressions et les arrondis des flux de départs ne donnent pas encore un calendrier opérationnel complet.",
+    "texte_apres": "Éric Zemmour veut réduire de 800 000 le nombre d’emplois publics sur cinq ans, sans licenciement, en ne remplaçant qu’une partie des départs. Il annonce préserver 2,2 millions de postes qu’il juge essentiels, notamment dans l’enseignement, la santé, la police et l’armée. Il continuerait donc à recruter, mais moins qu’il n’y aurait de départs. La répartition des suppressions entre administrations reste à préciser.",
+    "sources_avant": "dixi-oral,zem-serv-tf1ess",
+    "sources_apres": "dixi-oral,zem-serv-tf1ess",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case.",
+      "Accès web échoué ou bloqué lors de cette passe : https://www.tf1info.fr/politique/verif-la-france-ne-compte-t-elle-que-2-2-millions-de-fonctionnaires-essentiels-2475655.html"
+    ]
+  },
+  {
+    "theme": "immigration",
+    "candidat": "le-pen",
+    "statut": "conserve",
+    "motif": "La faible immigration visée et la priorité au logement social sont présentées ; les étrangers déjà locataires sont explicitement distingués des futures attributions.",
+    "texte_avant": "Marine Le Pen vise une immigration aussi faible que possible et une priorité française dans l’attribution des logements sociaux, sans expulser les locataires étrangers actuels. Les plafonds d’admissions et les moyens des départs restent à préciser.",
+    "texte_apres": "Marine Le Pen vise une immigration aussi faible que possible et une priorité française dans l’attribution des logements sociaux, sans expulser les locataires étrangers actuels. Les plafonds d’admissions et les moyens des départs restent à préciser.",
+    "sources_avant": "pen-eu-cnews,pen-fisc-restos",
+    "sources_apres": "pen-eu-cnews,pen-fisc-restos",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "immigration",
+    "candidat": "lisnard",
+    "statut": "conserve",
+    "motif": "L’objectif annuel d’entrées est distingué de la population déjà présente ; les réserves portent bien sur la répartition et la mise en œuvre de cet objectif.",
+    "texte_avant": "David Lisnard vise moins de 100 000 entrées légales annuelles, étudiants compris, et évoque 80 000. Ces repères ne décrivent pas la population étrangère déjà présente. Lisnard privilégie sélection et assimilation ; répartition des publics, moyens et garanties doivent encore préciser l’objectif.",
+    "texte_apres": "David Lisnard vise moins de 100 000 entrées légales annuelles, étudiants compris, et évoque 80 000. Ces repères ne décrivent pas la population étrangère déjà présente. Lisnard privilégie sélection et assimilation ; répartition des publics, moyens et garanties doivent encore préciser l’objectif.",
+    "sources_avant": "pqv-lis-oral,lis-imm-faq",
+    "sources_apres": "pqv-lis-oral,lis-imm-faq",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "immigration",
+    "candidat": "retailleau",
+    "statut": "conserve",
+    "motif": "L’installation professionnelle, les régularisations et le droit du sol sont distingués ; la dernière phrase empêche une confusion entre séjour et nationalité déjà acquise.",
+    "texte_avant": "Bruno Retailleau veut réserver l’installation professionnelle aux très qualifiés, fermer les régularisations par le travail et remplacer le droit du sol par une naturalisation sous conditions. Les restrictions de séjour ne retireraient pas automatiquement leur nationalité aux Français actuels.",
+    "texte_apres": "Bruno Retailleau veut réserver l’installation professionnelle aux très qualifiés, fermer les régularisations par le travail et remplacer le droit du sol par une naturalisation sous conditions. Les restrictions de séjour ne retireraient pas automatiquement leur nationalité aux Français actuels.",
+    "sources_avant": "ret-imm-trav,ret-imm-nationalite",
+    "sources_apres": "ret-imm-trav,ret-imm-nationalite",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "immigration",
+    "candidat": "zemmour",
+    "statut": "corrige",
+    "motif": "Le référendum n’apparaissait que pour en relativiser les effets ; il est désormais introduit. Le mot immigrés est conservé comme formulation annoncée, sans lui substituer une définition statistique non établie.",
+    "texte_avant": "Éric Zemmour vise deux millions d’immigrés en moins en fin de mandat, sans décomposer arrivées évitées et départs. Il veut aussi retirer le séjour après plus de six mois de chômage et réserver le logement social aux Français. Les procédures, coûts et accords nécessaires restent à établir : le référendum annoncé ne les résout pas à lui seul.",
+    "texte_apres": "Éric Zemmour annonce deux millions d’immigrés en moins en fin de mandat, sans distinguer les arrivées empêchées des départs. Il veut notamment faire partir des étrangers en situation régulière après plus de six mois de chômage et réserver le logement social aux Français. Il propose aussi une loi et un référendum pour appliquer ces restrictions. Les procédures d’éloignement, les accords avec les pays d’accueil et leur coût restent à préciser.",
+    "sources_avant": "zem-fisc-tf1,zem",
+    "sources_apres": "zem-fisc-tf1,zem",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case.",
+      "Accès web échoué ou bloqué lors de cette passe : https://pourquijevote.com/transcripts/e2adc1f3-92b3-4836-83d2-c6ed0a319fc1"
+    ]
+  },
+  {
+    "theme": "securite",
+    "candidat": "retailleau",
+    "statut": "corrige",
+    "motif": "Les pouvoirs exceptionnels et les objections étaient anonymes et indéterminés. Les contrôles proposés sont décrits et la critique juridique est attribuée avec son périmètre.",
+    "texte_avant": "Bruno Retailleau propose un état d’urgence contre les trafics dans une soixantaine de quartiers et une révision constitutionnelle pour renforcer les sanctions. Les garanties des pouvoirs exceptionnels et leur articulation avec les droits fondamentaux suscitent des objections ; le financement complet reste à préciser.",
+    "texte_apres": "Bruno Retailleau propose un état d’urgence contre les trafics dans une soixantaine de quartiers, avec des contrôles permanents des entrées et sorties et davantage de perquisitions administratives. Il veut aussi réviser la Constitution pour renforcer les sanctions. Dans Public Sénat, le juriste Nicolas Hervieu critique ce projet constitutionnel, estimant qu’il affaiblirait la protection des droits fondamentaux et heurterait les engagements européens.",
+    "sources_avant": "ret-sec-europe1,ret-eu-ps",
+    "sources_apres": "ret-sec-europe1,ret-eu-ps",
+    "verification_sources": [
+      "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-propose-une-revolution-copernicienne-dans-laquelle-la-constitution-ne-serait-plus-le-bouclier-qui-prote"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage.",
+      "Accès web échoué ou bloqué lors de cette passe : https://www.europe1.fr/politique/narcotrafic-bruno-retailleau-appelle-a-un-etat-durgence-anti-trafics-dans-une-soixantaine-de-quartiers-927449"
+    ]
+  },
+  {
+    "theme": "securite",
+    "candidat": "le-pen",
+    "statut": "corrige",
+    "motif": "Les effectifs et prisons de 2022 n’apparaissaient que dans une réserve d’archives. Le mécanisme d’aménagement est défini sans introduire ces annonces anciennes.",
+    "texte_avant": "Marine Le Pen veut rendre poursuites, peines et exécution plus certaines. Elle soutient des peines minimales et l’incarcération sans aménagement pour certaines violences condamnées à plus de six mois. Les annonces actuelles restent distinctes des effectifs et prisons de 2022 ; coût et financement des nouveaux engagements ne sont pas détaillés.",
+    "texte_apres": "Marine Le Pen veut des poursuites plus systématiques et des peines effectivement exécutées. Elle soutient des peines minimales et veut empêcher certains aménagements, comme un bracelet électronique à la place de la prison, pour des violences condamnées à plus de six mois. Le coût des nouveaux engagements et leur financement restent à détailler.",
+    "sources_avant": "pen-sec-euronews,pen-sec-ppl,pen-jus-lci",
+    "sources_apres": "pen-sec-euronews,pen-sec-ppl,pen-jus-lci",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "securite",
+    "candidat": "lisnard",
+    "statut": "corrige",
+    "motif": "« Places supplémentaires » n’identifiait pas la prison ; « moyens par moins de bureaucratie » et « garanties familiales » étaient abstraits. Les mesures sont séparées et la réserve vise les prisons introduites.",
+    "texte_avant": "David Lisnard veut 20 000 places supplémentaires, une peine perpétuelle réellement exécutée et davantage de moyens par moins de bureaucratie. Il propose aussi de faire payer les parents solvables pour les dégradations de leurs enfants. Financement sectoriel, garanties familiales et modalités de construction restent à préciser.",
+    "texte_apres": "David Lisnard veut construire 20 000 places de prison supplémentaires et rendre certaines condamnations à perpétuité effectivement incompressibles. Il souhaite réduire les tâches administratives des policiers pour renforcer leur présence sur le terrain. Il propose aussi de faire payer aux parents solvables les dégradations commises par leurs enfants. La construction et le fonctionnement des prisons n’ont pas encore de budget sectoriel détaillé.",
+    "sources_avant": "lis-sec-prison,lis-sec-parents,lis-sec-moyens",
+    "sources_apres": "lis-sec-prison,lis-sec-parents,lis-sec-moyens",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "securite",
+    "candidat": "zemmour",
+    "statut": "corrige",
+    "motif": "Le prélèvement des amendes n’était cité que dans sa réserve juridique. Il est présenté avant ses garanties ; les places sont explicitement carcérales.",
+    "texte_avant": "Éric Zemmour annonce 100 000 places de prison en vingt-quatre mois, la fin des aménagements et de l’atténuation des peines des mineurs. Coût, financement et fonctionnement des capacités restent à préciser, tout comme les garanties encadrant le prélèvement des amendes sur salaires et aides sociales.",
+    "texte_apres": "Éric Zemmour veut construire 100 000 places de prison en vingt-quatre mois, supprimer les aménagements de peine et juger les mineurs sans atténuation liée à leur âge. Il veut aussi prélever les amendes directement sur les salaires et les aides sociales. Le coût des prisons, leurs personnels et les garanties encadrant ces prélèvements restent à préciser.",
+    "sources_avant": "zem-sec-priorites",
+    "sources_apres": "zem-sec-priorites",
+    "verification_sources": [
+      "https://www.ericzemmour.fr/priorites"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "justice",
+    "candidat": "lisnard",
+    "statut": "corrige",
+    "motif": "« Effectifs correctionnels » et « vise le Syndicat » ne permettaient pas de comprendre les propositions. Le lieu des places et la mesure d’interdiction sont nommés.",
+    "texte_avant": "David Lisnard veut des peines minimales pour la récidive, des sanctions courtes dès les premiers délits, 20 000 nouvelles places et des effectifs correctionnels doublés. Il durcirait aussi les règles concernant les mineurs et vise le Syndicat de la magistrature.",
+    "texte_apres": "David Lisnard veut rétablir des peines minimales pour les récidivistes, appliquer des peines courtes dès les premiers délits et créer 20 000 places de prison. Il propose de doubler les effectifs des tribunaux correctionnels, qui jugent les délits. Il veut aussi abaisser la majorité pénale à seize ans et interdire le Syndicat de la magistrature.",
+    "sources_avant": "lis-secu,lis-sec-prison,lis-jus-magistrats",
+    "sources_apres": "lis-secu,lis-sec-prison,lis-jus-magistrats",
+    "verification_sources": [
+      "https://www.unenouvelleenergie.fr/questions/quel-candidat-propose-de-retablir-la-responsabilite-des-magistrats/",
+      "https://www.unenouvelleenergie.fr/notre-programme/securite/"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "justice",
+    "candidat": "retailleau",
+    "statut": "corrige",
+    "motif": "La majorité pénale et le remplacement institutionnel de la cour disciplinaire n’étaient pas expliqués au lecteur non spécialiste.",
+    "texte_avant": "Bruno Retailleau veut modifier la Constitution pour permettre notamment des peines minimales et une majorité pénale à quinze ans. Il propose aussi une nouvelle cour disciplinaire des magistrats.",
+    "texte_apres": "Bruno Retailleau veut modifier la Constitution pour imposer des peines minimales et juger les mineurs comme des adultes à partir de quinze ans. Il propose aussi une nouvelle cour disciplinaire pour les magistrats, composée de magistrats, de personnalités qualifiées et de citoyens tirés au sort. Cette cour remplacerait les fonctions disciplinaires du Conseil supérieur de la magistrature.",
+    "sources_avant": "ret-sec-droit,ret-jus-cour",
+    "sources_apres": "ret-sec-droit,ret-jus-cour",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "justice",
+    "candidat": "le-pen",
+    "statut": "corrige",
+    "motif": "Expliquer le contre-budget comme une proposition budgétaire du parti, et préciser que les places concernent les prisons. Ne pas transformer le document collectif en engagement personnel.",
+    "texte_avant": "Marine Le Pen veut des peines courtes effectivement exécutées et supprimer les aménagements pour certaines violences condamnées à plus de six mois. Elle soutient des peines minimales ; le contre-budget collectif RN prévoit 30 000 places supplémentaires.",
+    "texte_apres": "Marine Le Pen veut des peines courtes effectivement exécutées et supprimer les aménagements pour certaines violences condamnées à plus de six mois. Elle soutient des peines minimales ; la proposition de budget de son parti prévoit 30 000 places de prison supplémentaires.",
+    "sources_avant": "pen-jus-lci,pen-sec-ppl,pen-fisc-rn",
+    "sources_apres": "pen-jus-lci,pen-sec-ppl,pen-fisc-rn",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "justice",
+    "candidat": "zemmour",
+    "statut": "corrige",
+    "motif": "L’atténuation liée à la minorité était peu explicite et « places » ne nommait pas les prisons. La réserve porte sur les capacités présentées.",
+    "texte_avant": "Éric Zemmour annonce 100 000 places supplémentaires en deux ans et 40 000 surveillants, avec des prisons préfabriquées. Il veut des peines minimales et supprimer l’atténuation liée à la minorité.",
+    "texte_apres": "Éric Zemmour veut créer 100 000 places de prison supplémentaires en deux ans, notamment dans des bâtiments préfabriqués, et recruter 40 000 surveillants. Il souhaite des peines minimales obligatoires et veut supprimer la réduction des peines liée à l’âge des mineurs. Ces annonces ne fixent pas encore le coût complet de construction et de fonctionnement.",
+    "sources_avant": "zem-sec-priorites,dixi-oral",
+    "sources_apres": "zem-sec-priorites,dixi-oral",
+    "verification_sources": [
+      "https://www.ericzemmour.fr/priorites"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "institutions",
+    "candidat": "le-pen",
+    "statut": "corrige",
+    "motif": "Congrès et article 89 étaient cités sans décrire le déroulement de la révision ; le lien entre référendum et accord préalable du Sénat est explicité.",
+    "texte_avant": "Marine Le Pen conserve la Ve République et veut faire approuver tout changement constitutionnel par référendum, en supprimant la validation par le Congrès. Pour Le Pen, privilégier le référendum n’efface pas automatiquement l’accord préalable du Sénat exigé aujourd’hui par l’article 89.",
+    "texte_apres": "Marine Le Pen conserve la Ve République, mais veut rendre le référendum obligatoire pour approuver un changement de Constitution. Elle supprimerait la possibilité d’une validation par les députés et sénateurs réunis en Congrès. Dans la procédure actuelle, les deux chambres doivent d’abord adopter le même texte : imposer un référendum final ne supprimerait pas à lui seul cette étape ni le pouvoir de blocage du Sénat.",
+    "sources_avant": "pen-sec-orleans,pen-eu-schengen,gluck-inst-revision",
+    "sources_apres": "pen-sec-orleans,pen-eu-schengen,gluck-inst-revision",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "institutions",
+    "candidat": "lisnard",
+    "statut": "corrige",
+    "motif": "L’article 11 et la contestation juridique étaient cités sans expliquer la différence entre les deux procédures ; la réserve devient une explication concrète.",
+    "texte_avant": "David Lisnard conserve la Ve République avec un président arbitre élu pour sept ans et un recours élargi au référendum. Il souhaite ouvrir l’article 11 aux révisions constitutionnelles. Cette utilisation de l’article 11 reste juridiquement contestée.",
+    "texte_apres": "David Lisnard conserve la Ve République, mais propose un président élu pour sept ans et davantage de référendums. Il veut notamment permettre de réviser la Constitution avec le référendum de l’article 11, aujourd’hui prévu pour des lois. Cette voie diffère de la procédure de révision de l’article 89, qui exige d’abord l’accord de l’Assemblée nationale et du Sénat.",
+    "sources_avant": "lis-eu-bayeux,lis-inst-cncdh",
+    "sources_apres": "lis-eu-bayeux,lis-inst-cncdh",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "institutions",
+    "candidat": "retailleau",
+    "statut": "corrige",
+    "motif": "« Toutes les matières législatives » et « censure constitutionnelle » sont traduits en fonctionnement concret, sans changer le statut de proposition.",
+    "texte_avant": "Bruno Retailleau veut élargir le référendum à toutes les matières législatives et permettre au peuple ou au Congrès de surmonter une censure constitutionnelle. Les procédures de Retailleau nécessitent une révision ; elles ne sont pas déjà applicables.",
+    "texte_apres": "Bruno Retailleau veut autoriser un référendum sur toute question relevant de la loi. Si le Conseil constitutionnel bloque une loi, il veut permettre aux citoyens par référendum, ou aux parlementaires réunis en Congrès, de surmonter cette décision. Il prévoit d’abord de faire modifier la Constitution : ces procédures ne sont pas applicables aujourd’hui.",
+    "sources_avant": "ret-inst-ref,ret-inst-last",
+    "sources_apres": "ret-inst-ref,ret-inst-last",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "institutions",
+    "candidat": "zemmour",
+    "statut": "conserve",
+    "motif": "Référendum migratoire et limitation des pouvoirs du Conseil sont présentés avant la réserve sur les obligations européennes ; l’annonce n’est pas confondue avec une réforme déjà en vigueur.",
+    "texte_avant": "Éric Zemmour veut un référendum migratoire et limiter les pouvoirs du Conseil constitutionnel, sans le dissoudre. Il présente la décision populaire comme le moyen d’appliquer sa politique malgré les censures. Un référendum annoncé ne rend pas déjà les mesures migratoires applicables ni n’efface les obligations européennes.",
+    "texte_apres": "Éric Zemmour veut un référendum migratoire et limiter les pouvoirs du Conseil constitutionnel, sans le dissoudre. Il présente la décision populaire comme le moyen d’appliquer sa politique malgré les censures. Un référendum annoncé ne rend pas déjà les mesures migratoires applicables ni n’efface les obligations européennes.",
+    "sources_avant": "zem-inst-tf1trans,zem-fisc-jdd,zem-eu-surl",
+    "sources_apres": "zem-inst-tf1trans,zem-fisc-jdd,zem-eu-surl",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "droits",
+    "candidat": "lisnard",
+    "statut": "corrige",
+    "motif": "« Restrictions vestimentaires » taisait leur objet religieux et la réserve sur les réalisations municipales introduisait des mesures absentes. Les positions et leur ancienneté sont explicites.",
+    "texte_avant": "David Lisnard refuse la gestation pour autrui et l’aide active à mourir, privilégiant protection et soins palliatifs. Lisnard veut des restrictions vestimentaires à l’université, sur les plages et lors des sorties scolaires. Ses réalisations contre les violences et pour le handicap concernent Cannes ; généralisation nationale et financement restent à préciser.",
+    "texte_apres": "David Lisnard refuse la gestation pour autrui, lorsqu’une femme porte un enfant pour d’autres personnes. Il s’oppose aussi à l’euthanasie et au suicide assisté, et privilégie les soins palliatifs. Sa campagne reprend des propositions anciennes d’interdiction des signes politico-religieux ostentatoires à l’université, sur les plages et pour les parents accompagnant les sorties scolaires.",
+    "sources_avant": "lis-droits-gpa,lis-droits-fin-vie,lis-droits-laicite",
+    "sources_apres": "lis-droits-gpa,lis-droits-fin-vie,lis-droits-laicite",
+    "verification_sources": [
+      "https://www.unenouvelleenergie.fr/questions/quel-candidat-defend-la-laicite-face-a-l-islamisme/"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "droits",
+    "candidat": "retailleau",
+    "statut": "corrige",
+    "motif": "L’extension de la neutralité ne précisait pas le changement par rapport aux agents et « sous plafond » n’identifiait pas le plafond financier.",
+    "texte_avant": "Bruno Retailleau promet de préserver les lois sociétales adoptées en suspendant de nouvelles réformes. Il veut permettre d’étendre la neutralité religieuse aux usagers de certains services publics et propose un congé parental facultatif indemnisé à 70 % sous plafond. Les futures règles de neutralité et le financement familial restent à détailler.",
+    "texte_apres": "Bruno Retailleau promet de conserver les lois sociétales déjà adoptées, notamment la protection constitutionnelle de l’avortement, mais de suspendre de nouvelles réformes. Il veut permettre à la loi d’étendre l’obligation de neutralité religieuse aux usagers de certains services publics, au-delà des agents. Il propose aussi un congé parental facultatif indemnisé à 70 % du salaire antérieur, dans la limite du plafond de la Sécurité sociale.",
+    "sources_avant": "ret-droits-bourdin,ret-droits-laicite,ret-droits-conge",
+    "sources_apres": "ret-droits-bourdin,ret-droits-laicite,ret-droits-conge",
+    "verification_sources": [
+      "https://pourquijevote.com/transcripts/15c6309d-fe33-43c3-b92a-f7c847551f0e"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "droits",
+    "candidat": "le-pen",
+    "statut": "corrige",
+    "motif": "Les mesures handicap et la déconjugalisation apparaissaient uniquement dans une réserve finale. « Sans ouvrir les crédits » était opaque ; le statut de programmation parlementaire est expliqué.",
+    "texte_avant": "Marine Le Pen accepte le mariage homosexuel et refuse la gestation pour autrui. Elle veut interdire le voile dans la rue. Elle soutient trois milliards d’euros annuels contre les violences de 2027 à 2032, sans ouvrir les crédits. Ses mesures de handicap 2022 restent archivées ; la déconjugalisation est déjà appliquée.",
+    "texte_apres": "Marine Le Pen accepte désormais le mariage homosexuel, mais refuse qu’une femme porte un enfant pour d’autres personnes, la gestation pour autrui. Elle veut aussi interdire progressivement le voile jusqu’à la rue. Elle soutient un texte parlementaire prévoyant trois milliards d’euros annuels de 2027 à 2032 contre les violences sexuelles, sexistes et intrafamiliales. Cette programmation ne garantit pas que les sommes soient ensuite inscrites dans chaque budget annuel.",
+    "sources_avant": "pen-droits-lcp,pen-eu-cnews,pen-droits-vss-vote,pen-droits-vss-texte",
+    "sources_apres": "pen-droits-lcp,pen-eu-cnews,pen-droits-vss-vote,pen-droits-vss-texte",
+    "verification_sources": [
+      "https://www.assemblee-nationale.fr/dyn/17/scrutins/8705",
+      "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0356_texte-adopte-provisoire"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "droits",
+    "candidat": "zemmour",
+    "statut": "corrige",
+    "motif": "Filiation et gestation pour autrui n’étaient pas expliquées ; la limite juridique est reliée au statut des liens de parenté, pas à une affirmation vague de protection.",
+    "texte_avant": "Éric Zemmour veut interdire voile et kippa dans l’espace public. Il veut aussi empêcher la reconnaissance juridique d’enfants nés de gestation pour autrui à l’étranger, ce qui soulève la protection de leur filiation. Les propositions détaillées sur les violences conjugales et le handicap datent surtout de 2022.",
+    "texte_apres": "Éric Zemmour veut interdire le voile et la kippa dans l’espace public. Il veut aussi empêcher la reconnaissance juridique en France des enfants nés à l’étranger lorsqu’une femme les a portés pour d’autres personnes, la gestation pour autrui. Les liens de parenté que cette mesure empêcherait de reconnaître restent imprécis. Ses propositions détaillées sur les violences conjugales et le handicap sont principalement celles de 2022, sans reconduction complète établie pour 2027.",
+    "sources_avant": "zem-droits-bfm26,zem-fisc-pqv",
+    "sources_apres": "zem-droits-bfm26,zem-fisc-pqv",
+    "verification_sources": [
+      "https://pourquijevote.com/transcripts/3974b537-d92a-49a4-9697-10e789c954d9"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "climat",
+    "candidat": "le-pen",
+    "statut": "corrige",
+    "motif": "« Rafraîchissement », MaPrimeRénov’ et les contraintes locatives n’expliquaient pas les effets concrets. Le prêt et la disparition de l’obligation de travaux sont distingués.",
+    "texte_avant": "Marine Le Pen et le RN privilégient nucléaire, rafraîchissement et prêts sans intérêts, en remplaçant MaPrimeRénov’ et en supprimant les contraintes locatives du diagnostic énergétique. Coût public et solvabilité des emprunteurs restent à clarifier.",
+    "texte_apres": "Marine Le Pen et le Rassemblement national veulent équiper les bâtiments publics contre les fortes chaleurs, notamment avec des pompes à chaleur pouvant aussi rafraîchir. Ils privilégient le nucléaire pour l’électricité. Elle remplacerait MaPrimeRénov’, une aide aux travaux, par un prêt sans intérêt et supprimerait les interdictions de louer liées à la mauvaise performance énergétique. Les propriétaires devraient rembourser les travaux ; la mauvaise étiquette énergétique ne suffirait plus à interdire la location.",
+    "sources_avant": "pen-clim-lcp26,pen-clim-dpe26,pen-en-vert26",
+    "sources_apres": "pen-clim-lcp26,pen-clim-dpe26,pen-en-vert26",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "climat",
+    "candidat": "lisnard",
+    "statut": "corrige",
+    "motif": "« Son adaptation » et « la précaution constitutionnelle » ne définissaient ni les actions locales ni le principe visé. Les objectifs climatiques sont séparés de la protection contre les inondations.",
+    "texte_avant": "David Lisnard veut fixer les résultats environnementaux en laissant davantage le choix des techniques, avec croissance, recherche et investissements privés. Son adaptation s’appuie notamment sur la prévention locale des inondations ; il remplacerait la précaution constitutionnelle par la responsabilité. Le budget national d’adaptation de Lisnard reste à préciser.",
+    "texte_apres": "David Lisnard veut fixer des objectifs de réduction des émissions tout en laissant aux entreprises le choix des techniques. Il mise sur la recherche et l’investissement privé. Pour se protéger des inondations, il met en avant les retenues, les alertes et les sols rendus plus perméables à Cannes. Il veut aussi remplacer dans la Constitution le principe de précaution face aux risques incertains par un principe de responsabilité.",
+    "sources_avant": "lis-clim-prag,lis-clim-faq,lis-clim-inond",
+    "sources_apres": "lis-clim-prag,lis-clim-faq,lis-clim-inond,lis-energie",
+    "verification_sources": [
+      "https://www.unenouvelleenergie.fr/questions/quel-candidat-defend-une-ecologie-pragmatique-et-non-punitive/"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "climat",
+    "candidat": "retailleau",
+    "statut": "corrige",
+    "motif": "Des économies de 2035 apparaissaient uniquement dans la réserve finale, sans mécanisme introduit. Les actions d’adaptation sont désormais concrètes et leur financement reste la réserve pertinente.",
+    "texte_avant": "Bruno Retailleau privilégie l’adaptation technique, le stockage agricole d’eau, des règles allégées et le nucléaire. Il arrêterait les nouveaux soutiens éoliens et solaires. Les ouvrages et équipements restent à financer ; les charges énergétiques évitées annoncées pour 2035 ne sont pas de l’argent immédiatement disponible.",
+    "texte_apres": "Bruno Retailleau veut adapter écoles, crèches, hôpitaux et maisons de retraite aux fortes chaleurs. Il faciliterait aussi le stockage d’eau pour l’agriculture et miserait sur le nucléaire pour l’électricité. Il arrêterait les nouveaux soutiens à l’éolien et au solaire. Le coût des équipements contre la chaleur et des ouvrages de stockage d’eau n’est pas détaillé dans un budget national.",
+    "sources_avant": "ret-clim-eau,ret-clim-adapt,ret-en-subventions",
+    "sources_apres": "ret-clim-eau,ret-clim-adapt,ret-en-subventions",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "climat",
+    "candidat": "zemmour",
+    "statut": "corrige",
+    "motif": "Le financement de l’autonomie n’était pas expliqué et une estimation rétrospective pouvait être lue comme un plan 2027. La référence à des économies non présentées est retirée.",
+    "texte_avant": "Éric Zemmour privilégie le nucléaire, le refroidissement des bâtiments et l’allègement des prélèvements et contraintes. Il a proposé de réaffecter des recettes de solidarité à l’adaptation des bâtiments publics. Cet argent finance déjà l’autonomie : sa réaffectation demanderait une compensation. Les économies annoncées ne constituent pas un budget climatique complet ni une trajectoire nationale d’émissions.",
+    "texte_apres": "Éric Zemmour mise sur le nucléaire et sur le rafraîchissement des bâtiments face aux canicules. Il estime que les recettes de la journée de solidarité auraient dû équiper les maisons de retraite, les écoles et les hôpitaux. Cet argent finance déjà l’autonomie des personnes âgées ou handicapées. Le réorienter vers les bâtiments demanderait donc de remplacer ce financement. Ce raisonnement rétrospectif ne constitue pas un budget annuel pour le prochain mandat.",
+    "sources_avant": "zem-clim-info26,zem-fisc-bfm,zem-clim-couraut,zem-eu-cnews,zem-sec-priorites",
+    "sources_apres": "zem-clim-info26,zem-clim-couraut",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case.",
+      "Accès web échoué ou bloqué lors de cette passe : https://www.franceinfo.fr/replay-jt/franceinfo/jt-tout-est-politique/nous-sommes-un-des-pays-qui-est-le-moins-climatise-au-monde-deplore-eric-zemmour_8079947.html"
+    ]
+  },
+  {
+    "theme": "energie",
+    "candidat": "le-pen",
+    "statut": "corrige",
+    "motif": "Les deux mécanismes de baisse des prix étaient déclarés distincts sans être expliqués. Le statut du document du parti est conservé et le sigle technique retiré.",
+    "texte_avant": "Marine Le Pen veut ramener la TVA énergétique à 5,5 %. Une base de travail du RN prévoit vingt nouveaux réacteurs EPR2 d’ici 2045, l’arrêt du développement éolien et une baisse de 30 % du prix de l’électricité. La baisse des taxes et celle du coût électrique relèvent de mécanismes distincts, dont le financement reste à préciser.",
+    "texte_apres": "Marine Le Pen veut ramener la taxe sur la valeur ajoutée (TVA) sur l’énergie à 5,5 %. Un document de travail de son parti prévoit aussi vingt nouveaux réacteurs nucléaires d’ici 2045, l’arrêt du développement éolien et une baisse de 30 % du prix de l’électricité. Cet objectif de prix ne découle pas de la seule baisse de TVA : il suppose aussi de modifier les règles de vente de l’électricité.",
+    "sources_avant": "pen-fisc-restos,pen-agri-entreprise",
+    "sources_apres": "pen-fisc-restos,pen-agri-entreprise",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "energie",
+    "candidat": "lisnard",
+    "statut": "corrige",
+    "motif": "Le code AO10 et les obligations d’économies d’énergie étaient opaques ; la dernière phrase sur « les factures » ne distinguait pas nucléaire, éolien et carburants.",
+    "texte_avant": "David Lisnard soutient les nouveaux réacteurs nucléaires, les compétences industrielles et les initiatives locales. Il refuse de financer l’appel d’offres AO10 portant sur onze parcs éoliens maritimes. Il suspendrait aussi pendant six mois les obligations d’économies d’énergie sur les carburants. L’effet sur les factures dépendrait de la répercussion des économies par les fournisseurs.",
+    "texte_apres": "David Lisnard soutient la construction de réacteurs nucléaires et la formation des métiers nécessaires. Il refuse de financer un appel d’offres portant sur onze parcs éoliens en mer. Pour les carburants, il suspendrait six mois les certificats qui obligent les fournisseurs à financer des économies d’énergie. Il espère ainsi réduire le prix à la pompe, à condition que les vendeurs transmettent la baisse à leurs clients.",
+    "sources_avant": "lis-en-diplomate,lis-en-offshore,lis-prix-carburant",
+    "sources_apres": "lis-en-diplomate,lis-en-offshore,lis-prix-carburant",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "energie",
+    "candidat": "retailleau",
+    "statut": "corrige",
+    "motif": "Le sigle EPR2 et « besoins électriques » étaient peu explicites ; le lien entre contrats, coût nucléaire et factures est donné.",
+    "texte_avant": "Bruno Retailleau vise jusqu’à quatre-vingts ans pour les réacteurs, sous réserve de sûreté. Il prévoit six EPR2, puis huit supplémentaires sous conditions. Il arrêterait les nouveaux soutiens solaires et éoliens et réorganiserait les contrats pour rapprocher les prix des coûts nucléaires. Les économies annoncées dépendent du calendrier et des besoins électriques.",
+    "texte_apres": "Bruno Retailleau veut prolonger les réacteurs nucléaires jusqu’à quatre-vingts ans si leur sûreté le permet. Il prévoit six nouveaux réacteurs, puis huit supplémentaires sous conditions. Il arrêterait les nouveaux soutiens à l’éolien et au solaire et modifierait les contrats d’électricité pour rapprocher les factures du coût de production nucléaire. Les baisses promises dépendraient de la mise en place de ces contrats et du calendrier industriel.",
+    "sources_avant": "ret-en-80ans,ret-en-epr2,ret-en-subventions,ret-prix-elec",
+    "sources_apres": "ret-en-80ans,ret-en-epr2,ret-en-subventions,ret-prix-elec",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "energie",
+    "candidat": "zemmour",
+    "statut": "corrige",
+    "motif": "Le contraste puissance/quantité à toute heure était technique et sans explication. Les conditions concrètes des réacteurs et contrats sont préférées.",
+    "texte_avant": "Éric Zemmour annonce six nouveaux réacteurs dès 2035 et quatorze en 2045. Il réserverait aussi une puissance nucléaire aux infrastructures françaises d’intelligence artificielle par des contrats préférentiels. Ces objectifs dépendent des délais industriels et du financement ; une puissance réservée ne garantit pas une quantité d’électricité disponible à toute heure.",
+    "texte_apres": "Éric Zemmour annonce six nouveaux réacteurs nucléaires d’ici 2035 et quatorze d’ici 2045. Il veut aussi fournir une électricité nucléaire à tarif préférentiel aux infrastructures françaises d’intelligence artificielle, avec des contrats de long terme. Les sites, le calendrier industriel, le prix garanti aux bénéficiaires et le financement des réacteurs restent à préciser.",
+    "sources_avant": "zem-num-discours26",
+    "sources_apres": "zem-num-discours26",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "transports",
+    "candidat": "lisnard",
+    "statut": "corrige",
+    "motif": "Les bus à hydrogène de Cannes apparaissaient uniquement dans une réserve, sans proposition présentée. Ce sujet local et la réserve générale sur « les technologies » sont retirés du résumé.",
+    "texte_avant": "David Lisnard veut supprimer les zones à faibles émissions et investir dans les infrastructures routières et ferroviaires des territoires éloignés. Le plan national ne fixe ni enveloppe ni partage des financements ; les bus à hydrogène et leurs aides concernent Cannes. Efficacité environnementale, fiabilité et coût complet des technologies restent à examiner.",
+    "texte_apres": "David Lisnard veut supprimer les zones à faibles émissions, qui limitent l’accès de certains véhicules selon leur pollution. Son parti propose aussi d’investir dans les routes et le rail pour mieux relier les territoires éloignés aux villes. Ce plan ne précise pas encore les lignes ou routes concernées, leur calendrier et leur financement.",
+    "sources_avant": "lis-trans-zfe,lis-fisc-industrie",
+    "sources_apres": "lis-trans-zfe,lis-fisc-industrie",
+    "verification_sources": [
+      "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "transports",
+    "candidat": "retailleau",
+    "statut": "corrige",
+    "motif": "Les certificats, le barème et son indexation étaient nommés sans explication. La limite finale porte désormais explicitement sur la déduction présentée.",
+    "texte_avant": "Bruno Retailleau veut supprimer les certificats d’économies d’énergie sur les carburants et relever de 10 % le barème kilométrique, puis l’indexer. La baisse annoncée de 15 à 17 centimes dépend de sa répercussion ; elle ne garantit pas le maintien des aides financées par les certificats. Déduction fiscale et remboursement forfaitaire restent distincts.",
+    "texte_apres": "Bruno Retailleau veut supprimer sur les carburants les certificats qui obligent les fournisseurs à financer des économies d’énergie. Il en attend 15 à 17 centimes de moins par litre, si les distributeurs répercutent la baisse. Il augmenterait aussi de 10 % le barème kilométrique utilisé pour déduire les frais professionnels, puis le ferait évoluer avec les prix des carburants. Cette déduction fiscale n’est pas un remboursement de tous les trajets.",
+    "sources_avant": "ret-tra-ps,ret-tra-conf",
+    "sources_apres": "ret-tra-ps,ret-tra-conf",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "transports",
+    "candidat": "le-pen",
+    "statut": "corrige",
+    "motif": "La réserve sur le casier ne disait pas quelles versions divergeaient ; les mesures de 2022 non présentées sont retirées du résumé.",
+    "texte_avant": "Marine Le Pen propose une TVA carburant à 5,5 %, le permis gratuit pour les jeunes sous condition pénale et les trains gratuits aux heures creuses. La portée du casier requis et le coût de la gratuité ferroviaire restent à préciser ; les propositions détaillées de 2022 gardent leur statut d’archives.",
+    "texte_apres": "Marine Le Pen veut ramener la taxe sur la valeur ajoutée (TVA) sur les carburants à 5,5 %. Elle propose aussi le permis gratuit et les trains gratuits aux heures creuses pour les jeunes. Son site réserve le permis aux jeunes au casier judiciaire vierge ; en débat, elle évoque seulement un casier très chargé. Cette différence de formulation laisse les critères pénaux à préciser, tout comme le financement de la gratuité ferroviaire.",
+    "sources_avant": "pen-fisc-restos,pen-fin-prim",
+    "sources_apres": "pen-fisc-restos,pen-fin-prim",
+    "verification_sources": [
+      "https://www.marinelepen.com/actualites/marine-le-pen-presente-un-plan-de-redressement-budgetaire-pour-la-france"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "transports",
+    "candidat": "zemmour",
+    "statut": "corrige",
+    "motif": "Les archives de circulation et du rail apparaissaient uniquement dans une réserve. Les deux mécanismes de carburant et la contrepartie sur les aides sont définis.",
+    "texte_avant": "Éric Zemmour veut réduire d’un tiers l’accise sur les carburants et supprimer les certificats d’économies d’énergie. Il souhaite aussi conserver la production de voitures thermiques. Baisse annoncée à la pompe et économie garantie sont distinctes : coûts fiscaux, aides perdues et financement de remplacement restent à préciser. Ses règles détaillées de circulation et son budget ferroviaire viennent de 2022.",
+    "texte_apres": "Éric Zemmour veut réduire d’un tiers l’accise, une taxe sur les carburants, et supprimer les certificats qui obligent les fournisseurs à financer des économies d’énergie. Il espère faire baisser le prix à la pompe, si les distributeurs répercutent ces baisses. Il souhaite aussi maintenir la production de voitures thermiques. La suppression des certificats laisserait à remplacer le financement des aides qui en dépendent.",
+    "sources_avant": "zem-fisc-bfm,zem-eu-cnews",
+    "sources_apres": "zem-fisc-bfm,zem-eu-cnews",
+    "verification_sources": [
+      "https://pourquijevote.com/transcripts/07bc26df-29a2-4661-910a-c5ad65cc45dc"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "agriculture",
+    "candidat": "lisnard",
+    "statut": "corrige",
+    "motif": "Les revenus du carbone n’apparaissaient que dans la réserve finale. La diversification, le carbone et la limite du stockage d’eau sont désormais présentés avant leurs modalités financières.",
+    "texte_avant": "David Lisnard privilégie compétitivité, techniques, règles simplifiées et activités rurales diversifiées. Il propose de faciliter le stockage collectif d’eau sous conditions hydrologiques et de modifier le financement des charges agricoles. Taux des nouveaux prélèvements, dépenses d’accompagnement et revenus attendus du carbone restent à établir.",
+    "texte_apres": "David Lisnard veut simplifier les règles agricoles et permettre aux exploitations de diversifier leurs activités : transformation, vente, énergie ou tourisme. Il propose de faciliter le stockage collectif d’eau, sous réserve des ressources du bassin. Son parti veut aussi rémunérer le carbone économisé ou stocké. Il prévoit de modifier les prélèvements finançant certaines charges agricoles, sans en fixer les taux.",
+    "sources_avant": "lis-agri,lis-agri-carnet26,lis-agri-chalons26",
+    "sources_apres": "lis-agri,lis-agri-carnet26,lis-agri-chalons26",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "agriculture",
+    "candidat": "retailleau",
+    "statut": "corrige",
+    "motif": "Les 700 millions n’apparaissaient qu’après la réserve et l’acétamipride n’était pas défini. Chaque précaution est maintenant attachée à une mesure présentée.",
+    "texte_avant": "Bruno Retailleau privilégie investissement, règles allégées, irrigation et aides à la production. Il veut aussi différer les droits de transmission et réautoriser l’acétamipride. Droits différés restent dus et les 700 millions de modernisation annoncés sont des crédits réaffectés, sans périodicité précisée.",
+    "texte_apres": "Bruno Retailleau veut alléger les règles agricoles, faciliter l’irrigation et réorienter jusqu’à 700 millions d’euros vers la modernisation des fermes à partir de 2028. Il s’agirait de crédits existants, sans montant annuel précisé. Il veut aussi reporter les droits de transmission des exploitations jusqu’à leur vente ou liquidation, et réautoriser l’acétamipride, un insecticide. Reporter l’impôt ne le supprimerait pas.",
+    "sources_avant": "ret-agri-trans,ret-agri-anses,ret-agri-normes,ret-agri-pac,ret-clim-fermes,ret-clim-eau",
+    "sources_apres": "ret-agri-trans,ret-agri-anses,ret-agri-normes,ret-agri-pac,ret-clim-fermes,ret-clim-eau",
+    "verification_sources": [
+      "https://www.avecretailleau.fr/projet/mesure/financer-la-modernisation-des-fermes"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "agriculture",
+    "candidat": "le-pen",
+    "statut": "corrige",
+    "motif": "« 100 % d’exonération Dutreil » et « avantage fiscal » étaient peu explicites. La réserve sur les protections conservées n’indiquait aucune mesure précise.",
+    "texte_avant": "Marine Le Pen veut alléger les règles françaises supplémentaires, favoriser les productions nationales et faciliter les transmissions familiales. Elle propose 100 % d’exonération Dutreil contre dix ans d’exploitation et un avantage fiscal pour la robotique. Coûts, compatibilité des préférences d’achat avec le droit européen et protections conservées restent à préciser.",
+    "texte_apres": "Marine Le Pen veut supprimer les règles françaises qui s’ajoutent aux exigences européennes et favoriser les productions nationales dans les achats publics. Pour les transmissions d’exploitations sous le pacte Dutreil, elle propose une exonération totale d’impôt si l’activité est maintenue dix ans. Elle veut aussi réduire le bénéfice imposable des agriculteurs qui investissent dans la robotique. Ces avantages ne sont pas encore chiffrés séparément pour l’agriculture.",
+    "sources_avant": "pen-agri-cournon,pen-eu-schengen,pen-agri-entreprise,pen-agri-montaigne",
+    "sources_apres": "pen-agri-cournon,pen-eu-schengen,pen-agri-entreprise,pen-agri-montaigne",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "agriculture",
+    "candidat": "zemmour",
+    "statut": "corrige",
+    "motif": "Le budget « en validation » était un commentaire sur la recherche ; le chiffre des neuf milliards n’était introduit que par une réserve. Son origine et son statut sont explicités.",
+    "texte_avant": "Éric Zemmour veut recentrer les aides européennes sur la production, réduire impôts et normes et sortir l’agriculture du libre-échange. Il soutient transmission familiale et stockage d’eau et de fourrage. Les neuf milliards annuels cités par Zemmour sont des aides existantes à réaffecter ; transferts, compensations et budget national restaient en validation à l’automne 2026.",
+    "texte_apres": "Éric Zemmour veut orienter davantage les aides agricoles européennes vers la production, alléger les impôts et les normes et exclure l’agriculture des accords de libre-échange. Il soutient aussi les transmissions familiales et le stockage d’eau et de fourrage. Les neuf milliards d’euros annuels qu’il cite correspondent aux aides existantes à réorienter, pas à neuf milliards supplémentaires pour les exploitations.",
+    "sources_avant": "zem-agri-sommet26,zem-agri-agra26",
+    "sources_apres": "zem-agri-sommet26,zem-agri-agra26",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "territoires",
+    "candidat": "lisnard",
+    "statut": "conserve",
+    "motif": "La fusion des régions et départements en provinces est présentée avant les questions de compétences fiscales et de coût ; l’enchaînement est cohérent.",
+    "texte_avant": "David Lisnard veut décider au plus près des habitants et remplacer régions et départements par des provinces, avec des communes renforcées. Le partage des recettes fiscales et le coût de passage aux provinces restent à préciser.",
+    "texte_apres": "David Lisnard veut décider au plus près des habitants et remplacer régions et départements par des provinces, avec des communes renforcées. Le partage des recettes fiscales et le coût de passage aux provinces restent à préciser.",
+    "sources_avant": "lis-eu-bayeux,lis-cult-civique",
+    "sources_apres": "lis-eu-bayeux,lis-cult-civique",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "territoires",
+    "candidat": "retailleau",
+    "statut": "corrige",
+    "motif": "Le « rendement des constructions » n’avait pas de sens clair. L’aide aux communes est reliée à son objectif et au financement restant à préciser.",
+    "texte_avant": "Bruno Retailleau veut consulter les communes avant les fermetures de classes rurales et leur verser 9 000 euros par logement neuf. Il demande aussi un effort budgétaire aux grandes collectivités. Consulter ne donne pas un veto municipal ; le rendement des constructions et la répartition des économies locales restent à préciser.",
+    "texte_apres": "Bruno Retailleau veut consulter les communes avant les fermetures de classes rurales, sans leur donner un droit de veto. Il propose aussi de verser 9 000 euros aux communes par logement neuf pour les encourager à construire. Il demande parallèlement des économies aux grandes collectivités. La répartition de cet effort entre territoires et le financement de l’aide à la construction restent à préciser.",
+    "sources_avant": "ret-ter-ecoles,ret-ter-communes,ret-dette-etat",
+    "sources_apres": "ret-ter-ecoles,ret-ter-communes,ret-dette-etat",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "territoires",
+    "candidat": "le-pen",
+    "statut": "corrige",
+    "motif": "Les deux sujets étaient fondus dans une même phrase et l’octroi de mer n’était pas défini. L’effet sur les missions et sur les recettes locales est expliqué séparément.",
+    "texte_avant": "Marine Le Pen prévoit de supprimer les intercommunalités et les métropoles, avec des économies locales et une compensation de l’octroi de mer supprimé outre-mer. Supprimer une structure ne supprime pas ses missions ; recettes de remplacement, transfert des personnels et maintien des investissements restent à détailler.",
+    "texte_apres": "Marine Le Pen veut supprimer les intercommunalités et les métropoles, qui organisent des services communs à plusieurs communes. Elle en attend des économies, mais leurs missions et leurs agents devraient être repris ailleurs. Outre-mer, elle veut aussi supprimer l’octroi de mer, une taxe sur les marchandises qui finance les collectivités. Elle promet de remplacer intégralement cette recette, sans détailler les ressources de remplacement.",
+    "sources_avant": "pen-ter-acteurs,pen-fisc-conf",
+    "sources_apres": "pen-ter-acteurs,pen-fisc-conf",
+    "verification_sources": [
+      "https://acteurspublics.fr/articles/la-reforme-de-letat-et-des-collectivites-au-coeur-des-economies-programmees-par-le-rn/"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "territoires",
+    "candidat": "zemmour",
+    "statut": "corrige",
+    "motif": "Les dispositifs ruraux anciens n’étaient évoqués que pour les exclure et la différence avec 2022 encombrait le résumé. Le projet actuel et ses conséquences sont présentés seuls.",
+    "texte_avant": "Éric Zemmour propose de fusionner régions et départements en provinces et de rendre les regroupements communaux facultatifs. Sa position de novembre diffère de son ancienne priorité donnée aux départements. Carte, personnels, dettes et recettes transférées restent à préciser ; ses anciens dispositifs ruraux ne sont pas automatiquement reconduits pour 2027.",
+    "texte_apres": "Éric Zemmour veut fusionner régions et départements en provinces et laisser les communes choisir si elles se regroupent pour assurer certains services. Par exemple, elles pourraient mutualiser la gestion des déchets. Cette fusion demanderait de répartir les compétences, les personnels, les dettes et les recettes fiscales entre les nouvelles structures. Sa carte territoriale et son financement ne sont pas détaillés.",
+    "sources_avant": "zem-eu-edc,zem-ter-acteurs22",
+    "sources_apres": "zem-eu-edc",
+    "verification_sources": [
+      "https://pourquijevote.com/transcripts/c94cec30-2346-4c89-b1cc-615887de6ce0"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "europe",
+    "candidat": "le-pen",
+    "statut": "corrige",
+    "motif": "La contribution nette était citée sans définition et les financements étaient présentés abstraitement. L’accord international est relié aux mesures.",
+    "texte_avant": "Marine Le Pen veut transformer l’Union par une alliance de gouvernements nationaux, sans référendum de sortie. Elle défend un plafonnement de la contribution nette et propose des recettes européennes sur le tabac et l’alcool. Ses financements supposent des négociations ; taux des taxes, partage des recettes et rendement net français restent à préciser.",
+    "texte_apres": "Marine Le Pen veut réorienter l’Union européenne avec des gouvernements alliés, sans référendum de sortie. Elle veut plafonner la contribution française après déduction des fonds reçus et propose des recettes européennes sur le tabac et l’alcool. Ces changements demanderaient l’accord des partenaires. Les taux, le partage des recettes et le gain pour le budget français restent à préciser.",
+    "sources_avant": "pen-eu-cnews,pen-fisc-conf",
+    "sources_apres": "pen-eu-cnews,pen-fisc-conf",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "europe",
+    "candidat": "lisnard",
+    "statut": "corrige",
+    "motif": "La dernière phrase évoquait un vote français absent du reste du résumé. La condition d’accord international est directement rattachée aux changements proposés.",
+    "texte_avant": "David Lisnard veut modifier les règles européennes avec des pays alliés, sans quitter l’Union. Il privilégie des coopérations stratégiques entre États capables d’agir et maintient le lien atlantique pour la sécurité immédiate. Le consentement des partenaires et les ratifications nécessaires ne peuvent être remplacés par un vote français.",
+    "texte_apres": "David Lisnard veut modifier les règles européennes avec des gouvernements alliés, tout en restant dans l’Union. Il privilégie des coopérations entre pays volontaires sur les grands projets stratégiques. Pour la sécurité immédiate, il conserve l’alliance atlantique. Ces changements dépendraient de l’accord des partenaires et, selon les textes concernés, de leur ratification.",
+    "sources_avant": "lis-eu-cnews,lis-en-diplomate",
+    "sources_apres": "lis-eu-cnews,lis-en-diplomate",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "europe",
+    "candidat": "retailleau",
+    "statut": "conserve",
+    "motif": "Le contrôle des règles européennes, la primauté sur les lois et la coopération militaire sont distingués ; la condition d’accord avec les partenaires porte sur les orientations présentées.",
+    "texte_avant": "Bruno Retailleau défend une Europe d’États souverains qui coopèrent. Il veut empêcher les autorités françaises d’appliquer des règles européennes contraires à la Constitution ou dépassant les traités, sans abandonner la primauté sur les lois ordinaires. En défense, il privilégie des accords entre États et un rôle européen renforcé dans l’OTAN. Ces orientations nécessitent des négociations avec les partenaires.",
+    "texte_apres": "Bruno Retailleau défend une Europe d’États souverains qui coopèrent. Il veut empêcher les autorités françaises d’appliquer des règles européennes contraires à la Constitution ou dépassant les traités, sans abandonner la primauté sur les lois ordinaires. En défense, il privilégie des accords entre États et un rôle européen renforcé dans l’OTAN. Ces orientations nécessitent des négociations avec les partenaires.",
+    "sources_avant": "ret-eu-defense,ret-eu-compet",
+    "sources_apres": "ret-eu-defense,ret-eu-compet",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "europe",
+    "candidat": "zemmour",
+    "statut": "conserve",
+    "motif": "L’organisation intergouvernementale proposée et les 14 milliards attribués à son camp sont présentés avant leur condition d’accord ; l’objectif budgétaire n’est pas présenté comme acquis.",
+    "texte_avant": "Éric Zemmour veut une Europe gouvernée par les États, avec une Commission réduite à leur secrétariat. Il souhaite davantage de liberté nationale sur les normes et les frontières, sans annoncer de sortie de l’Union ou de l’euro. Son camp compte 14 milliards d’euros annuels d’économies européennes dans son plan général ; leur obtention dépend d’un accord et des politiques maintenues.",
+    "texte_apres": "Éric Zemmour veut une Europe gouvernée par les États, avec une Commission réduite à leur secrétariat. Il souhaite davantage de liberté nationale sur les normes et les frontières, sans annoncer de sortie de l’Union ou de l’euro. Son camp compte 14 milliards d’euros annuels d’économies européennes dans son plan général ; leur obtention dépend d’un accord et des politiques maintenues.",
+    "sources_avant": "zem-eu-bfm,zem-eu-dixi,knafo",
+    "sources_apres": "zem-eu-bfm,zem-eu-dixi,knafo",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case.",
+      "Accès web échoué ou bloqué lors de cette passe : https://dixipolis.com/video/225941"
+    ]
+  },
+  {
+    "theme": "defense",
+    "candidat": "lisnard",
+    "statut": "corrige",
+    "motif": "OTAN et « décision » sont explicités, et la réserve abstraite sur les ordres de grandeur devient une limite budgétaire précise.",
+    "texte_avant": "David Lisnard veut des stocks, des commandes durables et des technologies autonomes pour préparer les armées à une guerre longue. Il conserve l’OTAN comme cadre de sécurité. Il accepte de discuter d’une protection nucléaire européenne si la France garde seule la décision. Ses ordres de grandeur budgétaires restent conditionnels, sans trajectoire annuelle détaillée pour le prochain mandat.",
+    "texte_apres": "David Lisnard veut renforcer les stocks militaires, passer des commandes durables et développer des technologies autonomes pour préparer les armées à une guerre longue. Il conserve l’Organisation du traité de l’Atlantique Nord (OTAN) comme cadre de sécurité. Il accepte de discuter d’une protection nucléaire européenne à condition que la France garde seule la décision d’utiliser l’arme. Il ne fixe pas encore de budget annuel détaillé pour le prochain mandat.",
+    "sources_avant": "lis-def-diplomate,lis-def-nucleaire",
+    "sources_apres": "lis-def-diplomate,lis-def-nucleaire",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "defense",
+    "candidat": "retailleau",
+    "statut": "conserve",
+    "motif": "La hausse budgétaire et ses leviers de financement sont introduits avant l’engagement ukrainien ; aucune critique déplacée ou mécanisme incohérent repéré.",
+    "texte_avant": "Bruno Retailleau défend une accélération des dépenses pour atteindre 3,5 % de la richesse nationale consacrée à la défense. Il invoque économies et création de richesse, sans détailler leur répartition. Il promet aussi de maintenir l’aide financière et militaire à l’Ukraine.",
+    "texte_apres": "Bruno Retailleau défend une accélération des dépenses pour atteindre 3,5 % de la richesse nationale consacrée à la défense. Il invoque économies et création de richesse, sans détailler leur répartition. Il promet aussi de maintenir l’aide financière et militaire à l’Ukraine.",
+    "sources_avant": "ret-def-sen2,ret-eu-bfm",
+    "sources_apres": "ret-def-sen2,ret-eu-bfm",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "defense",
+    "candidat": "le-pen",
+    "statut": "corrige",
+    "motif": "Le délai de six mois pouvait être rattaché au retrait de l’OTAN. Il est explicitement relié aux aides financières ukrainiennes et les engagements antérieurs sont préservés.",
+    "texte_avant": "Marine Le Pen veut quitter le commandement intégré de l’OTAN tout en restant membre de l’Alliance. Elle propose de cesser les nouveaux soutiens financiers à l’Ukraine, tout en maintenant les dons de matériels et l’aide humanitaire. Pour Le Pen, le délai annoncé est de six mois après l’élection ; les aides conservées restent à distinguer des économies attendues.",
+    "texte_apres": "Marine Le Pen veut quitter le commandement militaire intégré de l’Organisation du traité de l’Atlantique Nord (OTAN), tout en restant membre de l’Alliance. Elle souhaite aussi arrêter les nouveaux soutiens financiers à l’Ukraine dans les six mois suivant l’élection. Elle maintiendrait les dons de matériel, l’aide humanitaire et les engagements déjà pris. Arrêter les nouvelles aides financières ne signifierait donc pas supprimer toute aide à l’Ukraine.",
+    "sources_avant": "phil-eu-euronaval-lepen,rou-eu-publicsenat",
+    "sources_apres": "phil-eu-euronaval-lepen,rou-eu-publicsenat,pen-def-reutersukr",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "defense",
+    "candidat": "zemmour",
+    "statut": "corrige",
+    "motif": "« Dissuasion sous décision française » ne disait pas clairement qu’il s’agissait de l’arme nucléaire et de la décision de l’employer.",
+    "texte_avant": "Éric Zemmour veut poursuivre le réarmement et protéger les partenaires européens par la dissuasion, sous décision française et contre achats d’armes françaises. Pour l’Ukraine, Zemmour privilégie la négociation sans annoncer d’arrêt programmé de l’aide.",
+    "texte_apres": "Éric Zemmour veut poursuivre le réarmement. Il propose d’étendre la protection nucléaire française aux partenaires européens à condition qu’ils achètent des armes françaises, tout en gardant la décision d’utiliser l’arme sous contrôle français. Pour l’Ukraine, il privilégie la négociation et n’annonce pas d’arrêt programmé de l’aide.",
+    "sources_avant": "zem-fisc-bfm",
+    "sources_apres": "zem-fisc-bfm",
+    "verification_sources": [
+      "https://pourquijevote.com/transcripts/07bc26df-29a2-4661-910a-c5ad65cc45dc"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "culture",
+    "candidat": "lisnard",
+    "statut": "conserve",
+    "motif": "L’éducation artistique, le soutien à la création et la vente de France 2 sont introduits avant les réserves qui les concernent ; distinction vente ponctuelle/économies annuelles conservée.",
+    "texte_avant": "David Lisnard veut généraliser l’éducation artistique, transmettre de grandes œuvres et conserver un soutien public à la création. Il propose de privatiser France 2, avec deux grandes chaînes publiques recentrées. Recettes de vente, économies annuelles et moyens de l’éducation culturelle restent à préciser.",
+    "texte_apres": "David Lisnard veut généraliser l’éducation artistique, transmettre de grandes œuvres et conserver un soutien public à la création. Il propose de privatiser France 2, avec deux grandes chaînes publiques recentrées. Recettes de vente, économies annuelles et moyens de l’éducation culturelle restent à préciser.",
+    "sources_avant": "lis-cult-rtl,lis-cult-civique,lis-cult-franceinfo",
+    "sources_apres": "lis-cult-rtl,lis-cult-civique,lis-cult-franceinfo",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "culture",
+    "candidat": "retailleau",
+    "statut": "corrige",
+    "motif": "« Classe Culture » pouvait faire penser à une classe scolaire spécialisée ; le projet et le lien avec les économies sont explicités.",
+    "texte_avant": "Bruno Retailleau prévoit une « Classe Culture » dans chaque établissement et quinze minutes quotidiennes de lecture à l’école et au collège. Son plan vise 2,6 milliards d’euros d’économies annuelles sur culture et médias en 2032. Le partage des économies entre audiovisuel et pass Culture reste à préciser.",
+    "texte_apres": "Bruno Retailleau prévoit dans chaque école et établissement un projet « Classe Culture », avec sorties, ateliers et rencontres artistiques. Il veut aussi quinze minutes quotidiennes de lecture à l’école et au collège. Parallèlement, il vise 2,6 milliards d’euros d’économies annuelles sur la culture et les médias en 2032, notamment dans l’audiovisuel public et le pass Culture. Il ne détaille pas encore la répartition de ces réductions.",
+    "sources_avant": "ret-cult-ecole,lr-fin",
+    "sources_apres": "ret-cult-ecole,lr-fin",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "culture",
+    "candidat": "le-pen",
+    "statut": "corrige",
+    "motif": "La contestation sur les missions et recettes publicitaires était présentée sans auteur. Une objection précise d’INfluencia remplace cette généralisation, avec son objet et ses montants.",
+    "texte_avant": "Marine Le Pen prévoit de privatiser France Télévisions et Radio France en conservant certaines offres publiques. Sa campagne envisage aussi de privilégier le patrimoine dans les crédits culturels. La trajectoire Le Pen réduirait fortement la dotation dès 2028 ; financement des missions restantes, débouchés publicitaires et maintien des commandes de création sont contestés.",
+    "texte_apres": "Marine Le Pen veut privatiser France Télévisions et Radio France, tout en gardant notamment Arte et l’audiovisuel extérieur dans le public. Sa campagne envisage aussi de favoriser le patrimoine dans les crédits culturels. Selon sa trajectoire, la dotation de l’audiovisuel public tomberait à 300 millions d’euros en 2028. INfluencia questionne le financement des exceptions : Arte France et France Médias Monde recevaient déjà ensemble 602 millions en 2026.",
+    "sources_avant": "pen-cult-influencia26,pen-cult-lettre26",
+    "sources_apres": "pen-cult-influencia26,pen-cult-lettre26",
+    "verification_sources": [
+      "https://www.influencia.net/articles/le-rn-veut-reduire-de-92-la-dotation-de-laudiovisuel-public-actant-la-privatisation-de-france-televisions-et-radio-france"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "culture",
+    "candidat": "zemmour",
+    "statut": "corrige",
+    "motif": "Les humanités étaient du jargon et « renouvellement reste à préciser » ne disait pas directement que le périmètre est celui d’un programme ancien.",
+    "texte_avant": "Éric Zemmour privilégie les humanités et la transmission du patrimoine. Son programme de 2022 prévoyait de privatiser une partie de l’audiovisuel public et de transférer France 3 et France Bleu aux collectivités, tout en conservant d’autres chaînes publiques. Le renouvellement de ces propositions et leur financement pour 2027 restent à préciser.",
+    "texte_apres": "Éric Zemmour privilégie la transmission des lettres, de l’histoire et du patrimoine. Son programme de 2022 prévoyait de privatiser une partie de l’audiovisuel public et de confier France 3 et France Bleu aux collectivités, tout en gardant d’autres chaînes publiques. Ces propositions anciennes n’ont pas toutes été renouvelées et financées pour 2027.",
+    "sources_avant": "zem-fisc-pqv,zem-def-prog22",
+    "sources_apres": "zem-fisc-pqv,zem-def-prog22",
+    "verification_sources": [
+      "https://pourquijevote.com/transcripts/3974b537-d92a-49a4-9697-10e789c954d9"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "numerique",
+    "candidat": "lisnard",
+    "statut": "corrige",
+    "motif": "Les économies municipales n’étaient évoquées que pour les relativiser, sans expliquer leur origine. Le rôle d’État premier client et de l’agence est décrit ; la réserve orpheline disparaît.",
+    "texte_avant": "David Lisnard veut produire intelligence artificielle (IA) et robots, utiliser l’État comme premier client et créer une agence européenne de recherche technologique. Lisnard associe développement industriel, formation et règles internationales ; les économies municipales qu’il revendique ne constituent pas un financement national garanti ni un audit de tous les usages.",
+    "texte_apres": "David Lisnard veut développer une industrie française de l’intelligence artificielle (IA) et de la robotique. Il propose que l’État utilise ces outils pour préparer les dossiers administratifs. Il défend aussi une agence européenne de recherche pour transformer les découvertes en produits, ainsi que des formations à l’IA et des règles internationales.",
+    "sources_avant": "lis-ia,lis-num-souveraine24,lis-num-opinion26",
+    "sources_apres": "lis-ia,lis-num-souveraine24,lis-num-opinion26",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "numerique",
+    "candidat": "retailleau",
+    "statut": "corrige",
+    "motif": "Le fonctionnement de Marianne et les « centres souverains » étaient opaques. « 11,6 nouveaux » n’avait pas d’unité et le total financier était comparé à des recettes sans explication.",
+    "texte_avant": "Bruno Retailleau prévoit un assistant administratif gratuit, Marianne, avec guichets conservés et décision humaine. Il vise aussi des centres souverains, des formations et une protection cyber. Le livret Retailleau annonce 23 milliards bruts sur cinq ans, dont 11,6 nouveaux ; investissements remboursables, capitaux privés et économies finales attendues ne sont pas des recettes immédiatement disponibles.",
+    "texte_apres": "Bruno Retailleau veut créer Marianne, un assistant numérique gratuit pour expliquer les droits et préparer les démarches administratives. Les guichets resteraient ouverts et les décisions seraient prises par l’administration. Il prévoit aussi des centres de données sous maîtrise française ou européenne, des formations à l’intelligence artificielle et une protection renforcée contre les cyberattaques. Son livret annonce 23 milliards d’euros sur cinq ans, dont 11,6 milliards d’investissements nouveaux. Le reste reprendrait notamment des financements déjà prévus dans son projet économique et la programmation militaire.",
+    "sources_avant": "ret-num-marianne,ret-num-centres,ret-num-livret",
+    "sources_apres": "ret-num-marianne,ret-num-centres,ret-num-livret",
+    "verification_sources": [
+      "https://www.avecretailleau.fr/api/media/file/LR_IA.pdf",
+      "https://www.avecretailleau.fr/projet/mesure/creer-marianne-l-assistant-administratif-de-chaque-francais"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  },
+  {
+    "theme": "numerique",
+    "candidat": "le-pen",
+    "statut": "corrige",
+    "motif": "Cloud européen n’était pas expliqué ; les réserves étaient une liste technocratique. La distinction entre propos récents et proposition collective de 2024 est conservée.",
+    "texte_avant": "Marine Le Pen veut utiliser l’intelligence artificielle (IA) pour les services, la santé et la sécurité, et envisage une agence internationale de régulation. Son parti défendait aussi un cloud européen en 2024. Le Pen ne publie pas encore un budget complet, des tâches automatisées détaillées ou des garanties opérationnelles pour chaque usage.",
+    "texte_apres": "Marine Le Pen veut utiliser l’intelligence artificielle (IA) dans les services publics, la santé et la sécurité. Elle envisage une agence internationale pour encadrer ces technologies. Son parti défendait aussi en 2024 un cloud européen, c’est-à-dire des services de stockage et de calcul à distance sous maîtrise européenne. Les usages annoncés ne s’accompagnent pas encore d’un budget complet ni de règles opérationnelles détaillées.",
+    "sources_avant": "pen-num-europe1,pen-eu-cnews,pen-num-2024",
+    "sources_apres": "pen-num-europe1,pen-eu-cnews,pen-num-2024",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale aux détails sourcés du dépôt ; pas de nouvelle validation externe complète de cette case."
+    ]
+  },
+  {
+    "theme": "numerique",
+    "candidat": "zemmour",
+    "statut": "corrige",
+    "motif": "Épargne et commande publique n’étaient pas expliquées et la relation de soin apparaissait sans contexte de robotisation des établissements pour personnes âgées.",
+    "texte_avant": "Éric Zemmour veut une France parmi les premières puissances de l’intelligence artificielle (IA), avec énergie nucléaire, épargne et commande publique. Il défend aussi la robotisation, tout en précisant que la relation de soin resterait humaine. Coût, rythme industriel et disponibilité réelle des robots restent à préciser.",
+    "texte_apres": "Éric Zemmour veut développer l’intelligence artificielle (IA) française en lui donnant accès à l’électricité nucléaire, à l’épargne des investisseurs et aux achats de l’État. Il veut aussi robotiser des activités pour réduire le recours à des travailleurs immigrés. Dans les établissements pour personnes âgées, il distingue les tâches automatisables de la relation humaine de soin. Il n’annonce pas de nombre de robots ni de budget par établissement.",
+    "sources_avant": "zem-num-discours26,zem-ind-robots-dep",
+    "sources_apres": "zem-num-discours26,zem-ind-robots-dep,zem-fisc-bfm",
+    "verification_sources": [
+      "https://pourquijevote.com/transcripts/07bc26df-29a2-4661-910a-c5ad65cc45dc"
+    ],
+    "limites": [
+      "Relecture externe ciblée des sources indiquées ; elle ne constitue pas une réévaluation exhaustive du programme ni du chiffrage."
+    ]
+  }
+]
