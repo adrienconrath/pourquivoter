@@ -6,7 +6,7 @@ import shutil
 from collections import defaultdict
 from datetime import date, datetime
 from pathlib import Path
-from urllib.parse import quote, urlsplit
+from urllib.parse import quote, urlencode, urlsplit
 from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -43,8 +43,21 @@ def https(url):
     return escape(url)
 
 
-def link(url, label, css=""):
-    return f'<a class="{css}" href="{https(url)}">{escape(label)} <span aria-hidden="true">↗</span></a>'
+def link(url, label, css="", new_tab=False):
+    target = ' target="_blank" rel="noopener"' if new_tab else ""
+    return f'<a class="{css}" href="{https(url)}"{target}>{escape(label)} <span aria-hidden="true">↗</span></a>'
+
+
+FEEDBACK_FORM = "https://docs.google.com/forms/d/e/1FAIpQLSdJ8TTWXc0CcGk3QchQV5xLydFQVMMD1mpEcRChM1pi3uA52g/viewform"
+FEEDBACK_CANDIDAT = "entry.372906600"
+FEEDBACK_THEME = "entry.428480985"
+
+
+def feedback_url(person, theme):
+    # Les libellés doivent correspondre exactement aux choix du formulaire.
+    candidat = f'{person["name"]} — {person["party"]}'
+    params = urlencode({FEEDBACK_CANDIDAT: candidat, FEEDBACK_THEME: theme["name"]})
+    return f"{FEEDBACK_FORM}?usp=pp_url&{params}"
 
 
 def source_refs(refs):
@@ -172,13 +185,17 @@ def comparison(theme, people, entries):
             )
         else:
             content = '<p class="missing">Position à documenter pour cette édition.</p>'
+        feedback = (
+            f'<p class="position-feedback">'
+            f'{link(feedback_url(person, theme), "Donner du feedback", new_tab=True)}</p>'
+        )
         cards.append(f"""
           <article class="position" id="position-{key}-{person_key}" data-person="{person_key}" aria-label="{escape(person["name"])} · {escape(theme["name"])}"{" data-empty" if not fields else ""}>
             <div class="position-person">{portrait(person)}<div>
               <h4>{escape(person["name"])}</h4>
               {claim(person["party"], f"bio-{person_key}")}
             </div></div>
-            <div class="position-content">{content}</div>
+            <div class="position-content">{content}{feedback}</div>
           </article>""")
     return f'''
         <section class="theme-panel" id="theme-{key}" data-theme="{key}">
