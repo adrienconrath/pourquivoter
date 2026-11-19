@@ -1,0 +1,1487 @@
+[
+  {
+    "theme": "dette",
+    "candidat": "attal",
+    "statut": "conserve",
+    "motif": "Objectifs de déficit, horizon et baisse d’effectifs sont reliés ; la réserve finale porte explicitement sur l’affectation des économies déjà présentées.",
+    "texte_avant": "Gabriel Attal veut réduire les dépenses sans hausse d’impôt pendant cinq ans. Il vise un déficit sous 3 % avant 2032, puis l’équilibre en 2037, et propose notamment 100 000 postes publics en moins. Les gains devront aussi financer des baisses de prélèvements : ils ne seraient donc pas tous disponibles pour réduire le déficit.",
+    "texte_apres": "Gabriel Attal veut réduire les dépenses sans hausse d’impôt pendant cinq ans. Il vise un déficit sous 3 % avant 2032, puis l’équilibre en 2037, et propose notamment 100 000 postes publics en moins. Les gains devront aussi financer des baisses de prélèvements : ils ne seraient donc pas tous disponibles pour réduire le déficit.",
+    "sources_avant": "ad-cible,af-gel,att-effectifs",
+    "sources_apres": "ad-cible,af-gel,att-effectifs",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "dette",
+    "candidat": "glucksmann",
+    "statut": "conserve",
+    "motif": "Les investissements, la recette exceptionnelle et sa périodicité sont introduits avant la réserve sur la trajectoire ; le financement ponctuel n’est pas confondu avec un rendement annuel.",
+    "texte_avant": "Raphaël Glucksmann veut stabiliser la dette en 2032 tout en mobilisant 200 milliards d’euros publics sur cinq ans pour la transition écologique. Il propose notamment une contribution exceptionnelle de 5 % sur les patrimoines dépassant 100 millions, censée rapporter 50 milliards une seule année. L’articulation entre investissements, recettes et stabilisation de la dette attend encore une trajectoire annuelle complète.",
+    "texte_apres": "Raphaël Glucksmann veut stabiliser la dette en 2032 tout en mobilisant 200 milliards d’euros publics sur cinq ans pour la transition écologique. Il propose notamment une contribution exceptionnelle de 5 % sur les patrimoines dépassant 100 millions, censée rapporter 50 milliards une seule année. L’articulation entre investissements, recettes et stabilisation de la dette attend encore une trajectoire annuelle complète.",
+    "sources_avant": "gluck-climat,gluck-chiffres",
+    "sources_apres": "gluck-climat,gluck-chiffres",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme. Le résumé conserve « stabiliser la dette » sans inventer si cette stabilisation est en euros ou en proportion de la richesse produite ; le périmètre reste à confirmer dans la trajectoire complète."
+    ]
+  },
+  {
+    "theme": "dette",
+    "candidat": "philippe",
+    "statut": "corrige",
+    "motif": "« Gain après restitutions salariales » évoquait un mécanisme non présenté et utilisait du jargon. Explique la double affectation des économies et le pourcentage de déficit.",
+    "texte_avant": "Édouard Philippe vise un déficit sous 2,5 % en fin de quinquennat, avec près de 150 milliards d’économies et aucun impôt nouveau pendant cinq ans. Il propose notamment douze mois de chômage indemnisé avant 50 ans. Le calendrier des économies et le gain après restitutions salariales restent à préciser.",
+    "texte_apres": "Édouard Philippe vise un déficit inférieur à 2,5 % de la richesse nationale en fin de quinquennat, avec près de 150 milliards d’euros d’économies et aucun impôt nouveau pendant cinq ans. Il limiterait notamment l’indemnisation chômage à douze mois avant 50 ans. Une partie des économies sociales servirait à augmenter le salaire net et ne serait donc plus disponible pour réduire le déficit.",
+    "sources_avant": "phil-fin,phil-prix-travail",
+    "sources_apres": "phil-fin,phil-prix-travail",
+    "verification_sources": [
+      "https://www.edouardphilippe.fr/programme/comptes-publics",
+      "https://www.edouardphilippe.fr/programme/travail"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "dette",
+    "candidat": "tondelier",
+    "statut": "corrige",
+    "motif": "Remplace une allusion aux mesures du parti non présentées par les composantes concrètes du financement ; attribue explicitement le point de départ à la candidate.",
+    "texte_avant": "Marine Tondelier vise un déficit annuel ramené d’environ 150 à 50 milliards d’euros en fin de quinquennat, avec des services publics et investissements écologiques renforcés. Elle propose des aides aux entreprises recentrées et une contribution accrue des grandes fortunes. Son objectif personnel reste à relier aux mesures du parti dans une trajectoire complète.",
+    "texte_apres": "Marine Tondelier veut ramener le déficit annuel à 50 milliards d’euros en fin de quinquennat, contre environ 150 milliards dans son point de départ annoncé. Elle renforcerait en parallèle les services publics et les investissements écologiques. Elle compte sur des recettes nouvelles, notamment sur les grandes fortunes, et sur des aides aux entreprises mieux ciblées. La répartition annuelle entre dépenses nouvelles, économies et réduction du déficit reste à préciser.",
+    "sources_avant": "pqv-tond-oral,tond-fisc-budget",
+    "sources_apres": "pqv-tond-oral,tond-fisc-budget",
+    "verification_sources": [
+      "https://pourquijevote.com/transcripts/859dcaa1-400b-45c6-91bc-d8846f3729ca"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "prix",
+    "candidat": "attal",
+    "statut": "conserve",
+    "motif": "Le gain net, les aides et l’automatisation des prestations forment trois leviers cohérents ; les économies de financement sont introduites comme leur contrepartie.",
+    "texte_avant": "Gabriel Attal veut relever le salaire net en supprimant la contribution sociale généralisée (CSG) sur les salaires. Il privilégie aussi des aides ciblées au carburant et un versement automatique des prestations. Attal annonce environ 50 milliards d’euros de recettes à remplacer ; les économies envisagées toucheraient notamment le chômage et certaines prestations.",
+    "texte_apres": "Gabriel Attal veut relever le salaire net en supprimant la contribution sociale généralisée (CSG) sur les salaires. Il privilégie aussi des aides ciblées au carburant et un versement automatique des prestations. Attal annonce environ 50 milliards d’euros de recettes à remplacer ; les économies envisagées toucheraient notamment le chômage et certaines prestations.",
+    "sources_avant": "ad-net,ap-aides,ap-restos,dixi-restos,ad-parisien",
+    "sources_apres": "ad-net,ap-aides,ap-restos,dixi-restos,ad-parisien",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "prix",
+    "candidat": "glucksmann",
+    "statut": "corrige",
+    "motif": "La critique des crèches suivait salaires et voitures sans que la proposition de garde soit présentée. Introduit celle-ci, attribue explicitement l’objection et en limite la portée.",
+    "texte_avant": "Raphaël Glucksmann combine hausse du salaire minimum, baisse ciblée de la contribution sociale généralisée (CSG) et aides aux factures. Il rendrait la CSG progressive et propose aussi une location accessible de voitures électriques. Le coût des services annoncés et leur capacité à répondre aux besoins, notamment en crèche, restent discutés.",
+    "texte_apres": "Raphaël Glucksmann propose 100 euros nets mensuels de plus au salaire minimum et une baisse de la contribution sociale généralisée (CSG), avec un taux variant selon le revenu. Il ajoute des chèques énergie et des locations aidées de voitures électriques. Pour les parents seuls, il prévoit des horaires de garde adaptés et une priorité en crèche. Le Courrier des Stratèges critique cette priorité : sans places supplémentaires, elle déplacerait l’attente vers d’autres familles.",
+    "sources_avant": "dixi-restos,gluck-chiffres,gluck-prix-courrier",
+    "sources_apres": "dixi-restos,gluck-chiffres,gluck-prix-courrier",
+    "verification_sources": [
+      "https://www.lecourrierdesstrateges.fr/statut-de-maman-solo-pass-a-1-eur-glucksmann-propose-sans-dire-combien-ca-coute/",
+      "https://dixipolis.com/video/226548",
+      "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-raphael-glucksmann-met-200-milliards-sur-la-table-et-invite-le-senat-a-voter-en-faveur-dune-future-republique-ecologique"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "prix",
+    "candidat": "philippe",
+    "statut": "corrige",
+    "motif": "Retire « font débat », sans auteur ni objection identifiée, et explique la contrepartie concrète des heures et des économies sociales. Distingue les taxes des autres frais d’acquisition. Retire aussi une aide familiale mentionnée sans en expliquer le dispositif.",
+    "texte_avant": "Édouard Philippe veut augmenter le revenu disponible par les heures supplémentaires allégées en prélèvements et des aides aux familles. Il propose aussi de supprimer les frais d’acquisition d’un premier logement avant 35 ans. Une partie du gain dépendrait d’heures travaillées supplémentaires. Son financement repose notamment sur des économies de protection sociale, dont les effets sur les ménages font débat.",
+    "texte_apres": "Édouard Philippe veut alléger les prélèvements sur les heures travaillées au-delà de 35 heures. Il supprimerait aussi les taxes d’acquisition d’un premier logement principal avant 35 ans. Une partie du gain salarial demanderait donc de travailler davantage. Il compte notamment financer ces mesures par des économies sur les retraites, le chômage et les arrêts maladie ; les gains et pertes dépendraient de la situation de chaque ménage.",
+    "sources_avant": "phil-prix-travail,phil-fisc-famille,phil-rtl,phil-fin",
+    "sources_apres": "phil-prix-travail,phil-rtl,phil-fin",
+    "verification_sources": [
+      "https://www.edouardphilippe.fr/programme/comptes-publics",
+      "https://www.edouardphilippe.fr/programme/travail"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "prix",
+    "candidat": "tondelier",
+    "statut": "corrige",
+    "motif": "Le calendrier automobile arrivait sans proposition automobile présentée. Le retire et explique brut, marge des distributeurs et lien rénovation-dépenses.",
+    "texte_avant": "Marine Tondelier propose un SMIC à 2 000 euros brut et un panier alimentaire sans marge. Son bouclier associe hausse des revenus et solutions écologiques accessibles. Elle veut financer la transition par les grandes fortunes et transmissions. Le coût des compensations salariales et le calendrier du parc automobile restent à préciser.",
+    "texte_apres": "Marine Tondelier propose un salaire minimum de 2 000 euros brut mensuels, avant prélèvements sociaux, et un panier alimentaire vendu sans marge par les grands distributeurs. Elle associe ces mesures à des aides au logement et à la rénovation pour réduire les dépenses contraintes. Elle compte notamment sur une fiscalité accrue des grandes fortunes et des grosses successions. Les aides aux petites entreprises pour accompagner la hausse salariale restent à chiffrer.",
+    "sources_avant": "tond-prix-travail-pdf,vert-prix,tond-fisc-budget,tond-prix-bfm,pqv-tond-oral",
+    "sources_apres": "tond-prix-travail-pdf,tond-prix-bouclier-pdf,tond-fisc-budget",
+    "verification_sources": [
+      "https://marine-oceans.com/actualites/presidentielle-tondelier-presente-ses-mesures-pour-travailler-mieux/"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "retraites",
+    "candidat": "attal",
+    "statut": "corrige",
+    "motif": "Explique la répartition et l’épargne placée, plutôt que de supposer ces mécanismes connus. Précise à quoi correspondent réduction et majoration de pension.",
+    "texte_avant": "Gabriel Attal propose de supprimer l’âge légal au profit d’une durée de cotisation, avec pension réduite ou majorée selon le départ choisi. Il veut compléter la répartition par une épargne retraite, notamment à la naissance et via les primes salariales. Les règles de calcul, les droits de solidarité et le financement de la transition restent à préciser.",
+    "texte_apres": "Gabriel Attal veut remplacer l’âge légal de départ par une durée de cotisation. Partir plus tôt réduirait la pension ; partir plus tard l’augmenterait. Il conserverait les pensions financées par les cotisations des actifs et y ajouterait une épargne placée, alimentée notamment à la naissance et par les primes salariales. Les règles de calcul et le financement de cette transition restent à préciser.",
+    "sources_avant": "att-ret,ai-capital,att-capital",
+    "sources_apres": "att-ret,ai-capital,att-capital",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "retraites",
+    "candidat": "glucksmann",
+    "statut": "corrige",
+    "motif": "Remplace les « conditions favorables » par le critère invoqué dans l’entretien : pénibilité et santé. Évite une allusion finale non expliquée aux retraités aisés.",
+    "texte_avant": "Raphaël Glucksmann veut abroger la réforme de 2023 et prendre 62 ans comme référence, avec des départs différenciés selon l’usure et la santé. Les personnes aux conditions favorables devraient travailler davantage pour une pension sans réduction. Le barème individuel, les efforts demandés aux retraités aisés et les recettes de la réforme restent à fixer.",
+    "texte_apres": "Raphaël Glucksmann veut abroger la réforme de 2023 et retenir 62 ans comme âge de référence. Les personnes exerçant des métiers pénibles pourraient partir plus tôt. Celles dont le travail use moins la santé seraient incitées à partir plus tard pour une pension sans réduction. Les critères, les réductions de pension et les recettes nécessaires restent à définir.",
+    "sources_avant": "gluck-ret-gg,gluck-ret-grandjury",
+    "sources_apres": "gluck-ret-gg,gluck-ret-grandjury",
+    "verification_sources": [
+      "https://dixipolis.vercel.app/video/171350"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "retraites",
+    "candidat": "philippe",
+    "statut": "corrige",
+    "motif": "Le résumé omettait les deux paramètres centraux et supposait la répartition connue. Explicite les cibles, l’horizon et les mécanismes sans présenter l’épargne comme une recette immédiate.",
+    "texte_avant": "Édouard Philippe privilégie des carrières plus longues pour financer les retraites, avec des exceptions liées au parcours et à la santé. Il compléterait la répartition par une épargne collective et individuelle. Le gain budgétaire dépendrait du travail supplémentaire ; l’épargne produirait progressivement ses effets.",
+    "texte_apres": "Édouard Philippe veut atteindre progressivement 65 ans et 45 années de cotisation en moins de dix ans. Des départs plus précoces resteraient possibles selon la carrière, le handicap ou la santé. Il conserverait les pensions financées par les actifs et ajouterait une épargne retraite collective et individuelle. L’allongement des carrières dégagerait, selon lui, des économies ; l’épargne placée ne produirait ses compléments de pension que progressivement.",
+    "sources_avant": "phil-ret-sept,phil-ret-reponses",
+    "sources_apres": "phil-ret-sept,phil-ret-reponses,phil-ret-annonce",
+    "verification_sources": [
+      "https://www.publicsenat.fr/actualites/politique/retraites-edouard-philippe-sort-du-bois-et-propose-un-age-de-depart-a-65-ans"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "retraites",
+    "candidat": "tondelier",
+    "statut": "corrige",
+    "motif": "Les deux dernières phrases parlaient de versions collectives non présentées et interrompaient l’explication. Recentre sur la position personnelle sourcée et les conditions concrètes manquantes.",
+    "texte_avant": "Marine Tondelier défend un âge légal de 62 ans et des départs plus tôt pour les carrières commencées jeunes ou pénibles. Sa position personnelle précède le projet collectif écologiste de juillet 2026 ; elle ne confirme pas automatiquement chacune de ses dispositions. Le calendrier et les conditions individuelles d’un départ anticipé restent à préciser.",
+    "texte_apres": "Marine Tondelier défend un âge légal de départ à 62 ans, avec des départs plus tôt pour les personnes ayant commencé à travailler jeunes ou exercé un métier pénible. Les conditions précises de ces départs anticipés et le calendrier du retour à 62 ans restent à définir.",
+    "sources_avant": "tond-ret-frinfo",
+    "sources_apres": "tond-ret-frinfo",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "fiscalite",
+    "candidat": "attal",
+    "statut": "conserve",
+    "motif": "La suppression de contribution, le gain maximal et les économies sont présentés avant l’incertitude sur leur coût et la protection sociale.",
+    "texte_avant": "Gabriel Attal promet cinq ans sans hausse d’impôt et veut augmenter les salaires nets par suppression de la contribution sociale généralisée sur les fiches de paie. Il annonce jusqu’à 270 euros mensuels, financés notamment par des économies. Le coût, le périmètre et la compensation pour la protection sociale restent à clarifier.",
+    "texte_apres": "Gabriel Attal promet cinq ans sans hausse d’impôt et veut augmenter les salaires nets par suppression de la contribution sociale généralisée sur les fiches de paie. Il annonce jusqu’à 270 euros mensuels, financés notamment par des économies. Le coût, le périmètre et la compensation pour la protection sociale restent à clarifier.",
+    "sources_avant": "af-gel,dixi-restos",
+    "sources_apres": "af-gel,dixi-restos",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "fiscalite",
+    "candidat": "glucksmann",
+    "statut": "corrige",
+    "motif": "Dutreil et « grandes transmissions » étaient inexpliqués ; les 15 milliards semblaient provenir de dispositifs au nom obscur. Relie les recettes à la baisse de CSG et définit le régime visé.",
+    "texte_avant": "Raphaël Glucksmann veut alléger la contribution sociale sur les salaires et faire davantage contribuer les grandes transmissions. Il attend 15 milliards d’euros des héritages, de Dutreil et de certaines hausses de valeur avant vente. Les taux, les personnes concernées et le rendement de chaque levier attendent encore des règles complètes.",
+    "texte_apres": "Raphaël Glucksmann veut réduire la contribution sociale généralisée (CSG) sur les salaires. Il attend 15 milliards d’euros de recettes pour la financer, en taxant davantage les gros héritages, en révisant les avantages fiscaux de transmission d’entreprises et en imposant certains gains de valeur avant leur vente. Le pacte Dutreil est le régime de transmission visé. Les taux et le rendement de chaque mesure restent à préciser.",
+    "sources_avant": "gluck-fisc-bfm,gluck-fisc-frinfo",
+    "sources_apres": "gluck-fisc-bfm,gluck-fisc-frinfo,gluck-prix-bfm",
+    "verification_sources": [
+      "https://dixipolis.com/video/225756"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "fiscalite",
+    "candidat": "philippe",
+    "statut": "corrige",
+    "motif": "Explique impôts de production et Dutreil. « Échanger des impôts contre des aides supprimées » pouvait faire croire à une taxe nouvelle ; indique les deux suppressions.",
+    "texte_avant": "Édouard Philippe propose d’échanger chaque année 50 milliards d’euros d’impôts de production contre autant d’aides aux entreprises supprimées. Il promet cinq ans sans impôt nouveau et veut maintenir Dutreil. La neutralité annoncée pour l’État pourrait laisser des entreprises perdantes ; les aides supprimées restent à détailler.",
+    "texte_apres": "Édouard Philippe propose de supprimer des impôts de production représentant 50 milliards d’euros de recettes annuelles, et autant d’aides aux entreprises. Ces impôts sont dus même sans bénéfice. Il promet cinq ans sans impôt nouveau et maintiendrait les avantages fiscaux du pacte Dutreil pour transmettre une entreprise familiale. L’échange serait globalement neutre pour les comptes publics, mais pas forcément pour chaque entreprise. La liste des aides supprimées reste à préciser.",
+    "sources_avant": "phil-industrie,phil-fin",
+    "sources_apres": "phil-industrie,phil-fin",
+    "verification_sources": [
+      "https://www.edouardphilippe.fr/programme/entreprises",
+      "https://www.edouardphilippe.fr/programme/comptes-publics"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "fiscalite",
+    "candidat": "tondelier",
+    "statut": "corrige",
+    "motif": "« Plancher patrimonial » ne précisait pas sur quoi portait le taux. Donne le seuil et distingue les deux instruments plutôt que de suggérer un taux uniforme de l’impôt climatique.",
+    "texte_avant": "Marine Tondelier veut associer redistribution et transition par une contribution accrue des grandes fortunes et des profits exceptionnels. Elle soutient un plancher patrimonial de 2 % et un impôt sur la fortune climatique. Elle refuse de promettre le retour de la taxe d’habitation. Les dispositifs doivent encore préciser leurs rendements et leur articulation.",
+    "texte_apres": "Marine Tondelier veut faire davantage contribuer les grandes fortunes et les profits exceptionnels pour financer redistribution et transition écologique. Elle soutient un impôt minimum de 2 % sur les patrimoines dépassant 100 millions d’euros, ainsi qu’un impôt sur la fortune tenant compte de l’impact climatique des actifs. Elle ne promet pas de rétablir la taxe d’habitation. L’articulation et le rendement des deux impôts patrimoniaux restent à préciser.",
+    "sources_avant": "tond-trans-blog,pqv-tond-oral",
+    "sources_apres": "tond-trans-blog,pqv-tond-oral",
+    "verification_sources": [
+      "https://pourquijevote.com/transcripts/859dcaa1-400b-45c6-91bc-d8846f3729ca"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "travail",
+    "candidat": "attal",
+    "statut": "corrige",
+    "motif": "La réserve portait sur une « Constitution du travail » jamais présentée. Le résumé explique désormais son remplacement du Code du travail et le partage entre principes nationaux et négociation.",
+    "texte_avant": "Gabriel Attal veut augmenter le salaire net en réduisant les prélèvements, développer l’emploi et simplifier le droit du travail. Sa semaine de quatre jours conserverait le nombre d’heures ; elle ne serait pas une semaine de 32 heures. Les économies sociales annoncées par Attal et les garanties nationales de sa « Constitution du travail » restent à détailler.",
+    "texte_apres": "Gabriel Attal veut augmenter le salaire net en réduisant les prélèvements. Il propose de concentrer les heures de travail sur quatre jours lorsque l’activité le permet, sans réduire leur nombre. Il remplacerait aussi le Code du travail par une « Constitution du travail » fixant les grands principes. Les branches professionnelles et les entreprises négocieraient les autres règles ; les protections nationales conservées restent à définir.",
+    "sources_avant": "ad-net,att-trav-chantier,att-trav-constitution",
+    "sources_apres": "ad-net,att-trav-chantier,att-trav-constitution",
+    "verification_sources": [
+      "https://attalpresident.fr/programme/mesures/constitution-du-travail"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "travail",
+    "candidat": "glucksmann",
+    "statut": "corrige",
+    "motif": "Remplace le vague « restent discutés » par le financement revendiqué dans l’entretien et la lacune précise du barème. Conserve date, plafond et exemple mensuel.",
+    "texte_avant": "Raphaël Glucksmann veut augmenter le revenu du travail par une baisse ciblée de contribution sociale généralisée (CSG). Il la prévoit en septembre 2027 jusqu’à 4 000 euros net mensuels, avec un gain annoncé de 100 euros à 2 000 euros net. Le barème complet et le financement durable de la protection sociale restent discutés.",
+    "texte_apres": "Raphaël Glucksmann veut baisser la contribution sociale généralisée (CSG) sur les salaires dès septembre 2027, du salaire minimum jusqu’à 4 000 euros net mensuels. Il annonce 100 euros nets de plus par mois pour une personne gagnant 2 000 euros net. Il financerait cette baisse par les très gros héritages et une révision des avantages de transmission d’entreprises. Le gain exact selon chaque niveau de salaire reste à préciser.",
+    "sources_avant": "gluck-trav-ebra",
+    "sources_apres": "gluck-trav-ebra",
+    "verification_sources": [
+      "https://www.ledauphine.com/elections/2026/11/17/raphael-glucksmann-voter-jean-luc-melenchon-n-a-rien-d-utile-il-perdra-au-second-tour"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "travail",
+    "candidat": "philippe",
+    "statut": "corrige",
+    "motif": "Supprime une contestation générale non attribuée et relie le gain annoncé aux heures supplémentaires et à leurs exonérations. Actualise les références sur la fiche de programme qui contient ces paramètres.",
+    "texte_avant": "Édouard Philippe veut davantage de travail et une durée négociée dans l’entreprise. Il annonce plus de 1 000 euros annuels au salaire minimum pour un passage de 35 à 37 heures, par des heures allégées en prélèvements. Philippe financerait les gains nets par des économies de protection sociale, dont les effets sur les ménages sont discutés.",
+    "texte_apres": "Édouard Philippe veut laisser les entreprises négocier leur durée du travail. Il annonce plus de 1 000 euros nets supplémentaires par an au salaire minimum pour un passage de 35 à 37 heures hebdomadaires. Les heures au-delà de 35 heures seraient exonérées d’impôt et de cotisations salariales. Il financerait les allègements par des économies sur les retraites, le chômage et les arrêts maladie.",
+    "sources_avant": "phil-trav-rtl25,phil-fisc-fr2,phil-fin",
+    "sources_apres": "phil-prix-travail,phil-fin",
+    "verification_sources": [
+      "https://www.edouardphilippe.fr/programme/travail",
+      "https://www.edouardphilippe.fr/programme/comptes-publics"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "travail",
+    "candidat": "tondelier",
+    "statut": "corrige",
+    "motif": "Les 32 heures étaient présentées comme une intention sanitaire abstraite. Précise les métiers, les heures réellement réduites, le maintien du salaire et le test limité.",
+    "texte_avant": "Marine Tondelier veut relever les bas salaires et cibler les 32 heures sur la protection de la santé professionnelle. Tondelier défend le soutien aux petites entreprises face au cumul de salaires accrus et d’horaires réduits. Les compensations et l’effet final sur les prix restent à évaluer.",
+    "texte_apres": "Marine Tondelier propose un salaire minimum de 2 000 euros brut mensuels dès 2027. Elle veut passer à 32 heures sans baisse de salaire dans les métiers pénibles et de nuit, et tester cette durée dans 200 entreprises volontaires pendant trois ans. Des aides accompagneraient les petites entreprises et les associations. Leur montant et le coût du fonds prévu pour l’expérimentation restent à préciser.",
+    "sources_avant": "tond-eu-pqv",
+    "sources_apres": "tond-trav-afp,tond-prix-travail-pdf",
+    "verification_sources": [
+      "https://marine-oceans.com/actualites/presidentielle-tondelier-presente-ses-mesures-pour-travailler-mieux/"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "industrie",
+    "candidat": "attal",
+    "statut": "corrige",
+    "motif": "Retire la référence inexpliquée à la répartition et rend explicite le lien entre financement industriel, argent des épargnants et risque financier.",
+    "texte_avant": "Gabriel Attal défend une politique industrielle européenne, avec préférence dans les achats publics et investissements coordonnés. Il veut orienter l’épargne retraite vers les entreprises innovantes, en complément de la répartition. Les montants industriels annuels et les risques pour l’épargne restent à préciser.",
+    "texte_apres": "Gabriel Attal défend des investissements industriels coordonnés entre pays européens et une priorité aux entreprises européennes dans les achats publics. Il veut aussi financer des entreprises innovantes avec l’épargne retraite. Les salariés placeraient ainsi une partie de leur argent pour leurs revenus futurs ; ces placements comportent un risque de perte. Les montants destinés à l’industrie et les protections de l’épargne restent à préciser.",
+    "sources_avant": "att-eu-reims,ai-capital",
+    "sources_apres": "att-eu-reims,ai-capital",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "industrie",
+    "candidat": "glucksmann",
+    "statut": "corrige",
+    "motif": "L’expression « réserver des débouchés » restait abstraite et la phrase sur la consommation chinoise n’expliquait pas le mécanisme. Décrit les achats publics et l’objectif industriel.",
+    "texte_avant": "Raphaël Glucksmann veut développer les usines et les emplois européens en modifiant les règles commerciales et en réservant des débouchés aux producteurs du continent. Il refuse de soutenir surtout la consommation de produits chinois. Le surcoût éventuel pour les acheteurs et les moyens de le compenser restent à préciser.",
+    "texte_apres": "Raphaël Glucksmann veut développer les usines et les emplois en Europe en réservant les achats publics aux productions européennes. Il souhaite ainsi que les aides à la consommation soutiennent aussi des fabricants européens. Les critères d’origine des produits, les exceptions et le surcoût éventuel pour les acheteurs restent à définir.",
+    "sources_avant": "gluck-eu-industrie",
+    "sources_apres": "gluck-eu-industrie",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "industrie",
+    "candidat": "philippe",
+    "statut": "conserve",
+    "motif": "La suppression des impôts et des aides précède l’explication de la neutralité globale et des effets différents selon l’entreprise ; réserve correctement rattachée.",
+    "texte_avant": "Édouard Philippe veut supprimer 50 milliards d’euros d’impôts de production et autant d’aides aux entreprises. Il privilégie une production facilitée en France et une protection commerciale européenne. L’échange de Philippe vise une neutralité budgétaire globale, mais peut créer des gagnants et des perdants selon les aides retirées à chaque entreprise.",
+    "texte_apres": "Édouard Philippe veut supprimer 50 milliards d’euros d’impôts de production et autant d’aides aux entreprises. Il privilégie une production facilitée en France et une protection commerciale européenne. L’échange de Philippe vise une neutralité budgétaire globale, mais peut créer des gagnants et des perdants selon les aides retirées à chaque entreprise.",
+    "sources_avant": "phil-fisc-ref,phil-fisc-horizons",
+    "sources_apres": "phil-fisc-ref,phil-fisc-horizons",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "industrie",
+    "candidat": "tondelier",
+    "statut": "corrige",
+    "motif": "Le résumé distinguait un budget d’usines d’investissements non chiffrés dans son propre texte. Explique les transformations et l’accompagnement des salariés au lieu d’une réserve comptable hors contexte.",
+    "texte_avant": "Marine Tondelier lie production française, salaires et protection européenne. Elle veut donner aux ménages les moyens d’acheter français et accompagner l’électrification, le réemploi et le recyclage. Les investissements de transition évoqués par Tondelier mêlent argent public et privé ; ils ne constituent pas un budget réservé aux seules usines.",
+    "texte_apres": "Marine Tondelier veut soutenir la production française en renforçant le pouvoir d’achat et la protection commerciale européenne. Elle encourage des usines utilisant davantage l’électricité, la chaleur renouvelable, le réemploi et le recyclage. Elle prévoit aussi des formations rémunérées pour les salariés des entreprises fragilisées par la transition. Ces transformations demanderaient des investissements publics et privés ; le budget propre aux usines reste à préciser.",
+    "sources_avant": "tond-prix-afp,tond-en-postpetrole",
+    "sources_apres": "tond-prix-afp,tond-en-postpetrole,tond-prix-travail-pdf",
+    "verification_sources": [
+      "https://marinetondelier.fr/blog/crise-au-moyen-orient-construire-une-economie-souveraine-post-petrole"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "ecole",
+    "candidat": "attal",
+    "statut": "corrige",
+    "motif": "Les hausses salariales n’indiquaient pas leur bénéficiaire. Le rôle du certificat et des années passerelles est maintenant expliqué.",
+    "texte_avant": "Gabriel Attal veut un certificat avant la sixième, le brevet avant la seconde et des années passerelles en cas d’échec. Il promet aussi des hausses salariales de 200 euros nets mensuels, jusqu’à 500 en milieu de carrière.",
+    "texte_apres": "Gabriel Attal propose un certificat de lecture, d’écriture et de calcul avant la sixième, puis le brevet obligatoire avant la seconde. Les élèves en échec suivraient une année supplémentaire de consolidation avant de poursuivre. Il promet aux enseignants une hausse de 200 euros nets mensuels, jusqu’à 500 euros en milieu de carrière.",
+    "sources_avant": "att-ecole-certificat,att-ecole-groupes,att-ecole-salaires",
+    "sources_apres": "att-ecole-certificat,att-ecole-passerelle,att-ecole-salaires",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "ecole",
+    "candidat": "glucksmann",
+    "statut": "corrige",
+    "motif": "« Hausse enseignante » et « moyens démographiques » sont du jargon. Précise qui reçoit la hausse et le mécanisme démographie-postes-classes, en conservant les deux rythmes de rénovation.",
+    "texte_avant": "Raphaël Glucksmann promet au moins 10 % de hausse enseignante, jusqu’à 25 % selon la carrière, et des classes allégées en conservant les moyens démographiques. Il veut rénover 4 000 écoles primaires par an et plus de 2 800 collèges et lycées, sans rythme annuel établi pour le secondaire.",
+    "texte_apres": "Raphaël Glucksmann promet d’augmenter les salaires de tous les enseignants d’au moins 10 %, jusqu’à 25 % selon leur carrière. Il veut profiter de la baisse du nombre d’élèves pour alléger les classes, sans supprimer les postes correspondants. Il prévoit aussi la rénovation de 4 000 écoles primaires par an et de plus de 2 800 collèges et lycées, sans cadence annuelle précisée pour ces derniers.",
+    "sources_avant": "gluck-ecole-afp,gluck-dette-vert,gluck-secu-matignon26",
+    "sources_apres": "gluck-ecole-afp,gluck-dette-vert",
+    "verification_sources": [
+      "https://www.leparisien.fr/politique/presidentielle-2027-raphael-glucksmann-veut-augmenter-les-salaires-des-enseignants-dau-moins-10-30-08-2026-DBOOJYLFC5BBNMYJYTOHESQCKI.php"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "ecole",
+    "candidat": "philippe",
+    "statut": "corrige",
+    "motif": "L’autonomie scolaire et la « trajectoire des postes » restaient abstraites ; explicite les choix locaux, les bénéficiaires de la hausse et l’arbitrage d’effectifs.",
+    "texte_avant": "Édouard Philippe propose l’autonomie aux établissements volontaires et conserve des programmes communs. Il promet une hausse moyenne de rémunération de 20 % en fin de mandat, financée selon sa campagne par la baisse du nombre d’élèves, sans trajectoire complète des postes.",
+    "texte_apres": "Édouard Philippe veut permettre aux établissements publics volontaires d’adapter leurs méthodes et horaires, tout en gardant des programmes communs. Il promet une hausse moyenne de 20 % de la rémunération des enseignants en fin de mandat. Sa campagne compte sur les moyens libérés par la baisse du nombre d’élèves pour la financer, mais ne précise pas combien de postes seraient maintenus ou supprimés.",
+    "sources_avant": "phil-ecole,phil-ecole-qa",
+    "sources_apres": "phil-ecole,phil-ecole-qa",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "ecole",
+    "candidat": "tondelier",
+    "statut": "corrige",
+    "motif": "Retire le commentaire sur les textes de 2024, dont aucune mesure n’était présentée ; explique éducation prioritaire et le lien entre démographie et classes allégées.",
+    "texte_avant": "Marine Tondelier privilégie coopération et réduction des inégalités. Elle vise 19 élèves par classe primaire en 2032 et douze en éducation prioritaire, en conservant des capacités et en recrutant. Ses projets personnels et collectifs pour 2027 restent distincts du programme de 2024.",
+    "texte_apres": "Marine Tondelier veut réduire les inégalités scolaires et favoriser la coopération entre élèves. Elle vise 19 élèves par classe primaire en 2032 et douze en éducation prioritaire, dans les établissements concentrant les difficultés sociales. Elle compte profiter de la baisse du nombre d’enfants pour alléger les classes, tout en recrutant. Les effectifs nécessaires et leur calendrier restent à préciser.",
+    "sources_avant": "ecole-senat",
+    "sources_apres": "ecole-senat",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "enfance",
+    "candidat": "tondelier",
+    "statut": "conserve",
+    "motif": "Ministère, centres de prise en charge et repérage scolaire sont introduits avant la réserve sur les financeurs ; leurs fonctions sont expliquées.",
+    "texte_avant": "Marine Tondelier propose un ministère de l’Enfance et des centres réunissant soins et démarches judiciaires pour les victimes de violences sexuelles. Son livret prévoit un entretien annuel à l’école pour repérer les violences. Les moyens financiers et leur partage entre État et départements restent à préciser.",
+    "texte_apres": "Marine Tondelier propose un ministère de l’Enfance et des centres réunissant soins et démarches judiciaires pour les victimes de violences sexuelles. Son livret prévoit un entretien annuel à l’école pour repérer les violences. Les moyens financiers et leur partage entre État et départements restent à préciser.",
+    "sources_avant": "tond-enf-afp,tond-enf-livret",
+    "sources_apres": "tond-enf-afp,tond-enf-livret",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "enfance",
+    "candidat": "glucksmann",
+    "statut": "corrige",
+    "motif": "Définit le pilotage conjoint et la revalorisation des métiers. Retire la réserve sur la continuité après placement, sans mesure correspondante présentée ni référence propre dans le résumé.",
+    "texte_avant": "Raphaël Glucksmann demande des procédures d’urgence pour les violences sur mineurs. Place publique propose un pilotage renforcé État-départements, des effectifs minimums et des métiers revalorisés. Ces propositions collectives restent distinctes de ses engagements personnels ; leur financement et les garanties de continuité après un placement sont encore à préciser.",
+    "texte_apres": "Raphaël Glucksmann demande des procédures d’urgence pour les violences sur mineurs. Place publique propose que l’État et les départements organisent ensemble la protection de l’enfance. Son projet prévoit des effectifs minimums et de meilleures rémunérations et conditions de travail pour les professionnels. Ces mesures du parti restent distinctes des engagements personnels du candidat ; leur financement reste à préciser.",
+    "sources_avant": "gluck-projet,gluck-fisc-pqv",
+    "sources_apres": "gluck-projet,gluck-fisc-pqv",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "enfance",
+    "candidat": "attal",
+    "statut": "corrige",
+    "motif": "Remplace « contrôle des adultes » par la vérification des antécédents des encadrants et explique le parquet national. Distingue délai d’enquête et jugement.",
+    "texte_avant": "Gabriel Attal propose un parquet national pour les affaires de pédocriminalité graves et complexes, et des premiers actes d’enquête sous 48 heures. Le contrôle des adultes complète le projet Attal ; les moyens de protection sociale et d’accueil restent à préciser.",
+    "texte_apres": "Gabriel Attal propose des procureurs spécialisés au niveau national pour les affaires de violences sexuelles sur enfants les plus graves et complexes. Il veut de premiers actes d’enquête sous 48 heures après une plainte, sans promettre un jugement dans ce délai. Il étendrait aussi la vérification des antécédents des adultes employés au contact des mineurs. Les moyens d’accueil et d’accompagnement des enfants en danger restent à préciser.",
+    "sources_avant": "as-parquet,as-48h,ae-honorabilite",
+    "sources_apres": "as-parquet,as-48h,ae-honorabilite",
+    "verification_sources": [
+      "https://attalpresident.fr/programme/mesures/attestation-honorabilite-mineurs"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "enfance",
+    "candidat": "philippe",
+    "statut": "conserve",
+    "motif": "Inspection et vérification des antécédents sont décrites avant les moyens nécessaires aux inspections ; les publics concernés sont identifiables.",
+    "texte_avant": "Édouard Philippe propose une inspection des crèches, écoles, accueils périscolaires et services de protection au moins tous les trois ans. Il veut aussi un responsable formé et des antécédents vérifiés au contact des enfants. Les effectifs et le coût de l’inspection restent à préciser.",
+    "texte_apres": "Édouard Philippe propose une inspection des crèches, écoles, accueils périscolaires et services de protection au moins tous les trois ans. Il veut aussi un responsable formé et des antécédents vérifiés au contact des enfants. Les effectifs et le coût de l’inspection restent à préciser.",
+    "sources_avant": "phil-enf-parisien",
+    "sources_apres": "phil-enf-parisien",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "sante",
+    "candidat": "attal",
+    "statut": "corrige",
+    "motif": "« Prix » ne disait pas si l’on parlait du coût public ou du tarif au patient ; relie les inconnues à l’outil annoncé et explique le transfert de tâches.",
+    "texte_avant": "Gabriel Attal veut davantage de médecins et de tâches confiées aux autres soignants, sans installation imposée aux généralistes. Attal promet aussi un assistant médical d’intelligence artificielle pour conseiller et orienter chacun, sans remplacer le médecin. Prix, validation et économies attendues restent à préciser.",
+    "texte_apres": "Gabriel Attal veut former davantage de médecins et confier certaines de leurs tâches à d’autres soignants, sans imposer un lieu d’installation aux généralistes. Il propose aussi un assistant médical utilisant l’intelligence artificielle pour conseiller et orienter les patients, sans remplacer leur médecin. Le coût de cet outil, sa validation médicale et les économies espérées restent à préciser.",
+    "sources_avant": "att-sante-blois,att-sante-assistant",
+    "sources_apres": "att-sante-blois,att-sante-assistant",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "sante",
+    "candidat": "glucksmann",
+    "statut": "corrige",
+    "motif": "« Coût sanitaire » pouvait désigner des effets nocifs pour la santé, alors que les détails parlent de dépenses informatiques. Précise l’objet budgétaire et le temps de soin recherché.",
+    "texte_avant": "Raphaël Glucksmann défend l’hôpital public et veut libérer du temps pour les patients. Il propose l’intelligence artificielle pour les formalités administratives, en gardant les effectifs et le contact humain. Le coût sanitaire de cette technologie reste à détailler.",
+    "texte_apres": "Raphaël Glucksmann défend l’hôpital public et veut libérer du temps de soin. Il propose de confier certaines formalités administratives à des outils d’intelligence artificielle, sans réduire les effectifs. Les soignants pourraient ainsi consacrer davantage de temps aux patients. Le coût de l’achat et du déploiement de ces outils dans les hôpitaux reste à préciser.",
+    "sources_avant": "gluck-sante-egora,dixi-oral",
+    "sources_apres": "gluck-sante-egora,dixi-oral",
+    "verification_sources": [
+      "https://www.egora.fr/actus-pro/politiques/deserts-medicaux-hopital-ame-huit-candidats-la-presidentielle-devoilent-leurs",
+      "https://dixipolis.com/video/226252"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "sante",
+    "candidat": "philippe",
+    "statut": "corrige",
+    "motif": "Explique ce que signifie stabiliser une part de la richesse nationale, et relie précisément les exceptions au revenu pendant un arrêt, plutôt qu’aux « exceptions de Philippe ».",
+    "texte_avant": "Édouard Philippe privilégie prévention et technologies, avec des dépenses de santé stabilisées dans la richesse nationale plutôt que gelées en euros. Il prévoit trois jours non indemnisés au début des arrêts, dans le public et le privé. Les économies propres aux arrêts et les exceptions de Philippe restent à détailler.",
+    "texte_apres": "Édouard Philippe mise sur la prévention et les technologies pour améliorer les soins. Il souhaite maintenir les dépenses de santé à une proportion stable de la richesse produite, ce qui permettrait leur hausse en euros si l’économie croît. Il propose aussi trois jours sans indemnisation au début des arrêts maladie, dans le public et le privé. Les exceptions et le traitement des accords qui maintiennent actuellement le salaire restent à définir.",
+    "sources_avant": "phil-sante-genr,phil-prix-travail",
+    "sources_apres": "phil-sante-genr,phil-prix-travail",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "sante",
+    "candidat": "tondelier",
+    "statut": "corrige",
+    "motif": "« Installations remboursées » pouvait laisser croire au remboursement du cabinet ; définit le conventionnement et distingue les zones.",
+    "texte_avant": "Marine Tondelier veut 2 000 centres de santé supplémentaires d’ici 2030 et près de 80 000 emplois hospitaliers sur cinq ans. Elle conditionnerait temporairement les installations remboursées par l’Assurance maladie dans les zones surdotées au départ d’un médecin. Son projet associe ainsi soignants salariés et régulation territoriale ; le partage du financement des centres reste à préciser.",
+    "texte_apres": "Marine Tondelier veut ouvrir 2 000 centres de santé supplémentaires d’ici 2030 et créer près de 80 000 emplois hospitaliers en cinq ans. Dans les zones ayant déjà beaucoup de médecins, une nouvelle installation conventionnée dépendrait du départ d’un confrère. Ailleurs, l’installation resterait libre. Le conventionnement permet le remboursement des soins aux conditions de l’Assurance maladie. Le partage du financement des centres reste à préciser.",
+    "sources_avant": "tond-sante-concours,pqv-tond-oral",
+    "sources_apres": "tond-sante-concours,pqv-tond-oral",
+    "verification_sources": [
+      "https://pourquijevote.com/transcripts/859dcaa1-400b-45c6-91bc-d8846f3729ca",
+      "https://www.egora.fr/actus-pro/politiques/deserts-medicaux-hopital-ame-huit-candidats-la-presidentielle-devoilent-leurs"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "logement",
+    "candidat": "attal",
+    "statut": "corrige",
+    "motif": "Visale était un nom inexpliqué et « dont la part resterait à racheter » ambigu. Supprime aussi l’affirmation trop générale d’une dotation initiale non précisée : un montant figure ailleurs dans les détails.",
+    "texte_avant": "Gabriel Attal propose une banque publique achetant jusqu’à la moitié du logement avec le ménage, dont la part resterait à racheter. Il veut aussi généraliser la garantie Visale. Ce financement partagé ne rend pas le logement gratuit. La dotation initiale de la banque, les remboursements et les garanties restent à préciser.",
+    "texte_apres": "Gabriel Attal propose une banque publique qui achèterait jusqu’à la moitié d’un logement avec le ménage. Celui-ci financerait le reste, puis rachèterait la part publique après son crédit ou rembourserait la banque à la revente. Il veut aussi étendre Visale, une garantie qui indemnise le propriétaire en cas de loyer impayé, sans effacer la dette du locataire. Les conditions de rachat et le budget de cette extension restent à préciser.",
+    "sources_avant": "att-services,ap-restos",
+    "sources_apres": "att-services,ap-restos,att-log-visale",
+    "verification_sources": [
+      "https://attalpresident.fr/actualites/gabriel-attal-services-publics-ecole-justice-logement-franceinfo"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "logement",
+    "candidat": "glucksmann",
+    "statut": "conserve",
+    "motif": "La promesse sur les enfants à la rue est attribuée au candidat et suivie des moyens nécessaires au logement et à l’accompagnement ; pas de réserve étrangère.",
+    "texte_avant": "Raphaël Glucksmann veut relancer le logement social, encadrer les loyers en zone tendue et donner un logement stable aux personnes à la rue. Il promet de loger en trois semaines les 3 000 enfants qu’il dit sans abri. Les logements mobilisés, l’accompagnement et le financement initial de Glucksmann restent à détailler.",
+    "texte_apres": "Raphaël Glucksmann veut relancer le logement social, encadrer les loyers en zone tendue et donner un logement stable aux personnes à la rue. Il promet de loger en trois semaines les 3 000 enfants qu’il dit sans abri. Les logements mobilisés, l’accompagnement et le financement initial de Glucksmann restent à détailler.",
+    "sources_avant": "dixi-restos",
+    "sources_apres": "dixi-restos",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "logement",
+    "candidat": "philippe",
+    "statut": "conserve",
+    "motif": "L’horizon de dix ans et la condition d’âge du premier achat sont explicites ; répartition et financement portent sur ces propositions.",
+    "texte_avant": "Édouard Philippe vise quatre millions de logements neufs en dix ans et des taxes d’acquisition supprimées pour un premier achat de résidence principale avant 35 ans. Répartition territoriale, part sociale et financement du projet Philippe restent à préciser.",
+    "texte_apres": "Édouard Philippe vise quatre millions de logements neufs en dix ans et des taxes d’acquisition supprimées pour un premier achat de résidence principale avant 35 ans. Répartition territoriale, part sociale et financement du projet Philippe restent à préciser.",
+    "sources_avant": "phil-log-afp,phil-rtl",
+    "sources_apres": "phil-log-afp,phil-rtl",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "logement",
+    "candidat": "tondelier",
+    "statut": "corrige",
+    "motif": "L’énumération « avances, subventions et dettes » ne disait pas concrètement qui paierait. Distingue prise en charge et avance, puis précise l’incertitude sur le remboursement.",
+    "texte_avant": "Marine Tondelier veut généraliser les loyers encadrés, relever de 10 % les aides au logement et réaliser 500 000 rénovations performantes par an. Une banque avancerait les frais, avec prise en charge directe pour les propriétaires modestes. Les avances, subventions et dettes n’ont pas le même effet pour le ménage ; leur financement reste à préciser.",
+    "texte_apres": "Marine Tondelier veut encadrer davantage les loyers, augmenter de 10 % les aides au logement et rénover efficacement 500 000 logements par an. Les propriétaires modestes bénéficieraient d’une prise en charge directe des travaux ; une banque publique avancerait aussi des frais. Les règles de remboursement de ces avances et le financement global restent à préciser.",
+    "sources_avant": "tond-prix-bouclier-pdf",
+    "sources_apres": "tond-prix-bouclier-pdf",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "services",
+    "candidat": "attal",
+    "statut": "corrige",
+    "motif": "Les primes apparaissaient sans avoir présenté l’indemnisation des départs ; précise aussi les dirigeants visés plutôt que tous les « directeurs ».",
+    "texte_avant": "Gabriel Attal prévoit 100 000 postes en moins sans licenciement, par départs volontaires et retraites partiellement non remplacées. Éducation, Armées, Justice et Intérieur seraient protégés. Il veut aussi changer les directeurs pour appliquer le programme élu. Le ciblage et le coût initial des primes restent à négocier.",
+    "texte_apres": "Gabriel Attal prévoit 100 000 postes publics en moins, sans licenciement, par des départs volontaires indemnisés et le non-remplacement de certaines retraites. Éducation nationale, Armées, Justice et Intérieur seraient épargnés. Il veut permettre au président élu de remplacer les principaux dirigeants administratifs pour appliquer son programme. Les postes concernés et le montant des indemnités de départ restent à négocier.",
+    "sources_avant": "att-effectifs,att-inst-nominations",
+    "sources_apres": "att-effectifs,att-inst-nominations",
+    "verification_sources": [
+      "https://attalpresident.fr/actualites/gabriel-attal-services-publics-ecole-justice-logement-franceinfo"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "services",
+    "candidat": "glucksmann",
+    "statut": "corrige",
+    "motif": "La réserve portait sur des priorités scolaires, policières et judiciaires absentes du résumé. Se concentre sur l’automatisation présentée et ses modalités concrètes.",
+    "texte_avant": "Raphaël Glucksmann veut des services plus efficaces et davantage de temps humain pour accompagner les usagers. L’intelligence artificielle automatiserait des tâches, sans plan général de suppressions de postes annoncé. Les priorités scolaires, policières et judiciaires ne constituent pas un volume global de recrutements ; leur financement administratif reste à chiffrer.",
+    "texte_apres": "Raphaël Glucksmann veut automatiser certaines formalités administratives pour que les agents consacrent davantage de temps aux usagers. Il privilégie des outils européens ou des logiciels librement réutilisables, sans plan général de suppressions de postes annoncé. Le coût des outils et le partage des tâches entre logiciels et agents restent à préciser pour chaque service.",
+    "sources_avant": "oral-senat,dixi-oral",
+    "sources_apres": "dixi-oral,gluck-serv-ps29",
+    "verification_sources": [
+      "https://dixipolis.com/video/226252"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "services",
+    "candidat": "philippe",
+    "statut": "corrige",
+    "motif": "Remplace « retraite de bureau » par les agents et fonctions concernés. Explique contrat privé et distingue nouveaux recrutements et personnels en poste.",
+    "texte_avant": "Édouard Philippe veut 250 000 postes en moins sans licenciement et un recrutement contractuel pour les nouveaux agents de certaines administrations. Une retraite de bureau sur trois ne serait pas remplacée ; les agents en poste ne basculeraient pas tous de statut. Répartition des suppressions, économies nettes et moyens humains de proximité restent à détailler.",
+    "texte_apres": "Édouard Philippe veut supprimer 250 000 postes publics en cinq ans, sans licenciement, en ne remplaçant pas un départ en retraite sur trois dans les fonctions de bureau. Les nouveaux agents de certaines administrations seraient recrutés sous contrat privé ; les agents déjà en poste conserveraient leur statut. Il préserverait notamment le statut des enseignants et des agents chargés des missions essentielles de l’État.",
+    "sources_avant": "phil-fin,phil-ter-ap18",
+    "sources_apres": "phil-fin,phil-ter-ap18",
+    "verification_sources": [
+      "https://www.edouardphilippe.fr/programme/comptes-publics"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "services",
+    "candidat": "tondelier",
+    "statut": "corrige",
+    "motif": "Remplace « réhumaniser » et « maillage » par l’accueil physique et les conditions concrètes d’accès au guichet, en conservant l’inclusion des chiffres sectoriels.",
+    "texte_avant": "Marine Tondelier veut réhumaniser l’accueil et créer 250 000 à 300 000 postes sur cinq ans, dont environ 80 000 à l’hôpital et 26 000 dans la justice. Ces effectifs sectoriels sont inclus dans le total. Tondelier demande aussi un guichet à quinze minutes ; transport, horaires et financement précis du maillage restent à définir.",
+    "texte_apres": "Marine Tondelier veut faciliter l’accueil physique des usagers et créer 250 000 à 300 000 postes publics sur cinq ans. Ce total comprend environ 80 000 emplois à l’hôpital et 26 000 dans la justice. Elle demande aussi un guichet accessible en quinze minutes. Le moyen de transport retenu pour mesurer cette distance, les horaires d’ouverture et le financement restent à préciser.",
+    "sources_avant": "tond-serv-aa,pqv-tond-oral",
+    "sources_apres": "tond-serv-aa,pqv-tond-oral",
+    "verification_sources": [
+      "https://pourquijevote.com/transcripts/859dcaa1-400b-45c6-91bc-d8846f3729ca"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "immigration",
+    "candidat": "attal",
+    "statut": "corrige",
+    "motif": "Retire les « accords », jamais introduits, et explique comment plafonds collectifs et sélection individuelle s’articulent, sans les énumérer abstraitement.",
+    "texte_avant": "Gabriel Attal veut limiter les admissions par quotas parlementaires et sélectionner individuellement les travailleurs selon des points liés à l’emploi, au logement et au français. Quotas, scores et accords correspondent à des instruments différents ; leurs volumes, moyens et coûts restent à préciser.",
+    "texte_apres": "Gabriel Attal veut faire voter au Parlement des plafonds d’admission de travailleurs étrangers. Les dossiers seraient ensuite sélectionnés par un système de points tenant compte notamment de l’emploi, du logement et de la maîtrise du français. Le nombre de personnes admises et le poids de chaque critère restent à définir.",
+    "sources_avant": "att-imm-quotas,att-points",
+    "sources_apres": "att-imm-quotas,att-points",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "immigration",
+    "candidat": "glucksmann",
+    "statut": "corrige",
+    "motif": "La fin évoquait droits, recettes et coûts sans les expliquer. Conserve la distinction essentielle stock/flux et précise le statut parlementaire au lieu d’un bilan net abstrait.",
+    "texte_avant": "Raphaël Glucksmann soutient environ 300 000 régularisations de travailleurs déjà présents et la proposition socialiste ouvrant un titre après six mois d’activité sur vingt-quatre. Ce nombre ne désigne pas des arrivées annuelles nouvelles. Le texte reste une proposition ; ses droits supplémentaires, recettes déjà versées et coûts administratifs demandent un bilan net.",
+    "texte_apres": "Raphaël Glucksmann soutient la régularisation d’environ 300 000 travailleurs déjà présents en France. Il appuie une proposition socialiste donnant droit à un titre de séjour après six mois de travail sur les vingt-quatre derniers mois. Ce serait une nouvelle voie de régularisation, pas l’arrivée de 300 000 personnes supplémentaires par an. Le texte n’est pas une loi adoptée.",
+    "sources_avant": "gluck-imm-rtl26,gluck-imm-ppl26",
+    "sources_apres": "gluck-imm-rtl26,gluck-imm-ppl26",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "immigration",
+    "candidat": "philippe",
+    "statut": "corrige",
+    "motif": "Les trois procédures étaient simplement déclarées différentes et la négociation restait indéfinie. Explique le regroupement et l’accord recherché, sans prétendre qu’il validerait tout le programme.",
+    "texte_avant": "Édouard Philippe veut diviser les admissions légales par deux et suspendre le regroupement familial pendant le quinquennat, tout en gardant une immigration de travail. Admission, vie familiale et régularisation sont des procédures différentes. La négociation juridique proposée par Philippe ne rend pas automatiquement tout son programme applicable.",
+    "texte_apres": "Édouard Philippe veut diviser par deux les admissions légales et suspendre le regroupement familial pendant le quinquennat. Cette procédure permet à un étranger en séjour régulier de faire venir son conjoint et ses enfants mineurs. Il maintiendrait une immigration de travail. Pour modifier les règles familiales, il propose une négociation avec les autres États sur la Convention européenne des droits de l’homme ; cet accord reste à obtenir.",
+    "sources_avant": "phil-imm-lcp26",
+    "sources_apres": "phil-imm-lcp26",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "immigration",
+    "candidat": "tondelier",
+    "statut": "corrige",
+    "motif": "La régularisation des parents d’élèves vient du programme collectif, tandis que la priorité personnelle d’avril vise les travailleurs. Sépare ces attributions et retire une réfutation générale sur les éloignements qui n’aidait pas à comprendre les mesures.",
+    "texte_avant": "Marine Tondelier veut régulariser les travailleurs et parents d’élèves sans papiers et stabiliser les titres pluriannuels par renouvellement automatique. Tondelier distingue le travail de l’asile pour les personnes persécutées et ne promet pas de supprimer tout éloignement. Conditions administratives, capacités d’accueil et financements restent à définir.",
+    "texte_apres": "Marine Tondelier veut régulariser les travailleurs sans papiers et leur accorder des titres de séjour valables plusieurs années, renouvelés automatiquement. Le programme des Écologistes propose aussi la régularisation des parents d’élèves, selon des critères de résidence, de famille ou d’activité. Ces propositions concernent des personnes déjà présentes en France. Leurs conditions précises et les moyens nécessaires aux démarches restent à définir.",
+    "sources_avant": "tond-droits-priorites,tond-eu-pqv",
+    "sources_apres": "tond-droits-priorites,vert",
+    "verification_sources": [
+      "https://marinetondelier.fr/blog/21-priorites-gouverner-ensemble-demain"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "securite",
+    "candidat": "attal",
+    "statut": "corrige",
+    "motif": "Le résumé consacrait l’essentiel de sa place à des distinctions procédurales sans présenter concrètement la réponse aux récidivistes ; précise les deux mesures avant leur limite.",
+    "texte_avant": "Gabriel Attal veut accélérer la réponse aux mineurs récidivistes et spécialiser les enquêtes contre les violences sexuelles sur enfants. Premiers actes d’enquête, procédure et jugement ont des échéances distinctes. Effectifs, coûts et garanties procédurales restent à préciser ; protéger les enfants victimes et sanctionner de jeunes auteurs sont deux politiques différentes.",
+    "texte_apres": "Gabriel Attal veut une procédure de jugement immédiat pour les mineurs récidivistes. Pour les enfants victimes de violences sexuelles, il propose des procureurs spécialisés dans les affaires graves et complexes, ainsi que de premiers actes d’enquête sous 48 heures après une plainte. Ce délai ne concerne pas le jugement. Les recrutements nécessaires et le coût de ces mesures restent à préciser.",
+    "sources_avant": "as-cnews,as-parquet,as-48h",
+    "sources_apres": "as-cnews,as-parquet,as-48h",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "securite",
+    "candidat": "glucksmann",
+    "statut": "corrige",
+    "motif": "Remplace « poursuivre les profits » par enquêter sur les réseaux et saisir leurs revenus ; relie les mesures nationales et le choix des équipements municipaux sans incise sur un total non présenté.",
+    "texte_avant": "Raphaël Glucksmann combine sanctions, police de proximité et services publics présents dans les quartiers. Il laisserait aux maires le choix des armes et caméras municipales dans un cadre légal. Glucksmann ne fixe pas de volume global de recrutements ; il veut aussi poursuivre les profits des réseaux, avec un financement détaillé encore à préciser.",
+    "texte_apres": "Raphaël Glucksmann associe sanctions, police de proximité et services publics présents dans les quartiers. Il veut remonter jusqu’aux dirigeants des réseaux criminels et saisir leurs revenus. Les maires garderaient le choix de l’armement de leur police municipale et des caméras, dans un cadre légal. Les effectifs supplémentaires et le financement global restent à préciser.",
+    "sources_avant": "gluck-secu-gg26,gluck-ter-amf",
+    "sources_apres": "gluck-secu-gg26,gluck-ter-amf,gluck-secu-bfm25",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "securite",
+    "candidat": "philippe",
+    "statut": "corrige",
+    "motif": "Les places ne désignaient pas explicitement des cellules et la fonction du juge restait technique. Précise leur usage et le lien entre pouvoir d’urgence et garanties.",
+    "texte_avant": "Édouard Philippe propose un régime local d’urgence contre le narcotrafic et 30 000 places adaptées aux courtes peines. Il veut supprimer le juge de l’application des peines et durcir la réponse dès les premières infractions. Coût des nouvelles capacités, encadrement des pouvoirs exceptionnels et organisation du suivi après condamnation restent à détailler.",
+    "texte_apres": "Édouard Philippe propose un régime d’urgence local contre le narcotrafic, permettant temporairement des pouvoirs policiers élargis. Il veut 30 000 places de prison pour les courtes peines et une réponse pénale dès les premières infractions. Il supprimerait le juge chargé de suivre et d’adapter l’exécution des peines après condamnation. Le coût des nouvelles capacités, les garanties des pouvoirs d’urgence et le suivi des condamnés restent à préciser.",
+    "sources_avant": "phil-secu,phil-sec-justice",
+    "sources_apres": "phil-secu,phil-sec-justice",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "securite",
+    "candidat": "tondelier",
+    "statut": "corrige",
+    "motif": "La fin mentionnait le plafonnement carcéral et des effectifs judiciaires absents du résumé. Retire ces réserves orphelines et attribue précisément les choix juridiques au projet écologiste.",
+    "texte_avant": "Marine Tondelier privilégie police de proximité, prévention et sanctions qu’elle juge justes. Elle défend aussi une approche sanitaire des addictions, avec cannabis réglementé et dépénalisation des autres consommations personnelles, sans autoriser leur trafic. Budget global et fonctionnement du plafonnement carcéral restent à préciser, au-delà des effectifs judiciaires annoncés.",
+    "texte_apres": "Marine Tondelier associe police de proximité, prévention et sanctions. Elle défend une approche sanitaire des addictions. Le projet écologiste prévoit un marché réglementé du cannabis et la dépénalisation de la consommation personnelle des autres drogues, sans autoriser leur trafic. Il distingue donc accompagnement des usagers et poursuite des réseaux. Le budget global de ces mesures reste à préciser.",
+    "sources_avant": "tond-sec-dijon,tond-sec-preface,tond-prix-bfm",
+    "sources_apres": "tond-sec-dijon,tond-sec-preface,tond-prix-bfm,vert",
+    "verification_sources": [
+      "https://pourquijevote.com/transcripts/55efbe8d-0d39-43ff-b639-556640841672",
+      "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme. Transcription BFM : la page porte la date du 13 novembre, tandis que le libellé de source du dépôt indique le 12 ; le programme écrit confirme la distinction cannabis/autres consommations, chapitre 58, page 184."
+    ]
+  },
+  {
+    "theme": "justice",
+    "candidat": "attal",
+    "statut": "corrige",
+    "motif": "« Il associe informatique et suppression » suggérait un lien technique inexistant. Sépare les leviers et explique la fonction du juge supprimé.",
+    "texte_avant": "Gabriel Attal veut accélérer la justice, recruter 3 000 magistrats et greffiers ensemble et donner priorité aux enfants victimes. Il associe informatique et suppression du juge d’application des peines, avec des sanctions plus fermes.",
+    "texte_apres": "Gabriel Attal veut accélérer les procédures et donner priorité aux enfants victimes. Il annonce 3 000 recrutements au total, répartis entre magistrats et greffiers. Il développerait les outils numériques et supprimerait le juge chargé de suivre et d’adapter l’exécution des peines après condamnation. Il souhaite confier cette organisation à d’autres acteurs judiciaires et administratifs.",
+    "sources_avant": "aj-recrutement,as-troismois,as-bfm",
+    "sources_apres": "aj-recrutement,as-troismois,as-bfm,dixi-oral",
+    "verification_sources": [
+      "https://attalpresident.fr/actualites/gabriel-attal-services-publics-ecole-justice-logement-franceinfo",
+      "https://dixipolis.com/video/226252"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "justice",
+    "candidat": "glucksmann",
+    "statut": "conserve",
+    "motif": "La justice rapide et les finances criminelles sont suivies du projet collectif identifié ; l’incertitude sur recrutements et financement porte sur ces mesures.",
+    "texte_avant": "Raphaël Glucksmann demande une justice rapide et indépendante et des moyens pour atteindre les finances des réseaux criminels. Place publique propose de renforcer les équipes, l’aide juridique et la médiation, ainsi que de rénover les prisons. Les recrutements et le financement d’ensemble restent à préciser.",
+    "texte_apres": "Raphaël Glucksmann demande une justice rapide et indépendante et des moyens pour atteindre les finances des réseaux criminels. Place publique propose de renforcer les équipes, l’aide juridique et la médiation, ainsi que de rénover les prisons. Les recrutements et le financement d’ensemble restent à préciser.",
+    "sources_avant": "gluck-projet,gluck-secu-bfm25",
+    "sources_apres": "gluck-projet,gluck-secu-bfm25",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "justice",
+    "candidat": "philippe",
+    "statut": "corrige",
+    "motif": "Explique le rôle du juge supprimé ; rattache les 30 000 places à l’exécution des courtes peines plutôt qu’à une capacité déjà disponible.",
+    "texte_avant": "Édouard Philippe veut sanctionner tôt par de courtes incarcérations, avec 30 000 places nouvelles. Il supprimerait le juge d’application des peines et interdirait les syndicats de magistrats.",
+    "texte_apres": "Édouard Philippe veut des peines de prison courtes dès les premières infractions et 30 000 places nouvelles pour les exécuter. Il supprimerait le juge chargé de suivre et d’adapter les peines après condamnation. Il veut aussi interdire les syndicats de magistrats. Le calendrier, les personnels et le financement des nouvelles places restent à préciser.",
+    "sources_avant": "phil-sec-justice,phil-cult-dixi",
+    "sources_apres": "phil-sec-justice,phil-cult-dixi",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "justice",
+    "candidat": "tondelier",
+    "statut": "conserve",
+    "motif": "Le total de 26 000 emplois est décomposé et le plafond carcéral expliqué par la surpopulation ; la réserve porte sur le déploiement des recrutements.",
+    "texte_avant": "Marine Tondelier annonce 26 000 postes judiciaires sur cinq ans : 9 000 magistrats, 10 000 greffiers et 7 000 assistants. Elle défend un plafond d’occupation des prisons pour répondre à la surpopulation. Le calendrier annuel des recrutements, les salaires, la formation et les locaux restent à chiffrer.",
+    "texte_apres": "Marine Tondelier annonce 26 000 postes judiciaires sur cinq ans : 9 000 magistrats, 10 000 greffiers et 7 000 assistants. Elle défend un plafond d’occupation des prisons pour répondre à la surpopulation. Le calendrier annuel des recrutements, les salaires, la formation et les locaux restent à chiffrer.",
+    "sources_avant": "pqv-tond-oral,tond-jus-dixi",
+    "sources_apres": "pqv-tond-oral,tond-jus-dixi",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "institutions",
+    "candidat": "attal",
+    "statut": "corrige",
+    "motif": "« Davantage d’autorité politique » ne décrivait pas la mesure ; précise le remplacement des dirigeants et les objets exacts des deux réserves.",
+    "texte_avant": "Gabriel Attal propose un référendum annuel à plusieurs choix, préparé avec les partis et organisations sociales, et davantage d’autorité politique sur les dirigeants administratifs. Choix final des questions et garanties des nominations restent à définir.",
+    "texte_apres": "Gabriel Attal propose un référendum annuel à plusieurs choix, dont les questions seraient préparées avec les partis, syndicats et organisations patronales. Il veut aussi permettre au président élu de remplacer les principaux dirigeants administratifs pour appliquer son programme. L’autorité qui arrêterait les questions du référendum et les critères des nominations restent à préciser.",
+    "sources_avant": "att-inst-annuel,att-inst-nominations",
+    "sources_apres": "att-inst-annuel,att-inst-nominations",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "institutions",
+    "candidat": "glucksmann",
+    "statut": "conserve",
+    "motif": "La proportionnelle et les coalitions sont présentées avant les modalités électorales encore inconnues ; aucune comparaison avec une autre candidature.",
+    "texte_avant": "Raphaël Glucksmann veut partager le pouvoir, préserver justice et régulateurs indépendants et élire les députés à la proportionnelle régionale, en assumant des coalitions. Seuil électoral et modalités précises des accords de gouvernement restent à fixer.",
+    "texte_apres": "Raphaël Glucksmann veut partager le pouvoir, préserver justice et régulateurs indépendants et élire les députés à la proportionnelle régionale, en assumant des coalitions. Seuil électoral et modalités précises des accords de gouvernement restent à fixer.",
+    "sources_avant": "gluck-prix-bfm,gluck-inst-afp25",
+    "sources_apres": "gluck-prix-bfm,gluck-inst-afp25",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "institutions",
+    "candidat": "philippe",
+    "statut": "corrige",
+    "motif": "Définit les ordonnances et rend explicite le lien dissolution-majorité, au lieu d’une énumération de procédures pour une « capacité de décision » abstraite.",
+    "texte_avant": "Édouard Philippe envisage dissolution, référendums et ordonnances pour obtenir une capacité de décision rapide. Il recherche une majorité claire et critique la proportionnelle départementale. Une dissolution ne garantirait pas à Philippe la majorité ni les accords constitutionnels nécessaires.",
+    "texte_apres": "Édouard Philippe envisage de dissoudre l’Assemblée après son élection pour rechercher une majorité. Il proposerait ensuite des référendums et demanderait au Parlement l’autorisation de prendre certaines mesures par ordonnances, c’est-à-dire sans suivre le vote habituel de chaque loi. Il critique la proportionnelle organisée par département. Son élection ne lui garantirait ni une majorité parlementaire ni les accords nécessaires aux changements constitutionnels.",
+    "sources_avant": "phil-inst-lille,phil-inst-proport,phil-inst-constitution",
+    "sources_apres": "phil-inst-lille,phil-inst-proport,phil-inst-constitution",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "institutions",
+    "candidat": "tondelier",
+    "statut": "corrige",
+    "motif": "Définit régime parlementaire, Constituante et septennat unique ; distingue une simple erreur du mensonge délibéré et rattache les inconnues à la procédure de sanction.",
+    "texte_avant": "Le projet collectif écologiste de Marine Tondelier prévoit un régime parlementaire, une Constituante et un septennat unique. Elle propose aussi de sanctionner le mensonge délibéré par une rectification, l’inéligibilité ou une possible révocation. La preuve de l’intention et les recours restent à préciser.",
+    "texte_apres": "Le projet collectif des Écologistes prévoit un gouvernement davantage responsable devant le Parlement, une assemblée chargée de rédiger une nouvelle Constitution et un seul mandat présidentiel de sept ans. Marine Tondelier propose aussi de sanctionner le mensonge politique délibéré : rectification publique, inéligibilité ou révocation pourraient être envisagées. L’autorité de sanction, la preuve de l’intention de tromper et les recours restent à définir.",
+    "sources_avant": "vert,tond-inst-mensonge",
+    "sources_apres": "vert,tond-inst-mensonge",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "droits",
+    "candidat": "attal",
+    "statut": "corrige",
+    "motif": "La réserve « certaines interventions sur les pensions existent déjà » renvoyait au versement automatique, mesure absente du résumé et différente de l’exonération. La retire et explicite carte et répit.",
+    "texte_avant": "Gabriel Attal veut défiscaliser les pensions alimentaires et aider les parents seuls par une carte et des relais de garde. Coût et modalités des aides familiales restent à préciser ; certaines interventions sur les pensions existent déjà.",
+    "texte_apres": "Gabriel Attal veut exonérer d’impôt les pensions alimentaires reçues pour les enfants. Il propose aussi une carte donnant aux familles monoparentales des avantages pour les transports, la culture et les loisirs. Un droit au répit leur ouvrirait des heures de garde pour se soigner, travailler ou se former. Le montant des avantages, les heures disponibles et leur financement restent à préciser.",
+    "sources_avant": "att-droits-pension,att-droits-carte,att-droits-repit,att-droits-caf",
+    "sources_apres": "att-droits-pension,att-droits-carte,att-droits-repit",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "droits",
+    "candidat": "glucksmann",
+    "statut": "corrige",
+    "motif": "La fin introduisait CSG et projets collectifs sans les avoir présentés. Identifie à quoi se rapporte chaque financement et garde la réserve sur le seul statut familial décrit.",
+    "texte_avant": "Raphaël Glucksmann demande près de trois milliards d’euros pour la loi contre les violences sexuelles faites aux femmes et aux enfants. Il propose un statut monoparental avec garde adaptée, priorité en crèche et pensions prélevées à la source. Le financement familial reste distinct de celui de sa baisse de CSG et les projets de Place publique restent collectifs.",
+    "texte_apres": "Raphaël Glucksmann demande près de trois milliards d’euros au budget 2027 pour une loi contre les violences sexuelles faites aux femmes et aux enfants. Il propose aussi un statut pour les familles monoparentales : horaires de garde adaptés, priorité en crèche et pensions alimentaires prélevées à la source. Le financement propre à ce statut familial reste à préciser.",
+    "sources_avant": "gluck-droits-budget,dixi-restos",
+    "sources_apres": "gluck-droits-budget,dixi-restos",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "droits",
+    "candidat": "philippe",
+    "statut": "corrige",
+    "motif": "Retire l’allusion au Grenelle de 2019, jamais présenté ni référencé dans ce résumé, et précise handicap et cadre sportif sans confusion avec une interdiction générale.",
+    "texte_avant": "Édouard Philippe veut rapprocher école et accompagnement spécialisé du handicap et reconnaître le métier d’accompagnant scolaire. Il distingue liberté religieuse des citoyens et neutralité des autorités, avec une restriction du voile ciblée sur les compétitions fédérales. Les effectifs et moyens du handicap restent à préciser ; son Grenelle des violences conjugales relève du bilan gouvernemental de 2019.",
+    "texte_apres": "Édouard Philippe veut faire intervenir davantage de professionnels du handicap à l’école et mieux reconnaître le métier des accompagnants d’élèves. Il souhaite rapprocher accompagnement spécialisé et scolarité commune. Sur la laïcité, il défend la liberté religieuse des citoyens tout en proposant une restriction du voile dans les compétitions sportives fédérales. Les recrutements et les moyens supplémentaires pour l’école inclusive restent à préciser.",
+    "sources_avant": "phil-ecole,phil-droits-cnews",
+    "sources_apres": "phil-ecole,phil-droits-cnews",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "droits",
+    "candidat": "tondelier",
+    "statut": "corrige",
+    "motif": "Les deux sujets étaient juxtaposés et « total des dépenses et crédits supplémentaires » restait abstrait. Relie d’abord l’enveloppe à ses usages, puis annonce explicitement le changement vers la laïcité.",
+    "texte_avant": "Marine Tondelier propose trois milliards d’euros annuels contre les violences faites aux femmes et aux enfants. Elle distingue neutralité des agents et liberté religieuse des particuliers. Le total des dépenses et les crédits supplémentaires restent à distinguer ; financement et partage de l’enveloppe entre services et associations sont à préciser.",
+    "texte_apres": "Marine Tondelier propose trois milliards d’euros par an contre les violences faites aux femmes et aux enfants. Les parts destinées aux soins, à la justice, à l’hébergement et aux associations restent à préciser, ainsi que le caractère supplémentaire ou non de cette somme. Sur la laïcité, elle distingue l’obligation de neutralité des agents publics de la liberté religieuse des particuliers.",
+    "sources_avant": "tond-droits-vss,tond-droits-an",
+    "sources_apres": "tond-droits-vss,tond-droits-an",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "climat",
+    "candidat": "attal",
+    "statut": "corrige",
+    "motif": "Définit la géoénergie et sépare réduction des émissions, économies d’eau et adaptation à la chaleur ; retire la formulation artificielle « chez Attal ».",
+    "texte_avant": "Gabriel Attal veut accélérer l’électrification, multiplier la géoénergie par cinq et réparer les réseaux d’eau, en redéployant des crédits et en facilitant les installations contre la chaleur. Autoriser plus facilement la climatisation chez Attal ne signifie pas financer un appareil pour chacun.",
+    "texte_apres": "Gabriel Attal veut remplacer davantage de pétrole et de gaz par l’électricité. Il propose de multiplier par cinq les capacités de chauffage et de rafraîchissement utilisant le sous-sol, et de réparer les réseaux d’eau. Face aux fortes chaleurs, il faciliterait l’installation de climatisation, notamment dans les écoles et établissements médico-sociaux. Cette autorisation ne comprend pas un appareil financé pour chaque personne.",
+    "sources_avant": "att-clim-geo5,att-clim-geo160,att-clim-eaufin,att-clim-etabl,att-en",
+    "sources_apres": "att-clim-geo5,att-clim-geo160,att-clim-eaufin,att-clim-etabl,att-en",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "climat",
+    "candidat": "glucksmann",
+    "statut": "conserve",
+    "motif": "L’enveloppe sur cinq ans, la contribution exceptionnelle et les décisions européennes appartiennent au même financement climatique.",
+    "texte_avant": "Raphaël Glucksmann propose 200 milliards d’euros publics sur cinq ans pour sortir des fossiles, en associant aides sociales et investissements. Une contribution exceptionnelle sur les plus hauts patrimoines financerait une partie du fonds climatique. Bouclage financier et décisions européennes restent à obtenir.",
+    "texte_apres": "Raphaël Glucksmann propose 200 milliards d’euros publics sur cinq ans pour sortir des fossiles, en associant aides sociales et investissements. Une contribution exceptionnelle sur les plus hauts patrimoines financerait une partie du fonds climatique. Bouclage financier et décisions européennes restent à obtenir.",
+    "sources_avant": "gluck-en-depeche,gluck-chiffres",
+    "sources_apres": "gluck-en-depeche,gluck-chiffres",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "climat",
+    "candidat": "philippe",
+    "statut": "corrige",
+    "motif": "L’énumération mélangeait décarbonation et protection face aux catastrophes. Sépare les deux objectifs, puis relie le fonds aux mesures d’adaptation au lieu de répéter qu’une fusion n’est pas une dépense nouvelle.",
+    "texte_avant": "Édouard Philippe associe décarbonation, sécurité civile et adaptation : réseaux de froid, réutilisation d’eau, assurance des logements et fonds annuel de deux milliards fusionnant des crédits existants. Fusionner des fonds ne constitue pas deux milliards de dépenses nouvelles ; coûts locaux et entretien restent ouverts.",
+    "texte_apres": "Édouard Philippe veut réduire les émissions en développant nucléaire, renouvelables et électrification. Pour s’adapter aux catastrophes et aux fortes chaleurs, il propose des réseaux de froid, davantage d’eau réutilisée, une assurance revue pour les logements exposés et des moyens de sécurité civile renforcés. Il réunirait des crédits existants dans un fonds d’adaptation de deux milliards d’euros par an. Les coûts détaillés des projets et leur entretien restent à préciser.",
+    "sources_avant": "phil-clim-plan,phil-clim-adapt,phil-energie",
+    "sources_apres": "phil-clim-plan,phil-clim-adapt,phil-energie",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "climat",
+    "candidat": "tondelier",
+    "statut": "corrige",
+    "motif": "Le calendrier automobile n’avait aucune mesure automobile pour antécédent. Le retire et explique le droit à la fraîcheur et le congé climatique au lieu de laisser deux intitulés abstraits.",
+    "texte_avant": "Marine Tondelier combine sobriété, renouvelables, rénovation et protection sociale : aides aux ménages modestes, droit à la fraîcheur et congé climatique. Le projet écologiste planifie aussi la sortie du nucléaire. Les critères du congé et le remboursement des avances de rénovation restent à préciser ; son calendrier automobile a évolué entre les annonces.",
+    "texte_apres": "Marine Tondelier veut réduire la consommation d’énergie, développer les renouvelables et rénover les logements, avec des aides pour les ménages modestes. Face aux fortes chaleurs, elle propose des protections dans les logements et un congé climatique d’au moins cinq jours par an pour les travailleurs exposés. Le projet écologiste prévoit aussi une sortie progressive du nucléaire. Les critères du congé et le financement des travaux restent à préciser.",
+    "sources_avant": "tond-prix-bouclier-pdf,tond-prix-travail-pdf,vert,pqv-tond-oral",
+    "sources_apres": "tond-prix-bouclier-pdf,tond-prix-travail-pdf,vert",
+    "verification_sources": [
+      "https://marine-oceans.com/actualites/presidentielle-tondelier-presente-ses-mesures-pour-travailler-mieux/"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "energie",
+    "candidat": "attal",
+    "statut": "corrige",
+    "motif": "« Sécuriser quatorze réacteurs » pouvait désigner la sûreté du parc existant. Précise l’objectif de construction, sans transformer la cadence industrielle en calendrier annuel garanti.",
+    "texte_avant": "Gabriel Attal associe nucléaire et renouvelables pour remplacer pétrole et gaz par l’électricité. Il veut sécuriser quatorze réacteurs, puis en construire un par an. Il vise des prix électriques plus bas pour l’industrie. Le coût et le partage entre contribuables, consommateurs et entreprises restent à préciser.",
+    "texte_apres": "Gabriel Attal associe nucléaire et renouvelables pour remplacer pétrole et gaz par l’électricité. Il veut assurer la réalisation de quatorze nouveaux réacteurs, puis développer une capacité de construction allant jusqu’à un réacteur par an. Il vise des prix électriques plus bas pour l’industrie. Le coût des équipements et son partage entre contribuables, consommateurs et entreprises restent à préciser.",
+    "sources_avant": "att-en",
+    "sources_apres": "att-en",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "energie",
+    "candidat": "glucksmann",
+    "statut": "conserve",
+    "motif": "L’examen des coûts porte bien sur les nouveaux réacteurs présentés ; renouvelables et aides sociales complètent la transition sans confusion avec une fermeture nucléaire.",
+    "texte_avant": "Raphaël Glucksmann veut prolonger les réacteurs existants et soutient de nouvelles constructions, dont l’ampleur dépendrait d’un examen des coûts. Il développerait aussi les renouvelables, sans répartition précise par filière. Il associe cette transition à des aides pour les ménages et à des investissements publics, dont le financement reste à compléter.",
+    "texte_apres": "Raphaël Glucksmann veut prolonger les réacteurs existants et soutient de nouvelles constructions, dont l’ampleur dépendrait d’un examen des coûts. Il développerait aussi les renouvelables, sans répartition précise par filière. Il associe cette transition à des aides pour les ménages et à des investissements publics, dont le financement reste à compléter.",
+    "sources_avant": "gluck-en-ecoinfos",
+    "sources_apres": "gluck-en-ecoinfos",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "energie",
+    "candidat": "philippe",
+    "statut": "conserve",
+    "motif": "Les quatorze réacteurs sont donnés comme total nouveau ; les inconnues financières portent sur les équipements déjà décrits.",
+    "texte_avant": "Édouard Philippe propose quatorze nouveaux réacteurs nucléaires au total. Il veut aussi développer renouvelables, géothermie et biométhane pour remplacer les énergies fossiles. Réacteurs, réseaux et autres équipements restent sans coût global. Le partage du financement entre prêts européens, budget public et factures est à préciser.",
+    "texte_apres": "Édouard Philippe propose quatorze nouveaux réacteurs nucléaires au total. Il veut aussi développer renouvelables, géothermie et biométhane pour remplacer les énergies fossiles. Réacteurs, réseaux et autres équipements restent sans coût global. Le partage du financement entre prêts européens, budget public et factures est à préciser.",
+    "sources_avant": "phil-energie",
+    "sources_apres": "phil-energie",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "energie",
+    "candidat": "tondelier",
+    "statut": "conserve",
+    "motif": "La sortie progressive est conditionnée aux renouvelables et distinguée d’une fermeture totale en 2032 ; les réserves portent sur coûts et rythme de cette transition.",
+    "texte_avant": "Marine Tondelier veut sortir progressivement des énergies fossiles et du nucléaire. Elle juge impossible une fermeture totale dès 2032 et conditionne les arrêts au déploiement préalable des renouvelables, sans date finale. Son projet associe réduction des besoins, investissements et accompagnement des ménages. Les coûts et le rythme de la transition restent à préciser.",
+    "texte_apres": "Marine Tondelier veut sortir progressivement des énergies fossiles et du nucléaire. Elle juge impossible une fermeture totale dès 2032 et conditionne les arrêts au déploiement préalable des renouvelables, sans date finale. Son projet associe réduction des besoins, investissements et accompagnement des ménages. Les coûts et le rythme de la transition restent à préciser.",
+    "sources_avant": "tond-en-postpetrole,tond-en-bfmclip",
+    "sources_apres": "tond-en-postpetrole,tond-en-bfmclip",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "transports",
+    "candidat": "attal",
+    "statut": "corrige",
+    "motif": "Supprime le jargon leasing et distingue clairement location aidée, bonus d’achat et objectif industriel à 10 000 euros.",
+    "texte_avant": "Gabriel Attal veut développer la location sociale électrique et les aides à l’occasion, avec une voiture française à 10 000 euros comme objectif industriel. Les aides ciblées d’Attal, leurs barèmes et leur coût restent à préciser. Le leasing donne l’usage d’un véhicule ; un loyer ne constitue pas son prix d’achat.",
+    "texte_apres": "Gabriel Attal veut développer la location aidée de voitures électriques, l’ouvrir aux véhicules d’occasion et étendre à l’occasion les aides à l’achat. Il vise aussi la production d’une voiture électrique française vendue 10 000 euros. Ce prix d’achat est un objectif industriel, distinct des loyers aidés. Les bénéficiaires, les montants d’aide et leur coût public restent à préciser.",
+    "sources_avant": "att-en,att-jeunesse",
+    "sources_apres": "att-en,att-jeunesse",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "transports",
+    "candidat": "glucksmann",
+    "statut": "conserve",
+    "motif": "La location automobile et le pass sont introduits avant leurs contrats et compensations ; le prix mensuel de location n’est pas confondu avec un achat.",
+    "texte_avant": "Raphaël Glucksmann propose un million d’électriques louées en cinq ans à 100 euros par mois, sans apport, pour des actifs modestes faisant de longs trajets. Son pass jeunes coûterait un euro par jour sur les transports du quotidien. Coût des locations, contrats et compensation des réseaux restent à préciser.",
+    "texte_apres": "Raphaël Glucksmann propose un million d’électriques louées en cinq ans à 100 euros par mois, sans apport, pour des actifs modestes faisant de longs trajets. Son pass jeunes coûterait un euro par jour sur les transports du quotidien. Coût des locations, contrats et compensation des réseaux restent à préciser.",
+    "sources_avant": "gluck-chiffres,gluck-dette-vert",
+    "sources_apres": "gluck-chiffres,gluck-dette-vert",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "transports",
+    "candidat": "philippe",
+    "statut": "corrige",
+    "motif": "Le prêt du tramway havrais apparaissait sans introduction et n’étayait pas les mesures nationales. Le retire et précise la part modale et le caractère supplémentaire des 450 millions.",
+    "texte_avant": "Édouard Philippe veut porter le fret ferroviaire à 20 % et aider autant l’achat d’une électrique d’occasion que d’une neuve. Il propose aussi de doubler les aides carburant ciblées. Les 450 millions d’aide carburant annoncés sont distincts des moyens du rail ; les prêts du tramway havrais restent une opération locale remboursable.",
+    "texte_apres": "Édouard Philippe veut porter à 20 % la part des marchandises transportées par le rail en fin de mandat et accorder la même aide à l’achat d’une voiture électrique neuve ou d’occasion. Il propose aussi de doubler les aides carburant ciblées, pour environ 450 millions d’euros supplémentaires. Cette somme concerne le carburant ; le budget du développement ferroviaire reste à préciser.",
+    "sources_avant": "phil-energie,phil-tra-rtl",
+    "sources_apres": "phil-energie,phil-tra-rtl",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "transports",
+    "candidat": "tondelier",
+    "statut": "corrige",
+    "motif": "Les modèles associatifs arrivaient sans présentation. Les retire et précise que la divergence de calendrier concerne le parc automobile, pas toutes les mesures de transport.",
+    "texte_avant": "Marine Tondelier veut un ticket climat hors TGV, des cars fréquents et un parc public d’un million de voitures louées selon les revenus. Ses textes annoncent cinq ans, son entretien de novembre dix ans. Calendrier, entretien et financement complet du parc restent à préciser ; les modèles associatifs ne constituent pas son budget arrêté.",
+    "texte_apres": "Marine Tondelier propose un abonnement aux transports collectifs hors TGV, des cars plus fréquents et un parc public d’un million de voitures électriques louées selon les revenus. Pour constituer ce parc, son dossier de septembre annonce cinq ans ; son entretien de novembre parle de dix ans. Les loyers, les frais d’entretien et le financement complet des véhicules restent à préciser.",
+    "sources_avant": "tond-prix-bouclier-pdf,pqv-tond-oral",
+    "sources_apres": "tond-prix-bouclier-pdf,pqv-tond-oral",
+    "verification_sources": [
+      "https://pourquijevote.com/transcripts/859dcaa1-400b-45c6-91bc-d8846f3729ca"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "agriculture",
+    "candidat": "glucksmann",
+    "statut": "corrige",
+    "motif": "Définit l’insecticide, les prix planchers et la conversion bio ; conserve la distinction entre position personnelle et mesures collectives, sans réserve générique détachée.",
+    "texte_avant": "Raphaël Glucksmann associe revenu paysan et transition, en refusant le retour de l’acétamipride. Place publique propose des aides orientées vers le travail, les petites fermes et l’écologie, avec prix planchers et revenu de conversion bio. Le futur volet agricole présidentiel de Glucksmann reste à compléter et à chiffrer.",
+    "texte_apres": "Raphaël Glucksmann veut améliorer les revenus agricoles et accompagner le changement des pratiques. Il refuse le retour de l’acétamipride, un insecticide. Place publique propose de réorienter les aides vers le travail, les petites exploitations et l’écologie, avec des prix d’achat minimums et un revenu pendant la conversion à l’agriculture biologique. Ce socle collectif reste distinct du programme agricole présidentiel encore à compléter.",
+    "sources_avant": "gluck-agri-reaction,gluck-projet,gluck-climat",
+    "sources_apres": "gluck-agri-reaction,gluck-projet,gluck-climat",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "agriculture",
+    "candidat": "attal",
+    "statut": "corrige",
+    "motif": "Explique « prix planchers » et Mercosur, et remplace les formulations abstraites sur la transmission du prix par les acteurs de la négociation.",
+    "texte_avant": "Gabriel Attal propose des prix planchers pour lait, viande et céréales, associés à des contrats de trois à cinq ans avec la distribution. Il refuse le Mercosur faute de garanties. Place des transformateurs, transmission du prix jusqu’aux fermes et moyens supplémentaires de la politique agricole européenne restent à préciser.",
+    "texte_apres": "Gabriel Attal propose des prix d’achat minimums pour le lait, la viande et les céréales, associés à des contrats de trois à cinq ans avec la distribution. Il refuse l’accord commercial avec les pays du Mercosur faute de garanties. Les règles de négociation avec les industriels et distributeurs, ainsi que les moyens supplémentaires demandés à la politique agricole européenne, restent à préciser.",
+    "sources_avant": "att-agri-plancher,att-agri-contrats,att-agri-mercosur,att-agri-agra,att-agri-pac",
+    "sources_apres": "att-agri-plancher,att-agri-contrats,att-agri-mercosur,att-agri-agra,att-agri-pac",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "agriculture",
+    "candidat": "philippe",
+    "statut": "corrige",
+    "motif": "Le nom « super Dutreil » ne permettait pas de comprendre la mesure. Le définit et explicite l’enjeu pour les repreneurs hors famille.",
+    "texte_avant": "Édouard Philippe veut faciliter installation et transmission par des règles stables, un super Dutreil agricole et une priorité à l’eau stockée ou réutilisée. Coût supplémentaire, accès des repreneurs hors famille et financement de l’eau demeurent à préciser.",
+    "texte_apres": "Édouard Philippe veut alléger les règles agricoles et faciliter la transmission des exploitations. Son « super Dutreil agricole » renforcerait les avantages fiscaux pour transmettre une ferme, sans barème encore défini. Il donne aussi priorité au stockage d’eau et à sa réutilisation. Le coût de ces mesures et l’aide aux repreneurs sans patrimoine familial restent à préciser.",
+    "sources_avant": "phil-industrie,phil-agri-moselle,phil-agri-pleinchamp",
+    "sources_apres": "phil-industrie,phil-agri-moselle,phil-agri-pleinchamp",
+    "verification_sources": [
+      "https://www.edouardphilippe.fr/programme/entreprises"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "agriculture",
+    "candidat": "tondelier",
+    "statut": "corrige",
+    "motif": "La réfutation d’une allocation de deux salaires minimums n’avait aucune promesse correspondante dans le résumé. La retire ; définit prix planchers et installation ouverte aux reconversions.",
+    "texte_avant": "Marine Tondelier associe prix planchers, installation ouverte aux reconversions et transition écologique accompagnée. Les Écologistes réorienteraient les aides vers le travail et réduiraient progressivement les cheptels bovins avec soutien aux reconversions. Ce prix minimum n’est pas une allocation étatique de deux salaires minimums.",
+    "texte_apres": "Marine Tondelier veut des prix d’achat minimums pour les produits agricoles et des aides à l’installation ouvertes aux personnes qui changent de métier, sans limite d’âge. Elle défend une transition écologique accompagnée. Les Écologistes réorienteraient les aides vers le travail agricole et réduiraient progressivement les troupeaux bovins, avec soutien aux reconversions. Le coût de ces accompagnements reste à préciser.",
+    "sources_avant": "tond-agri-pacte,vert,tond-agri-marianne24",
+    "sources_apres": "tond-agri-pacte,vert",
+    "verification_sources": [
+      "https://marinetondelier.fr/blog/pour-nouveau-pacte-agricole"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "territoires",
+    "candidat": "glucksmann",
+    "statut": "corrige",
+    "motif": "« Glucksmann distingue investissements publics et prêts » décrivait la méthode de la fiche plutôt que sa proposition. Introduit le livret et explique qui rembourserait.",
+    "texte_avant": "Raphaël Glucksmann propose une convention citoyenne pour clarifier les responsabilités locales et un financement écologique partagé avec les collectivités. Glucksmann distingue investissements publics et prêts issus de l’épargne : les collectivités rembourseraient ces derniers. Répartition des compétences, ressources durables et budgets par territoire restent à préciser.",
+    "texte_apres": "Raphaël Glucksmann propose une convention citoyenne pour clarifier les responsabilités des collectivités. Son plan écologique prévoit aussi des investissements locaux et des prêts à bas taux, financés par un livret fusionnant le Livret A et le livret de développement durable. Les collectivités devraient rembourser ces prêts. La répartition des compétences et des financements entre territoires reste à préciser.",
+    "sources_avant": "gluck-ter-amf,gluck-climat",
+    "sources_apres": "gluck-ter-amf,gluck-climat",
+    "verification_sources": [
+      "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-raphael-glucksmann-met-200-milliards-sur-la-table-et-invite-le-senat-a-voter-en-faveur-dune-future-republique-ecologique"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "territoires",
+    "candidat": "attal",
+    "statut": "corrige",
+    "motif": "Le résumé évoquait des réaffectations de crédits et emprunts sans présenter ces mécanismes ; recentre les réserves sur les deux politiques décrites et explique géothermie.",
+    "texte_avant": "Gabriel Attal veut supprimer un échelon administratif et renforcer les maires, sans désigner encore l’échelon concerné. Il propose aussi de réparer les réseaux d’eau et de soutenir la géothermie. Les économies propres aux réorganisations restent à établir ; réaffectations de crédits et emprunts ne rendent pas les travaux gratuits pour tous les usagers.",
+    "texte_apres": "Gabriel Attal veut supprimer un niveau de collectivité et renforcer les maires, sans préciser encore le niveau supprimé ni les missions transférées. Il propose aussi de réparer les réseaux d’eau et de développer le chauffage utilisant le sous-sol. Les économies administratives attendues, le coût des travaux et leur financement entre l’État, les collectivités et les usagers restent à préciser.",
+    "sources_avant": "att-ter-bigbang,att-clim-reseaux,att-clim-geo160",
+    "sources_apres": "att-ter-bigbang,att-clim-reseaux,att-clim-geo160",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "territoires",
+    "candidat": "philippe",
+    "statut": "corrige",
+    "motif": "Les infrastructures mahoraises étaient vagues et « ressources transférées » ne renvoyait à aucune mesure décrite. Donne deux exemples et rattache chaque réserve à un engagement présenté.",
+    "texte_avant": "Édouard Philippe veut un préfet responsable des administrations départementales et des démarches réalisées à domicile pour les usagers isolés. Il annonce aussi des infrastructures à Mayotte. Philippe distingue ainsi réforme de l’État local et services de proximité ; coûts des chantiers, ressources transférées et moyens des visites restent à préciser.",
+    "texte_apres": "Édouard Philippe veut placer les administrations départementales de l’État sous l’autorité effective du préfet. Pour les personnes fragiles ou isolées, des postiers et travailleurs sociaux pourraient réaliser certaines démarches à domicile. À Mayotte, il promet notamment un deuxième hôpital complet et des infrastructures aéroportuaires. Le coût des chantiers et les moyens nécessaires aux visites à domicile restent à préciser.",
+    "sources_avant": "phil-ter-ap18,phil-outre",
+    "sources_apres": "phil-ter-ap18,phil-outre",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "territoires",
+    "candidat": "tondelier",
+    "statut": "corrige",
+    "motif": "Le fonds littoral apparaissait uniquement dans la réserve finale. Le présente et explique les actions qu’il financerait avant d’en signaler les inconnues.",
+    "texte_avant": "Marine Tondelier associe accès physique aux services, adaptation des littoraux et pouvoirs locaux différenciés selon les territoires. Son parti prévoit notamment 500 nouvelles maisons France services. Les contreparties financières des collectivités et les ressources du fonds littoral restent à préciser.",
+    "texte_apres": "Marine Tondelier veut rapprocher les services publics des habitants et adapter les littoraux à l’érosion et aux submersions. Son parti prévoit 500 nouvelles maisons France services et des pouvoirs locaux adaptés aux territoires. Son livret littoral propose un fonds national pour restaurer les protections naturelles et déplacer les biens trop exposés. La dotation de ce fonds et les indemnisations restent à préciser.",
+    "sources_avant": "vert,tond-log-littoral",
+    "sources_apres": "vert,tond-log-littoral",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "europe",
+    "candidat": "attal",
+    "statut": "conserve",
+    "motif": "Le partage entre compétences économiques communes et compétences nationales est explicite ; aucune objection ne renvoie à une mesure absente.",
+    "texte_avant": "Gabriel Attal propose une économie commune entre pays européens volontaires : entreprises, technologies et transition écologique seraient davantage intégrées. Les États conserveraient défense, migration et sécurité. Il veut dépasser le marché commun pour financer et protéger les entreprises européennes.",
+    "texte_apres": "Gabriel Attal propose une économie commune entre pays européens volontaires : entreprises, technologies et transition écologique seraient davantage intégrées. Les États conserveraient défense, migration et sécurité. Il veut dépasser le marché commun pour financer et protéger les entreprises européennes.",
+    "sources_avant": "att-sante-politico,att-eu-lenglet",
+    "sources_apres": "att-sante-politico,att-eu-lenglet",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "europe",
+    "candidat": "glucksmann",
+    "statut": "conserve",
+    "motif": "L’objectif de protection industrielle est relié aux achats publics et aux outils commerciaux européens, sans réserve sur un autre thème.",
+    "texte_avant": "Raphaël Glucksmann veut une Europe capable de protéger ses industries et de répondre aux pressions étrangères. Il propose de réserver les marchés publics aux productions européennes et d’utiliser les leviers commerciaux communs face à Washington.",
+    "texte_apres": "Raphaël Glucksmann veut une Europe capable de protéger ses industries et de répondre aux pressions étrangères. Il propose de réserver les marchés publics aux productions européennes et d’utiliser les leviers commerciaux communs face à Washington.",
+    "sources_avant": "gluck-eu-industrie,gluck-eu-frinfo",
+    "sources_apres": "gluck-eu-industrie,gluck-eu-frinfo",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "europe",
+    "candidat": "philippe",
+    "statut": "corrige",
+    "motif": "Les pertes éventuelles arrivaient sans explication du placement d’épargne. Présente le financement avant le risque et remplace le marché financier intégré par son fonctionnement concret.",
+    "texte_avant": "Édouard Philippe veut agir au niveau européen lorsque finance, énergie, technologies ou défense exigent davantage de moyens. Il propose un marché financier plus intégré et des achats technologiques privilégiant l’Europe. Philippe associe son projet à des investissements publics et privés, dont les montants, garanties et pertes éventuelles restent à préciser.",
+    "texte_apres": "Édouard Philippe veut faciliter les investissements entre pays européens et privilégier les technologies européennes dans les achats publics. Des commandes groupées entre États soutiendraient les entreprises du continent. Il souhaite aussi mobiliser l’épargne et des financements publics pour développer l’innovation. Les montants apportés par chaque acteur et les garanties proposées aux épargnants restent à préciser.",
+    "sources_avant": "phil-eu-gaullien,phil-industrie,phil-ia",
+    "sources_apres": "phil-eu-gaullien,phil-industrie,phil-ia",
+    "verification_sources": [
+      "https://www.edouardphilippe.fr/programme/entreprises",
+      "https://www.edouardphilippe.fr/programme/intelligence-artificielle"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "europe",
+    "candidat": "tondelier",
+    "statut": "corrige",
+    "motif": "Définit concrètement l’Europe fédérale et développe OTAN ; remplace « conserve l’OTAN », dont une présidente française ne déciderait pas seule, par sa position sur la participation française.",
+    "texte_avant": "Marine Tondelier veut une Europe fédérale protectrice, fondée sur des droits sociaux et une fiscalité plus justes. Elle soutient l’Ukraine militairement et conserve l’OTAN pendant l’invasion, tout en cherchant une autonomie européenne face aux États-Unis.",
+    "texte_apres": "Marine Tondelier veut renforcer les décisions communes européennes en matière sociale, fiscale et de défense. Elle soutient l’aide militaire à l’Ukraine et refuse de quitter l’Organisation du traité de l’Atlantique Nord (OTAN) pendant l’invasion russe. Elle souhaite en parallèle une défense européenne capable d’agir sans dépendre des États-Unis.",
+    "sources_avant": "tond-eu-strasbourg,tond-eu-pqv",
+    "sources_apres": "tond-eu-strasbourg,tond-eu-pqv",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "defense",
+    "candidat": "attal",
+    "statut": "corrige",
+    "motif": "Remplace « bouclier conventionnel » par le fonctionnement concret de l’interception ; distingue armes classiques et dissuasion nucléaire sans les confondre.",
+    "texte_avant": "Gabriel Attal veut une coalition européenne contre les missiles et drones, ainsi qu’une protection nucléaire française des partenaires. Les décisions militaires resteraient nationales. Le bouclier conventionnel proposé par Attal reste à préciser : matériels, commandement, périmètre protégé et calendrier ne sont pas arrêtés.",
+    "texte_apres": "Gabriel Attal propose un bouclier européen pour détecter et intercepter les missiles et drones. Il veut aussi étendre la protection nucléaire française aux partenaires européens. Ces deux protections sont distinctes, et la décision d’utiliser l’arme nucléaire resterait française. Pour le bouclier antimissile, les équipements, le commandement, les territoires protégés et le calendrier restent à définir.",
+    "sources_avant": "att-def-dome,att-eu-reims",
+    "sources_apres": "att-def-dome,att-eu-reims",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "defense",
+    "candidat": "glucksmann",
+    "statut": "conserve",
+    "motif": "Dissuasion française et autonomie européenne sont distinguées ; le fonds du parti est explicitement un emprunt européen à rembourser.",
+    "texte_avant": "Raphaël Glucksmann défend une autonomie militaire européenne, une préférence pour les armes européennes et une protection nucléaire élargie sous décision française. Il soutient l’Ukraine. Place publique propose un fonds européen de 500 milliards d’euros par emprunt commun : une dette à rembourser.",
+    "texte_apres": "Raphaël Glucksmann défend une autonomie militaire européenne, une préférence pour les armes européennes et une protection nucléaire élargie sous décision française. Il soutient l’Ukraine. Place publique propose un fonds européen de 500 milliards d’euros par emprunt commun : une dette à rembourser.",
+    "sources_avant": "gluck-projet,gluck-def-rtl26,gluck-def-kessel",
+    "sources_apres": "gluck-projet,gluck-def-rtl26,gluck-def-kessel",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "defense",
+    "candidat": "philippe",
+    "statut": "corrige",
+    "motif": "Développe le sigle OTAN et remplace « pilier européen interne », peu intelligible, par la coopération au sein de l’alliance ; corrige la formulation des options du service.",
+    "texte_avant": "Édouard Philippe veut des armées plus nombreuses, une réserve renforcée et un service obligatoire avec options civiles et militaire. Il défend la pleine participation à l’OTAN et un pilier européen interne. Le financement global des moyens supplémentaires de Philippe reste à préciser.",
+    "texte_apres": "Édouard Philippe veut renforcer les armées et la réserve, et instaurer un service national obligatoire avec une option civile ou militaire. Il défend la participation française à l’Organisation du traité de l’Atlantique Nord (OTAN) et une coopération militaire européenne renforcée au sein de cette alliance. Le coût des effectifs et équipements supplémentaires, ainsi que celui du service obligatoire, restent à préciser.",
+    "sources_avant": "phil-eu-euronaval,phil-defense",
+    "sources_apres": "phil-eu-euronaval,phil-defense",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "defense",
+    "candidat": "tondelier",
+    "statut": "conserve",
+    "motif": "L’autonomie européenne et le maintien de la dissuasion française sont explicités ; le pacifisme n’est pas confondu avec un désarmement isolé.",
+    "texte_avant": "Marine Tondelier veut une défense européenne capable d’agir sans dépendre des États-Unis et de soutenir l’Ukraine. Elle propose un commandement européen et une meilleure coordination industrielle. Elle refuse un désarmement nucléaire français isolé. Sa diplomatie de paix s’appuie ainsi sur une capacité de défense maintenue.",
+    "texte_apres": "Marine Tondelier veut une défense européenne capable d’agir sans dépendre des États-Unis et de soutenir l’Ukraine. Elle propose un commandement européen et une meilleure coordination industrielle. Elle refuse un désarmement nucléaire français isolé. Sa diplomatie de paix s’appuie ainsi sur une capacité de défense maintenue.",
+    "sources_avant": "tond-eu-tribune,tond-eu-pqv",
+    "sources_apres": "tond-eu-tribune,tond-eu-pqv",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "culture",
+    "candidat": "glucksmann",
+    "statut": "conserve",
+    "motif": "L’audiovisuel public et le budget culturel du parti sont distingués ; les cinq ans de visibilité sont séparés d’un montant garanti.",
+    "texte_avant": "Raphaël Glucksmann défend un audiovisuel public puissant et un financement rendu plus prévisible sur cinq ans. Place publique vise 1 % du budget de l’État pour la culture. Glucksmann ne promet pas encore de montant audiovisuel précis ; son objectif de stabilité doit aussi respecter les votes budgétaires annuels.",
+    "texte_apres": "Raphaël Glucksmann défend un audiovisuel public puissant et un financement rendu plus prévisible sur cinq ans. Place publique vise 1 % du budget de l’État pour la culture. Glucksmann ne promet pas encore de montant audiovisuel précis ; son objectif de stabilité doit aussi respecter les votes budgétaires annuels.",
+    "sources_avant": "gluck-cult-pacte26,dixi-oral,gluck-cult-senat24",
+    "sources_apres": "gluck-cult-pacte26,dixi-oral,gluck-cult-senat24",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "culture",
+    "candidat": "attal",
+    "statut": "conserve",
+    "motif": "La réorganisation scolaire est suivie de ses seuls besoins opérationnels : horaires, intervenants et partage des dépenses.",
+    "texte_avant": "Gabriel Attal veut réorganiser l’école pour proposer arts, culture et sport à partir de 15 heures. Horaires définitifs, intervenants et partage des dépenses avec les collectivités restent à organiser et à chiffrer.",
+    "texte_apres": "Gabriel Attal veut réorganiser l’école pour proposer arts, culture et sport à partir de 15 heures. Horaires définitifs, intervenants et partage des dépenses avec les collectivités restent à organiser et à chiffrer.",
+    "sources_avant": "att-jeunesse,att-cult-lyonmag",
+    "sources_apres": "att-jeunesse,att-cult-lyonmag",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "culture",
+    "candidat": "philippe",
+    "statut": "corrige",
+    "motif": "Le bilan culturel havrais arrivait sans initiative présentée et sans source correspondante dans le résumé. Le retire pour conserver un enchaînement proposition-organisation-moyens.",
+    "texte_avant": "Édouard Philippe propose les apprentissages fondamentaux le matin, les activités artistiques et sportives l’après-midi, avec davantage de jours de cours. Philippe ne chiffre pas les activités garanties ni leurs intervenants. Ses initiatives au Havre documentent son expérience locale, sans constituer un programme national entièrement défini.",
+    "texte_apres": "Édouard Philippe propose les apprentissages fondamentaux le matin et les activités artistiques ou sportives l’après-midi. Cette organisation s’accompagnerait de davantage de jours de cours et de moins de vacances. Les heures d’activité garanties, les intervenants, leur rémunération et le partage des dépenses entre l’État et les collectivités restent à définir.",
+    "sources_avant": "phil-cult-oral,phil-cult-dixi",
+    "sources_apres": "phil-cult-oral,phil-cult-dixi",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "culture",
+    "candidat": "tondelier",
+    "statut": "conserve",
+    "motif": "Le supplément ministériel exclut explicitement l’audiovisuel ; la taxe publicitaire est ensuite rattachée au financement de ce dernier et non à tout le budget culturel.",
+    "texte_avant": "Marine Tondelier prévoit un milliard d’euros supplémentaire au ministère dès le premier budget, hors audiovisuel public. Elle réorienterait le pass Culture vers les découvertes collectives et protégerait les revenus des artistes-auteurs. Tondelier propose aussi une taxe publicitaire des plateformes pour l’audiovisuel, sans rendement publié permettant de vérifier son financement complet.",
+    "texte_apres": "Marine Tondelier prévoit un milliard d’euros supplémentaire au ministère dès le premier budget, hors audiovisuel public. Elle réorienterait le pass Culture vers les découvertes collectives et protégerait les revenus des artistes-auteurs. Tondelier propose aussi une taxe publicitaire des plateformes pour l’audiovisuel, sans rendement publié permettant de vérifier son financement complet.",
+    "sources_avant": "vert-culture,dixi-oral",
+    "sources_apres": "vert-culture,dixi-oral",
+    "verification_sources": [],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "numerique",
+    "candidat": "attal",
+    "statut": "corrige",
+    "motif": "Les trois mécanismes financiers apparaissaient sous forme d’énumération sans lien explicite avec les deux parts du plan. Explique qui paierait quoi, au lieu de « besoins différents ».",
+    "texte_avant": "Gabriel Attal prévoit 200 milliards d’euros d’investissement sur dix ans, moitié publics et moitié privés, pour l’intelligence artificielle (IA) et l’innovation. Il veut financer les entreprises et diffuser les outils dans le travail et les services publics. Commandes publiques, économies sociales et épargne longue financeraient des besoins différents ; leur mobilisation effective reste à démontrer.",
+    "texte_apres": "Gabriel Attal prévoit 200 milliards d’euros sur dix ans pour l’intelligence artificielle (IA) et l’innovation, moitié publics et moitié privés. L’État achèterait des produits et services aux entreprises pour soutenir leur développement. Des économies sur les arrêts maladie et le gel des prestations financeraient la part publique ; l’épargne retraite alimenterait la part privée. Le calendrier et les montants effectivement mobilisables restent à préciser.",
+    "sources_avant": "att-ia,att-num-mistral",
+    "sources_apres": "att-ia,att-num-mistral",
+    "verification_sources": [
+      "https://attalpresident.fr/programme/mesures/plan-france-2040"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "numerique",
+    "candidat": "glucksmann",
+    "statut": "conserve",
+    "motif": "Le microciblage est défini par les données personnelles ; les conditions de fermeture des plateformes et le maintien des agents sont explicités sans amalgame.",
+    "texte_avant": "Raphaël Glucksmann défend une intelligence artificielle (IA) et un réseau social européens et veut interdire la publicité microciblée utilisant les données personnelles. Il conditionne la fermeture des plateformes au non-respect des règles. Glucksmann privilégie le temps humain dans l’administration, sans supprimer les effectifs grâce à l’IA ; coûts et partenaires restent à préciser.",
+    "texte_apres": "Raphaël Glucksmann défend une intelligence artificielle (IA) et un réseau social européens et veut interdire la publicité microciblée utilisant les données personnelles. Il conditionne la fermeture des plateformes au non-respect des règles. Glucksmann privilégie le temps humain dans l’administration, sans supprimer les effectifs grâce à l’IA ; coûts et partenaires restent à préciser.",
+    "sources_avant": "gluck-trav-ebra,dixi-oral",
+    "sources_apres": "gluck-trav-ebra,dixi-oral",
+    "verification_sources": [
+      "https://dixipolis.com/video/226252"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "numerique",
+    "candidat": "philippe",
+    "statut": "corrige",
+    "motif": "Le coût cyber portait sur une protection non présentée. « Réserve l’IA au collège puis au lycée » était ambigu ; précise les paliers et distingue élèves et enseignants.",
+    "texte_avant": "Édouard Philippe veut accélérer les infrastructures européennes, former davantage d’ingénieurs et financer l’innovation par des investissements publics et privés. Il réserve l’intelligence artificielle (IA) des élèves au collège puis au lycée, avec un usage distinct pour les enseignants. Le total d’investissement et le coût des protections cyber restent à préciser ; l’épargne mobilisée conserve un risque.",
+    "texte_apres": "Édouard Philippe veut développer des infrastructures européennes d’intelligence artificielle (IA), former davantage d’ingénieurs et associer financements publics et privés. À l’école, les élèves n’utiliseraient pas l’IA avant le collège ; leurs usages progresseraient ensuite jusqu’au lycée. Les enseignants pourraient s’en servir pour préparer leurs cours. Les montants d’investissement et les conditions de mobilisation de l’épargne restent à préciser.",
+    "sources_avant": "phil-ia,phil-ecole",
+    "sources_apres": "phil-ia,phil-ecole",
+    "verification_sources": [
+      "https://www.edouardphilippe.fr/programme/intelligence-artificielle"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme."
+    ]
+  },
+  {
+    "theme": "numerique",
+    "candidat": "tondelier",
+    "statut": "corrige",
+    "motif": "Les nouvelles taxes, jamais présentées, et le refus de toute recherche formaient deux références sans contexte. Les retire et définit logiciels ouverts, centres et ressources concernées.",
+    "texte_avant": "Marine Tondelier privilégie une intelligence artificielle (IA) sobre, des logiciels ouverts et des démarches possibles sans smartphone. Son parti prévoit des plafonds de ressources pour les centres et davantage de contrôle des grandes plateformes. Tondelier défend certains usages, sans refuser toute recherche ; budget global et rendement des nouvelles taxes restent à préciser.",
+    "texte_apres": "Marine Tondelier défend une intelligence artificielle (IA) moins consommatrice de ressources et des démarches administratives accessibles sans smartphone. Son parti privilégie les logiciels librement réutilisables et modifiables. Il veut limiter l’usage de l’eau et des sols par les centres de données et renforcer le contrôle des grandes plateformes. Les moyens humains et financiers de ces politiques restent à préciser.",
+    "sources_avant": "tond-num-tribune,tond-num-carnet,vert",
+    "sources_apres": "tond-num-tribune,tond-num-carnet,vert",
+    "verification_sources": [
+      "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf"
+    ],
+    "limites": [
+      "Audit de cohérence éditoriale avec les détails de la fiche ; ne vaut pas actualisation exhaustive du programme. La Tribune inaccessible à cette relecture ; les limites de ressources et les logiciels libres sont recoupés dans le programme collectif, chapitre 21, pages 80–82. Le carnet de doctrine n’a pas été rouvert."
+    ]
+  }
+]

@@ -32,3 +32,5 @@ Suivre le [skill d’actualisation](.agents/skills/actualiser-pour-qui-voter/SKI
 - `data/recherches.tsv` suit les recherches effectivement relues, leurs supports et leurs limites. Les journaux détaillés disponibles sont dans `docs/recherches/`.
 
 Le générateur vérifie que chaque candidat dispose d’une fiche pour chaque thème et que chaque fiche contient exactement un résumé de moins de 100 mots. Les ajouts sur `main` déclenchent le workflow GitHub Pages.
+
+La [revue de cohérence des 275 résumés du 19 novembre 2026](docs/relectures/2026-11-19-resumes/README.md) contient les corrections, les relevés avant/après et les points à contrôler lors des prochaines réécritures.
