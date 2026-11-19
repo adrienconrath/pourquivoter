@@ -1,0 +1,13 @@
+import fs from 'node:fs';
+import {spawnSync} from 'node:child_process';
+const version=process.argv[2]??'v001';
+if(!/^v\d{3}$/.test(version))throw Error('Use a version such as v001');
+fs.mkdirSync('renders/'+version,{recursive:true});
+const output=`renders/${version}/picture.mp4`;
+if(fs.existsSync(output))throw Error('Render exists; choose a new version');
+let r=spawnSync(process.execPath,['scripts/build.mjs'],{stdio:'inherit'});if(r.status)process.exit(r.status);
+r=spawnSync(process.execPath,['scripts/hyperframes.mjs','render','--resolution','portrait','--fps','30','--quality','delivery','--workers','4','--no-browser-gpu','--strict','--no-best-effort','--output',output],{stdio:'inherit'});
+if(r.status)process.exit(r.status);
+const credits='Portraits : jlm2017.fr, Ismail Aissoub, Ksiamon, Union européenne 2024 / Parlement européen, Foto-AG Gymnasium Melle, Thinkerview, Selbymay, UK Home Office, Marie tavares, Anh De France, Zouhaïr Nakara. Sources et licences : pourquivoter.fyi, volets Sources des profils. Voir video/instagram/CREDITS.md dans adrienconrath/pourquivoter.';
+r=spawnSync('ffmpeg',['-v','warning','-i',output,'-map','0:v:0','-map','0:a:0','-c:v','copy','-af','loudnorm=I=-14:TP=-1.5:LRA=9','-ar','48000','-ac','2','-c:a','aac','-b:a','192k','-t','30','-metadata','title=Pour qui voter — Instagram — 30 secondes','-metadata',`comment=${credits}`,'-movflags','+faststart',`renders/${version}/pourquivoter-instagram-${version}.mp4`],{stdio:'inherit'});
+process.exit(r.status??1);

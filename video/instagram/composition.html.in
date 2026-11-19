@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8"><title>Pour qui voter · Instagram · V001</title>
+  <link rel="stylesheet" href="film.css">
+  <script src="node_modules/gsap/dist/gsap.min.js"></script>
+</head>
+<body>
+<main id="film" data-composition-id="pqv-instagram" data-width="1080" data-height="1920" data-duration="30" data-fps="30" data-layout-allow-overlap data-layout-allow-overflow>
+  <section class="scene dark" id="overload">
+    <div class="kicker">PRÉSIDENTIELLE 2027</div>
+    <h1 class="headline">Des milliers<br>de ressources.</h1>
+    <div class="paper-stack hero-asset">
+      <div class="document doc-one"><span>LES PROGRAMMES</span><b>90 pages.<br>Et après ?</b><i></i><i></i><i></i></div>
+      <div class="document doc-two"><span>LES INTERVIEWS</span><b>2 h 16 min</b><div class="wave">▂ ▅ ▃ ▇ ▄ ▂ ▆ ▃ ▅ ▂ ▆</div><small>… et encore un débat.</small></div>
+      <div class="document doc-three"><span>LES DÉBATS</span><b>Par où<br>commencer ?</b><i></i><i></i></div>
+    </div>
+  </section>
+  <section class="scene dark" id="me">
+    <div class="kicker">MOI AUSSI, JE ME SUIS POSÉ LA QUESTION.</div>
+    <h2 class="headline">Pas le temps<br>de <em>tout</em><br>regarder.</h2>
+    <div class="small-note hero-asset">Alors, j’ai construit un outil.</div>
+  </section>
+  <section class="scene" id="intro">
+    <div class="kicker">UN OUTIL POUR Y VOIR PLUS CLAIR</div>
+    <h2 class="headline brand-title">Pour qui<br><em>voter ?</em></h2>
+    <div class="ai-pill">Construit avec une IA.</div>
+    <div class="browser hero-asset"><div class="browser-bar"><i></i><i></i><i></i><span>pourquivoter.fyi</span></div><img src="assets/screens/v003/overview.png" alt="Le vrai site Pour qui voter"></div>
+  </section>
+  <section class="scene" id="themes">
+    <div class="kicker">01 / TES THÈMES</div>
+    <h2 class="headline">Ce qui compte<br>pour toi.</h2>
+    <div class="theme-capture hero-asset"><img src="assets/screens/v003/themes-off.png" alt="Les thèmes"><img id="themes-selected" src="assets/screens/v003/themes.png" alt="Coût de la vie sélectionné"></div>
+    <div class="tap" id="tap-theme"></div>
+    <div class="annotation">Logement, école, pouvoir d’achat…</div>
+  </section>
+  <section class="scene" id="people">
+    <div class="kicker">02 / TES CANDIDATS</div>
+    <h2 class="headline">Qui veux-tu<br>comparer ?</h2>
+    <div class="people-capture hero-asset"><div class="mini-label">Sélectionnez des candidats à comparer</div><div class="people-strip"><img src="assets/screens/v003/people-off.png" alt="Les onze portraits"><img id="people-one" src="assets/screens/v003/people-attal.png" alt="Un candidat sélectionné"><img id="people-two" src="assets/screens/v003/people-le-pen.png" alt="Deux candidats sélectionnés"></div></div>
+    <div class="tap" id="tap-person"></div>
+    <div class="annotation">Clique sur les portraits.</div>
+  </section>
+  <section class="scene" id="compare">
+    <div class="kicker">03 / LE MÊME THÈME, LES PROPOSITIONS</div>
+    <h2 class="headline">Tu compares.</h2>
+    <div class="topic-chip">Coût de la vie</div>
+    <div class="comparison hero-asset">
+      <div class="comparison-card"><img class="card-header" src="assets/screens/v003/attal-header.png" alt="Gabriel Attal"><div class="card-body"><img src="assets/screens/v003/attal-summary.png" alt="Résumé des propositions de Gabriel Attal"></div></div>
+      <div class="comparison-card"><img class="card-header" src="assets/screens/v003/le-pen-header.png" alt="Marine Le Pen"><div class="card-body"><img src="assets/screens/v003/le-pen-summary.png" alt="Résumé des propositions de Marine Le Pen"></div></div>
+    </div>
+    <div id="summary-badge">Un résumé. L’essentiel.</div>
+  </section>
+  <section class="scene" id="details">
+    <div class="kicker">POUR ALLER PLUS LOIN</div>
+    <h2 class="headline">Les détails.<br>Les sources.</h2>
+    <div class="capture-sheet hero-asset"><img id="details-image" src="assets/screens/v003/details.png" alt="Le volet Détails ouvert"><img id="sources-image" src="assets/screens/v003/sources.png" data-start="18.75" data-duration="1.37" alt="Le volet Sources ouvert"></div>
+  </section>
+  <section class="scene" id="verify">
+    <div class="kicker">ET SURTOUT</div>
+    <h2 class="headline">L’IA peut<br>se tromper.</h2>
+    <div class="verify-label">Vérifie les sources.</div>
+    <div class="capture-sheet hero-asset"><img id="verification-source-list" src="assets/screens/v003/sources.png" data-start="20.12" data-duration="2.88" alt="Les références consultables"></div>
+  </section>
+  <section class="scene dark" id="end">
+    <div class="kicker">POUR QUI VOTER ?</div>
+    <h2 class="headline">Fais-toi<br><em>ton avis.</em></h2>
+    <div class="url hero-asset">pourquivoter.fyi<span>↗</span></div>
+    <div class="end-note">Compare les propositions.<br>Vérifie les sources.</div>
+  </section>
+  <div id="captions" aria-label="Sous-titres">{{captions}}</div>
+  <div class="film-footer">POURQUIVOTER.FYI</div>
+  <audio id="soundtrack" src="assets/audio/edit-v001/mix.wav" data-start="0" data-duration="30" data-volume="1"></audio>
+</main>
+<script>window.filmData={{timeline}};</script>
+<script>{{animation}}</script>
+</body></html>

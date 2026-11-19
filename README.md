@@ -28,3 +28,7 @@ Suivre le [skill d’actualisation](.agents/skills/actualiser-pour-qui-voter/SKI
 - `data/recherches.tsv` suit les recherches effectivement relues, leurs supports et leurs limites. Les journaux détaillés disponibles sont dans `docs/recherches/`.
 
 Le générateur vérifie que chaque candidat dispose d’une fiche pour chaque thème et que chaque fiche contient exactement un résumé de moins de 100 mots. Les ajouts sur `main` déclenchent le workflow GitHub Pages.
+
+## Vidéo de présentation
+
+Le [projet Instagram](video/instagram/README.md) contient le film vertical de trente secondes, les sources Hyperframes et GSAP, les captures du site, la narration, la musique ElevenLabs et les commandes de reproduction. La génération de nouveaux audios utilise une clé fournie par l’environnement ; les prises archivées permettent de refaire le rendu sans clé.

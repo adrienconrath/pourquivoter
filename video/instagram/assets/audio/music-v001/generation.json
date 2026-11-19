@@ -1,0 +1,8 @@
+{
+  "provider": "ElevenLabs",
+  "createdAt": "2026-11-19T09:13:42.206328+00:00",
+  "route": "/v1/music?output_format=mp3_44100_128",
+  "model": "music_v1",
+  "sha256": "4140022a4058a3fd616bcaddc7d4f26f4b02dbec37529ec3c2de35ead03d98cc",
+  "reproducibility": "Use the archived MP3 for exact replay; a new generation may differ."
+}

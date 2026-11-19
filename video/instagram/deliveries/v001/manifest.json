@@ -1,0 +1,296 @@
+{
+  "id": "pourquivoter-instagram-v001",
+  "createdAt": "2026-11-19T09:36:57.767479+00:00",
+  "sourceRender": "v004",
+  "format": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1080,
+        "height": 1920,
+        "pix_fmt": "yuv420p",
+        "r_frame_rate": "30/1"
+      },
+      {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "format": {
+      "duration": "30.000000",
+      "size": "6046480"
+    }
+  },
+  "audio": {
+    "integratedLUFS": -14.61,
+    "truePeakDBTP": -1.46,
+    "loudnessRangeLU": 2.9
+  },
+  "hyperframes": {
+    "lint": {
+      "ok": true,
+      "errorCount": 0,
+      "warningCount": 0
+    },
+    "runtime": {
+      "ok": true,
+      "errorCount": 0,
+      "warningCount": 0
+    },
+    "layout": {
+      "ok": true,
+      "errorCount": 0,
+      "warningCount": 0
+    },
+    "motion": {
+      "ok": true,
+      "enabled": false,
+      "errorCount": 0,
+      "warningCount": 0
+    },
+    "contrast": {
+      "ok": true,
+      "enabled": true,
+      "errorCount": 0,
+      "warningCount": 0
+    },
+    "craft": {
+      "ok": true,
+      "enabled": true,
+      "errorCount": 0,
+      "warningCount": 0
+    }
+  },
+  "inputs": [
+    {
+      "path": "assets/audio/edit-v001/mix.wav",
+      "bytes": 5760078,
+      "sha256": "84135520f7207f437cd53be2f1bc38f8a65f090e5a87e17b4750422d8fa18588"
+    },
+    {
+      "path": "assets/audio/edit-v001/timeline.json",
+      "bytes": 7163,
+      "sha256": "c53c6ffca556c8e8d51d4c227e027b0175f56b5d43fa3ee9fed8221953f15995"
+    },
+    {
+      "path": "assets/audio/edit-v001/voice.wav",
+      "bytes": 5760082,
+      "sha256": "7255eb8ba6e476727cec6e769c70d479f1904ac3bf7f41ed07ffcb5fab7d96fe"
+    },
+    {
+      "path": "assets/audio/music-v001/generation.json",
+      "bytes": 329,
+      "sha256": "d59463dc074a7c91f1dc85e8d45698b19bf7bb5a7d22104e55a90e21410c4d8a"
+    },
+    {
+      "path": "assets/audio/music-v001/original.mp3",
+      "bytes": 480697,
+      "sha256": "4140022a4058a3fd616bcaddc7d4f26f4b02dbec37529ec3c2de35ead03d98cc"
+    },
+    {
+      "path": "assets/audio/music-v001/request.json",
+      "bytes": 950,
+      "sha256": "e1cbae61739086e9486ac9a9f90e21b2cb4ed93dd0e7ecc8b0f9bc05bb99e9fa"
+    },
+    {
+      "path": "assets/audio/voice-v001/alignment.json",
+      "bytes": 15783,
+      "sha256": "a60daa3a983a1d760c52990f2184364e872c90495b296f2163c0b073d03c87cb"
+    },
+    {
+      "path": "assets/audio/voice-v001/generation.json",
+      "bytes": 462,
+      "sha256": "45d5e4eb18da43341c3e85c5a18159b0dbe885a3792bb7c70eb066291d41afa9"
+    },
+    {
+      "path": "assets/audio/voice-v001/original.mp3",
+      "bytes": 495324,
+      "sha256": "ddcad4022b5507c76f9fc682d4d6c55d1aad85bc0698d998042afb843d3add22"
+    },
+    {
+      "path": "assets/audio/voice-v001/request.json",
+      "bytes": 599,
+      "sha256": "0efe181f0be0ec7646ee2e15d4cee163b855d5f112de6ecaebadc1b214f2b648"
+    },
+    {
+      "path": "assets/fonts/dm-sans-OFL.txt",
+      "bytes": 4388,
+      "sha256": "7ec15e79c59bc14b86436a17e5eb7926b46cbcaeb08e1a7e6c110b415e6eb2a2"
+    },
+    {
+      "path": "assets/fonts/dm-sans.woff2",
+      "bytes": 36932,
+      "sha256": "9fea608a947e67020c33cad9a6fe3d60c54119dfb8cff87768a8117a15ed7543"
+    },
+    {
+      "path": "assets/fonts/instrument-serif-OFL.txt",
+      "bytes": 4404,
+      "sha256": "b6b2292aa580937fb63796878d65a027a27f8c3db2d97601d0c34d9031f4ca17"
+    },
+    {
+      "path": "assets/fonts/instrument-serif.woff2",
+      "bytes": 21032,
+      "sha256": "5eb09b5ac0e28b67c2f041c8ba6d244604ca0c0980d65912ab2d47fed84ddc31"
+    },
+    {
+      "path": "assets/screens/v003/attal-header.png",
+      "bytes": 15337,
+      "sha256": "1cf8135cb7380268c4a011362138cf83f13d77497c0de1d54f3bb214727624a5"
+    },
+    {
+      "path": "assets/screens/v003/attal-summary.png",
+      "bytes": 44324,
+      "sha256": "4f6242a5d53ab62d244f6874b1e38bdb0fbbadb700a6adc7b9ac461e77ec7123"
+    },
+    {
+      "path": "assets/screens/v003/details.png",
+      "bytes": 89856,
+      "sha256": "3d74478ee1ab44c3382d1e9bb5169a1c9ed67895033f704223801e026d5e7656"
+    },
+    {
+      "path": "assets/screens/v003/le-pen-header.png",
+      "bytes": 16265,
+      "sha256": "5ed278b1f85d1a360895baa4cdd49b51e3c63b68179500fc5f2e70fa52c78fbb"
+    },
+    {
+      "path": "assets/screens/v003/le-pen-summary.png",
+      "bytes": 35472,
+      "sha256": "620f4af1502bed1a23be94538ef70af7bb9e50bcfd56c9c40ac13d6e10733792"
+    },
+    {
+      "path": "assets/screens/v003/manifest.json",
+      "bytes": 3106,
+      "sha256": "fe5a9b3621c74bd905b864527220249445c65f517eb475e1bf27ea8476c363f0"
+    },
+    {
+      "path": "assets/screens/v003/overview.png",
+      "bytes": 277002,
+      "sha256": "4051ddefb8a709eb60524f31df5a5beaa61a1e1cf252f6db0b0d8c1ed81803ed"
+    },
+    {
+      "path": "assets/screens/v003/people-attal.png",
+      "bytes": 79825,
+      "sha256": "f194ccf3012af6fe006ab686855d2e35809540c11cff38b2dd88e6cb4fcc1c44"
+    },
+    {
+      "path": "assets/screens/v003/people-le-pen.png",
+      "bytes": 85365,
+      "sha256": "fc20623ee8c4972aed057d1ded61056e403076c884cd3a2f6f7dc1b7655be734"
+    },
+    {
+      "path": "assets/screens/v003/people-off.png",
+      "bytes": 72093,
+      "sha256": "b89a40424de381ce06c12f3a727a49bf9422f7149f246d31a8b54c6df5cc94bd"
+    },
+    {
+      "path": "assets/screens/v003/sources.png",
+      "bytes": 82135,
+      "sha256": "d757b5c2bc16c142503c3cf8cce0a95369adeaefe38b0603dfe4965f2f769c26"
+    },
+    {
+      "path": "assets/screens/v003/themes-off.png",
+      "bytes": 16516,
+      "sha256": "6f5488085519db5229c220599337235d86df9b23bc29b0e5f33680132f31ff77"
+    },
+    {
+      "path": "assets/screens/v003/themes.png",
+      "bytes": 17460,
+      "sha256": "51d2818cebd8e23052895e84c7dddd4f54db0115ecf7deece5cb98d9e8863441"
+    },
+    {
+      "path": "prompts/music-v001.txt",
+      "bytes": 858,
+      "sha256": "6d3de27552759cd846017370de5359a898c04c4ccd8d0137f701cb9bbf0eeb27"
+    },
+    {
+      "path": "prompts/narration-v001.txt",
+      "bytes": 411,
+      "sha256": "2c0025a817d6197784a580a6b297f06fc8dbe58c339974e57ccb0460448e195e"
+    },
+    {
+      "path": "scripts/build.mjs",
+      "bytes": 1750,
+      "sha256": "2652affece491ddaff7104fe2803d58437c9e83cdf7649548110c190abc498d1"
+    },
+    {
+      "path": "scripts/capture.mjs",
+      "bytes": 4931,
+      "sha256": "94a9eee81fe24b98c6878348d42273ac3bae8f4369cf6671e26b8c0775ed7ebf"
+    },
+    {
+      "path": "scripts/deliver.py",
+      "bytes": 4330,
+      "sha256": "7a0e89bfde37a2f67035eec942dd11bddc21a25690d3c8b0d172091599d774a7"
+    },
+    {
+      "path": "scripts/elevenlabs.py",
+      "bytes": 3424,
+      "sha256": "96ccbec5ae339b44c99406ef13a49252178d8d7462f309818eaf5cf47c0340b4"
+    },
+    {
+      "path": "scripts/hyperframes.mjs",
+      "bytes": 469,
+      "sha256": "e93b8092fe741fb4a43b10e7e29da22fb2bf0df9c8ffd7ba7fa11f929b404400"
+    },
+    {
+      "path": "scripts/master.py",
+      "bytes": 4030,
+      "sha256": "f57cdd3b36c22b4f6c8c8197c951000cd3da2a41bc0aebee1b5da901c55a6cef"
+    },
+    {
+      "path": "scripts/render.mjs",
+      "bytes": 1512,
+      "sha256": "499088e6ed624d107d365557171f86bc07c57f20ce1a8479959aa9efd40d5a23"
+    },
+    {
+      "path": "composition.html.in",
+      "bytes": 5274,
+      "sha256": "c4a16dca7696720e210d9e47d83cb306e4c77b474a6e54321c96975b2a8e2c89"
+    },
+    {
+      "path": "film.css",
+      "bytes": 5860,
+      "sha256": "b89fa7e730b9436e64db2014761f98c5f730a43a88987aacb3d48c25ed4de9a2"
+    },
+    {
+      "path": "film.js",
+      "bytes": 2335,
+      "sha256": "dc2db6b63cdd1b7f42d885631616a7b1eb2747f9521545af92b0fd7cca7848fd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 17917,
+      "sha256": "04ec07f023ab5787947f8540476650173fd05d6db71868afd7073be74e4eeeae"
+    },
+    {
+      "path": "package.json",
+      "bytes": 659,
+      "sha256": "ee160961d9bc249cacd8b588661ec7f05e05f90693d13c726c7447c046fb0870"
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 64142,
+      "sha256": "20fa5e9abb6f17003f7a96136fe4c095aa55396c70792495e3c76da9eb0c8077"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "deliveries/v001/narration.srt",
+      "bytes": 767,
+      "sha256": "3b157ddfddcacc5478d947c13235c048e890ac3a5c325851e57e9869875e4eb9"
+    },
+    {
+      "path": "deliveries/v001/poster.jpg",
+      "bytes": 83151,
+      "sha256": "723701768a8e2744b0ca72a49d40b5adb9bb79dac87b41ee1e64a92105f443a5"
+    },
+    {
+      "path": "deliveries/v001/pourquivoter-instagram-v001.mp4",
+      "bytes": 6046480,
+      "sha256": "55c1117309b6278f8f4016ddea80c255db0c40701ced144b5c0e99ca490254ce"
+    }
+  ]
+}
