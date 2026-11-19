@@ -318,6 +318,8 @@ def build(snapshot, generated):
             generated=replacements["generated"],
         ))
         (profile_dir / f'{person["id"]}.html').write_text(page, encoding="utf-8")
+    from export_markdown import export as export_markdown
+    export_markdown(DIST)
     (DIST / ".nojekyll").touch()
     notes = sum(len(records) for fields in entries.values() for records in fields.values())
     analyses = sum(len(fields.get("critique", [])) for fields in entries.values())
