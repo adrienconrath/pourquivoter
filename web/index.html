@@ -13,14 +13,10 @@
 </head>
 <body style="--candidate-count:{{candidate_count}}">
   <a class="skip" href="#contenu">Aller au contenu</a>
-  <aside class="content-notice" aria-label="Information sur le contenu"><p class="wide">Contenu généré par une intelligence artificielle. Des erreurs ou des omissions restent possibles : vérifiez les informations dans les sources citées.</p></aside>
   <main id="contenu">
     <header class="hero">
       <div class="wide hero-layout">
-        <div>
-          <h1>Pour qui <em>voter&nbsp;?</em></h1>
-          <p class="eyebrow">Présidentielle · 2027</p>
-        </div>
+        <h1 class="election-title"><span class="election-year">Présidentielle 2027</span> <span class="title-divider" aria-hidden="true">—</span> <span class="site-title">Pour qui <em>voter&nbsp;?</em></span></h1>
       </div>
     </header>
     <section class="wide compare-section" id="comparer" aria-labelledby="compare-title">
@@ -53,9 +49,10 @@
       <div class="footer-meta">
         <a class="brand" href="#contenu"><span class="brand-mark" aria-hidden="true">◎</span> Pour qui voter&nbsp;?</a>
         <span>Site généré le {{generated}}</span>
+        <p class="footer-notice">Contenu généré par une intelligence artificielle. Des erreurs ou des omissions restent possibles : vérifiez les informations dans les sources citées.</p>
       </div>
       <nav class="edition footer-profiles" aria-label="Fiches des candidats">
-        <div class="edition-top"><span>Les candidats</span>{{snapshot}}</div>
+        <div class="edition-top"><span>Les candidats</span></div>
         <div class="portrait-grid">{{timeline}}</div>
       </nav>
       <a class="github-link" href="https://github.com/adrienconrath/pourquivoter" aria-label="Voir le dépôt du site sur GitHub" title="Voir le dépôt sur GitHub"><img src="assets/github.svg" width="24" height="24" alt="GitHub"></a>
