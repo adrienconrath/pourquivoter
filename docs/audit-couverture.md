@@ -226,17 +226,17 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Agriculture et alimentation | Bruno Retailleau | 65 | 1034 | 19 | 4 | Relue |
 | Agriculture et alimentation | Marine Le Pen | 0 | 1161 | 16 | 4 | Relue |
 | Agriculture et alimentation | Éric Zemmour | 0 | 1189 | 13 | 5 | Relue |
-| Territoires et outre-mer | Jean-Luc Mélenchon | 0 | 961 | 9 | 2 | Relue |
-| Territoires et outre-mer | François Ruffin | 0 | 996 | 8 | 3 | Relue |
-| Territoires et outre-mer | Fabien Roussel | 26 | 994 | 9 | 4 | Relue |
-| Territoires et outre-mer | Marine Tondelier | 19 | 951 | 8 | 3 | Relue |
-| Territoires et outre-mer | Raphaël Glucksmann | 0 | 968 | 9 | 4 | Relue |
-| Territoires et outre-mer | Gabriel Attal | 47 | 1182 | 17 | 4 | Relue |
-| Territoires et outre-mer | Édouard Philippe | 85 | 1131 | 12 | 4 | Relue |
-| Territoires et outre-mer | David Lisnard | 37 | 898 | 10 | 4 | Relue |
-| Territoires et outre-mer | Bruno Retailleau | 0 | 1099 | 12 | 3 | Relue |
-| Territoires et outre-mer | Marine Le Pen | 0 | 1062 | 11 | 3 | Relue |
-| Territoires et outre-mer | Éric Zemmour | 0 | 1036 | 10 | 2 | Relue |
+| Territoires et outre-mer | Jean-Luc Mélenchon | 0 | 824 | 10 | 2 | Relue |
+| Territoires et outre-mer | François Ruffin | 0 | 874 | 9 | 3 | Relue |
+| Territoires et outre-mer | Fabien Roussel | 26 | 872 | 10 | 4 | Relue |
+| Territoires et outre-mer | Marine Tondelier | 19 | 843 | 9 | 4 | Relue |
+| Territoires et outre-mer | Raphaël Glucksmann | 0 | 929 | 10 | 4 | Relue |
+| Territoires et outre-mer | Gabriel Attal | 47 | 1068 | 18 | 4 | Relue |
+| Territoires et outre-mer | Édouard Philippe | 85 | 1123 | 13 | 4 | Relue |
+| Territoires et outre-mer | David Lisnard | 37 | 810 | 11 | 5 | Relue |
+| Territoires et outre-mer | Bruno Retailleau | 0 | 1073 | 13 | 3 | Relue |
+| Territoires et outre-mer | Marine Le Pen | 0 | 970 | 12 | 5 | Relue |
+| Territoires et outre-mer | Éric Zemmour | 0 | 970 | 11 | 4 | Relue |
 | Europe | Jean-Luc Mélenchon | 0 | 667 | 13 | 4 | Relue |
 | Europe | François Ruffin | 776 | 962 | 18 | 5 | Relue |
 | Europe | Fabien Roussel | 915 | 981 | 19 | 5 | Relue |
