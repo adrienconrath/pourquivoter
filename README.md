@@ -21,7 +21,7 @@ Suivre le [skill d’actualisation](.agents/skills/actualiser-pour-qui-voter/SKI
 - `data/profils.tsv` contient l’identité, la date de naissance, le parcours, le statut et les liens officiels.
 - `data/portraits.tsv` contient les crédits, les pages d’origine et les licences.
 - `data/themes.tsv` contient l’ordre de lecture, les catégories et les questions de comparaison.
-- `data/positions.tsv` contient une affirmation par ligne. Plusieurs affirmations peuvent alimenter la même rubrique avec des références distinctes. Chaque case comprend une proposition ou une déclaration et un seul `resume` sourcé de moins de 100 mots. Les références du résumé couvrent aussi les différences mentionnées avec les autres candidats.
+- `data/positions.tsv` contient une affirmation par ligne. Plusieurs affirmations peuvent alimenter la même rubrique avec des références distinctes. Chaque case comprend une proposition ou une déclaration et un seul `resume` sourcé de moins de 100 mots. Le résumé décrit uniquement les propositions de la personne concernée, sans comparaison avec une autre candidature ou son parti.
 - `data/sources.tsv` contient les identifiants, titres, types et URL des références.
 - `data/edition.txt` indique la date d’arrêt des recherches. La date de génération est calculée au moment de la construction, dans le fuseau Europe/Paris.
 - `data/audit-couverture.tsv` relève toutes les cases et leurs lacunes quantitatives ; régénérer avec `python3 scripts/audit_coverage.py`. Un texte long n'est pas automatiquement une recherche vérifiée.
