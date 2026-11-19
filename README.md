@@ -12,7 +12,11 @@ python3 scripts/build.py
 python3 -m http.server --directory dist 8000
 ```
 
-Ouvrir [localhost:8000](http://localhost:8000). Le HTML contient le comparateur et les sources. JavaScript ouvre les colonnes des candidatures choisies, empile les thèmes et enregistre la sélection dans l’URL. Les portraits du bandeau ouvrent les fiches statiques individuelles dans `profils/`. Les ressources graphiques et les polices sont servies localement. Les crédits et licences des portraits figurent dans le volet Sources de chaque profil. Chaque case présente un résumé, puis deux volets indépendants, fermés au chargement : Détails et Sources. Les affirmations conservent leurs références dans les attributs HTML `data-sources`. La croix en haut à droite de chaque en-tête permet aussi de retirer une colonne.
+Ouvrir [localhost:8000](http://localhost:8000). Le HTML contient le comparateur et les sources. JavaScript ouvre les colonnes des candidatures choisies, empile les thèmes et enregistre la sélection dans l’URL. Les portraits du bandeau ouvrent les fiches statiques individuelles dans `profils/`. Les ressources graphiques et les polices sont servies localement. Les crédits et licences des portraits figurent dans le volet Sources de chaque profil. Chaque case présente un résumé, puis deux volets indépendants, fermés au chargement : Détails et Sources. Les affirmations conservent leurs références dans les attributs HTML `data-sources`. La croix en haut à droite de chaque en-tête permet aussi de retirer une colonne. Chaque case propose un lien discret « Donner du feedback » qui ouvre le formulaire Google avec le candidat et le thème déjà sélectionnés. Un bouton « ◐ » dans le pied de page bascule entre mode clair et mode sombre ; le choix est mémorisé et le mode clair est appliqué par défaut.
+
+## Export Markdown et llms.txt
+
+Chaque build génère aussi une version texte du comparateur pour les agents IA : `dist/markdown/<candidat>/<theme>.md` (275 fichiers, non liés depuis les pages du site) et `dist/llms.txt`, qui les référence tous. Régénérable seul avec `python3 scripts/export_markdown.py`. Aucun changement visuel sur le site.
 
 ## Mettre à jour une édition
 
@@ -28,6 +32,10 @@ Suivre le [skill d’actualisation](.agents/skills/actualiser-pour-qui-voter/SKI
 - `data/recherches.tsv` suit les recherches effectivement relues, leurs supports et leurs limites. Les journaux détaillés disponibles sont dans `docs/recherches/`.
 
 Le générateur vérifie que chaque candidat dispose d’une fiche pour chaque thème et que chaque fiche contient exactement un résumé de moins de 100 mots. Les ajouts sur `main` déclenchent le workflow GitHub Pages.
+
+La [revue de cohérence des 275 résumés du 19 novembre 2026](docs/relectures/2026-11-19-resumes/README.md) contient les corrections, les relevés avant/après et les points à contrôler lors des prochaines réécritures.
+
+La [vérification des affirmations contre leurs sources du 19 novembre 2026](docs/relectures/2026-11-19-verification-sources/README.md) liste les corrections de chiffres, d’attributions et de formulations non soutenues par les sources.
 
 ## Vidéo de présentation
 

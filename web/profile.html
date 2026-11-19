@@ -5,13 +5,32 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" href="../assets/favicon.ico" sizes="any">
   <link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
+  <meta name="description" content="Découvrez le profil de {{name}} et retrouvez ses propositions dans le comparateur de la présidentielle 2027.">
+  <link rel="canonical" href="https://pourquivoter.fyi/profils/{{id}}.html">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:site_name" content="Pour qui voter ?">
+  <meta property="og:title" content="{{name}} — Pour qui voter ?">
+  <meta property="og:description" content="Découvrez le profil de {{name}} et retrouvez ses propositions dans le comparateur de la présidentielle 2027.">
+  <meta property="og:url" content="https://pourquivoter.fyi/profils/{{id}}.html">
+  <meta property="og:image" content="https://pourquivoter.fyi/assets/partage-presidentielle-2027-v1.png">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Présidentielle 2027 — Pour qui voter ? Comparez les propositions. Consultez les sources.">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{name}} — Pour qui voter ?">
+  <meta name="twitter:description" content="Découvrez le profil de {{name}} et retrouvez ses propositions dans le comparateur de la présidentielle 2027.">
+  <meta name="twitter:image" content="https://pourquivoter.fyi/assets/partage-presidentielle-2027-v1.png">
+  <meta name="twitter:image:alt" content="Présidentielle 2027 — Pour qui voter ? Comparez les propositions. Consultez les sources.">
   <meta name="theme-color" content="#f7f5f0">
+  <script>try{if(localStorage.getItem("pqv-theme")==="dark")document.documentElement.dataset.theme="dark"}catch(e){}</script>
   <title>{{name}} — Pour qui voter ?</title>
   <link rel="stylesheet" href="../assets/style.css">
+  <script src="../assets/theme.js" defer></script>
 </head>
 <body class="profile-page">
   <a class="skip" href="#contenu">Aller au contenu</a>
-  <aside class="content-notice" aria-label="Information sur le contenu"><p class="wide">Contenu généré par une intelligence artificielle. Des erreurs ou des omissions restent possibles : vérifiez les informations dans les sources citées.</p></aside>
   <header class="top"><div class="wrap nav">
     <a class="brand" href="../"><span class="brand-mark" aria-hidden="true">◎</span> Pour qui voter&nbsp;?</a>
     <a class="back-link" href="../#comparer">← Comparateur</a>
@@ -19,6 +38,9 @@
   <main class="wrap profile-main" id="contenu">
     {{profile}}
   </main>
-  <footer><div class="wrap foot"><span>Site généré le {{generated}}</span><a class="github-link" href="https://github.com/adrienconrath/pourquivoter" aria-label="Voir le dépôt du site sur GitHub" title="Voir le dépôt sur GitHub"><img src="../assets/github.svg" width="24" height="24" alt="GitHub"></a></div></footer>
+  <footer><div class="wrap foot"><div class="footer-meta"><span>Site généré le {{generated}}</span><p class="footer-notice">Contenu généré par une intelligence artificielle. Des erreurs ou des omissions restent possibles : vérifiez les informations dans les sources citées.</p></div><span class="foot-actions"><button type="button" class="theme-toggle" aria-label="Activer le mode sombre" aria-pressed="false" title="Mode sombre / clair"><span aria-hidden="true">◐</span></button><a class="github-link" href="https://github.com/adrienconrath/pourquivoter" target="_blank" rel="noopener" aria-label="Voir le dépôt du site sur GitHub" title="Voir le dépôt sur GitHub"><img src="../assets/github.svg" width="24" height="24" alt="GitHub"></a></span></div></footer>
+  <!-- Cloudflare Web Analytics -->
+  <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token":"ace92d69876a4063ba119ee280219042"}'></script>
+  <!-- End Cloudflare Web Analytics -->
 </body>
 </html>

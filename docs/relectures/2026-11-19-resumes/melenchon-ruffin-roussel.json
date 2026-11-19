@@ -1,0 +1,1244 @@
+[
+  {
+    "theme": "dette",
+    "candidat": "melenchon",
+    "statut": "corrige",
+    "motif": "Préciser que le poids de la dette est relatif à la richesse produite ; identifier les banques centrales et les seules créances publiques concernées, sans suggérer un défaut envers tous les prêteurs.",
+    "texte_avant": "Jean-Luc Mélenchon veut taxer davantage les fortunes et le capital en stabilisant le poids de la dette sur cinq ans. Son budget prévoit 106,4 milliards de recettes et 81,7 milliards de dépenses supplémentaires en 2027. Il demande d’annuler les titres détenus par la banque centrale ou de les rendre perpétuels, sans intérêts.",
+    "texte_apres": "Jean-Luc Mélenchon veut augmenter les impôts sur les fortunes et le capital pour financer son programme. Son budget annonce 106,4 milliards d’euros de recettes supplémentaires et 81,7 milliards de dépenses nouvelles en 2027. Il vise une dette stabilisée par rapport à la richesse produite sur cinq ans. Il demande aussi d’annuler les dettes publiques détenues par les banques centrales de la zone euro, ou de les transformer en dettes sans échéance ni intérêts.",
+    "sources_avant": "mel-dette-programme,mel-dette-budget",
+    "sources_apres": "mel-dette-programme,mel-dette-budget",
+    "verification_sources": [
+      "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre3"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "dette",
+    "candidat": "roussel",
+    "statut": "corrige",
+    "motif": "Remplacer la distinction abstraite crédit/investissement/dépense par qui rembourse les prêts et les informations manquantes pour connaître la dépense publique annuelle.",
+    "texte_avant": "Fabien Roussel accepte une hausse temporaire de la dette pour relancer industrie, emploi et transition. Son fonds d’avenir mobiliserait 500 milliards d’euros sur cinq ans, par des prêts et d’autres soutiens à préciser. Les recettes attendues de l’activité et le partage entre crédit, investissement et dépense publique détermineront le résultat budgétaire.",
+    "texte_apres": "Fabien Roussel accepte une hausse temporaire de la dette pour investir dans l’industrie, l’emploi et la transition écologique. Son fonds d’avenir mobiliserait 500 milliards d’euros sur cinq ans, notamment par des prêts à taux avantageux. Ces prêts devraient être remboursés. La part financée par les budgets publics et les recettes attendues de l’activité supplémentaire restent à préciser.",
+    "sources_avant": "rou-eu-alt,pcf-discours",
+    "sources_apres": "rou-eu-alt,pcf-discours",
+    "verification_sources": [
+      "https://moissacaucoeur.fr/2026/06/28/fabien-roussel-il-faut-relancer-leconomie-par-les-salaires-in-alternatives-economiques/",
+      "https://www.pcf.fr/ue_26_discours_fr"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "dette",
+    "candidat": "ruffin",
+    "statut": "corrige",
+    "motif": "Remplacer « options cumulables » et « trajectoire complète » par la question concrète du déficit après investissements ; distinguer prévisions de campagne et recettes acquises.",
+    "texte_avant": "François Ruffin mise sur des économies ciblées et des recettes accrues sur les très grandes fortunes et successions : respectivement 18,5 et 20 milliards d’euros annuels attendus. Il écarte l’annulation de la dette détenue par la banque centrale. Rendements fiscaux, options cumulables et solde après investissements restent à vérifier dans une trajectoire complète.",
+    "texte_apres": "François Ruffin veut réduire certaines aides aux entreprises et augmenter les recettes sur les grandes fortunes et successions. Son plan attend respectivement 18,5 et 20 milliards d’euros par an de ces deux réformes fiscales. Il refuse d’annuler la dette détenue par la banque centrale. Ces recettes sont des prévisions de campagne ; le déficit restant après l’ensemble des investissements proposés n’est pas établi.",
+    "sources_avant": "ruff-fisc-verif-fortune,ruff-fisc-verif-succ,ruff-plan",
+    "sources_apres": "ruff-fisc-verif-fortune,ruff-fisc-verif-succ,ruff-plan",
+    "verification_sources": [
+      "https://nouspresident.fr/plan-de-redressement/",
+      "https://largentpublic.fr/proposition/ruffin/ruffin-taxe-hauts-patrimoines",
+      "https://largentpublic.fr/proposition/ruffin/ruffin-successions-donations"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "prix",
+    "candidat": "melenchon",
+    "statut": "corrige",
+    "motif": "La caisse apparaissait sans explication de ce qu’elle finance. La relier aux salaires et remplacer le vague « son rendement » par la contribution concernée ; retirer la réserve d’approvisionnement non développée dans ce résumé.",
+    "texte_avant": "Jean-Luc Mélenchon propose un SMIC à 1 700 euros net, des salaires suivant l’inflation et des prix plafonnés pour les biens essentiels. Il privilégie une intervention sur les prix. Les grands groupes contribueraient à une caisse aidant les petites entreprises. Son rendement et le maintien des approvisionnements restent à préciser.",
+    "texte_apres": "Jean-Luc Mélenchon propose un salaire minimum de 1 700 euros net par mois et des salaires augmentant avec les prix. Il veut aussi plafonner le prix de biens essentiels. Les employeurs paieraient les hausses salariales ; une caisse financée par les grands groupes aiderait les petites entreprises à les supporter. Le taux de cette contribution reste à fixer.",
+    "sources_avant": "mel-prix-ppl,mel-prix-blog",
+    "sources_apres": "mel-prix-ppl,mel-prix-blog",
+    "verification_sources": [
+      "https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17B3176.html",
+      "https://melenchon.fr/2026/04/16/pourquoi-faut-il-bloquer-les-prix/"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "prix",
+    "candidat": "roussel",
+    "statut": "corrige",
+    "motif": "La réserve d’approvisionnement visait un blocage des carburants absent du résumé ; la supprimer ici et garder ce débat dans les détails. Relier l’aide aux petites entreprises au coût salarial au lieu de mélanger fiscalité publique et paiement des salaires.",
+    "texte_avant": "Fabien Roussel veut un SMIC à 2 200 euros brut, environ 1 700 euros net, et des salaires suivant automatiquement les prix. Il propose aussi une baisse de 30 % de l’électricité et du gaz, par la fiscalité et les tarifs publics. Roussel mobilise une fiscalité accrue sur les grandes fortunes et entreprises ; coûts pour les petites entreprises et approvisionnement sont discutés.",
+    "texte_apres": "Fabien Roussel veut un salaire minimum de 2 200 euros brut, soit environ 1 700 euros net, et des salaires suivant automatiquement les prix. Il demande aussi une baisse de 30 % de l’électricité et du gaz, par des taxes réduites et des tarifs publics. Pour aider les petites entreprises à payer les hausses de salaires, il propose notamment de réduire leurs factures d’énergie et de mieux cibler les aides publiques.",
+    "sources_avant": "rou-prix-nov8,pcf-discours,roussel-achat,rou-prix-courrier,rou-prix-nov3",
+    "sources_apres": "rou-prix-nov8,pcf-discours",
+    "verification_sources": [
+      "https://dixipolis.vercel.app/video/225784",
+      "https://www.pcf.fr/ue_26_discours_fr"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche. La transcription Dixipolis du 8 novembre est lisible avec l’outil web, mais son HTML téléchargé directement ne contient que « Chargement » ; vérification effectuée sur les tours de parole rendus par l’outil web."
+    ]
+  },
+  {
+    "theme": "prix",
+    "candidat": "ruffin",
+    "statut": "corrige",
+    "motif": "Définir l’indexation et remplacer « une action sur le logement » par l’encadrement des loyers. Préciser la portée de l’objection juridique pour ne pas laisser croire que tout contrôle est impossible.",
+    "texte_avant": "François Ruffin propose un SMIC à 1 700 euros net, l’indexation des salaires sur les prix et une action sur le logement. Il veut contrôler les prix et marges des produits essentiels. Les juristes des Surligneurs contestent la possibilité d’un contrôle généralisé dans le cadre actuel.",
+    "texte_apres": "François Ruffin propose un salaire minimum de 1 700 euros net et des salaires augmentant automatiquement avec les prix. Il veut encadrer les loyers et contrôler les prix et marges des produits essentiels. Les juristes des Surligneurs estiment qu’un contrôle généralisé se heurterait au droit actuel.",
+    "sources_avant": "ruff-prix-bfm,ruff-prix-surligneurs",
+    "sources_apres": "ruff-prix-bfm,ruff-logement,ruff-prix-surligneurs",
+    "verification_sources": [
+      "https://nouspresident.fr/face-a-la-crise-du-logement/",
+      "https://lessurligneurs.eu/peut-on-retablir-un-controle-des-prix-et-des-marges-comme-pendant-les-30-glorieuses-comme-laffirme-francois-ruffin/",
+      "https://dixipolis.com/video/225592"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "retraites",
+    "candidat": "melenchon",
+    "statut": "corrige",
+    "motif": "Remplacer la phrase de commentaire « cette succession distingue… » par les conditions concrètes du départ, et conserver la distinction entre étape immédiate et objectif final.",
+    "texte_avant": "Jean-Luc Mélenchon veut revenir d’abord à 62 ans, puis atteindre 60 ans pendant le mandat. Cette succession distingue la première mesure de l’objectif final. Le calendrier génération par génération des 60 ans et le financement complet des mesures ultérieures restent à préciser, au-delà du seul coût du retour à 62 ans.",
+    "texte_apres": "Jean-Luc Mélenchon veut abroger la réforme des 64 ans et revenir d’abord à un départ à 62 ans. Il vise ensuite 60 ans avec quarante années de cotisation pendant le mandat. Le calendrier précis de cette seconde étape et son financement complet restent à préciser.",
+    "sources_avant": "mel-ret-rtl2027",
+    "sources_apres": "mel-ret-rtl2027,mel-prix-besoins",
+    "verification_sources": [
+      "https://www.rtl.fr/actu/politique/smic-a-1-700-euros-retraite-a-60-ans-nucleaire-ce-que-prevoient-les-1-069-mesures-du-programme-de-jean-luc-melenchon-pour-2027-7900693627",
+      "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "retraites",
+    "candidat": "roussel",
+    "statut": "corrige",
+    "motif": "Définir la « répartition majoritaire » et supprimer « reste encore annoncé ». Maintenir explicitement la distinction entre orientations personnelles et cahier collectif antérieur sans annoncer des paramètres anciens comme nouveaux.",
+    "texte_avant": "Fabien Roussel défend une répartition majoritaire garantissant de quoi vivre et une pension au moins égale au salaire minimum après une vie de travail. Il accepte l’épargne volontaire mais refuse de l’imposer. Son programme personnel chiffré pour 2027 reste encore annoncé ; les propositions antérieures du PCF gardent un statut distinct.",
+    "texte_apres": "Fabien Roussel veut que les cotisations des actifs restent la principale source de paiement des pensions. Il défend une retraite au moins égale au salaire minimum après une vie de travail et refuse d’imposer une épargne-retraite individuelle. Il annonce encore un programme personnel chiffré pour début 2027 ; les règles détaillées du projet collectif du PCF ne sont pas toutes confirmées comme ses engagements présidentiels.",
+    "sources_avant": "pcf-discours,rou-eu-lci-nov",
+    "sources_apres": "pcf-discours,rou-eu-lci-nov,rou-prix-nov8",
+    "verification_sources": [
+      "https://pourquijevote.com/transcripts/cac40203-be2f-4398-bc9e-7bfea5428179",
+      "https://dixipolis.vercel.app/video/225784"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche. La transcription Dixipolis du 8 novembre est lisible avec l’outil web, mais son HTML téléchargé directement ne contient que « Chargement » ; vérification effectuée sur les tours de parole rendus par l’outil web."
+    ]
+  },
+  {
+    "theme": "retraites",
+    "candidat": "ruffin",
+    "statut": "corrige",
+    "motif": "Définir la répartition et la capitalisation plutôt que les nommer seules ; retirer « chez Ruffin » et « rapprocher des nouveaux droits », formules de rapport sans information intelligible.",
+    "texte_avant": "François Ruffin défend un départ dès 60 ans après quarante années de cotisation et une retraite par répartition. Il refuse la capitalisation obligatoire. Le traitement des carrières incomplètes et le montant garanti restent à préciser chez Ruffin ; les propositions de financement doivent encore être rapprochées des nouveaux droits.",
+    "texte_apres": "François Ruffin défend un départ dès 60 ans après quarante années de cotisation. Il veut conserver la répartition, où les cotisations des actifs paient les pensions actuelles, et refuse une épargne-retraite obligatoire. Les règles pour les carrières incomplètes et le financement de l’ensemble des nouveaux droits restent à préciser.",
+    "sources_avant": "ruff-ret-alter26,ruff-ret-anjuin25",
+    "sources_apres": "ruff-ret-alter26,ruff-ret-anjuin25",
+    "verification_sources": [
+      "https://www.alternatives-economiques.fr/francois-ruffin-il-est-temps-de-refermer-la-parenthese-liberale",
+      "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-jeudi-05-juin-2025"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "fiscalite",
+    "candidat": "melenchon",
+    "statut": "conserve",
+    "motif": "Les trois instruments fiscaux sont présentés avant la réserve sur leurs barèmes et recettes ; aucun changement de mesure ou d’auteur dans la réserve.",
+    "texte_avant": "Jean-Luc Mélenchon propose quatorze tranches d’impôt sur le revenu, une contribution accrue du capital et un plafond d’héritage à 12 millions d’euros par personne. Les recettes doivent financer redistribution et services publics. Les barèmes complets et les rendements, notamment après réactions des contribuables, restent à préciser.",
+    "texte_apres": "Jean-Luc Mélenchon propose quatorze tranches d’impôt sur le revenu, une contribution accrue du capital et un plafond d’héritage à 12 millions d’euros par personne. Les recettes doivent financer redistribution et services publics. Les barèmes complets et les rendements, notamment après réactions des contribuables, restent à préciser.",
+    "sources_avant": "mel-prix-richesses,mel-prix-debat",
+    "sources_apres": "mel-prix-richesses,mel-prix-debat",
+    "verification_sources": [
+      "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "fiscalite",
+    "candidat": "roussel",
+    "statut": "conserve",
+    "motif": "Les impôts concernés précèdent les 80 milliards de recettes attendues ; la réserve concerne les taux et le recouvrement des mêmes instruments.",
+    "texte_avant": "Fabien Roussel veut rétablir l’impôt sur la fortune, supprimer le prélèvement forfaitaire sur les revenus financiers et augmenter la contribution des grandes sociétés. Il vise 80 milliards d’euros supplémentaires par an pour l’État. Les nouveaux taux, la répartition des recettes et le gain net du contrôle fiscal restent à préciser.",
+    "texte_apres": "Fabien Roussel veut rétablir l’impôt sur la fortune, supprimer le prélèvement forfaitaire sur les revenus financiers et augmenter la contribution des grandes sociétés. Il vise 80 milliards d’euros supplémentaires par an pour l’État. Les nouveaux taux, la répartition des recettes et le gain net du contrôle fiscal restent à préciser.",
+    "sources_avant": "rou-prix-nov8,dixi-oral",
+    "sources_apres": "rou-prix-nov8,dixi-oral",
+    "verification_sources": [
+      "https://dixipolis.vercel.app/video/225784"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "fiscalite",
+    "candidat": "ruffin",
+    "statut": "corrige",
+    "motif": "Expliquer le minimum patrimonial sans le confondre avec 2 % sur le seul excédent au-dessus du seuil. Définir crédit d’impôt recherche et dividendes taxés, au lieu de conclure par « rendement et interactions ». Définir les dividendes.",
+    "texte_avant": "François Ruffin propose un minimum patrimonial de 2 % au-dessus de 100 millions et une réforme successorale. Il recentrerait le crédit recherche et taxerait les dividendes. Rendement et interactions restent à vérifier.",
+    "texte_apres": "François Ruffin propose que les patrimoines dépassant 100 millions d’euros supportent au moins 2 % d’impôts par an, en déduisant les impôts déjà payés. Il veut aussi réformer les grandes successions et prélever 2 % sur les dividendes, les sommes versées aux actionnaires par les entreprises. Il réserverait davantage le crédit d’impôt recherche, une aide fiscale à la recherche, aux petites et moyennes entreprises et à celles de taille intermédiaire.",
+    "sources_avant": "ruff-plan",
+    "sources_apres": "ruff-plan,ruff-fisc-senat",
+    "verification_sources": [
+      "https://nouspresident.fr/plan-de-redressement/",
+      "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-instaurant-un-impot-plancher-de-2-sur-le-patrimoine-des-ultrariches.html"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "travail",
+    "candidat": "melenchon",
+    "statut": "conserve",
+    "motif": "Le soutien aux petites entreprises est explicitement rattaché aux hausses salariales et la réserve porte sur le taux de la même caisse.",
+    "texte_avant": "Jean-Luc Mélenchon propose un salaire minimum (SMIC) de 1 700 euros net et des salaires privés suivant l’inflation. Les employeurs paieraient les hausses, avec une caisse alimentée par les grands groupes pour aider les petites et moyennes entreprises (PME). Le taux et le rendement de la caisse restent à fixer pour évaluer cet accompagnement.",
+    "texte_apres": "Jean-Luc Mélenchon propose un salaire minimum (SMIC) de 1 700 euros net et des salaires privés suivant l’inflation. Les employeurs paieraient les hausses, avec une caisse alimentée par les grands groupes pour aider les petites et moyennes entreprises (PME). Le taux et le rendement de la caisse restent à fixer pour évaluer cet accompagnement.",
+    "sources_avant": "mel-prix-ppl,mel-prix-guette",
+    "sources_apres": "mel-prix-ppl,mel-prix-guette",
+    "verification_sources": [
+      "https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17B3176.html"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "travail",
+    "candidat": "roussel",
+    "statut": "conserve",
+    "motif": "Le rattrapage négocié et l’indexation ultérieure sur le minimum sont deux mécanismes distincts explicités ; la réserve porte sur leur articulation.",
+    "texte_avant": "Fabien Roussel propose un salaire minimum de 2 200 euros brut et une conférence sociale pour relever les autres rémunérations. Il veut aussi les indexer sur les augmentations du minimum, afin de maintenir les écarts. Le calendrier et les règles complètes de cette progression restent à préciser.",
+    "texte_apres": "Fabien Roussel propose un salaire minimum de 2 200 euros brut et une conférence sociale pour relever les autres rémunérations. Il veut aussi les indexer sur les augmentations du minimum, afin de maintenir les écarts. Le calendrier et les règles complètes de cette progression restent à préciser.",
+    "sources_avant": "rou-trav-bfm7",
+    "sources_apres": "rou-trav-bfm7",
+    "verification_sources": [
+      "https://dixipolis.vercel.app/video/225784"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "travail",
+    "candidat": "ruffin",
+    "statut": "corrige",
+    "motif": "Illustrer les horaires atypiques et le travail concerné, et expliquer que le ciblage des aides sert à accompagner les petits employeurs plutôt que d’introduire un second sujet sans lien.",
+    "texte_avant": "François Ruffin propose un salaire minimum de 1 700 euros net et l’indexation de tous les salaires sur les prix. Son statut des travailleurs essentiels veut mieux payer horaires atypiques, déplacements et interruptions imposées. Ruffin veut recentrer les aides sur les petites structures productives ; les compensations et le coût complet des nouveaux droits restent à chiffrer.",
+    "texte_apres": "François Ruffin propose un salaire minimum de 1 700 euros net et des salaires augmentant automatiquement avec les prix. Pour les métiers essentiels, notamment le nettoyage et l’aide à domicile, il veut mieux payer les heures tôt le matin ou tard le soir, les déplacements entre interventions et les longues coupures imposées. Il souhaite aider les petits employeurs à supporter ces hausses, sans en préciser encore le coût complet.",
+    "sources_avant": "ruff-fisc-dixi,ruff-statut",
+    "sources_apres": "ruff-fisc-dixi,ruff-statut",
+    "verification_sources": [
+      "https://dixipolis.com/video/225592",
+      "https://nouspresident.fr/statut-travailleurs-essentiels/"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "industrie",
+    "candidat": "melenchon",
+    "statut": "corrige",
+    "motif": "Le résumé était centré sur un soutien salarial sans présenter la politique industrielle. Introduire les engagements industriels et préciser la fonction de la caisse ; supprimer le commentaire sur un coût complet qui n’était pas annoncé.",
+    "texte_avant": "Jean-Luc Mélenchon associe soutien aux petites entreprises et débouchés publics. Il prévoit notamment une caisse liée à la hausse des salaires, financée par les grands groupes, et des prêts publics pour les travaux et la rénovation. Ces mécanismes ciblés ne constituent pas le coût complet de la réindustrialisation.",
+    "texte_apres": "Jean-Luc Mélenchon veut relocaliser les productions essentielles avec des commandes publiques et des aides soumises à des engagements sociaux et écologiques. Il propose notamment de nationaliser ArcelorMittal France pour produire de l’acier moins polluant. Il prévoit aussi une caisse financée par les grands groupes pour aider les petites entreprises à payer les hausses de salaires.",
+    "sources_avant": "mel-prix-ppl,mel-ind-btp",
+    "sources_apres": "mel-ind-programme,mel-prix-ppl",
+    "verification_sources": [
+      "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre2",
+      "https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17B3176.html"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "industrie",
+    "candidat": "roussel",
+    "statut": "corrige",
+    "motif": "Les prêts et bonifications apparaissaient seulement dans la réserve finale. Présenter le rôle du pôle bancaire avant d’expliquer qui rembourse et qui supporte les risques ; supprimer le terme technique bonification.",
+    "texte_avant": "Fabien Roussel veut donner autant de sièges aux salariés qu’aux actionnaires dans les conseils d’administration. Il s’appuie aussi sur le financement public et propose de nationaliser une grande banque. Les prêts envisagés par Roussel seraient remboursables ; bonifications, garanties et pertes possibles resteraient supportées par la puissance publique.",
+    "texte_apres": "Fabien Roussel veut donner autant de sièges aux salariés qu’aux actionnaires dans les conseils d’administration des entreprises. Il propose aussi de nationaliser une grande banque pour financer les projets par un pôle bancaire public. Les entreprises rembourseraient les prêts ; l’État devrait financer les taux avantageux et supporter les pertes éventuelles.",
+    "sources_avant": "pcf-fete",
+    "sources_apres": "pcf-fete",
+    "verification_sources": [
+      "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "industrie",
+    "candidat": "ruffin",
+    "statut": "corrige",
+    "motif": "Remplacer la dernière phrase abstraite sur les débouchés et les enjeux distincts par une explication du rôle des commandes publiques et de la reprise citée.",
+    "texte_avant": "François Ruffin veut protéger cent productions stratégiques par les achats publics, des droits de douane et des quotas. Il envisage aussi des reprises avec participation publique, comme pour Aluminium Dunkerque. Sécuriser les débouchés complète l’investissement ; le prix de l’énergie et le coût des reprises restent des enjeux distincts.",
+    "texte_apres": "François Ruffin veut protéger cent productions stratégiques par des droits de douane, des quotas d’importation et des achats publics. Ces commandes doivent donner des clients aux usines françaises, au-delà des seules subventions. Il envisage aussi des reprises avec participation publique, comme pour Aluminium Dunkerque, afin de préserver l’emploi et d’investir dans une production moins polluante.",
+    "sources_avant": "ruff-def-crayon,ruff-ind-aluminium",
+    "sources_apres": "ruff-industrie,ruff-ind-aluminium",
+    "verification_sources": [
+      "https://nouspresident.fr/pour-proteger-notre-industrie-relocaliser-100-produits-strategiques/",
+      "https://francoisruffin.fr/letat-va-t-il-garantir-notre-independance-industrielle/"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "ecole",
+    "candidat": "melenchon",
+    "statut": "corrige",
+    "motif": "Remplacer « revenir sur les réformes récentes », qui ne dit pas ce qui changerait, par deux mesures scolaires identifiables.",
+    "texte_avant": "Jean-Luc Mélenchon vise moins de 19 élèves par classe, d’abord en maternelle et éducation prioritaire, et étend la gratuité aux repas, transports et fournitures. Il veut revenir sur les réformes récentes.",
+    "texte_apres": "Jean-Luc Mélenchon vise moins de 19 élèves par classe, en commençant par la maternelle et l’éducation prioritaire. Il veut rendre gratuits les repas scolaires, les transports, les manuels et les fournitures. Il supprimerait les groupes de niveau du « choc des savoirs » et rétablirait un baccalauréat national.",
+    "sources_avant": "mel-ecole-professeurs",
+    "sources_apres": "mel-ecole-professeurs",
+    "verification_sources": [
+      "https://www.professeurs-des-ecoles.com/2026/11/08/le-programme-de-melenchon-a-la-loupe-pour-la-presidentielle-decouvrez-toutes-les-promesses-concernant-leducation-nationale/"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "ecole",
+    "candidat": "roussel",
+    "statut": "conserve",
+    "motif": "Les effectifs, leur fonction et les moyennes par niveau sont identifiés ; le résumé ne transforme pas les moyennes en plafonds garantis de chaque classe.",
+    "texte_avant": "Fabien Roussel veut 90 000 enseignants supplémentaires en cinq ans pour remplacer rapidement les absents et alléger les classes. Il vise des moyennes de 18–19 élèves au primaire, 22–23 au collège et 26–27 au lycée général et technologique. Roussel défend aussi le retour au bac professionnel en quatre ans.",
+    "texte_apres": "Fabien Roussel veut 90 000 enseignants supplémentaires en cinq ans pour remplacer rapidement les absents et alléger les classes. Il vise des moyennes de 18–19 élèves au primaire, 22–23 au collège et 26–27 au lycée général et technologique. Roussel défend aussi le retour au bac professionnel en quatre ans.",
+    "sources_avant": "rou-ecole-pqv,rou-ecole-oise",
+    "sources_apres": "rou-ecole-pqv,rou-ecole-oise",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale au texte détaillé de la fiche. Aucune source externe rouverte pour ce résumé conservé ; pas de nouvelle validation factuelle intégrale."
+    ]
+  },
+  {
+    "theme": "ecole",
+    "candidat": "ruffin",
+    "statut": "corrige",
+    "motif": "Remplacer l’autonomie « face aux industriels » par sa conséquence pratique et identifier les adultes envisagés pour l’accompagnement, au lieu d’un ensemble indéfini.",
+    "texte_avant": "François Ruffin veut rapprocher savoirs intellectuels et manuels et donner davantage d’adultes disponibles aux élèves pour les accompagner et les orienter. Cuisine et réparation servent aussi son objectif écologique d’autonomie face aux industriels. Il met l’accent sur des apprentissages pratiques partagés.",
+    "texte_apres": "François Ruffin veut enseigner davantage de savoir-faire manuels au collège, notamment la cuisine et la réparation, à côté des savoirs intellectuels. Il souhaite aussi davantage d’enseignants, d’infirmiers, de psychologues et de conseillers disponibles pour accompagner et orienter les élèves. Les apprentissages pratiques doivent, selon lui, aider chacun à gagner en autonomie dans la vie quotidienne.",
+    "sources_avant": "ruff-def-crayon,pqv-ruff-secu",
+    "sources_apres": "ruff-ecole,pqv-ruff-secu",
+    "verification_sources": [
+      "https://nouspresident.fr/education-une-ecole-de-tous-les-savoirs/",
+      "https://pourquijevote.com/transcripts/132ff537-3120-4ca2-a972-f3635085b483"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche. La transcription Dixipolis du Crayon renvoie une erreur dans l’outil web et seulement « Chargement » par téléchargement direct. Le résumé est désormais sourcé sur le cahier éducatif officiel et l’entretien Praxis accessibles."
+    ]
+  },
+  {
+    "theme": "enfance",
+    "candidat": "melenchon",
+    "statut": "conserve",
+    "motif": "Deux mesures, leurs montants et leurs échéances sont identifiés ; la réserve sur la répartition des crédits est liée à ces dépenses et maintient la distinction budget 2027/mandat.",
+    "texte_avant": "Jean-Luc Mélenchon veut renforcer la protection et les soins : deux milliards d’euros supplémentaires contre les violences faites aux enfants en 2027, et au moins 360 lits de psychiatrie infantile avec leurs équipes dès le début du mandat. La répartition des crédits entre protection, justice et santé reste à préciser.",
+    "texte_apres": "Jean-Luc Mélenchon veut renforcer la protection et les soins : deux milliards d’euros supplémentaires contre les violences faites aux enfants en 2027, et au moins 360 lits de psychiatrie infantile avec leurs équipes dès le début du mandat. La répartition des crédits entre protection, justice et santé reste à préciser.",
+    "sources_avant": "mel-dette-budget,mel-sante-plan",
+    "sources_apres": "mel-dette-budget,mel-sante-plan",
+    "verification_sources": [
+      "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "enfance",
+    "candidat": "ruffin",
+    "statut": "corrige",
+    "motif": "Définir le 119 et expliquer l’adulte stable au lieu de juxtaposer trois expressions. Maintenir les conditions de la bourse et ne pas la confondre avec une prolongation de placement.",
+    "texte_avant": "François Ruffin privilégie l’accueil familial, un adulte stable et une écoute humaine au 119. Son cahier prévoit 1 100 euros mensuels de bourse pour les étudiants issus de l’aide sociale à l’enfance, avec conditions d’assiduité et de durée. Recrutements et financement global restent à détailler.",
+    "texte_apres": "François Ruffin veut privilégier l’accueil familial et la stabilité de l’adulte qui accompagne l’enfant. Il défend une écoute humaine au 119, le numéro de l’enfance en danger. Son cahier prévoit aussi une bourse de 1 100 euros mensuels pour les étudiants issus de l’aide sociale à l’enfance, sous conditions d’assiduité et de durée. Le financement global des recrutements et de l’accompagnement reste à détailler.",
+    "sources_avant": "ruff-enf-placement26,ruff-enf-11926,ruff-enf-jeunes26",
+    "sources_apres": "ruff-enf-placement26,ruff-enf-11926,ruff-enf-jeunes26",
+    "verification_sources": [
+      "https://francoisruffin.fr/placement-familial-en-crise-quelle-reponse-de-letat/",
+      "https://francoisruffin.fr/119-garantir-une-oreille-bienveillante-pour-tous-les-enfants-en-danger/",
+      "https://nouspresident.fr/wp-content/uploads/2026/11/Debout-Livret-Campagne-11-Jeunesses-vWeb.pdf"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "enfance",
+    "candidat": "roussel",
+    "statut": "corrige",
+    "motif": "Dire de quel service public il s’agit et remplacer « travail départemental » et « les Assises » par les acteurs et le statut collectif. Expliquer ce que recouvre l’accompagnement jusqu’à 25 ans sans l’attribuer indistinctement à Roussel.",
+    "texte_avant": "Fabien Roussel défend un service public universel. Le projet collectif communiste combine normes nationales, travail départemental et métiers renforcés ; les Assises demandent un accompagnement inconditionnel jusqu’à 25 ans. Les mesures collectives de 2025 ne forment pas à elles seules le programme présidentiel finalisé de Roussel ; effectifs et financement restent à préciser.",
+    "texte_apres": "Fabien Roussel défend un service public de protection de l’enfance accessible à tous. Le projet collectif du PCF de 2025 prévoit des règles nationales, une mise en œuvre par les départements et davantage de moyens pour les professionnels. Ce projet prévoit aussi d’accompagner les jeunes jusqu’à 25 ans, notamment pour le logement, les soins et la formation. Ce projet de parti reste distinct du programme présidentiel personnel, encore à finaliser.",
+    "sources_avant": "rou-enf-unifie,rou-enf-assises",
+    "sources_apres": "rou-enf-unifie,rou-enf-assises",
+    "verification_sources": [
+      "https://www.pcf.fr/protection_enfance_pour_grand_service_public_unifie",
+      "https://www.pcf.fr/assises_de_la_protection_de_l_enfance_introduction"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "sante",
+    "candidat": "melenchon",
+    "statut": "corrige",
+    "motif": "Retirer l’énumération vague logement-travail-pollutions, qui ne présentait aucune mesure de prévention. Garder le remboursement puis l’étape hospitalière, sans confondre premiers crédits et plan complet. Expliquer le transfert des remboursements aujourd’hui assurés par les mutuelles.",
+    "texte_avant": "Jean-Luc Mélenchon veut intégrer les complémentaires à la Sécurité sociale pour rembourser intégralement les soins prescrits. Mélenchon relie aussi santé, logement, travail et pollutions. Son premier budget ajoute trois milliards d’euros hospitaliers en 2027, avec au moins 10 000 postes soignants, sans financer à lui seul tout le plan pluriannuel.",
+    "texte_apres": "Jean-Luc Mélenchon veut que la Sécurité sociale rembourse intégralement les soins prescrits, en reprenant la couverture aujourd’hui assurée par les mutuelles et les autres assurances complémentaires. Son premier budget prévoit trois milliards d’euros supplémentaires pour les hôpitaux en 2027, dont au moins 10 000 postes soignants. Cette première étape ne finance pas à elle seule tous les recrutements et investissements du plan santé.",
+    "sources_avant": "mel-sante-rmc2026,mel-dette-budget",
+    "sources_apres": "mel-sante-rmc2026,mel-dette-budget",
+    "verification_sources": [
+      "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "sante",
+    "candidat": "roussel",
+    "statut": "corrige",
+    "motif": "Définir les frais restants et préciser la dette hospitalière publique. Remplacer la « transition des complémentaires » introduite seulement dans une réserve par la question de leur rôle dans le remboursement intégral proposé.",
+    "texte_avant": "Fabien Roussel veut rembourser tous les soins prescrits sans frais restants, supprimer les dépassements et renforcer l’offre publique. Roussel veut aussi annuler la dette hospitalière et augmenter les dépenses au moins comme les prix. Reprise de dette, transition des complémentaires et moyens supplémentaires restent sans financement sanitaire complet.",
+    "texte_apres": "Fabien Roussel veut que la Sécurité sociale rembourse tous les soins prescrits, sans frais restant au patient. Il supprimerait les dépassements d’honoraires, renforcerait les services publics de santé et augmenterait les dépenses au moins comme les prix. Il demande aussi l’annulation de la dette des hôpitaux publics. Le financement complet de ces mesures et le rôle futur des complémentaires restent à détailler.",
+    "sources_avant": "rou-sante-franchises,pcf-sante,rou-sante-conf3nov",
+    "sources_apres": "rou-sante-franchises,pcf-sante,rou-sante-conf3nov",
+    "verification_sources": [
+      "https://www.pcf.fr/franchises_le_gouvernement_fait_payer_les_malades",
+      "https://pourquijevote.com/transcripts/622de63d-f806-4f0c-868e-dc0f758a1e31"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "sante",
+    "candidat": "ruffin",
+    "statut": "corrige",
+    "motif": "Remplacer « investir majoritairement dans certains pôles innovants », formulation incompréhensible, par le contrôle majoritaire de groupes d’entreprises et la finalité des deux étapes.",
+    "texte_avant": "François Ruffin veut former et mieux traiter les soignants présents, tout en produisant les médicaments essentiels. Son pôle public fabriquerait d’abord les traitements aux brevets expirés, puis investirait majoritairement dans certains pôles innovants.",
+    "texte_apres": "François Ruffin veut former davantage de soignants et mieux rémunérer ceux déjà présents. Il propose aussi un pôle public du médicament : produire d’abord les traitements essentiels dont les brevets ont expiré, puis prendre une participation majoritaire dans des groupes d’entreprises développant des médicaments innovants. L’objectif est de sécuriser les traitements disponibles tout en soutenant la recherche.",
+    "sources_avant": "ruff-industrie,pqv-ruff-secu",
+    "sources_apres": "ruff-industrie,pqv-ruff-secu",
+    "verification_sources": [
+      "https://nouspresident.fr/pour-proteger-notre-industrie-relocaliser-100-produits-strategiques/"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "logement",
+    "candidat": "melenchon",
+    "statut": "corrige",
+    "motif": "Expliquer comment des logements existants entrent dans l’objectif et remplacer l’opposition opaque « financement par l’épargne / plan écrit » par la distinction entre prêts et crédits publics.",
+    "texte_avant": "Jean-Luc Mélenchon vise 400 000 logements abordables supplémentaires par an, dont 200 000 publics, en mobilisant aussi des logements existants. Il défend les réquisitions et le financement par l’épargne, avec des crédits publics dans le plan écrit. Prêts, aides et calendriers restent à préciser.",
+    "texte_apres": "Jean-Luc Mélenchon vise 400 000 logements abordables supplémentaires par an, dont 200 000 publics. Une partie viendrait de logements existants, réhabilités ou remis sur le marché. Il défend aussi la réquisition de logements vacants. Son plan combine des crédits publics et des prêts alimentés par l’épargne : mobiliser cette épargne ne rendrait pas l’ensemble du programme gratuit.",
+    "sources_avant": "mel-ind-btp,mel-prix-debat",
+    "sources_apres": "mel-ind-btp,mel-prix-debat",
+    "verification_sources": [
+      "https://melenchon2027.fr/programme/plans-investissement/btp-logement/",
+      "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre3"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "logement",
+    "candidat": "roussel",
+    "statut": "corrige",
+    "motif": "Préciser les obligations communales et ce que le plafond de 20 % mesure. Retirer les recettes patronales et le coût net, qui introduisaient des mécanismes non présentés.",
+    "texte_avant": "Fabien Roussel vise 200 000 logements sociaux annuels et des obligations communales renforcées. Son parti veut un coût, charges comprises, limité à 20 % des revenus après aides. Prêts, aides directes et recettes patronales restent à articuler dans un coût net.",
+    "texte_apres": "Fabien Roussel vise 200 000 logements sociaux par an et veut relever à 30 % leur part obligatoire dans les communes urbaines concernées. Son parti propose aussi de limiter le loyer et les charges restant après aides à 20 % des revenus du foyer. Le projet combine construction sociale, loyers encadrés et aides au logement revalorisées.",
+    "sources_avant": "rou-log-sru,pcf-logement",
+    "sources_apres": "rou-log-sru,pcf-logement",
+    "verification_sources": [
+      "https://www.pcf.fr/une_loi_sru_2_avec_un_taux_de_logements_sociaux_porte_a_30",
+      "https://www.journaldelagence.com/1414457-presidentielle-2027-les-propositions-de-fabien-roussel-pour-relancer-le-logement"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "logement",
+    "candidat": "ruffin",
+    "statut": "corrige",
+    "motif": "Remplacer la réserve générale « les budgets restent à préciser », alors que des budgets figurent dans les détails, par les effets concrets du prêt et de la rénovation. Rendre explicite la notion d’habitation permanente.",
+    "texte_avant": "François Ruffin veut plafonner les loyers, privilégier l’habitation permanente et construire davantage de logements publics. Il propose aussi de doubler le prêt à taux zéro, qui reste une somme à rembourser. Les budgets et le nombre de logements réellement supplémentaires restent à préciser.",
+    "texte_apres": "François Ruffin veut encadrer les loyers, favoriser les résidences permanentes plutôt que touristiques et développer le logement public. Il propose de doubler le montant moyen du prêt à taux zéro, d’environ 60 000 à 120 000 euros : l’acheteur économiserait des intérêts, mais devrait rembourser le capital. Il prévoit aussi de rénover les logements pour réduire les factures et la surchauffe.",
+    "sources_avant": "ruff-log-pqv",
+    "sources_apres": "ruff-log-pqv,ruff-logement",
+    "verification_sources": [
+      "https://nouspresident.fr/face-a-la-crise-du-logement/"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "services",
+    "candidat": "melenchon",
+    "statut": "corrige",
+    "motif": "Supprimer « les crédits Mélenchon » et la réserve sur les titularisations jamais présentées. Expliquer l’usage des 17 milliards et le point d’indice avant les limites de périmètre.",
+    "texte_avant": "Jean-Luc Mélenchon veut renforcer les moyens des services publics. Son premier budget prévoit 17 milliards d’euros pour les rémunérations,10 000 postes scolaires et au moins 10 000 soignants. Les crédits Mélenchon pour 2027 ne constituent pas le financement de toutes les titularisations et créations sur le quinquennat ; recruter dépend aussi de personnels disponibles.",
+    "texte_apres": "Jean-Luc Mélenchon propose une hausse de 10 % du point d’indice, qui sert à calculer le salaire de base des fonctionnaires. Son budget 2027 prévoit 17 milliards d’euros pour les rémunérations publiques, ainsi que 10 000 postes scolaires et au moins 10 000 postes soignants. Ces premières dépenses ne chiffrent pas tous les recrutements et changements de statut prévus sur cinq ans.",
+    "sources_avant": "mel-dette-budget,mel-ecole-oral",
+    "sources_apres": "mel-prix-richesses,mel-dette-budget",
+    "verification_sources": [
+      "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+      "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "services",
+    "candidat": "roussel",
+    "statut": "corrige",
+    "motif": "Expliquer le calcul du salaire de base et le traitement distinct des primes. Rattacher le financement aux employeurs concernés plutôt que « rapprocher coûts salariaux, postes et financements ».",
+    "texte_avant": "Fabien Roussel envisage près de 500 000 recrutements supplémentaires sur cinq ans et une première hausse de 10 % du point d’indice. Ce point calcule le salaire de base, sans augmenter automatiquement toute rémunération du même pourcentage. Roussel doit encore arrêter les effectifs par service et rapprocher coûts salariaux, nouveaux postes et financements dans son programme définitif.",
+    "texte_apres": "Fabien Roussel envisage près de 500 000 recrutements publics supplémentaires sur cinq ans. Il propose aussi une hausse de 10 % du point d’indice dès 2027 : ce point sert à calculer le salaire de base des fonctionnaires, sans augmenter automatiquement toutes les primes. L’État compenserait la hausse aux collectivités et aux hôpitaux. La répartition des nouveaux postes et le coût total restent à préciser.",
+    "sources_avant": "rou-serv-entrevue,rou-serv-pcf16,rou-serv-indice",
+    "sources_apres": "rou-serv-entrevue,rou-serv-pcf16,rou-serv-indice",
+    "verification_sources": [
+      "https://entrevue.fr/politique/presidentielle-2027/presidentielle-2027-fabien-roussel-vise-500-000-recrutements/",
+      "https://www.pcf.fr/fonction_publique_stop_au_massacre_du_service_public_et_du_traitement_des_agents",
+      "https://www.fonction-publique.gouv.fr/etre-agent-public/ma-remuneration/le-traitement-indiciaire-brut"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "services",
+    "candidat": "ruffin",
+    "statut": "corrige",
+    "motif": "Remplacer « réinternalisation » et « garanties de délai » par les agents et guichets nécessaires au droit effectivement présenté ; supprimer les répétitions du nom.",
+    "texte_avant": "François Ruffin veut garantir le choix d’un interlocuteur humain pour chaque démarche et reconstruire les compétences administratives, en limitant le conseil privé. Il refuse qu’une machine décide seule de droits sociaux. Ruffin ne fixe pas de volume global de recrutements ; coûts de réinternalisation, guichets et garanties de délai restent à préciser.",
+    "texte_apres": "François Ruffin veut permettre de choisir un agent humain pour chaque démarche administrative et refuse qu’une machine décide seule de droits sociaux. Il limiterait le recours aux cabinets de conseil privés en formant et recrutant dans l’administration. Le nombre d’agents, les guichets nécessaires et le coût de cet accueil restent à préciser.",
+    "sources_avant": "ruff-numerique,ruff-probite",
+    "sources_apres": "ruff-numerique,ruff-probite",
+    "verification_sources": [
+      "https://nouspresident.fr/de-la-colonie-numerique-aux-souverainetes-numeriques/",
+      "https://nouspresident.fr/separation-argent-etat/"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "immigration",
+    "candidat": "melenchon",
+    "statut": "conserve",
+    "motif": "La régularisation des travailleurs et la naturalisation sont distinguées par une phrase pédagogique explicite ; la réserve concerne leurs conditions et moyens, sans confondre titre de séjour et nationalité.",
+    "texte_avant": "Jean-Luc Mélenchon défend la régularisation des travailleurs sans papiers pour limiter leur exploitation et une nationalité facilitée fondée sur le contrat républicain. Ni régularisation ni titre de séjour ne signifient nationalité automatique. Les modalités, capacités d’accueil et coûts demandent encore à être précisés.",
+    "texte_apres": "Jean-Luc Mélenchon défend la régularisation des travailleurs sans papiers pour limiter leur exploitation et une nationalité facilitée fondée sur le contrat républicain. Ni régularisation ni titre de séjour ne signifient nationalité automatique. Les modalités, capacités d’accueil et coûts demandent encore à être précisés.",
+    "sources_avant": "mel-imm-bfm2023,mel-imm-20minutes2025",
+    "sources_apres": "mel-imm-bfm2023,mel-imm-20minutes2025",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale au texte détaillé de la fiche. Aucune source externe rouverte pour ce résumé conservé ; pas de nouvelle validation factuelle intégrale."
+    ]
+  },
+  {
+    "theme": "immigration",
+    "candidat": "roussel",
+    "statut": "corrige",
+    "motif": "La réserve sur les recettes fiscales arrivait sans promesse de gain budgétaire présentée. La retirer du résumé et expliquer la distinction entre régularisation et admission de nouveaux arrivants.",
+    "texte_avant": "Fabien Roussel défend la régularisation des travailleurs sans titre déjà insérés, avec égalité de salaire et de droits. Il maintient des règles d’entrée distinctes, sans seuil d’ancienneté précis. Certains cotisent déjà : toutes les recettes ne seraient pas nouvelles, et un gain budgétaire net reste à établir.",
+    "texte_apres": "Fabien Roussel veut régulariser les travailleurs sans papiers déjà insérés en France et leur garantir les mêmes salaires et droits que les autres salariés. Cette mesure concerne des personnes déjà présentes ; elle ne supprime pas les règles pour de nouvelles entrées. Il évoque une ancienneté en France, sans en fixer précisément le seuil.",
+    "sources_avant": "rou-inst-lci,rou-imm-ps22",
+    "sources_apres": "rou-inst-lci,rou-imm-ps22",
+    "verification_sources": [
+      "https://www.tf1info.fr/politique/direct-video-fabien-rousselinvite-de-lci-suivre-la-grande-confrontation-ce-mercredi-9-septembre-2026-2463278.html"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "immigration",
+    "candidat": "ruffin",
+    "statut": "corrige",
+    "motif": "Remplacer « reste ambigu » et « titres professionnels » par l’information précise qui manque. Distinguer recrutement international et accueil des personnes présentes, sans suggérer que ces choix seraient contradictoires par eux-mêmes.",
+    "texte_avant": "François Ruffin refuse une immigration organisée pour les employeurs mais soutient des papiers et un accueil durable pour les personnes présentes. Il associe français, logement, formation et travail. Ruffin reste ambigu sur les titres professionnels ; critères de régularisation et financement de son service public d’accueil ne sont pas détaillés.",
+    "texte_apres": "François Ruffin refuse d’organiser des recrutements à l’étranger pour satisfaire les besoins des employeurs. Il défend en revanche des papiers et un accueil durable pour les personnes déjà présentes, avec apprentissage du français, logement, formation et accès au travail. Les critères de régularisation et les règles qu’il appliquerait aux nouveaux visas de travail ne sont pas détaillés.",
+    "sources_avant": "pqv-ruff-imm-inter26,ruff-imm-accueil26",
+    "sources_apres": "pqv-ruff-imm-inter26,ruff-imm-accueil26",
+    "verification_sources": [
+      "https://pourquijevote.com/transcripts/1cfd2760-13c0-4427-965a-d4a440eef2ed",
+      "https://francoisruffin.fr/picardie-splendor/"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "securite",
+    "candidat": "melenchon",
+    "statut": "corrige",
+    "motif": "Retirer l’allusion aux enveloppes dépassant les « commissariats », dont aucun budget n’était présenté. Relier explicitement la recette du cannabis à ses emplois sanitaires.",
+    "texte_avant": "Jean-Luc Mélenchon associe formation policière contre les discriminations, cannabis récréatif légal sous monopole d’État et moyens contre les violences sexuelles. Les taxes sur le cannabis financeraient la santé et la prévention. Le budget et le calendrier de la réforme policière restent à préciser ; les enveloppes pour les victimes dépassent les seuls commissariats.",
+    "texte_apres": "Jean-Luc Mélenchon veut former les policiers à la lutte contre les discriminations et légaliser le cannabis récréatif sous monopole d’État. Les taxes sur cette vente financeraient la prévention et les soins des addictions. Il prévoit aussi des moyens contre les violences sexuelles. Le financement de ces mesures sanitaires et d’aide aux victimes reste distinct du budget de la police.",
+    "sources_avant": "mel-sec-lcp2027,mel-sante-plan,mel-dette-budget",
+    "sources_apres": "mel-sec-lcp2027,mel-sante-plan,mel-dette-budget",
+    "verification_sources": [
+      "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841",
+      "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "securite",
+    "candidat": "roussel",
+    "statut": "corrige",
+    "motif": "Rendre intelligible la limite du milliard annoncé : manque de période et de périmètre, plutôt que « son montant oral » sans unité temporelle ni explication.",
+    "texte_avant": "Fabien Roussel veut police de proximité et contrôles renforcés des marchandises contre les trafics. Il annonce 60 000 agents pour police, gendarmerie et douanes ; son montant oral d’un peu plus d’un milliard ne constitue pas un budget complet. Répartition des effectifs, calendrier et coût des moyens restent à préciser.",
+    "texte_apres": "Fabien Roussel veut renforcer la police de proximité et les contrôles des marchandises aux frontières pour lutter contre les trafics. Il annonce 60 000 recrutements dans la police, la gendarmerie et les douanes. Il évoque un coût d’un peu plus d’un milliard d’euros, sans préciser la période ni inclure clairement la formation et l’équipement. Le coût complet de ces postes reste donc à établir.",
+    "sources_avant": "rou-inst-lci,dixi-oral",
+    "sources_apres": "rou-inst-lci,dixi-oral",
+    "verification_sources": [
+      "https://dixipolis.com/video/226252",
+      "https://www.tf1info.fr/politique/direct-video-fabien-rousselinvite-de-lci-suivre-la-grande-confrontation-ce-mercredi-9-septembre-2026-2463278.html"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "securite",
+    "candidat": "ruffin",
+    "statut": "conserve",
+    "motif": "Les alternatives pénales sont exposées avant la réserve sur les personnels nécessaires ; distinction claire entre sanctions des jeunes et absence de sanctions parentales.",
+    "texte_avant": "François Ruffin associe égalité devant la police, prévention sociale et alternatives aux courtes peines pour les jeunes ou premiers délinquants. Il privilégie travaux d’intérêt général et encadrement éducatif, sans sanctionner les parents pour les actes des enfants. Les capacités d’accompagnement, les effectifs et le budget police-justice restent à chiffrer.",
+    "texte_apres": "François Ruffin associe égalité devant la police, prévention sociale et alternatives aux courtes peines pour les jeunes ou premiers délinquants. Il privilégie travaux d’intérêt général et encadrement éducatif, sans sanctionner les parents pour les actes des enfants. Les capacités d’accompagnement, les effectifs et le budget police-justice restent à chiffrer.",
+    "sources_avant": "ruff-secu-frinfo,ruff-def-lci",
+    "sources_apres": "ruff-secu-frinfo,ruff-def-lci",
+    "verification_sources": [
+      "https://pourquijevote.com/transcripts/e088b098-7a75-46e5-a176-ce59576b4063"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "justice",
+    "candidat": "melenchon",
+    "statut": "conserve",
+    "motif": "La loi, les magistrats et les budgets d’aide aux victimes sont nommés avant la distinction avec le budget judiciaire global ; pas de réserve orpheline.",
+    "texte_avant": "Jean-Luc Mélenchon propose une loi contre les violences sexuelles et 600 magistrats spécialisés. Son premier budget finance la protection des victimes au-delà des tribunaux, avec trois milliards d’euros contre les violences sexistes et sexuelles et deux milliards supplémentaires pour les enfants. Ces enveloppes ne constituent pas un budget judiciaire global.",
+    "texte_apres": "Jean-Luc Mélenchon propose une loi contre les violences sexuelles et 600 magistrats spécialisés. Son premier budget finance la protection des victimes au-delà des tribunaux, avec trois milliards d’euros contre les violences sexistes et sexuelles et deux milliards supplémentaires pour les enfants. Ces enveloppes ne constituent pas un budget judiciaire global.",
+    "sources_avant": "mel-just-vssmonde,mel-dette-budget",
+    "sources_apres": "mel-just-vssmonde,mel-dette-budget",
+    "verification_sources": [
+      "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "justice",
+    "candidat": "ruffin",
+    "statut": "corrige",
+    "motif": "Définir les accords pénaux et le travail d’intérêt général. Préciser indépendants de qui et à quelle peine les alternatives s’opposent, sans laisser croire qu’elles suppriment toute sanction.",
+    "texte_avant": "François Ruffin veut des procureurs indépendants, limiter les accords pénaux négociés et systématiser les enquêtes pour viols et incestes. Il privilégie aussi le travail d’intérêt général et l’accompagnement éducatif pour certains jeunes.",
+    "texte_apres": "François Ruffin veut rendre les procureurs indépendants du gouvernement et enquêter systématiquement après une plainte pour viol ou inceste. Il limiterait les accords permettant aux entreprises de payer une amende sans procès pénal. Pour certains jeunes délinquants, il privilégie le travail d’intérêt général, une activité gratuite pour la collectivité, et un accompagnement éducatif plutôt qu’une courte incarcération.",
+    "sources_avant": "ruff-probite,ruff-secu-frinfo,ruff-jus-senat26",
+    "sources_apres": "ruff-probite,ruff-secu-frinfo,ruff-jus-senat26",
+    "verification_sources": [
+      "https://nouspresident.fr/separation-argent-etat/",
+      "https://pourquijevote.com/transcripts/e088b098-7a75-46e5-a176-ce59576b4063"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "justice",
+    "candidat": "roussel",
+    "statut": "conserve",
+    "motif": "La fermeté et le pouvoir d’individualisation du juge sont articulés, sans présenter le refus de peines automatiques comme un refus de sanction.",
+    "texte_avant": "Fabien Roussel défend une justice dotée de moyens, des sanctions adaptées à chaque situation et la sévérité envers les fraudeurs. Il ne reprend pas indistinctement les peines minimales obligatoires : interrogé sur les violences contre les agents publics, il maintient le rôle du juge.",
+    "texte_apres": "Fabien Roussel défend une justice dotée de moyens, des sanctions adaptées à chaque situation et la sévérité envers les fraudeurs. Il ne reprend pas indistinctement les peines minimales obligatoires : interrogé sur les violences contre les agents publics, il maintient le rôle du juge.",
+    "sources_avant": "pcf-discours,rou-jus-bfm25,rou-jus-lcp26",
+    "sources_apres": "pcf-discours,rou-jus-bfm25,rou-jus-lcp26",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale au texte détaillé de la fiche. Aucune source externe rouverte pour ce résumé conservé ; pas de nouvelle validation factuelle intégrale."
+    ]
+  },
+  {
+    "theme": "institutions",
+    "candidat": "melenchon",
+    "statut": "corrige",
+    "motif": "Définir Constituante et 49.3 au lieu d’enchaîner des sigles. Identifier les auteurs de l’objection procédurale plutôt qu’une contestation impersonnelle.",
+    "texte_avant": "Jean-Luc Mélenchon veut une VIe République : une Constituante serait engagée par un vote, puis son texte soumis à un second. Proportionnelle et suppression du 49.3 renforceraient le Parlement. Le recours à l’article 11 pour la Constituante reste juridiquement contesté.",
+    "texte_apres": "Jean-Luc Mélenchon veut une VIe République. Un premier référendum lancerait une assemblée chargée d’écrire une nouvelle Constitution ; un second permettrait aux électeurs de l’accepter ou de la rejeter. Il veut aussi une Assemblée élue à la proportionnelle et supprimer le 49.3, qui permet d’adopter un texte sans vote des députés sauf censure du gouvernement. Des constitutionnalistes contestent la légalité de son recours à l’article 11 pour lancer cette réforme.",
+    "sources_avant": "mel-inst-tf1verif,mel-sec-lcp2027,mel-inst-publicsenat2026",
+    "sources_apres": "mel-inst-tf1verif,mel-sec-lcp2027,mel-inst-publicsenat2026",
+    "verification_sources": [
+      "https://www.tf1info.fr/politique/elections/presidentielle/verif-si-jean-luc-melenchon-devient-president-pourra-t-il-engager-sans-obstacle-la-france-sur-la-voie-d-une-6e-republique-2472109.html",
+      "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841",
+      "https://www.publicsenat.fr/actualites/politique/revision-de-la-constitution-110-constitutionnalistes-rappellent-a-marine-le-pen-et-jean-luc-melenchon-quils-ne-pourront-pas-avoir-recours-au-referendum-via-larticle-11"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "institutions",
+    "candidat": "roussel",
+    "statut": "conserve",
+    "motif": "Le rôle de chaque institution est exposé ; l’objectif de composition sociale des candidatures est correctement distingué du résultat électoral.",
+    "texte_avant": "Fabien Roussel veut que le Parlement décide et que le Premier ministre dirige, avec un président surtout représentatif. Il propose aussi 50 % de candidats ouvriers et employés aux législatives, sans garantir cette proportion parmi les élus. Les modalités de contrôle de la parité sociale restent à fixer.",
+    "texte_apres": "Fabien Roussel veut que le Parlement décide et que le Premier ministre dirige, avec un président surtout représentatif. Il propose aussi 50 % de candidats ouvriers et employés aux législatives, sans garantir cette proportion parmi les élus. Les modalités de contrôle de la parité sociale restent à fixer.",
+    "sources_avant": "rou-inst-lci,rou-fisc-pqvfete",
+    "sources_apres": "rou-inst-lci,rou-fisc-pqvfete",
+    "verification_sources": [
+      "https://www.tf1info.fr/politique/direct-video-fabien-rousselinvite-de-lci-suivre-la-grande-confrontation-ce-mercredi-9-septembre-2026-2463278.html"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "institutions",
+    "candidat": "ruffin",
+    "statut": "corrige",
+    "motif": "Le congé citoyen apparaissait uniquement dans une réserve de financement. Le retirer et expliquer les États généraux et l’autorité de probité avant d’éventuelles limites.",
+    "texte_avant": "François Ruffin propose des référendums à un million de signatures, des États généraux mêlant citoyens, société civile et élus, et une autorité de probité. Le congé citoyen et l’autorité anticorruption restent sans chiffrage détaillé.",
+    "texte_apres": "François Ruffin propose qu’un million de signatures puisse déclencher un référendum. Ses États généraux réuniraient des citoyens tirés au sort, des représentants de la société civile et des élus pour préparer des réformes. Il veut aussi regrouper les organismes de transparence et de lutte contre la corruption dans une autorité dotée de pouvoirs d’enquête et de sanction.",
+    "sources_avant": "ruff-democratie,ruff-probite",
+    "sources_apres": "ruff-democratie,ruff-probite",
+    "verification_sources": [
+      "https://nouspresident.fr/pour-une-democratie-en-continu-vive-les-etats-generaux/",
+      "https://nouspresident.fr/separation-argent-etat/"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "droits",
+    "candidat": "melenchon",
+    "statut": "corrige",
+    "motif": "Préciser quel changement d’état civil est visé. Supprimer la ligne distincte de dépenses pour les enfants : ce montant n’était pas introduit et n’expliquait pas le congé parental.",
+    "texte_avant": "Jean-Luc Mélenchon propose vingt semaines obligatoires d’accueil de l’enfant pour chaque parent et un changement d’état civil libre et gratuit. Son budget 2027 vise trois milliards d’euros contre les violences sexistes et sexuelles. L’indemnisation du congé et le coût détaillé des différents droits restent à préciser ; les dépenses pour les enfants forment une ligne distincte.",
+    "texte_apres": "Jean-Luc Mélenchon propose vingt semaines obligatoires de congé d’accueil de l’enfant pour chaque parent. Il veut aussi permettre de changer de sexe à l’état civil librement et gratuitement. Son budget 2027 vise trois milliards d’euros contre les violences sexistes et sexuelles. Le montant de l’indemnisation du nouveau congé reste à préciser.",
+    "sources_avant": "mel-droits-postboy26,mel-droits-toutes26,mel-dette-budget",
+    "sources_apres": "mel-droits-postboy26,mel-droits-toutes26,mel-dette-budget",
+    "verification_sources": [
+      "https://www.postboyclub.com/fr/post/mélenchon-veut-étendre-la-sécurité-sociale-remboursement-intégral-des-soins-indemnisation-à-100",
+      "https://toutesdesfemmes.fr/2026/11/communique-suite-a-la-parution-du-programme-de-la-france-insoumise-pour-lelection-presidentielle-de-2027/",
+      "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "droits",
+    "candidat": "roussel",
+    "statut": "corrige",
+    "motif": "Remplacer « protection coordonnée » par ses composantes. Retirer l’allusion aux anciennes réformes handicap/LGBT sans exposé ni source dans ce résumé. Présenter l’enveloppe avant la réserve sur le vote des crédits et définir GPA.",
+    "texte_avant": "Fabien Roussel défend égalité salariale et protection coordonnée contre les violences. Il refuse la gestation pour autrui. Ses réformes détaillées du handicap et des droits LGBT proviennent notamment de 2022. Les crédits annuels de la loi contre les violences restent à voter.",
+    "texte_apres": "Fabien Roussel défend l’égalité salariale et une loi contre les violences sexistes et sexuelles, associant prévention, enquêtes, soins et protection des victimes. Il demande trois milliards d’euros pour l’accompagner, dont les crédits effectifs resteraient à voter. Il refuse par ailleurs la gestation pour autrui, qui consiste à porter l’enfant d’autres personnes.",
+    "sources_avant": "pcf-fete",
+    "sources_apres": "pcf-fete,pcf-discours,rou-droits-loi,pen-droits-vss-dossier",
+    "verification_sources": [
+      "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel",
+      "https://www.pcf.fr/ue_26_discours_fr",
+      "https://www.pcf.fr/une_loi_integrale_pour_rendre_effective_une_protection_integrale",
+      "https://www.assemblee-nationale.fr/dyn/17/dossiers/apporter_reponse_integrale_phenomene_violences_sexuelles_sexistes_contre_femmes_enfants_17e"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "droits",
+    "candidat": "ruffin",
+    "statut": "corrige",
+    "motif": "Définir les accompagnants scolaires et la fonctionnarisation. Introduire le passage aux libertés religieuses et expliquer la distinction entre agents et usagers, plutôt qu’une juxtaposition et une réserve budgétaire globale.",
+    "texte_avant": "François Ruffin veut mieux payer les métiers essentiels féminisés et fonctionnariser les accompagnants scolaires. Il refuse d’étendre la neutralité religieuse aux étudiantes, accompagnatrices scolaires et licenciées sportives. Les modalités juridiques et le budget restent à préciser.",
+    "texte_apres": "François Ruffin veut mieux rémunérer les métiers essentiels majoritairement féminins et donner un statut de fonctionnaire aux accompagnants d’élèves handicapés. Sur la religion, il distingue la neutralité des agents publics et la liberté des personnes : il refuse d’étendre cette obligation aux étudiantes, aux mères accompagnant les sorties scolaires et aux licenciées sportives.",
+    "sources_avant": "ruff-statut,ruff-droits-cortex26,ruff-droits-laic25",
+    "sources_apres": "ruff-statut,ruff-droits-cortex26,ruff-droits-laic25",
+    "verification_sources": [
+      "https://nouspresident.fr/statut-travailleurs-essentiels/",
+      "https://www.cortex-media.fr/articles/election-2027-francois-ruffin--il-faut-lemergence-dune-conscience-de-classe",
+      "https://francoisruffin.fr/ils-veulent-le-faire-disparaitre-de-notre-societe/"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "climat",
+    "candidat": "melenchon",
+    "statut": "corrige",
+    "motif": "Déplier « planification » et « prélèvements sur la nature » en termes d’investissements et de ressources, et identifier que les rénovations concernent des logements. Signaler l’absence d’année de comparaison pour que la baisse de 65 % ne soit pas présentée comme un indicateur entièrement défini.",
+    "texte_avant": "Jean-Luc Mélenchon organise la transition par la planification publique et une règle constitutionnelle limitant les prélèvements sur la nature. Il vise une baisse de 65 % des émissions en 2033 et au moins 700 000 rénovations annuelles, avec aide intégrale pour les plus modestes.",
+    "texte_apres": "Jean-Luc Mélenchon veut organiser les investissements écologiques par la planification publique. Sa « règle verte » inscrirait dans la Constitution l’interdiction d’utiliser les ressources naturelles plus vite qu’elles ne se reconstituent. Il vise une baisse de 65 % des émissions en 2033, sans préciser l’année de comparaison. Il prévoit aussi au moins 700 000 rénovations de logements par an. Les travaux seraient entièrement aidés pour les ménages les plus modestes.",
+    "sources_avant": "mel-clim-psnouveau,mel-ind-btp",
+    "sources_apres": "mel-clim-psnouveau,mel-ind-btp",
+    "verification_sources": [
+      "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre1",
+      "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-avec-la-nouvelle-france-jean-luc-melenchon-fait-de-lecologie-la-cle-de-voute-de-son-programme",
+      "https://melenchon2027.fr/programme/plans-investissement/btp-logement/"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche. Le chapitre officiel et Public Sénat confirment la baisse de 65 % en 2033 sans indiquer ici l’année de référence ; 1990 ne peut pas être ajouté par déduction à partir d’une version antérieure."
+    ]
+  },
+  {
+    "theme": "climat",
+    "candidat": "roussel",
+    "statut": "corrige",
+    "motif": "Rendre explicites le lien climat-électricité et la portée multisectorielle du fonds avant son financement. Remplacer les expressions « investissements empruntés » et « mise sur les sols » par les mécanismes concrets.",
+    "texte_avant": "Fabien Roussel relie climat, industrie et pouvoir d’achat par un pôle public énergétique et des investissements empruntés. Il soutient la construction de nouveaux réacteurs. Sur l’eau, le PCF accepte des stockages publics partagés et mise aussi sur les sols. Le pacte de 500 milliards sur cinq ans couvre plusieurs secteurs : sa part climatique et ses remboursements restent à préciser.",
+    "texte_apres": "Fabien Roussel veut remplacer davantage d’énergies fossiles par une électricité produite sous maîtrise publique, notamment grâce à de nouveaux réacteurs nucléaires. Il relie ce choix à la relance industrielle. Son pacte de 500 milliards d’euros sur cinq ans financerait industrie, climat et services publics, notamment par des prêts. Le PCF propose aussi de mieux retenir l’eau dans les sols et de gérer collectivement des réserves publiques.",
+    "sources_avant": "rou-prix-nov8,rou-ret-toulouse,rou-agri-eau",
+    "sources_apres": "rou-prix-nov8,rou-ret-toulouse,rou-agri-eau",
+    "verification_sources": [
+      "https://dixipolis.vercel.app/video/225784",
+      "https://www.pcf.fr/ue_26_discours_fr",
+      "https://www.pcf.fr/secheresse_adapter_agriculture_gestion_eau"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche. La transcription Dixipolis du 8 novembre est lisible avec l’outil web, mais son HTML téléchargé directement ne contient que « Chargement » ; vérification effectuée sur les tours de parole rendus par l’outil web."
+    ]
+  },
+  {
+    "theme": "climat",
+    "candidat": "ruffin",
+    "statut": "corrige",
+    "motif": "Les « deux objectifs de flotte anti-incendie » n’étaient jamais exposés : retirer cette objection orpheline du résumé, tout en la laissant dans les détails. Expliquer la réorientation des certificats et distinguer réduction des émissions et protection immédiate.",
+    "texte_avant": "François Ruffin veut planifier rénovation, transports et industrie, renforcer les secours et protéger les salariés des chaleurs. Il réorienterait les certificats d’économies d’énergie vers l’agence publique de rénovation. Coûts de fonctionnement et cohérence entre les deux objectifs de flotte anti-incendie restent à clarifier.",
+    "texte_apres": "François Ruffin veut organiser la rénovation des logements, les transports et la production industrielle pour réduire la dépendance aux énergies fossiles. Il prévoit aussi de protéger les salariés contre les fortes chaleurs et de renforcer les secours face aux incendies. Pour la rénovation, il veut confier davantage de financements à l’Agence nationale de l’habitat, plutôt qu’au système actuel d’aides passant par les fournisseurs d’énergie.",
+    "sources_avant": "ruff-trans-eco,ruff-plan,ruff-climat",
+    "sources_apres": "ruff-trans-eco,ruff-plan,ruff-climat",
+    "verification_sources": [
+      "https://nouspresident.fr/travaillisme-ecologique/",
+      "https://nouspresident.fr/plan-de-redressement/"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "energie",
+    "candidat": "melenchon",
+    "statut": "corrige",
+    "motif": "Définir EPR2 et rattacher la réserve finale à la gratuité réellement présentée, plutôt qu’à des fermetures jamais introduites dans le résumé.",
+    "texte_avant": "Jean-Luc Mélenchon veut sortir des énergies fossiles avant 2050 et atteindre le tout renouvelable en 2060. Il arrêterait les nouveaux réacteurs EPR2 et reprendrait la maîtrise publique du secteur. Les premières quantités d’énergie indispensables seraient gratuites. Le calendrier précis des fermetures et les moyens de la transition restent à préciser.",
+    "texte_apres": "Jean-Luc Mélenchon veut sortir des énergies fossiles avant 2050 et atteindre un système entièrement renouvelable en 2060. Il arrêterait la construction des nouveaux réacteurs nucléaires EPR2 et reprendrait la maîtrise publique du secteur. Une première quantité d’énergie, destinée aux besoins indispensables, serait gratuite. Son volume et le financement de cette gratuité restent à préciser.",
+    "sources_avant": "mel-en-ecoinfos",
+    "sources_apres": "mel-en-ecoinfos",
+    "verification_sources": [
+      "https://www.les-energies-renouvelables.eu/article/actualites/energies/100-renouvelables-en-2060-fin-des-epr2-ce-que-lfi-prevoit-pour-lenergie-2523/"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "energie",
+    "candidat": "roussel",
+    "statut": "conserve",
+    "motif": "Les objectifs de réacteurs, le pôle et l’indemnisation des actionnaires sont présentés ; la limite distingue clairement acquisition et investissements à venir.",
+    "texte_avant": "Fabien Roussel annonce vingt nouveaux réacteurs EPR2 et douze petits réacteurs d’ici 2050. Un groupe public réunirait EDF, Engie et TotalEnergies pour agir sur la production et les prix. Les nationalisations impliqueraient d’indemniser les actionnaires, avec des paiements étalés. Leur coût reste à distinguer du financement des investissements futurs.",
+    "texte_apres": "Fabien Roussel annonce vingt nouveaux réacteurs EPR2 et douze petits réacteurs d’ici 2050. Un groupe public réunirait EDF, Engie et TotalEnergies pour agir sur la production et les prix. Les nationalisations impliqueraient d’indemniser les actionnaires, avec des paiements étalés. Leur coût reste à distinguer du financement des investissements futurs.",
+    "sources_avant": "rou-trans-avril,dixi-oral",
+    "sources_apres": "rou-trans-avril,dixi-oral",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale au texte détaillé de la fiche. Aucune source externe rouverte pour ce résumé conservé ; pas de nouvelle validation factuelle intégrale."
+    ]
+  },
+  {
+    "theme": "energie",
+    "candidat": "ruffin",
+    "statut": "corrige",
+    "motif": "Préciser quels contrats l’acheteur regroupe et quelle extension demande négociation. Supprimer le « financement industriel » noyé dans la facture et distinguer coût de production et prix final.",
+    "texte_avant": "François Ruffin maintient nucléaire et renouvelables pour sortir des énergies fossiles. Un acheteur public regrouperait les contrats et rapprocherait les prix industriels des coûts français, tout en conservant les échanges physiques européens. Les nouvelles règles demanderaient une négociation ; réseaux, taxes et financement industriel resteraient à prendre en compte dans les factures.",
+    "texte_apres": "François Ruffin veut conserver nucléaire et énergies renouvelables pour remplacer le pétrole et le gaz. Un acheteur public regrouperait les contrats d’électricité de long terme, avec un prix industriel plafonné au coût moyen de production français. Les échanges avec les pays voisins continueraient. Étendre ce système à toute la production demanderait une négociation européenne ; réseaux et taxes resteraient à payer.",
+    "sources_avant": "pqv-ruff-secu,ruff-industrie",
+    "sources_apres": "pqv-ruff-secu,ruff-industrie",
+    "verification_sources": [
+      "https://nouspresident.fr/pour-proteger-notre-industrie-relocaliser-100-produits-strategiques/",
+      "https://pourquijevote.com/transcripts/132ff537-3120-4ca2-a972-f3635085b483"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "transports",
+    "candidat": "melenchon",
+    "statut": "corrige",
+    "motif": "Remplacer les distinctions financières abstraites et redondantes par les services proposés, le volume du parc locatif et la limite précise sur son tarif.",
+    "texte_avant": "Jean-Luc Mélenchon veut développer les lignes quotidiennes et un pôle public des transports. Son plan automobile prévoit des locations abordables, avec commandes publiques et financements bancaires. Prix d’achat cible, prêts, garanties et subventions doivent être distingués ; coût consolidé des transports et loyers précis restent à préciser.",
+    "texte_apres": "Jean-Luc Mélenchon veut rouvrir les lignes ferroviaires du quotidien, augmenter la fréquence des trains et développer les transports à la demande. Son plan automobile prévoit un parc public de 1,4 million de voitures électriques en location d’ici 2032, financé notamment par des crédits publics et des prêts bancaires. Le loyer mensuel n’est pas fixé dans ce plan.",
+    "sources_avant": "mel-ter-rural,mel-ind-auto",
+    "sources_apres": "mel-ter-rural,mel-ind-auto",
+    "verification_sources": [
+      "https://melenchon2027.fr/programme/plans-thematiques/ruralite/",
+      "https://melenchon2027.fr/programme/plans-investissement/automobile/"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "transports",
+    "candidat": "roussel",
+    "statut": "conserve",
+    "motif": "Le rail, la gratuité urbaine et les voitures bon marché sont introduits avant les réserves qui concernent leur financement ou leur cadence.",
+    "texte_avant": "Fabien Roussel demande dix milliards d’euros supplémentaires par an pour le rail et des transports urbains gratuits. Il vise aussi un million de voitures électriques vendues sous 10 000 euros. Le financement de la gratuité et la cadence des livraisons restent à préciser.",
+    "texte_apres": "Fabien Roussel demande dix milliards d’euros supplémentaires par an pour le rail et des transports urbains gratuits. Il vise aussi un million de voitures électriques vendues sous 10 000 euros. Le financement de la gratuité et la cadence des livraisons restent à préciser.",
+    "sources_avant": "rou-trans-avril,pcf-discours",
+    "sources_apres": "rou-trans-avril,pcf-discours",
+    "verification_sources": [
+      "https://www.pcf.fr/face_explosion_des_prix_le_gouvernement_doit_declarer_l_etat_d_urgence_energetique",
+      "https://www.pcf.fr/ue_26_discours_fr"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "transports",
+    "candidat": "ruffin",
+    "statut": "corrige",
+    "motif": "Définir la taxe flottante et préciser qu’il s’agit de voitures électriques ; distinguer constitution du parc en cinq ans et durée des locations, au lieu de répéter des catégories financières opaques.",
+    "texte_avant": "François Ruffin propose un parc public de trois millions d’électriques louées en cinq ans, avec des contrats de sept à onze ans. Ruffin veut amortir les variations pétrolières par une taxe flottante. Son plan distingue soutien public, aides redéployées et acquisition du parc. Le financement reste à préciser.",
+    "texte_apres": "François Ruffin propose un parc public de trois millions de voitures électriques, constitué en cinq ans puis proposé à la location. Les contrats dureraient sept à onze ans, pour 100 à 200 euros par mois. Il veut aussi une taxe sur les carburants qui baisse quand le pétrole monte et remonte lorsqu’il baisse. Ce mécanisme vise à amortir les variations, sans garantir une baisse permanente des taxes.",
+    "sources_avant": "ruff-plan,ruff-def-lci",
+    "sources_apres": "ruff-plan,ruff-def-lci",
+    "verification_sources": [
+      "https://nouspresident.fr/plan-de-redressement/",
+      "https://pourquijevote.com/transcripts/c82e18ef-5e0b-42ae-bee3-a83086ac0818"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "agriculture",
+    "candidat": "melenchon",
+    "statut": "corrige",
+    "motif": "Remplacer « souveraineté alimentaire » et « recrutement paysan » par les moyens concrets. Retirer la réserve sur une production accrue et le prix du bio non expliquée dans le résumé ; maintenir l’attribution au mouvement. L’attribution au mouvement suffit sans commentaire sur les entretiens.",
+    "texte_avant": "Jean-Luc Mélenchon lie souveraineté alimentaire, recrutement paysan et débouchés assurés par les cantines bio. Il évoque au moins 300 000 agriculteurs à former. La France insoumise défend aussi une réduction des marges intermédiaires pour mieux payer les producteurs sans renchérir l’alimentation. Le recrutement, le financement et l’effet de la production accrue sur le prix du bio restent à préciser.",
+    "texte_apres": "Jean-Luc Mélenchon veut former au moins 300 000 agriculteurs supplémentaires et leur assurer des débouchés grâce à des cantines bio. La France insoumise propose aussi de réduire les marges des industriels et distributeurs pour mieux rémunérer les producteurs sans augmenter les prix alimentaires.",
+    "sources_avant": "mel-sante-dixipolis,mel-ecole-oral,mel-agri-bompard",
+    "sources_apres": "mel-sante-dixipolis,mel-ecole-oral,mel-agri-bompard",
+    "verification_sources": [
+      "https://dixipolis.com/video/226290",
+      "https://dixipolis.com/video/226253"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "agriculture",
+    "candidat": "roussel",
+    "statut": "corrige",
+    "motif": "« Blocage du fourrage » pouvait signifier une restriction de circulation ou d’exportation : il s’agit du prix. Définir fourrage et expliquer qui partage les marges.",
+    "texte_avant": "Fabien Roussel veut mieux partager les marges, soutenir des prix planchers et redistribuer les aides européennes selon le travail plutôt que la surface. Il défend aussi le blocage temporaire du fourrage.",
+    "texte_apres": "Fabien Roussel veut garantir des prix minimums aux agriculteurs et mieux partager les marges entre producteurs, transformateurs et distributeurs. Il propose de répartir les aides agricoles européennes davantage selon les personnes travaillant sur les fermes que selon leur surface. Face aux sécheresses, il demande aussi de bloquer temporairement le prix du fourrage, la nourriture destinée au bétail.",
+    "sources_avant": "rou-agri-rtl,rou-eu-alt,rou-agri-pleinchamp,rou-agri-publicsenat",
+    "sources_apres": "rou-agri-rtl,rou-eu-alt,rou-agri-pleinchamp,rou-agri-publicsenat",
+    "verification_sources": [
+      "https://moissacaucoeur.fr/2026/06/28/fabien-roussel-il-faut-relancer-leconomie-par-les-salaires-in-alternatives-economiques/",
+      "https://www.pleinchamp.com/actualite/foin-de-speculation"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "agriculture",
+    "candidat": "ruffin",
+    "statut": "conserve",
+    "motif": "Les prix garantis et services écologiques sont introduits avant leur financement distinct par acheteurs et budgets publics ; la réserve reste attachée aux mêmes instruments.",
+    "texte_avant": "François Ruffin défend prix garantis par filière, protection commerciale et rémunération du travail écologique. Il veut sécuriser le bio et transférer des aides européennes des hectares vers les emplois. Les prix seraient d’abord payés par les acheteurs ; les services écologiques et achats publics demanderaient des crédits, dont le détail reste incomplet.",
+    "texte_apres": "François Ruffin défend prix garantis par filière, protection commerciale et rémunération du travail écologique. Il veut sécuriser le bio et transférer des aides européennes des hectares vers les emplois. Les prix seraient d’abord payés par les acheteurs ; les services écologiques et achats publics demanderaient des crédits, dont le détail reste incomplet.",
+    "sources_avant": "ruff-agri,ruff-trans-eco",
+    "sources_apres": "ruff-agri,ruff-trans-eco",
+    "verification_sources": [
+      "https://nouspresident.fr/pour-une-exception-agriculturelle-francaise/",
+      "https://nouspresident.fr/travaillisme-ecologique/"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "territoires",
+    "candidat": "melenchon",
+    "statut": "corrige",
+    "motif": "Lever l’ambiguïté entre associations loi 1901 et regroupements de communes. L’entretien Reporterre ne suffit pas à sourcer la liberté d’association communale : ajouter le chapitre territorial officiel. Définir bassin versant sans jargon.",
+    "texte_avant": "Jean-Luc Mélenchon veut des communes libres de choisir leurs associations et des écorégions organisées selon les ressources naturelles et les bassins versants. Carte définitive, transferts de personnels et coûts de transition restent à préciser, parallèlement aux moyens promis pour les services de proximité.",
+    "texte_apres": "Jean-Luc Mélenchon veut laisser les communes choisir leurs regroupements, plutôt que leur imposer des fusions. Il remplacerait les régions par des « écorégions », organisées notamment autour des cours d’eau et des territoires qui les alimentent. Ce découpage doit, selon lui, mieux coordonner la protection des ressources et la réponse aux risques climatiques. La carte et les transferts de personnels restent à préciser.",
+    "sources_avant": "mel-inst-reporterre2026",
+    "sources_apres": "mel-log-programme,mel-inst-reporterre2026",
+    "verification_sources": [
+      "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre3",
+      "https://linsoumission.fr/2026/07/22/melenchon-entretien-reporterre/"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "territoires",
+    "candidat": "ruffin",
+    "statut": "corrige",
+    "motif": "Remplacer « réhabilitations » sans objet et « maisons du peuple » inexpliquées. Retirer l’absence de nouvelle carte administrative, qui ne critique aucune proposition annoncée dans ce résumé.",
+    "texte_avant": "François Ruffin privilégie les villes moyennes, les bourgs et les équipements partagés, en réorientant formations, emplois publics et réhabilitations. Il prévoit un milliard annuel pendant cinq ans pour salles des fêtes et maisons du peuple. Ruffin détaille des investissements de proximité, mais pas une nouvelle carte générale des collectivités ni le financement de tous leurs services.",
+    "texte_apres": "François Ruffin veut répartir davantage de formations et d’emplois publics vers les villes moyennes et réhabiliter les logements vacants dans les bourgs. Il prévoit un milliard d’euros par an pendant cinq ans pour rénover ou créer des salles des fêtes et maisons du peuple, des lieux partagés pour les associations et les loisirs.",
+    "sources_avant": "ruff-logement,ruff-loisirs",
+    "sources_apres": "ruff-logement,ruff-loisirs",
+    "verification_sources": [
+      "https://nouspresident.fr/face-a-la-crise-du-logement/"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "territoires",
+    "candidat": "roussel",
+    "statut": "corrige",
+    "motif": "Définir les dotations et la compensation salariale. Retirer les recettes nationales jamais présentées dans ce résumé et nommer les responsabilités locales et nationales.",
+    "texte_avant": "Fabien Roussel veut indexer les dotations locales sur les prix et compenser les hausses salariales des agents, avec un État garant des orientations nationales. Compensation, répartition entre collectivités et financement net restent à détailler : ses recettes nationales annoncées ne sont pas toutes réservées aux communes.",
+    "texte_apres": "Fabien Roussel veut que les dotations versées par l’État aux collectivités augmentent avec les prix. Il propose aussi que l’État compense aux communes et aux hôpitaux la hausse du salaire de base des agents publics. Les collectivités garderaient leurs décisions locales, dans un cadre national pour les grandes politiques. Les montants et leur répartition entre collectivités restent à détailler.",
+    "sources_avant": "rou-ind-edc",
+    "sources_apres": "rou-ind-edc,rou-serv-pcf16",
+    "verification_sources": [
+      "https://dixipolis.com/video/226523",
+      "https://www.pcf.fr/fonction_publique_stop_au_massacre_du_service_public_et_du_traitement_des_agents"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "europe",
+    "candidat": "melenchon",
+    "statut": "corrige",
+    "motif": "Le résumé oubliait le maintien dans l’Union et l’euro et évoquait des risques anonymes. Recentrer sur la stratégie et les obstacles directement liés à l’annulation ; ajouter les sources officielles de la position.",
+    "texte_avant": "Jean-Luc Mélenchon défend un bras de fer pour appliquer son programme malgré les règles européennes. Il envisage de retenir la contribution nette française, estimée par lui à 9 milliards d’euros sans année ni méthode précisées. Mélenchon défend aussi l’effacement de titres publics détenus par la banque centrale ; des économistes contestent sa faisabilité et soulignent des risques.",
+    "texte_apres": "Jean-Luc Mélenchon veut rester dans l’Union européenne et l’euro, tout en refusant les règles qui empêcheraient l’application de son programme. Il chercherait des alliés pour changer les règles budgétaires, commerciales et énergétiques. Il demande aussi d’annuler les dettes publiques détenues par les banques centrales. La présidente de la Banque centrale européenne la juge contraire aux traités. Un accord européen serait nécessaire.",
+    "sources_avant": "mel-eu-lci,mel-dette-pscrit",
+    "sources_apres": "mel-dette-europe,mel-dette-programme,mel-dette-lagarde,mel-dette-pscrit",
+    "verification_sources": [
+      "https://melenchon2027.fr/programme/livre/un-monde-ordonne/chapitre1",
+      "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre3",
+      "https://fr.euronews.com/2026/09/11/christine-lagarde-contre-la-proposition-de-jean-luc-melenchon-dannuler-la-dette-francaise",
+      "https://www.publicsenat.fr/actualites/politique/dette-publique-la-piste-dune-annulation-partielle-defendue-par-jean-luc-melenchon-se-heurte-a-de-nombreuses-difficultes"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "europe",
+    "candidat": "roussel",
+    "statut": "corrige",
+    "motif": "Retirer la distinction fonds français/fonds européen, dont seul le premier apparaissait et sans mesure liée. Introduire explicitement le passage de l’économie européenne à la politique ukrainienne.",
+    "texte_avant": "Fabien Roussel défend la coopération entre nations souveraines et refuse une fédération européenne. Il veut maîtriser publiquement les prix électriques et mobiliser des financements pour réindustrialiser. Son fonds français de 500 milliards sur cinq ans reste distinct d’un fonds européen. Il soutient la résistance ukrainienne, y compris par des armes, mais refuse frappes profondes en Russie et engagement militaire français.",
+    "texte_apres": "Fabien Roussel défend la coopération entre nations souveraines et refuse une fédération européenne. Il veut réorienter les règles économiques pour maîtriser publiquement les prix de l’électricité et financer la réindustrialisation. Concernant l’Ukraine, il soutient la résistance, y compris par des armes, mais refuse les frappes profondes en Russie et l’engagement militaire français.",
+    "sources_avant": "pcf-discours,rou-eu-alt,rou-eu-lci-nov",
+    "sources_apres": "pcf-discours,rou-eu-alt,rou-eu-lci-nov",
+    "verification_sources": [
+      "https://moissacaucoeur.fr/2026/06/28/fabien-roussel-il-faut-relancer-leconomie-par-les-salaires-in-alternatives-economiques/",
+      "https://pourquijevote.com/transcripts/cac40203-be2f-4398-bc9e-7bfea5428179",
+      "https://www.pcf.fr/ue_26_discours_fr"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "europe",
+    "candidat": "ruffin",
+    "statut": "conserve",
+    "motif": "Le maintien dans l’Union, la désobéissance envisagée et le choix national pour la défense sont explicités ; les coopérations militaires sont reliées à ce dernier choix.",
+    "texte_avant": "François Ruffin veut changer l’orientation économique de l’Union en y restant. Il cherche des alliés pour protéger la production et investir, tout en prévoyant de désobéir aux traités qui bloquent ses engagements. Pour Ruffin, diplomatie et défense demeureraient nationales : il refuse d’y étendre les décisions majoritaires et préfère des coopérations militaires volontaires.",
+    "texte_apres": "François Ruffin veut changer l’orientation économique de l’Union en y restant. Il cherche des alliés pour protéger la production et investir, tout en prévoyant de désobéir aux traités qui bloquent ses engagements. Pour Ruffin, diplomatie et défense demeureraient nationales : il refuse d’y étendre les décisions majoritaires et préfère des coopérations militaires volontaires.",
+    "sources_avant": "ruff-eu-pqv,ruff-euf-manifeste,ruff-def-grand",
+    "sources_apres": "ruff-eu-pqv,ruff-euf-manifeste,ruff-def-grand",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale au texte détaillé de la fiche. Aucune source externe rouverte pour ce résumé conservé ; pas de nouvelle validation factuelle intégrale."
+    ]
+  },
+  {
+    "theme": "defense",
+    "candidat": "melenchon",
+    "statut": "conserve",
+    "motif": "La sortie progressive de l’OTAN, les accords européens et les restrictions d’aide à l’Ukraine s’enchaînent avec attribution explicite au mouvement pour le communiqué collectif.",
+    "texte_avant": "Jean-Luc Mélenchon veut quitter progressivement l’OTAN et construire une défense autonome. Il conserverait des accords avec les Européens. La France insoumise soutient l’aide financière et militaire à l’Ukraine, mais refuse missiles de longue portée et forces combattantes au sol.",
+    "texte_apres": "Jean-Luc Mélenchon veut quitter progressivement l’OTAN et construire une défense autonome. Il conserverait des accords avec les Européens. La France insoumise soutient l’aide financière et militaire à l’Ukraine, mais refuse missiles de longue portée et forces combattantes au sol.",
+    "sources_avant": "mel-def-lciotan,mel-def-ukrainecomm",
+    "sources_apres": "mel-def-lciotan,mel-def-ukrainecomm",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale au texte détaillé de la fiche. Aucune source externe rouverte pour ce résumé conservé ; pas de nouvelle validation factuelle intégrale."
+    ]
+  },
+  {
+    "theme": "defense",
+    "candidat": "ruffin",
+    "statut": "conserve",
+    "motif": "Les enjeux industriels puis ukrainiens sont reliés par la stratégie d’autonomie ; la négociation territoriale est présentée comme question ouverte, pas comme accord déjà décidé.",
+    "texte_avant": "François Ruffin mise sur l’industrie pour réduire la dépendance militaire aux États-Unis. Il privilégie des coopérations entre Européens volontaires. Pour l’Ukraine, il associe poursuite des livraisons et négociation, avec des objectifs français et européens propres. Il pose la question des concessions territoriales sans arrêter une frontière de règlement ni un calendrier d’adhésion à l’OTAN.",
+    "texte_apres": "François Ruffin mise sur l’industrie pour réduire la dépendance militaire aux États-Unis. Il privilégie des coopérations entre Européens volontaires. Pour l’Ukraine, il associe poursuite des livraisons et négociation, avec des objectifs français et européens propres. Il pose la question des concessions territoriales sans arrêter une frontière de règlement ni un calendrier d’adhésion à l’OTAN.",
+    "sources_avant": "ruff-def-grand,ruff-def-crayon",
+    "sources_apres": "ruff-def-grand,ruff-def-crayon",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale au texte détaillé de la fiche. Aucune source externe rouverte pour ce résumé conservé ; pas de nouvelle validation factuelle intégrale."
+    ]
+  },
+  {
+    "theme": "defense",
+    "candidat": "roussel",
+    "statut": "conserve",
+    "motif": "Le refus de la hausse programmée est distingué des investissements militaires conservés ; l’absence de plafond alternatif porte directement sur ce choix budgétaire.",
+    "texte_avant": "Fabien Roussel refuse la hausse militaire programmée et propose d’examiner les dépenses. Il conserve des investissements en cyberdéfense, munitions modernes et protection des soldats. Il veut préserver les écoles et les hôpitaux, sans fixer de plafond militaire alternatif ni d’économie annuelle certaine.",
+    "texte_apres": "Fabien Roussel refuse la hausse militaire programmée et propose d’examiner les dépenses. Il conserve des investissements en cyberdéfense, munitions modernes et protection des soldats. Il veut préserver les écoles et les hôpitaux, sans fixer de plafond militaire alternatif ni d’économie annuelle certaine.",
+    "sources_avant": "rou-prix-nov8,pcf-discours",
+    "sources_apres": "rou-prix-nov8,pcf-discours",
+    "verification_sources": [
+      "https://dixipolis.vercel.app/video/225784"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche. La transcription Dixipolis du 8 novembre est lisible avec l’outil web, mais son HTML téléchargé directement ne contient que « Chargement » ; vérification effectuée sur les tours de parole rendus par l’outil web."
+    ]
+  },
+  {
+    "theme": "culture",
+    "candidat": "melenchon",
+    "statut": "conserve",
+    "motif": "Le financement du cinéma et le service de vidéo sont présentés avant la réserve portant précisément sur leurs recettes et coûts ; pas de critique attribuée à un consensus fictif.",
+    "texte_avant": "Jean-Luc Mélenchon veut rendre la culture plus accessible et limiter la concentration des médias. Il ferait de l’audiovisuel public le premier financeur du cinéma français et créerait une médiathèque publique gratuite de vidéo à la demande. Les nouvelles recettes, les obligations des diffuseurs et le coût des services restent à préciser.",
+    "texte_apres": "Jean-Luc Mélenchon veut rendre la culture plus accessible et limiter la concentration des médias. Il ferait de l’audiovisuel public le premier financeur du cinéma français et créerait une médiathèque publique gratuite de vidéo à la demande. Les nouvelles recettes, les obligations des diffuseurs et le coût des services restent à préciser.",
+    "sources_avant": "mel-cult-bourget,mel-cult-cinema",
+    "sources_apres": "mel-cult-bourget,mel-cult-cinema",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale au texte détaillé de la fiche. Aucune source externe rouverte pour ce résumé conservé ; pas de nouvelle validation factuelle intégrale."
+    ]
+  },
+  {
+    "theme": "culture",
+    "candidat": "roussel",
+    "statut": "conserve",
+    "motif": "Les droits des créateurs et la concentration sont présentés ; l’objectif de 1 % du PIB est explicitement attribué au parti, avec le budget culturel de l’État comme périmètre. La source relue confirme PIB et non budget de l’État comme dénominateur.",
+    "texte_avant": "Fabien Roussel défend des lois contre la concentration des médias et de l’édition, ainsi que la protection des créateurs face à l’intelligence artificielle. Son parti vise un budget culturel de l’État équivalant à 1 % du produit intérieur brut. Le financement culturel personnel de Roussel reste à détailler.",
+    "texte_apres": "Fabien Roussel défend des lois contre la concentration des médias et de l’édition, ainsi que la protection des créateurs face à l’intelligence artificielle. Son parti vise un budget culturel de l’État équivalant à 1 % du produit intérieur brut. Le financement culturel personnel de Roussel reste à détailler.",
+    "sources_avant": "rou-cult-bollore,rou-cult-ia,rou-cult-pacte",
+    "sources_apres": "rou-cult-bollore,rou-cult-ia,rou-cult-pacte",
+    "verification_sources": [
+      "https://www.pcf.fr/pacte_national_pour_avenir_france"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  },
+  {
+    "theme": "culture",
+    "candidat": "ruffin",
+    "statut": "conserve",
+    "motif": "Le pass collectif et le plan de lieux partagés sont présentés avant la limite de leur enveloppe ; le milliard annuel n’est pas présenté comme budget culturel complet.",
+    "texte_avant": "François Ruffin privilégie les pratiques amateurs, les associations et les lieux partagés. Il veut développer le pass Culture collectif et l’ouvrir aux adultes précaires ou isolés. Son plan de salles des fêtes représente un milliard d’euros annuel pendant cinq ans, pour plusieurs loisirs ; l’ensemble de sa politique culturelle reste à financer.",
+    "texte_apres": "François Ruffin privilégie les pratiques amateurs, les associations et les lieux partagés. Il veut développer le pass Culture collectif et l’ouvrir aux adultes précaires ou isolés. Son plan de salles des fêtes représente un milliard d’euros annuel pendant cinq ans, pour plusieurs loisirs ; l’ensemble de sa politique culturelle reste à financer.",
+    "sources_avant": "ruff-loisirs,ruff-cult-avignon",
+    "sources_apres": "ruff-loisirs,ruff-cult-avignon",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale au texte détaillé de la fiche. Aucune source externe rouverte pour ce résumé conservé ; pas de nouvelle validation factuelle intégrale."
+    ]
+  },
+  {
+    "theme": "numerique",
+    "candidat": "melenchon",
+    "statut": "conserve",
+    "motif": "Le moratoire ciblé est présenté avant sa distinction avec la recherche ; les autorisations à haut risque et les infrastructures restent deux instruments identifiés.",
+    "texte_avant": "Jean-Luc Mélenchon veut orienter l’intelligence artificielle vers des usages collectifs et partager le temps de travail gagné. Il prévoit des autorisations pour les systèmes à haut risque et un moratoire ciblé sur certains centres de données. Budgets et calendrier des infrastructures publiques restent à préciser ; le moratoire ne signifie pas l’arrêt de toute recherche.",
+    "texte_apres": "Jean-Luc Mélenchon veut orienter l’intelligence artificielle vers des usages collectifs et partager le temps de travail gagné. Il prévoit des autorisations pour les systèmes à haut risque et un moratoire ciblé sur certains centres de données. Budgets et calendrier des infrastructures publiques restent à préciser ; le moratoire ne signifie pas l’arrêt de toute recherche.",
+    "sources_avant": "mel-num-reporterre,mel-sec-lcp2027,mel-dette-budget",
+    "sources_apres": "mel-num-reporterre,mel-sec-lcp2027,mel-dette-budget",
+    "verification_sources": [],
+    "limites": [
+      "Confrontation éditoriale au texte détaillé de la fiche. Aucune source externe rouverte pour ce résumé conservé ; pas de nouvelle validation factuelle intégrale."
+    ]
+  },
+  {
+    "theme": "numerique",
+    "candidat": "roussel",
+    "statut": "corrige",
+    "motif": "L’objection sur les emplois exposés à l’IA répondait à une affirmation du candidat absente du résumé. La retirer ici et conserver le débat dans les détails. Expliquer les ressources consommées par les centres.",
+    "texte_avant": "Fabien Roussel défend un pôle public du numérique, des logiciels libres et un droit de regard des salariés. Il accepte des centres de données choisis avec les populations selon leurs ressources et usages. Roussel ne chiffre pas encore son pôle ; exposer un emploi à l’intelligence artificielle (IA) ne signifie pas nécessairement le supprimer.",
+    "texte_apres": "Fabien Roussel veut un pôle public du numérique pour financer la recherche, développer des logiciels libres et donner aux salariés un droit de regard sur l’intelligence artificielle. Il accepte de nouveaux centres de données, mais veut choisir leurs implantations avec les populations selon les usages et les consommations d’eau et d’électricité. Le budget de ce pôle public reste à préciser.",
+    "sources_avant": "rou-cult-ia,rou-prix-nov8,rou-num-oit25",
+    "sources_apres": "rou-cult-ia,rou-prix-nov8",
+    "verification_sources": [
+      "https://numeriques.pcf.fr/fabien-roussel-lia-sera-avec-nous-si-elle-est-a-nous/",
+      "https://dixipolis.vercel.app/video/225784"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche. La transcription Dixipolis du 8 novembre est lisible avec l’outil web, mais son HTML téléchargé directement ne contient que « Chargement » ; vérification effectuée sur les tours de parole rendus par l’outil web."
+    ]
+  },
+  {
+    "theme": "numerique",
+    "candidat": "ruffin",
+    "statut": "corrige",
+    "motif": "Définir le champ du moratoire et les logiciels mutualisés. Retirer les guichets et l’accompagnement des salariés qui n’étaient présentés nulle part dans ce résumé ; rendre explicite la compatibilité entre sélection des infrastructures et recherche.",
+    "texte_avant": "François Ruffin demande cinq ans de moratoire sur les centres non souverains et un débat démocratique sur leurs ressources. Il prévoit aussi un laboratoire public d’intelligence artificielle (IA) d’un milliard annuel et des logiciels mutualisés. Ruffin distingue contrôle des infrastructures et poursuite de la recherche ; financement complet, guichets et accompagnement des salariés restent à préciser.",
+    "texte_apres": "François Ruffin demande une pause de cinq ans pour les nouveaux centres de données non souverains, notamment ceux destinés à des acteurs extra-européens. Il veut débattre de leur consommation d’eau et d’électricité. En parallèle, il propose un laboratoire public d’intelligence artificielle doté d’un milliard d’euros par an et des logiciels réutilisables par plusieurs administrations. La pause sur certains centres ne signifierait donc pas l’arrêt de la recherche.",
+    "sources_avant": "ruff-num-resolution,ruff-numerique",
+    "sources_apres": "ruff-num-resolution,ruff-numerique",
+    "verification_sources": [
+      "https://www.assemblee-nationale.fr/dyn/opendata/PNREANR5L17B3293.pdf",
+      "https://nouspresident.fr/de-la-colonie-numerique-aux-souverainetes-numeriques/"
+    ],
+    "limites": [
+      "Confrontation du résumé aux propositions, financements et réserves des détails. Les URL listées ont été rouvertes et leurs passages pertinents relus ; cela ne constitue pas une nouvelle vérification exhaustive de chaque chiffre de la fiche."
+    ]
+  }
+]
