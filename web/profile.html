@@ -6,8 +6,10 @@
   <link rel="icon" href="../assets/favicon.ico" sizes="any">
   <link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
   <meta name="theme-color" content="#f7f5f0">
+  <script>try{if((localStorage.getItem("pqv-theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"))==="dark")document.documentElement.dataset.theme="dark"}catch(e){}</script>
   <title>{{name}} — Pour qui voter ?</title>
   <link rel="stylesheet" href="../assets/style.css">
+  <script src="../assets/theme.js" defer></script>
 </head>
 <body class="profile-page">
   <a class="skip" href="#contenu">Aller au contenu</a>
@@ -19,6 +21,6 @@
   <main class="wrap profile-main" id="contenu">
     {{profile}}
   </main>
-  <footer><div class="wrap foot"><span>Site généré le {{generated}}</span><a class="github-link" href="https://github.com/adrienconrath/pourquivoter" aria-label="Voir le dépôt du site sur GitHub" title="Voir le dépôt sur GitHub"><img src="../assets/github.svg" width="24" height="24" alt="GitHub"></a></div></footer>
+  <footer><div class="wrap foot"><span>Site généré le {{generated}}</span><span class="foot-actions"><button type="button" class="theme-toggle" aria-label="Activer le mode sombre" aria-pressed="false" title="Mode sombre / clair"><span aria-hidden="true">◐</span></button><a class="github-link" href="https://github.com/adrienconrath/pourquivoter" aria-label="Voir le dépôt du site sur GitHub" title="Voir le dépôt sur GitHub"><img src="../assets/github.svg" width="24" height="24" alt="GitHub"></a></span></div></footer>
 </body>
 </html>
