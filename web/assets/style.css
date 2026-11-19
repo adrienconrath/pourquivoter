@@ -132,6 +132,13 @@ h1 em{font-weight:400;color:#63574a}
 .profile-links{display:flex;flex-wrap:wrap;gap:12px;margin-top:16px;font-size:.85rem;font-weight:700}
 .profile .position-sources{margin-top:18px}
 footer{border-top:1px solid var(--line);color:var(--muted);font-size:.83rem}
+.footer-layout{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,416px) auto;align-items:center;gap:24px;padding-block:16px}
+.footer-meta{display:grid;justify-items:start;gap:8px}
+.footer-profiles{width:100%}
+@media(max-width:760px){
+  .footer-layout{grid-template-columns:minmax(0,1fr) auto;gap:16px}
+  .footer-profiles{grid-column:1/-1;grid-row:2;width:100%}
+}
 @media(max-width:1150px){
   .theme-picker{display:flex;overflow-x:auto;scrollbar-width:thin;scrollbar-color:#b2a18b var(--soft);padding-bottom:2px}
   .theme-stack{flex:none}
