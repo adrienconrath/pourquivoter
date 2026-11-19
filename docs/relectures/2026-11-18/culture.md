@@ -29,3 +29,8 @@ tondelier : résumé 60 mots ; ensemble 883 mots.
 zemmour : résumé 64 mots ; ensemble 913 mots.
 
 Validation : onze résumés, références existantes, contrôle des données et audit des 275 cases, aucun dépassement de budget documentaire sur ce thème.
+
+
+### Complément — reprises de presse, 19 novembre 2026
+
+Lisnard : la tribune de mai reproduite par le parti relève du plafond Figaro. Éducation culturelle rattachée au projet primaire réellement relu ; précisions d’indépendance et d’accès aux œuvres appuyées par RTL du 16 mai et Technikart du 10 juillet, également relus. Le choix particulier des quotas/contrôles et l’arbitrage culturel restent sous la tribune, 25 mots au total. Aucun transfert arbitraire de référence. La case compte 19 paragraphes, résumé compris, pour 866 mots. Budgets résumé+détails : civique157/200, RTL174/200, Technikart169/200, Figaro25/25 ; autres sources sous plafond.

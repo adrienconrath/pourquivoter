@@ -181,3 +181,8 @@ zemmour|zem-log-dalo26|61/200
 Contrôles réussis : 11résumés uniques<100mots ; format6colonnes, champs et références valides ; budgets documentaires groupés respectés ; minutages et labels de recherche retirés. Pas de build/test : livrable horsGit, intégration au parent.
 
 Relecture finale : tous les paragraphes ont été relus avant intégration. Corrections de grammaire et de vocabulaire. TVA sur le logement social explicitée. Estimations historiques et propositions propres à l’Institut Montaigne distinguées du projet Philippe.
+
+
+### Complément — reprises de presse, 19 novembre 2026
+
+Lisnard : l’entretien de décembre 2025 publié par Le Figaro est reproduit sur le site du parti. Deux rappels ont été réunis sans retirer les choix : suppression du diagnostic énergétique, décentralisation de l’hébergement d’urgence sous condition de moyens transférés. Archive conservée et différence avec le programme actuel maintenue. La case compte 20 paragraphes, résumé compris, pour 856 mots ; reprise Figaro19/25 mots, autres sources sous plafond.

@@ -187,3 +187,8 @@ Comptages après intégration :
 - ruffin : résumé 60 mots ; total 946 mots.
 - tondelier : résumé 61 mots ; total 836 mots.
 - zemmour : résumé 73 mots ; total 808 mots.
+
+
+### Complément — reprises de presse, 19 novembre 2026
+
+Retailleau : lr-famille reproduit un article Figaro de John Timsit et AFP du 30 avril 2026. Le rappel de la version d’avril reste sous cette référence à20/25 mots. Les mesures primaires75 et65 de septembre, réellement relues, appuient séparément financement familial et crédit immobilier. Les40,3 milliards sont explicitement hors bonification du troisième enfant ; les41 milliards supprimés et600–800 millions de gestion sont des contreparties attendues. Déduction et transférabilité sont conservées sans leur attribuer ce chiffrage familial. La case compte19 paragraphes, résumé compris, pour1009 mots ; mesure75:58/200, mesure65:35/200.
