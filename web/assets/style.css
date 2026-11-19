@@ -118,6 +118,8 @@ h1 em{font-weight:400;color:#63574a}
 .position-field .claim,.missing{font-size:.89rem}
 .position-critique{border-left:2px solid #b7aa98;background:#f5f1e9;padding:10px 12px;border-radius:0 4px 4px 0}
 .missing{color:var(--muted)}
+.position-feedback{margin:12px 0 0;font-size:.75rem;color:var(--muted)}
+.position-feedback a:hover{color:var(--ink)}
 .compare-board>.empty{margin:0;border:0;border-radius:0}
 .empty{background:var(--card);padding:12px;border:1px solid var(--line);border-radius:6px;margin:0 0 10px}
 .profile-main{padding-block:32px 48px;max-width:760px}
