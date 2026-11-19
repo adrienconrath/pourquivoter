@@ -199,3 +199,7 @@ footer{border-top:1px solid var(--line);color:var(--muted);font-size:.83rem}
 [data-theme="dark"] .status{color:#cfc0a6}
 [data-theme="dark"] .choice-mark{background:#3aa655}
 [data-theme="dark"] .github-link img{filter:invert(1)}
+.ia-panel a{display:inline-flex;align-items:center;gap:6px;color:inherit;text-decoration:underline;text-underline-offset:.2em}
+.ia-panel a:hover{color:var(--ink)}
+.ia-logo{flex:none}
+.ia-panel svg{width:1.1em;height:1.1em}.ia-panel .ia-ext{width:.9em;height:.9em}
