@@ -49,7 +49,13 @@ try {
   await page.goto(origin+'/?themes=prix&profils=', {waitUntil:'networkidle'});
   await page.addStyleTag({content:'html{scroll-behavior:auto!important}.column-scroll{position:static!important}'});
   await page.evaluate(() => document.fonts.ready);
-  await page.screenshot({path:path.join(out,'overview.png'),clip:{x:0,y:0,width:1440,height:1000}});
+  await page.setViewportSize({width:1280,height:1300});
+  await page.goto(origin+'/?themes=prix&profils=attal,le-pen', {waitUntil:'networkidle'});
+  await page.screenshot({path:path.join(out,'overview.png'),clip:{x:0,y:0,width:940,height:1050}});
+  records.push({file:'overview.png',selected:['attal','le-pen'],theme:'prix',clip:{x:0,y:0,width:940,height:1050},deviceScaleFactor:2,sha256:createHash('sha256').update(await fs.readFile(path.join(out,'overview.png'))).digest('hex')});
+  await page.setViewportSize({width:1440,height:1800});
+  await page.goto(origin+'/?themes=prix&profils=', {waitUntil:'networkidle'});
+  await page.addStyleTag({content:'html{scroll-behavior:auto!important}.column-scroll{position:static!important}'});
   await page.locator('[data-theme-toggle="prix"]').click();
   await capture('themes-off','.theme-stack',200);
   await page.locator('[data-theme-toggle="prix"]').click();
@@ -64,18 +70,20 @@ try {
     await capture(person+'-summary',`#position-prix-${person} .position-summary`,270);
   }
   await page.locator('#position-prix-attal .position-details > summary').click();
-  await capture('details','#position-prix-attal .position-details',410);
+  await page.addStyleTag({content:'.position-details .position-field:not(:first-child),.position-details .position-field:first-child li:nth-child(n+2){display:none!important}'});
+  await capture('details','#position-prix-attal .position-details');
   await page.locator('#position-prix-attal .position-details > summary').click();
   await page.locator('#position-prix-attal .position-sources > summary').click();
-  await capture('sources','#position-prix-attal .position-sources',410);
+  await page.addStyleTag({content:'.position-sources li:nth-child(n+4){display:none!important}'});
+  await capture('sources','#position-prix-attal .position-sources');
   await fs.writeFile(path.join(out,'manifest.json'),JSON.stringify({
     source:'https://pourquivoter.fyi/',
     sourceCommit:execFileSync('git',['rev-parse','HEAD'],{cwd:repo,encoding:'utf8'}).trim(),
     capturedAt:new Date().toISOString(),
-    note:'Captures du vrai HTML généré par le dépôt. Recadrages de démonstration ; les personnes choisies illustrent les commandes, sans soutien politique.',
+    note:'Captures du vrai HTML généré par le dépôt. Recadrages de démonstration : Détails montre une première note entière, Sources les trois premières références entières ; les personnes choisies illustrent les commandes, sans soutien politique.',
     records
   },null,2)+'\n');
-  console.log(`Captured ${records.length+1} website views`);
+  console.log(`Captured ${records.length} website views`);
 } finally {
   await browser.close();
   await new Promise(resolve=>server.close(resolve));

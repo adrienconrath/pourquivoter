@@ -24,4 +24,20 @@ body{font-family:DM,Arial,sans-serif;color:#282720}#film{position:relative;width
 #verify .headline{font-size:162px;top:285px}.verify-label{position:absolute;left:90px;top:660px;font-size:40px;font-weight:650;color:#78674e}#verify .capture-sheet{top:800px;height:650px;transform:rotate(-3deg)}
 #end .headline{font-size:191px;top:390px}.url{position:absolute;left:80px;right:80px;top:1010px;padding:32px 28px;border:2px solid #d9e9b1;border-radius:20px;background:#d9e9b1;color:#282720;font-size:74px;font-weight:650;letter-spacing:-2px}.url span{float:right}.end-note{position:absolute;left:85px;top:1225px;font-size:38px;line-height:1.6;opacity:.7}
 #captions{position:absolute;inset:0;pointer-events:none;z-index:50}.caption{position:absolute;left:72px;right:72px;bottom:270px;margin:0;opacity:0;text-align:center;font-size:49px;line-height:1.28;font-weight:650}.caption-line{display:inline;box-decoration-break:clone;-webkit-box-decoration-break:clone;background:#282720ed;color:#fffdf8;padding:9px 18px;border-radius:12px}.caption-word{color:#fffdf8}
-.film-footer{position:absolute;left:80px;bottom:165px;font-size:28px;letter-spacing:4px;color:#746a5d;z-index:55}
+
+/* V2: real media excerpts, a closer site view, and complete padded cards. */
+.document{padding:0;height:auto;overflow:hidden;border-radius:18px}
+.document img{display:block;width:100%;height:auto}
+.reference-bar{padding:15px 22px;background:#e6e0d5;font-size:28px;font-weight:650;letter-spacing:2px}
+.doc-one{left:55px;top:0;width:780px}
+.doc-two{left:290px;top:170px;width:690px}
+.doc-three{left:65px;top:565px;width:800px}
+.brand-title{top:320px;font-family:DM,Arial,sans-serif;font-size:115px;letter-spacing:-6px;font-weight:650;white-space:nowrap;right:35px}
+.ai-pill{top:500px}
+.browser{left:48px;top:660px;width:1120px;transform:rotate(-3deg);max-height:830px}
+.capture-sheet{height:740px}
+.sheet-layer{position:absolute;inset:32px}
+.capture-sheet .sheet-layer img{display:block;width:100%;height:100%;object-fit:contain;object-position:left top}
+#sources-image{opacity:0;background:#fffdf8}
+#verify .capture-sheet{height:650px}
+#overload{opacity:1;visibility:visible}

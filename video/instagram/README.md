@@ -1,12 +1,14 @@
-# Pour qui voter — vidéo Instagram V001
+# Pour qui voter — vidéo Instagram V002
 
-<a href="deliveries/v001/pourquivoter-instagram-v001.mp4"><img src="deliveries/v001/poster.jpg" alt="Lire la vidéo de présentation, trente secondes" width="320"></a>
+<a href="deliveries/v002/pourquivoter-instagram-v002.mp4"><img src="deliveries/v002/poster.jpg" alt="Lire la vidéo de présentation, trente secondes" width="320"></a>
 
-[MP4 vertical](deliveries/v001/pourquivoter-instagram-v001.mp4) · [Sous-titres](deliveries/v001/narration.srt) · [Crédits](CREDITS.md)
+[MP4 vertical](deliveries/v002/pourquivoter-instagram-v002.mp4) · [Sous-titres](deliveries/v002/narration.srt) · [Crédits](CREDITS.md)
 
 Film de 30 secondes, 1080 × 1920, 30 images/s, H.264 / AAC stéréo. Le texte est raconté à la première personne par le créateur du site. Le montage montre la sélection des thèmes, celle des candidats, deux résumés sur le même thème, puis les volets Détails et Sources. Il se termine par l’adresse du site. Les captures viennent du vrai HTML du dépôt ; les colonnes sont recadrées et empilées pour rester lisibles sur un téléphone. Les portraits choisis servent à démontrer les commandes, sans soutien à une candidature.
 
 La voix retenue est **Dorian — Parisian**, voix française conversationnelle de la bibliothèque ElevenLabs, identifiant `R2zfCl7xyI0UyX6zoGu4`. Il s’agit d’une voix de synthèse de bibliothèque, pas d’un clonage de la voix du créateur. Le modèle est `eleven_multilingual_v2`. La musique instrumentale a été créée avec **Eleven Music**, modèle `music_v1`, puis mixée sous la narration. Les originaux, les paramètres des requêtes sans clé API, les horodatages et les empreintes sont archivés dans `assets/audio/`.
+
+La V002 affiche `pourquivoter.fyi` dans la scène d’introduction, agrandit le site avec deux candidats sélectionnés et ajoute des marges aux volets Détails et Sources. La voix prononce seulement « Pour qui voter ». L’adresse n’est plus répétée dans un pied de page permanent. La [V001](deliveries/v001/pourquivoter-instagram-v001.mp4) reste archivée.
 
 ## Refaire le rendu avec les mêmes médias
 
@@ -43,12 +45,14 @@ Ouvrir `http://localhost:4326/preview.html`. `npm run preview` ouvre aussi le st
 - `film.css` : direction graphique, tailles et zones de sécurité verticales.
 - `film.js` : timeline GSAP de trente secondes, clics et surlignage des mots.
 - `scripts/build.mjs` : composition Hyperframes et sous-titres intégrés, alignés sur la narration.
-- `scripts/capture.mjs` : construit le site, réalise de vraies sélections dans Playwright et archive les captures. `npm run capture -- v004` crée un nouveau jeu ; mettre ensuite à jour les chemins des images dans le modèle.
+- `scripts/capture.mjs` : construit le site, réalise de vraies sélections dans Playwright et archive les captures. `npm run capture -- v005` crée un nouveau jeu ; mettre ensuite à jour les chemins des images dans le modèle.
+- `scripts/capture-references.mjs` : capture les titres et images de vraies pages publiques. `node scripts/capture-references.mjs v002` crée une nouvelle archive ; vérifier visuellement les captures avant de les intégrer.
+- `scripts/revise-audio.py` : fabrique l’edit V002 à partir de la voix V001 en retirant « point F Y I », sans nouvelle synthèse. Les mots conservés restent aux mêmes instants et la musique est réutilisée.
 - `scripts/master.py` : rythme des phrases, pauses et mixage de la musique. Avant de refaire cet edit, choisir un nouveau dossier de version dans le script et mettre à jour les chemins du mix et de la timeline dans le modèle et le build.
 - `prompts/` : texte prononcé et direction musicale exacte.
-- `deliveries/v001/manifest.json` : empreintes des médias, configuration et contrôle de la livraison.
+- `deliveries/v002/manifest.json` : empreintes des médias, configuration et contrôle de la livraison.
 
-Le collage d’ouverture représente de façon illustrative l’abondance de documents et d’interviews. Ses nombres ne décrivent pas un document politique particulier. Les autres images sont des captures du site, pas des maquettes de propositions. Les sous-titres sont déjà intégrés dans le MP4 ; le SRT est fourni séparément pour l’édition.
+Le collage d’ouverture montre de vraies captures de YouTube/LCI et TF1 Info déjà référencés par le site. La capture YouTube du débat des Restos du Cœur a été fournie par le créateur. Les URLs, provenances et empreintes figurent dans les manifestes de `assets/references/`. La capture YouTube du débat des Restos du Cœur est fournie par le créateur et documentée dans `assets/references/user-v001/manifest.json`. Ces extraits ne signifient aucun soutien des médias ou personnes représentés. Les autres images sont des captures du site, pas des maquettes de propositions. Les sous-titres sont déjà intégrés dans le MP4 ; le SRT est fourni séparément pour l’édition.
 
 ## Générer de nouveaux audios ElevenLabs
 

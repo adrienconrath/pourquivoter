@@ -2,7 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
-const timing=JSON.parse(await fs.readFile(path.join(root,'assets/audio/edit-v001/timeline.json'),'utf8'));
+const timing=JSON.parse(await fs.readFile(path.join(root,'assets/audio/edit-v002/timeline.json'),'utf8'));
 const escape=s=>s.replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
 const captions=[];
 for(const phrase of timing.phrases){

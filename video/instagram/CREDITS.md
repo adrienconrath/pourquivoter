@@ -31,3 +31,14 @@ Voix de bibliothèque Dorian — Parisian, ElevenLabs, identifiant `R2zfCl7xyI0U
 - [Voix ElevenLabs avec horodatages](https://elevenlabs.io/docs/api-reference/text-to-speech/convert-with-timestamps)
 - [Composition musicale Eleven Music](https://elevenlabs.io/docs/api-reference/music/compose)
 - [Hyperframes CLI](https://hyperframes.app/docs/5-packages/cli)
+
+
+## Captures de presse et d’interviews — V002
+
+L’ouverture montre des extraits réels des pages suivantes, déjà référencées dans le site. Les captures sont limitées à leurs en-têtes, titres et images. Aucun article complet ou extrait sonore de ces médias n’est reproduit. Les personnes et médias représentés ne soutiennent pas le projet.
+
+- LCI et TF1 Info sur YouTube : capture du débat des Restos du Cœur fournie par le créateur, conservée sans retouche dans `assets/references/user-v001/`. L’article TF1 Info correspondant est la source `af-tf1-restos`. La capture antérieure de La Grande Confrontation avec Fabien Roussel reste archivée mais n’est plus affichée.
+- TF1 Info / LCI : [débat avec les Restos du Cœur](https://www.tf1info.fr/politique/elections/presidentielle/quelle-societe-pour-demain-precarite-logement-retraites-revoyez-les-temps-forts-du-debat-organise-par-lci-en-association-avec-les-restos-du-coeur-2471255.html), source `af-tf1-restos`.
+- TF1 Info : [interview d’Éric Zemmour au 20H](https://www.tf1info.fr/politique/videos/video-presidentielle-2027-eric-zemmour-officialise-sa-candidature-au-20h-de-tf1-4341-2475122.html), source `zem-tf1`.
+
+Les marques, images et interfaces de ces captures appartiennent à leurs titulaires respectifs. Les empreintes, URLs et cadrages sont consignés dans `assets/references/v001/manifest.json` et `assets/references/user-v001/manifest.json` et `assets/references/user-v001/manifest.json` ; ces fichiers ne sont pas proposés sous la licence des portraits Wikimedia. La V002 réutilise la voix Dorian et la musique ElevenLabs de la V001, avec retrait du suffixe oral de l’adresse et sans nouvelle génération.

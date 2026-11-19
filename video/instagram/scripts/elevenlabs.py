@@ -27,7 +27,7 @@ def main():
     if output.exists():
         parser.error("Take already exists; use a new identifier")
     if args.kind == "voice":
-        text = (ROOT / "prompts" / "narration-v001.txt").read_text().strip()
+        text = (ROOT / "prompts" / "narration-v002.txt").read_text().strip()
         route = f"/v1/text-to-speech/{args.voice_id}/with-timestamps?output_format=mp3_44100_192"
         body = {"text": text, "model_id": "eleven_multilingual_v2", "seed": 20261119,
                 "voice_settings": {"stability": 0.4, "similarity_boost": 0.75,

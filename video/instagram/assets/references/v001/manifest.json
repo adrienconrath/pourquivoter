@@ -1,0 +1,48 @@
+{
+  "capturedAt": "2026-11-19T10:05:31.016Z",
+  "note": "Captures réelles de pages déjà référencées par le site. Extraits du titre, de l’en-tête et des images ; aucun article complet. Les médias et personnes représentés ne soutiennent pas ce projet.",
+  "records": [
+    {
+      "name": "youtube-roussel",
+      "sourceId": "rou-eu-grand-lci",
+      "url": "https://www.youtube.com/watch?v=ojWGei6jeY8",
+      "clip": {
+        "x": 0,
+        "y": 0,
+        "width": 950,
+        "height": 730
+      },
+      "file": "youtube-roussel.png",
+      "title": "La Grande Confrontation avec Fabien Roussel｜LCI - YouTube",
+      "sha256": "7182b9206578679de384d9d7f928d407e11090b737eea908fa9aca744ba15307"
+    },
+    {
+      "name": "tf1-debat",
+      "sourceId": "af-tf1-restos",
+      "url": "https://www.tf1info.fr/politique/elections/presidentielle/quelle-societe-pour-demain-precarite-logement-retraites-revoyez-les-temps-forts-du-debat-organise-par-lci-en-association-avec-les-restos-du-coeur-2471255.html",
+      "clip": {
+        "x": 0,
+        "y": 0,
+        "width": 1360,
+        "height": 470
+      },
+      "file": "tf1-debat.png",
+      "title": "\"Quelle société pour demain ?\" : précarité, logement, retraites... revoyez les temps forts du débat organisé par LCI en association avec les Restos du Cœur | TF1 Info",
+      "sha256": "96db60c264e2cb80dde6703ce56d74f4f76e0ae825e8d41bdfadc1bed7d7cea9"
+    },
+    {
+      "name": "tf1-zemmour",
+      "sourceId": "zem-tf1",
+      "url": "https://www.tf1info.fr/politique/videos/video-presidentielle-2027-eric-zemmour-officialise-sa-candidature-au-20h-de-tf1-4341-2475122.html",
+      "clip": {
+        "x": 0,
+        "y": 0,
+        "width": 1360,
+        "height": 470
+      },
+      "file": "tf1-zemmour.png",
+      "title": "Présidentielle 2027 : Éric Zemmour officialise sa candidature au 20H de TF1 | TF1 Info",
+      "sha256": "81a46476fa3e162dc552646f23b0b490c81f32c3e1e718dae860e20ae99dd94c"
+    }
+  ]
+}

@@ -1,12 +1,16 @@
 const tl=gsap.timeline({paused:true});
 tl.to({}, {duration:30},0);
 const phases=[['overload',0,3.55],['me',3.55,6.0],['intro',6.0,9.65],['themes',9.65,11.25],['people',11.25,13.10],['compare',13.10,17.55],['details',17.55,20.12],['verify',20.12,23.0],['end',23.0,30]];
-tl.set('.scene',{autoAlpha:0},0);
+tl.set('.scene:not(#overload)',{autoAlpha:0},0);
 for(const[id,start,end]of phases){
  const node=document.getElementById(id);
- tl.set('.film-footer',{color:node.classList.contains('dark')?'#c5bcae':'#746a5d'},start);
- tl.fromTo(node,{autoAlpha:0},{autoAlpha:1,duration:.12,ease:'none'},start);
- tl.fromTo(node.querySelector('.headline'),{y:55,opacity:0},{y:0,opacity:1,duration:.40,ease:'power3.out'},start+.04);
+ if(start===0){
+  tl.set(node,{autoAlpha:1},0);
+  tl.set(node.querySelector('.headline'),{y:0,opacity:1},0);
+ }else{
+  tl.fromTo(node,{autoAlpha:0},{autoAlpha:1,duration:.12,ease:'none'},start);
+  tl.fromTo(node.querySelector('.headline'),{y:55,opacity:0},{y:0,opacity:1,duration:.40,ease:'power3.out'},start+.04);
+ }
  if(node.querySelector('.hero-asset'))tl.fromTo(node.querySelector('.hero-asset'),{y:65,opacity:0},{y:0,opacity:1,duration:.42,ease:'power3.out'},start+.12);
  if(end<30)tl.to(node,{autoAlpha:0,duration:.08,ease:'none'},end-.04);
 }

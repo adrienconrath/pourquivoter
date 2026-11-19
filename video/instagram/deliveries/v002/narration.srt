@@ -1,0 +1,43 @@
+1
+00:00:00,064 --> 00:00:03,588
+Des milliers de ressources, des heures d'interviews...
+
+2
+00:00:03,613 --> 00:00:06,009
+Moi, j'ai pas le temps de tout regarder.
+
+3
+00:00:06,034 --> 00:00:09,687
+Alors j'ai créé Pour qui voter. avec une IA.
+
+4
+00:00:09,712 --> 00:00:11,246
+Tu choisis tes thèmes,
+
+5
+00:00:11,271 --> 00:00:13,101
+tu sélectionnes les candidats,
+
+6
+00:00:13,126 --> 00:00:15,371
+et tu compares leurs propositions.
+
+7
+00:00:15,396 --> 00:00:17,506
+Un résumé pour comprendre vite.
+
+8
+00:00:17,531 --> 00:00:20,103
+Les détails et les sources pour creuser.
+
+9
+00:00:20,144 --> 00:00:22,993
+L'IA peut se tromper : vérifie les sources.
+
+10
+00:00:23,018 --> 00:00:25,857
+Pour qui voter.
+
+11
+00:00:25,882 --> 00:00:29,020
+Fais-toi ton avis.
