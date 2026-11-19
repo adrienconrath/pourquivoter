@@ -43,8 +43,9 @@ def https(url):
     return escape(url)
 
 
-def link(url, label, css=""):
-    return f'<a class="{css}" href="{https(url)}">{escape(label)} <span aria-hidden="true">↗</span></a>'
+def link(url, label, css="", new_tab=False):
+    target = ' target="_blank" rel="noopener"' if new_tab else ""
+    return f'<a class="{css}" href="{https(url)}"{target}>{escape(label)} <span aria-hidden="true">↗</span></a>'
 
 
 FEEDBACK_FORM = "https://docs.google.com/forms/d/e/1FAIpQLSdJ8TTWXc0CcGk3QchQV5xLydFQVMMD1mpEcRChM1pi3uA52g/viewform"
@@ -186,7 +187,7 @@ def comparison(theme, people, entries):
             content = '<p class="missing">Position à documenter pour cette édition.</p>'
         feedback = (
             f'<p class="position-feedback">'
-            f'{link(feedback_url(person, theme), "Donner du feedback")}</p>'
+            f'{link(feedback_url(person, theme), "Donner du feedback", new_tab=True)}</p>'
         )
         cards.append(f"""
           <article class="position" id="position-{key}-{person_key}" data-person="{person_key}" aria-label="{escape(person["name"])} · {escape(theme["name"])}"{" data-empty" if not fields else ""}>
