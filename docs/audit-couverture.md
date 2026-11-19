@@ -149,17 +149,17 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Sécurité | Bruno Retailleau | 0 | 1099 | 12 | 5 | Relue |
 | Sécurité | Marine Le Pen | 29 | 1107 | 19 | 6 | Relue |
 | Sécurité | Éric Zemmour | 13 | 1005 | 13 | 7 | Relue |
-| Justice | Jean-Luc Mélenchon | 0 | 1023 | 9 | 3 | Relue |
-| Justice | François Ruffin | 0 | 968 | 8 | 5 | Relue |
-| Justice | Fabien Roussel | 0 | 1144 | 14 | 3 | Relue |
-| Justice | Marine Tondelier | 71 | 925 | 12 | 5 | Relue |
-| Justice | Raphaël Glucksmann | 7 | 1105 | 11 | 4 | Relue |
-| Justice | Gabriel Attal | 93 | 1102 | 20 | 4 | Relue |
-| Justice | Édouard Philippe | 131 | 1094 | 11 | 5 | Relue |
-| Justice | David Lisnard | 117 | 1065 | 14 | 6 | Relue |
-| Justice | Bruno Retailleau | 86 | 1063 | 14 | 4 | Relue |
-| Justice | Marine Le Pen | 0 | 1130 | 12 | 3 | Relue |
-| Justice | Éric Zemmour | 179 | 1096 | 12 | 7 | Relue |
+| Justice | Jean-Luc Mélenchon | 0 | 832 | 14 | 3 | Relue |
+| Justice | François Ruffin | 0 | 707 | 9 | 5 | Relue |
+| Justice | Fabien Roussel | 0 | 819 | 15 | 3 | Relue |
+| Justice | Marine Tondelier | 71 | 754 | 13 | 5 | Relue |
+| Justice | Raphaël Glucksmann | 7 | 778 | 12 | 4 | Relue |
+| Justice | Gabriel Attal | 93 | 963 | 26 | 4 | Relue |
+| Justice | Édouard Philippe | 131 | 871 | 12 | 5 | Relue |
+| Justice | David Lisnard | 117 | 806 | 15 | 6 | Relue |
+| Justice | Bruno Retailleau | 86 | 830 | 16 | 4 | Relue |
+| Justice | Marine Le Pen | 0 | 825 | 13 | 3 | Relue |
+| Justice | Éric Zemmour | 179 | 915 | 13 | 7 | Relue |
 | Institutions et démocratie | Jean-Luc Mélenchon | 0 | 940 | 15 | 6 | Relue |
 | Institutions et démocratie | François Ruffin | 47 | 759 | 9 | 4 | Relue |
 | Institutions et démocratie | Fabien Roussel | 0 | 752 | 11 | 4 | Relue |
