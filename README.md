@@ -18,6 +18,10 @@ Ouvrir [localhost:8000](http://localhost:8000). Le HTML contient le comparateur 
 
 Chaque build génère aussi une version texte du comparateur pour les agents IA : `dist/markdown/<candidat>/<theme>.md` (275 fichiers, non liés depuis les pages du site) et `dist/llms.txt`, qui les référence tous. Régénérable seul avec `python3 scripts/export_markdown.py`. Aucun changement visuel sur le site.
 
+## Explication par ChatGPT
+
+Quand au moins deux candidats et un thème sont sélectionnés, un lien de la barre d’actions ouvre ChatGPT avec un prompt pré-rempli (`web/assets/ia.js`). Le prompt demande une vulgarisation des visions du monde puis des plans, avec les liens vers les fichiers Markdown publiés de chaque candidat et thème (24 fichiers au plus).
+
 ## Mettre à jour une édition
 
 Suivre le [skill d’actualisation](.agents/skills/actualiser-pour-qui-voter/SKILL.md). Les tables sont délimitées par le caractère `|`. Les identifiants sont stables et les références multiples prennent la forme `source-a,source-b`.
