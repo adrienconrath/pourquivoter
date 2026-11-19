@@ -270,14 +270,14 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Culture et médias | Bruno Retailleau | 0 | 748 | 11 | 4 | Relue |
 | Culture et médias | Marine Le Pen | 57 | 963 | 11 | 5 | Relue |
 | Culture et médias | Éric Zemmour | 45 | 913 | 12 | 4 | Relue |
-| Numérique et IA | Jean-Luc Mélenchon | 0 | 1084 | 11 | 3 | Relue |
-| Numérique et IA | François Ruffin | 40 | 973 | 8 | 4 | Relue |
-| Numérique et IA | Fabien Roussel | 0 | 851 | 12 | 4 | Relue |
-| Numérique et IA | Marine Tondelier | 35 | 851 | 7 | 3 | Relue |
-| Numérique et IA | Raphaël Glucksmann | 53 | 1023 | 10 | 5 | Relue |
-| Numérique et IA | Gabriel Attal | 79 | 1092 | 17 | 3 | Relue |
-| Numérique et IA | Édouard Philippe | 47 | 1046 | 10 | 3 | Relue |
-| Numérique et IA | David Lisnard | 29 | 1025 | 10 | 4 | Relue |
-| Numérique et IA | Bruno Retailleau | 26 | 1051 | 17 | 3 | Relue |
-| Numérique et IA | Marine Le Pen | 0 | 856 | 10 | 4 | Relue |
-| Numérique et IA | Éric Zemmour | 0 | 1082 | 9 | 4 | Relue |
+| Numérique et IA | Jean-Luc Mélenchon | 0 | 983 | 12 | 3 | Relue |
+| Numérique et IA | François Ruffin | 40 | 931 | 9 | 4 | Relue |
+| Numérique et IA | Fabien Roussel | 0 | 813 | 13 | 6 | Relue |
+| Numérique et IA | Marine Tondelier | 35 | 738 | 8 | 3 | Relue |
+| Numérique et IA | Raphaël Glucksmann | 53 | 1009 | 11 | 5 | Relue |
+| Numérique et IA | Gabriel Attal | 79 | 959 | 18 | 3 | Relue |
+| Numérique et IA | Édouard Philippe | 47 | 993 | 11 | 4 | Relue |
+| Numérique et IA | David Lisnard | 29 | 973 | 11 | 5 | Relue |
+| Numérique et IA | Bruno Retailleau | 26 | 1017 | 18 | 3 | Relue |
+| Numérique et IA | Marine Le Pen | 0 | 789 | 11 | 4 | Relue |
+| Numérique et IA | Éric Zemmour | 0 | 993 | 10 | 4 | Relue |
