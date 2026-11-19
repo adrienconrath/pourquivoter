@@ -148,7 +148,7 @@ def comparison(theme, people, entries):
         person_key = person["id"]
         fields = entries.get((key, person_key))
         if fields:
-            summary = fields.get("resume", fields.get("orientation", []))
+            summary = fields["resume"]
             intro = "".join(claim(record["text"], record["refs"]) for record in summary)
             measures = sorted(
                 (record for field in ("orientation", "mesure", "explication")
@@ -234,7 +234,10 @@ def validate():
         entries[pair][field].append(record)
     if any("mesure" not in values for values in entries.values()):
         raise ValueError("Chaque position documentée doit avoir une proposition ou une déclaration.")
-    if any(len(values.get("resume", [])) > 1 for values in entries.values()):
+    expected_pairs = {(theme, person) for theme in themes for person in people}
+    if set(entries) != expected_pairs:
+        raise ValueError("Chaque candidat doit avoir une fiche pour chaque thème.")
+    if any(len(values.get("resume", [])) != 1 for values in entries.values()):
         raise ValueError("Chaque position doit avoir un seul résumé.")
     return people, themes, all_sources, images, entries
 

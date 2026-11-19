@@ -6,36 +6,36 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 
 | Thème | Personnalité | Mots avant | Mots actuels | Sources | Paragraphes critiques | Relecture |
 | --- | --- | ---: | ---: | ---: | ---: | --- |
-| Dette et déficit | Jean-Luc Mélenchon | 0 | 918 | 12 | 3 | Relue |
+| Dette et déficit | Jean-Luc Mélenchon | 0 | 909 | 12 | 3 | Relue |
 | Dette et déficit | François Ruffin | 175 | 933 | 13 | 5 | Relue |
 | Dette et déficit | Fabien Roussel | 17 | 1002 | 16 | 6 | Relue |
 | Dette et déficit | Marine Tondelier | 17 | 963 | 11 | 4 | Relue |
 | Dette et déficit | Raphaël Glucksmann | 858 | 1059 | 14 | 4 | Relue |
 | Dette et déficit | Gabriel Attal | 849 | 1059 | 19 | 5 | Relue |
-| Dette et déficit | Édouard Philippe | 233 | 1096 | 12 | 5 | Relue |
+| Dette et déficit | Édouard Philippe | 233 | 1082 | 12 | 5 | Relue |
 | Dette et déficit | David Lisnard | 200 | 980 | 11 | 4 | Relue |
 | Dette et déficit | Bruno Retailleau | 290 | 1104 | 14 | 6 | Relue |
 | Dette et déficit | Marine Le Pen | 295 | 933 | 12 | 4 | Relue |
-| Dette et déficit | Éric Zemmour | 138 | 1047 | 12 | 7 | Relue |
+| Dette et déficit | Éric Zemmour | 138 | 1039 | 12 | 7 | Relue |
 | Coût de la vie | Jean-Luc Mélenchon | 0 | 899 | 11 | 5 | Relue |
 | Coût de la vie | François Ruffin | 18 | 946 | 10 | 4 | Relue |
 | Coût de la vie | Fabien Roussel | 49 | 731 | 9 | 3 | Relue |
 | Coût de la vie | Marine Tondelier | 65 | 836 | 10 | 4 | Relue |
 | Coût de la vie | Raphaël Glucksmann | 113 | 1051 | 12 | 4 | Relue |
-| Coût de la vie | Gabriel Attal | 20 | 845 | 17 | 3 | Relue |
+| Coût de la vie | Gabriel Attal | 20 | 844 | 17 | 3 | Relue |
 | Coût de la vie | Édouard Philippe | 20 | 776 | 11 | 4 | Relue |
 | Coût de la vie | David Lisnard | 45 | 800 | 11 | 4 | Relue |
-| Coût de la vie | Bruno Retailleau | 44 | 966 | 14 | 3 | Relue |
+| Coût de la vie | Bruno Retailleau | 44 | 1009 | 16 | 3 | Relue |
 | Coût de la vie | Marine Le Pen | 155 | 848 | 11 | 5 | Relue |
-| Coût de la vie | Éric Zemmour | 119 | 799 | 11 | 4 | Relue |
-| Retraites | Jean-Luc Mélenchon | 0 | 979 | 13 | 6 | Relue |
-| Retraites | François Ruffin | 45 | 1087 | 12 | 5 | Relue |
+| Coût de la vie | Éric Zemmour | 119 | 786 | 11 | 4 | Relue |
+| Retraites | Jean-Luc Mélenchon | 0 | 979 | 13 | 7 | Relue |
+| Retraites | François Ruffin | 45 | 1087 | 12 | 6 | Relue |
 | Retraites | Fabien Roussel | 77 | 1022 | 12 | 6 | Relue |
 | Retraites | Marine Tondelier | 27 | 1106 | 13 | 5 | Relue |
 | Retraites | Raphaël Glucksmann | 24 | 779 | 10 | 3 | Relue |
 | Retraites | Gabriel Attal | 103 | 1167 | 16 | 4 | Relue |
 | Retraites | Édouard Philippe | 302 | 1039 | 14 | 4 | Relue |
-| Retraites | David Lisnard | 15 | 907 | 11 | 5 | Relue |
+| Retraites | David Lisnard | 15 | 907 | 11 | 6 | Relue |
 | Retraites | Bruno Retailleau | 196 | 1097 | 17 | 3 | Relue |
 | Retraites | Marine Le Pen | 357 | 1083 | 12 | 5 | Relue |
 | Retraites | Éric Zemmour | 41 | 1019 | 12 | 4 | Relue |
@@ -43,7 +43,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Impôts et patrimoine | François Ruffin | 836 | 897 | 11 | 5 | Relue |
 | Impôts et patrimoine | Fabien Roussel | 842 | 985 | 20 | 3 | Relue |
 | Impôts et patrimoine | Marine Tondelier | 895 | 1052 | 14 | 4 | Relue |
-| Impôts et patrimoine | Raphaël Glucksmann | 878 | 921 | 16 | 5 | Relue |
+| Impôts et patrimoine | Raphaël Glucksmann | 878 | 905 | 16 | 5 | Relue |
 | Impôts et patrimoine | Gabriel Attal | 1000 | 1074 | 22 | 6 | Relue |
 | Impôts et patrimoine | Édouard Philippe | 916 | 964 | 18 | 5 | Relue |
 | Impôts et patrimoine | David Lisnard | 952 | 1018 | 18 | 4 | Relue |
@@ -57,76 +57,76 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Travail et salaires | Raphaël Glucksmann | 33 | 957 | 11 | 5 | Relue |
 | Travail et salaires | Gabriel Attal | 97 | 1089 | 17 | 4 | Relue |
 | Travail et salaires | Édouard Philippe | 46 | 943 | 11 | 6 | Relue |
-| Travail et salaires | David Lisnard | 18 | 1122 | 15 | 4 | Relue |
-| Travail et salaires | Bruno Retailleau | 39 | 1127 | 12 | 3 | Relue |
+| Travail et salaires | David Lisnard | 18 | 1111 | 15 | 4 | Relue |
+| Travail et salaires | Bruno Retailleau | 39 | 1127 | 12 | 4 | Relue |
 | Travail et salaires | Marine Le Pen | 140 | 1035 | 8 | 4 | Relue |
 | Travail et salaires | Éric Zemmour | 12 | 1106 | 12 | 5 | Relue |
-| Industrie et entreprises | Jean-Luc Mélenchon | 0 | 983 | 13 | 3 | Relue |
+| Industrie et entreprises | Jean-Luc Mélenchon | 0 | 967 | 13 | 3 | Relue |
 | Industrie et entreprises | François Ruffin | 45 | 1090 | 12 | 3 | Relue |
 | Industrie et entreprises | Fabien Roussel | 14 | 986 | 10 | 3 | Relue |
 | Industrie et entreprises | Marine Tondelier | 65 | 986 | 9 | 3 | Relue |
 | Industrie et entreprises | Raphaël Glucksmann | 33 | 1010 | 9 | 7 | Relue |
-| Industrie et entreprises | Gabriel Attal | 15 | 980 | 13 | 5 | Relue |
+| Industrie et entreprises | Gabriel Attal | 15 | 979 | 13 | 6 | Relue |
 | Industrie et entreprises | Édouard Philippe | 90 | 982 | 11 | 5 | Relue |
-| Industrie et entreprises | David Lisnard | 22 | 1085 | 13 | 4 | Relue |
+| Industrie et entreprises | David Lisnard | 22 | 1091 | 13 | 4 | Relue |
 | Industrie et entreprises | Bruno Retailleau | 16 | 1222 | 21 | 3 | Relue |
 | Industrie et entreprises | Marine Le Pen | 93 | 1046 | 11 | 4 | Relue |
 | Industrie et entreprises | Éric Zemmour | 0 | 970 | 10 | 4 | Relue |
-| École et jeunesse | Jean-Luc Mélenchon | 0 | 891 | 9 | 5 | Relue |
-| École et jeunesse | François Ruffin | 16 | 824 | 9 | 5 | Relue |
+| École et jeunesse | Jean-Luc Mélenchon | 0 | 881 | 9 | 5 | Relue |
+| École et jeunesse | François Ruffin | 16 | 792 | 9 | 5 | Relue |
 | École et jeunesse | Fabien Roussel | 153 | 902 | 15 | 5 | Relue |
-| École et jeunesse | Marine Tondelier | 12 | 821 | 11 | 3 | Relue |
+| École et jeunesse | Marine Tondelier | 12 | 818 | 11 | 3 | Relue |
 | École et jeunesse | Raphaël Glucksmann | 58 | 899 | 14 | 4 | Relue |
 | École et jeunesse | Gabriel Attal | 151 | 896 | 24 | 3 | Relue |
 | École et jeunesse | Édouard Philippe | 116 | 802 | 11 | 4 | Relue |
-| École et jeunesse | David Lisnard | 182 | 915 | 14 | 3 | Relue |
+| École et jeunesse | David Lisnard | 182 | 907 | 14 | 3 | Relue |
 | École et jeunesse | Bruno Retailleau | 68 | 912 | 15 | 4 | Relue |
 | École et jeunesse | Marine Le Pen | 51 | 855 | 11 | 3 | Relue |
-| École et jeunesse | Éric Zemmour | 21 | 847 | 11 | 6 | Relue |
+| École et jeunesse | Éric Zemmour | 21 | 834 | 11 | 6 | Relue |
 | Protection de l’enfance | Jean-Luc Mélenchon | 0 | 886 | 16 | 3 | Relue |
 | Protection de l’enfance | François Ruffin | 0 | 820 | 13 | 3 | Relue |
 | Protection de l’enfance | Fabien Roussel | 0 | 712 | 9 | 3 | Relue |
-| Protection de l’enfance | Marine Tondelier | 0 | 857 | 11 | 4 | Relue |
-| Protection de l’enfance | Raphaël Glucksmann | 0 | 632 | 8 | 3 | Relue |
+| Protection de l’enfance | Marine Tondelier | 0 | 848 | 11 | 4 | Relue |
+| Protection de l’enfance | Raphaël Glucksmann | 0 | 636 | 8 | 3 | Relue |
 | Protection de l’enfance | Gabriel Attal | 0 | 828 | 20 | 4 | Relue |
-| Protection de l’enfance | Édouard Philippe | 0 | 859 | 10 | 4 | Relue |
+| Protection de l’enfance | Édouard Philippe | 0 | 841 | 10 | 4 | Relue |
 | Protection de l’enfance | David Lisnard | 0 | 864 | 12 | 3 | Relue |
-| Protection de l’enfance | Bruno Retailleau | 0 | 818 | 14 | 3 | Relue |
+| Protection de l’enfance | Bruno Retailleau | 0 | 813 | 14 | 3 | Relue |
 | Protection de l’enfance | Marine Le Pen | 0 | 800 | 9 | 3 | Relue |
-| Protection de l’enfance | Éric Zemmour | 0 | 918 | 14 | 5 | Relue |
+| Protection de l’enfance | Éric Zemmour | 0 | 912 | 14 | 5 | Relue |
 | Santé et accès aux soins | Jean-Luc Mélenchon | 0 | 875 | 13 | 3 | Relue |
-| Santé et accès aux soins | François Ruffin | 60 | 717 | 11 | 4 | Relue |
-| Santé et accès aux soins | Fabien Roussel | 54 | 785 | 14 | 3 | Relue |
+| Santé et accès aux soins | François Ruffin | 60 | 704 | 11 | 4 | Relue |
+| Santé et accès aux soins | Fabien Roussel | 54 | 779 | 14 | 3 | Relue |
 | Santé et accès aux soins | Marine Tondelier | 53 | 850 | 11 | 3 | Relue |
-| Santé et accès aux soins | Raphaël Glucksmann | 30 | 738 | 9 | 3 | Relue |
-| Santé et accès aux soins | Gabriel Attal | 16 | 883 | 16 | 4 | Relue |
-| Santé et accès aux soins | Édouard Philippe | 35 | 732 | 10 | 4 | Relue |
-| Santé et accès aux soins | David Lisnard | 56 | 822 | 15 | 4 | Relue |
-| Santé et accès aux soins | Bruno Retailleau | 112 | 797 | 13 | 4 | Relue |
-| Santé et accès aux soins | Marine Le Pen | 118 | 814 | 12 | 3 | Relue |
+| Santé et accès aux soins | Raphaël Glucksmann | 30 | 724 | 9 | 3 | Relue |
+| Santé et accès aux soins | Gabriel Attal | 16 | 876 | 16 | 4 | Relue |
+| Santé et accès aux soins | Édouard Philippe | 35 | 726 | 10 | 4 | Relue |
+| Santé et accès aux soins | David Lisnard | 56 | 815 | 15 | 4 | Relue |
+| Santé et accès aux soins | Bruno Retailleau | 112 | 792 | 13 | 4 | Relue |
+| Santé et accès aux soins | Marine Le Pen | 118 | 805 | 12 | 3 | Relue |
 | Santé et accès aux soins | Éric Zemmour | 66 | 800 | 13 | 4 | Relue |
-| Logement | Jean-Luc Mélenchon | 0 | 839 | 12 | 4 | Relue |
+| Logement | Jean-Luc Mélenchon | 0 | 839 | 12 | 5 | Relue |
 | Logement | François Ruffin | 178 | 914 | 10 | 4 | Relue |
 | Logement | Fabien Roussel | 130 | 941 | 12 | 3 | Relue |
-| Logement | Marine Tondelier | 12 | 873 | 14 | 4 | Relue |
-| Logement | Raphaël Glucksmann | 46 | 862 | 10 | 4 | Relue |
+| Logement | Marine Tondelier | 12 | 866 | 14 | 4 | Relue |
+| Logement | Raphaël Glucksmann | 46 | 844 | 10 | 4 | Relue |
 | Logement | Gabriel Attal | 154 | 891 | 16 | 5 | Relue |
-| Logement | Édouard Philippe | 40 | 809 | 12 | 5 | Relue |
-| Logement | David Lisnard | 171 | 875 | 17 | 3 | Relue |
+| Logement | Édouard Philippe | 40 | 792 | 12 | 5 | Relue |
+| Logement | David Lisnard | 171 | 856 | 17 | 3 | Relue |
 | Logement | Bruno Retailleau | 256 | 1034 | 25 | 4 | Relue |
 | Logement | Marine Le Pen | 154 | 846 | 12 | 4 | Relue |
 | Logement | Éric Zemmour | 61 | 812 | 12 | 4 | Relue |
 | Fonction publique | Jean-Luc Mélenchon | 0 | 848 | 14 | 4 | Relue |
 | Fonction publique | François Ruffin | 41 | 1056 | 12 | 5 | Relue |
 | Fonction publique | Fabien Roussel | 119 | 1001 | 14 | 5 | Relue |
-| Fonction publique | Marine Tondelier | 86 | 843 | 9 | 3 | Relue |
+| Fonction publique | Marine Tondelier | 86 | 847 | 9 | 3 | Relue |
 | Fonction publique | Raphaël Glucksmann | 147 | 845 | 13 | 3 | Relue |
 | Fonction publique | Gabriel Attal | 123 | 1043 | 19 | 5 | Relue |
 | Fonction publique | Édouard Philippe | 118 | 877 | 9 | 4 | Relue |
-| Fonction publique | David Lisnard | 67 | 1027 | 16 | 5 | Relue |
-| Fonction publique | Bruno Retailleau | 122 | 1031 | 14 | 4 | Relue |
-| Fonction publique | Marine Le Pen | 74 | 948 | 12 | 4 | Relue |
-| Fonction publique | Éric Zemmour | 97 | 1026 | 12 | 6 | Relue |
+| Fonction publique | David Lisnard | 67 | 1029 | 16 | 5 | Relue |
+| Fonction publique | Bruno Retailleau | 122 | 1032 | 14 | 4 | Relue |
+| Fonction publique | Marine Le Pen | 74 | 949 | 12 | 4 | Relue |
+| Fonction publique | Éric Zemmour | 97 | 1027 | 12 | 6 | Relue |
 | Immigration et asile | Jean-Luc Mélenchon | 0 | 823 | 14 | 4 | Relue |
 | Immigration et asile | François Ruffin | 182 | 762 | 11 | 4 | Relue |
 | Immigration et asile | Fabien Roussel | 53 | 634 | 9 | 4 | Relue |
@@ -141,7 +141,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Sécurité | Jean-Luc Mélenchon | 0 | 875 | 14 | 4 | Relue |
 | Sécurité | François Ruffin | 109 | 916 | 10 | 5 | Relue |
 | Sécurité | Fabien Roussel | 137 | 886 | 8 | 3 | Relue |
-| Sécurité | Marine Tondelier | 27 | 1079 | 13 | 5 | Relue |
+| Sécurité | Marine Tondelier | 27 | 1080 | 13 | 5 | Relue |
 | Sécurité | Raphaël Glucksmann | 18 | 1120 | 11 | 4 | Relue |
 | Sécurité | Gabriel Attal | 27 | 1248 | 24 | 5 | Relue |
 | Sécurité | Édouard Philippe | 35 | 1062 | 12 | 5 | Relue |
@@ -171,68 +171,68 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Institutions et démocratie | Bruno Retailleau | 51 | 771 | 15 | 4 | Relue |
 | Institutions et démocratie | Marine Le Pen | 20 | 703 | 14 | 4 | Relue |
 | Institutions et démocratie | Éric Zemmour | 0 | 777 | 12 | 4 | Relue |
-| Égalité et droits | Jean-Luc Mélenchon | 0 | 962 | 12 | 4 | Relue |
-| Égalité et droits | François Ruffin | 20 | 1076 | 13 | 5 | Relue |
-| Égalité et droits | Fabien Roussel | 21 | 1016 | 16 | 3 | Relue |
-| Égalité et droits | Marine Tondelier | 16 | 972 | 11 | 4 | Relue |
-| Égalité et droits | Raphaël Glucksmann | 49 | 998 | 10 | 3 | Relue |
-| Égalité et droits | Gabriel Attal | 12 | 1077 | 17 | 4 | Relue |
-| Égalité et droits | Édouard Philippe | 12 | 1047 | 14 | 4 | Relue |
-| Égalité et droits | David Lisnard | 0 | 970 | 10 | 3 | Relue |
-| Égalité et droits | Bruno Retailleau | 0 | 1136 | 13 | 3 | Relue |
-| Égalité et droits | Marine Le Pen | 0 | 1161 | 15 | 4 | Relue |
-| Égalité et droits | Éric Zemmour | 0 | 1131 | 14 | 5 | Relue |
-| Climat et adaptation | Jean-Luc Mélenchon | 0 | 1035 | 12 | 3 | Relue |
-| Climat et adaptation | François Ruffin | 115 | 1098 | 11 | 3 | Relue |
-| Climat et adaptation | Fabien Roussel | 98 | 1077 | 14 | 4 | Relue |
-| Climat et adaptation | Marine Tondelier | 108 | 1071 | 16 | 4 | Relue |
-| Climat et adaptation | Raphaël Glucksmann | 209 | 1089 | 11 | 3 | Relue |
-| Climat et adaptation | Gabriel Attal | 10 | 1180 | 21 | 4 | Relue |
-| Climat et adaptation | Édouard Philippe | 21 | 801 | 8 | 3 | Relue |
-| Climat et adaptation | David Lisnard | 17 | 974 | 11 | 4 | Relue |
-| Climat et adaptation | Bruno Retailleau | 59 | 1089 | 16 | 4 | Relue |
-| Climat et adaptation | Marine Le Pen | 49 | 1108 | 15 | 4 | Relue |
-| Climat et adaptation | Éric Zemmour | 0 | 1013 | 9 | 4 | Relue |
-| Énergie | Jean-Luc Mélenchon | 0 | 996 | 12 | 4 | Relue |
-| Énergie | François Ruffin | 24 | 1090 | 9 | 4 | Relue |
-| Énergie | Fabien Roussel | 248 | 1056 | 15 | 4 | Relue |
-| Énergie | Marine Tondelier | 11 | 1128 | 11 | 4 | Relue |
-| Énergie | Raphaël Glucksmann | 91 | 1110 | 10 | 4 | Relue |
-| Énergie | Gabriel Attal | 111 | 1079 | 15 | 4 | Relue |
-| Énergie | Édouard Philippe | 13 | 905 | 11 | 4 | Relue |
-| Énergie | David Lisnard | 29 | 1109 | 13 | 5 | Relue |
-| Énergie | Bruno Retailleau | 54 | 1153 | 15 | 4 | Relue |
-| Énergie | Marine Le Pen | 46 | 1136 | 12 | 3 | Relue |
-| Énergie | Éric Zemmour | 24 | 1069 | 13 | 5 | Relue |
-| Transports | Jean-Luc Mélenchon | 0 | 1015 | 10 | 3 | Relue |
-| Transports | François Ruffin | 13 | 1088 | 12 | 4 | Relue |
-| Transports | Fabien Roussel | 4 | 965 | 8 | 3 | Relue |
-| Transports | Marine Tondelier | 218 | 945 | 9 | 4 | Relue |
-| Transports | Raphaël Glucksmann | 104 | 1025 | 10 | 3 | Relue |
-| Transports | Gabriel Attal | 528 | 1011 | 12 | 4 | Relue |
-| Transports | Édouard Philippe | 6 | 980 | 14 | 3 | Relue |
-| Transports | David Lisnard | 15 | 898 | 10 | 3 | Relue |
-| Transports | Bruno Retailleau | 0 | 1046 | 12 | 3 | Relue |
-| Transports | Marine Le Pen | 0 | 1040 | 13 | 4 | Relue |
-| Transports | Éric Zemmour | 0 | 1093 | 12 | 3 | Relue |
-| Agriculture et alimentation | Jean-Luc Mélenchon | 0 | 1107 | 15 | 5 | Relue |
-| Agriculture et alimentation | François Ruffin | 50 | 917 | 9 | 5 | Relue |
-| Agriculture et alimentation | Fabien Roussel | 0 | 1093 | 11 | 3 | Relue |
-| Agriculture et alimentation | Marine Tondelier | 77 | 934 | 12 | 4 | Relue |
-| Agriculture et alimentation | Raphaël Glucksmann | 0 | 918 | 11 | 3 | Relue |
-| Agriculture et alimentation | Gabriel Attal | 43 | 1101 | 16 | 6 | Relue |
-| Agriculture et alimentation | Édouard Philippe | 26 | 1076 | 11 | 4 | Relue |
-| Agriculture et alimentation | David Lisnard | 42 | 967 | 9 | 3 | Relue |
-| Agriculture et alimentation | Bruno Retailleau | 65 | 1034 | 19 | 4 | Relue |
-| Agriculture et alimentation | Marine Le Pen | 0 | 1161 | 16 | 4 | Relue |
-| Agriculture et alimentation | Éric Zemmour | 0 | 1189 | 13 | 5 | Relue |
+| Égalité et droits | Jean-Luc Mélenchon | 0 | 920 | 22 | 4 | Relue |
+| Égalité et droits | François Ruffin | 20 | 1020 | 14 | 5 | Relue |
+| Égalité et droits | Fabien Roussel | 21 | 922 | 17 | 3 | Relue |
+| Égalité et droits | Marine Tondelier | 16 | 983 | 12 | 4 | Relue |
+| Égalité et droits | Raphaël Glucksmann | 49 | 908 | 11 | 3 | Relue |
+| Égalité et droits | Gabriel Attal | 12 | 981 | 18 | 4 | Relue |
+| Égalité et droits | Édouard Philippe | 12 | 1029 | 15 | 4 | Relue |
+| Égalité et droits | David Lisnard | 0 | 865 | 11 | 3 | Relue |
+| Égalité et droits | Bruno Retailleau | 0 | 1079 | 14 | 3 | Relue |
+| Égalité et droits | Marine Le Pen | 0 | 1024 | 16 | 4 | Relue |
+| Égalité et droits | Éric Zemmour | 0 | 987 | 15 | 5 | Relue |
+| Climat et adaptation | Jean-Luc Mélenchon | 0 | 751 | 14 | 3 | Relue |
+| Climat et adaptation | François Ruffin | 115 | 839 | 12 | 3 | Relue |
+| Climat et adaptation | Fabien Roussel | 98 | 854 | 15 | 4 | Relue |
+| Climat et adaptation | Marine Tondelier | 108 | 856 | 17 | 4 | Relue |
+| Climat et adaptation | Raphaël Glucksmann | 209 | 879 | 12 | 3 | Relue |
+| Climat et adaptation | Gabriel Attal | 10 | 890 | 22 | 4 | Relue |
+| Climat et adaptation | Édouard Philippe | 21 | 646 | 9 | 3 | Relue |
+| Climat et adaptation | David Lisnard | 17 | 746 | 12 | 4 | Relue |
+| Climat et adaptation | Bruno Retailleau | 59 | 854 | 17 | 4 | Relue |
+| Climat et adaptation | Marine Le Pen | 49 | 822 | 16 | 4 | Relue |
+| Climat et adaptation | Éric Zemmour | 0 | 717 | 10 | 4 | Relue |
+| Énergie | Jean-Luc Mélenchon | 0 | 765 | 13 | 4 | Relue |
+| Énergie | François Ruffin | 24 | 795 | 10 | 4 | Relue |
+| Énergie | Fabien Roussel | 248 | 877 | 16 | 4 | Relue |
+| Énergie | Marine Tondelier | 11 | 873 | 12 | 4 | Relue |
+| Énergie | Raphaël Glucksmann | 91 | 869 | 11 | 4 | Relue |
+| Énergie | Gabriel Attal | 111 | 878 | 16 | 4 | Relue |
+| Énergie | Édouard Philippe | 13 | 692 | 13 | 4 | Relue |
+| Énergie | David Lisnard | 29 | 761 | 14 | 5 | Relue |
+| Énergie | Bruno Retailleau | 54 | 910 | 16 | 4 | Relue |
+| Énergie | Marine Le Pen | 46 | 835 | 13 | 3 | Relue |
+| Énergie | Éric Zemmour | 24 | 839 | 14 | 5 | Relue |
+| Transports | Jean-Luc Mélenchon | 0 | 757 | 12 | 3 | Relue |
+| Transports | François Ruffin | 13 | 1060 | 14 | 5 | Relue |
+| Transports | Fabien Roussel | 4 | 920 | 9 | 4 | Relue |
+| Transports | Marine Tondelier | 218 | 867 | 10 | 4 | Relue |
+| Transports | Raphaël Glucksmann | 104 | 1043 | 11 | 3 | Relue |
+| Transports | Gabriel Attal | 528 | 961 | 13 | 5 | Relue |
+| Transports | Édouard Philippe | 6 | 972 | 15 | 4 | Relue |
+| Transports | David Lisnard | 15 | 846 | 11 | 4 | Relue |
+| Transports | Bruno Retailleau | 0 | 895 | 13 | 3 | Relue |
+| Transports | Marine Le Pen | 0 | 983 | 14 | 4 | Relue |
+| Transports | Éric Zemmour | 0 | 1062 | 13 | 4 | Relue |
+| Agriculture et alimentation | Jean-Luc Mélenchon | 0 | 761 | 16 | 5 | Relue |
+| Agriculture et alimentation | François Ruffin | 50 | 691 | 10 | 5 | Relue |
+| Agriculture et alimentation | Fabien Roussel | 0 | 726 | 12 | 3 | Relue |
+| Agriculture et alimentation | Marine Tondelier | 77 | 705 | 13 | 4 | Relue |
+| Agriculture et alimentation | Raphaël Glucksmann | 0 | 668 | 12 | 3 | Relue |
+| Agriculture et alimentation | Gabriel Attal | 43 | 744 | 17 | 6 | Relue |
+| Agriculture et alimentation | Édouard Philippe | 26 | 758 | 12 | 4 | Relue |
+| Agriculture et alimentation | David Lisnard | 42 | 666 | 10 | 3 | Relue |
+| Agriculture et alimentation | Bruno Retailleau | 65 | 822 | 20 | 4 | Relue |
+| Agriculture et alimentation | Marine Le Pen | 0 | 855 | 18 | 4 | Relue |
+| Agriculture et alimentation | Éric Zemmour | 0 | 812 | 14 | 5 | Relue |
 | Territoires et outre-mer | Jean-Luc Mélenchon | 0 | 824 | 10 | 2 | Relue |
 | Territoires et outre-mer | François Ruffin | 0 | 874 | 9 | 3 | Relue |
 | Territoires et outre-mer | Fabien Roussel | 26 | 872 | 10 | 4 | Relue |
 | Territoires et outre-mer | Marine Tondelier | 19 | 843 | 9 | 4 | Relue |
 | Territoires et outre-mer | Raphaël Glucksmann | 0 | 929 | 10 | 4 | Relue |
 | Territoires et outre-mer | Gabriel Attal | 47 | 1068 | 18 | 4 | Relue |
-| Territoires et outre-mer | Édouard Philippe | 85 | 1123 | 13 | 4 | Relue |
+| Territoires et outre-mer | Édouard Philippe | 85 | 1119 | 13 | 4 | Relue |
 | Territoires et outre-mer | David Lisnard | 37 | 810 | 11 | 5 | Relue |
 | Territoires et outre-mer | Bruno Retailleau | 0 | 1073 | 13 | 3 | Relue |
 | Territoires et outre-mer | Marine Le Pen | 0 | 970 | 12 | 5 | Relue |
@@ -241,7 +241,7 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Europe | François Ruffin | 776 | 962 | 18 | 5 | Relue |
 | Europe | Fabien Roussel | 915 | 981 | 19 | 5 | Relue |
 | Europe | Marine Tondelier | 950 | 1035 | 18 | 5 | Relue |
-| Europe | Raphaël Glucksmann | 995 | 945 | 16 | 5 | Relue |
+| Europe | Raphaël Glucksmann | 995 | 938 | 16 | 5 | Relue |
 | Europe | Gabriel Attal | 885 | 930 | 13 | 5 | Relue |
 | Europe | Édouard Philippe | 983 | 885 | 15 | 3 | Relue |
 | Europe | David Lisnard | 789 | 1028 | 15 | 4 | Relue |
@@ -251,10 +251,10 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Défense et diplomatie | Jean-Luc Mélenchon | 0 | 973 | 17 | 4 | Relue |
 | Défense et diplomatie | François Ruffin | 0 | 829 | 12 | 3 | Relue |
 | Défense et diplomatie | Fabien Roussel | 18 | 869 | 12 | 3 | Relue |
-| Défense et diplomatie | Marine Tondelier | 29 | 881 | 11 | 5 | Relue |
-| Défense et diplomatie | Raphaël Glucksmann | 12 | 834 | 13 | 3 | Relue |
+| Défense et diplomatie | Marine Tondelier | 29 | 873 | 11 | 5 | Relue |
+| Défense et diplomatie | Raphaël Glucksmann | 12 | 825 | 13 | 3 | Relue |
 | Défense et diplomatie | Gabriel Attal | 17 | 1000 | 16 | 3 | Relue |
-| Défense et diplomatie | Édouard Philippe | 16 | 784 | 12 | 3 | Relue |
+| Défense et diplomatie | Édouard Philippe | 16 | 773 | 12 | 3 | Relue |
 | Défense et diplomatie | David Lisnard | 27 | 744 | 8 | 4 | Relue |
 | Défense et diplomatie | Bruno Retailleau | 0 | 919 | 11 | 3 | Relue |
 | Défense et diplomatie | Marine Le Pen | 0 | 980 | 13 | 4 | Relue |
@@ -266,18 +266,18 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Culture et médias | Raphaël Glucksmann | 94 | 1051 | 12 | 5 | Relue |
 | Culture et médias | Gabriel Attal | 0 | 949 | 14 | 5 | Relue |
 | Culture et médias | Édouard Philippe | 0 | 974 | 14 | 5 | Relue |
-| Culture et médias | David Lisnard | 0 | 909 | 13 | 5 | Relue |
+| Culture et médias | David Lisnard | 0 | 866 | 13 | 5 | Relue |
 | Culture et médias | Bruno Retailleau | 0 | 748 | 11 | 4 | Relue |
 | Culture et médias | Marine Le Pen | 57 | 963 | 11 | 5 | Relue |
 | Culture et médias | Éric Zemmour | 45 | 913 | 12 | 4 | Relue |
 | Numérique et IA | Jean-Luc Mélenchon | 0 | 983 | 12 | 3 | Relue |
 | Numérique et IA | François Ruffin | 40 | 931 | 9 | 4 | Relue |
-| Numérique et IA | Fabien Roussel | 0 | 813 | 13 | 6 | Relue |
+| Numérique et IA | Fabien Roussel | 0 | 815 | 13 | 6 | Relue |
 | Numérique et IA | Marine Tondelier | 35 | 738 | 8 | 3 | Relue |
 | Numérique et IA | Raphaël Glucksmann | 53 | 1009 | 11 | 5 | Relue |
 | Numérique et IA | Gabriel Attal | 79 | 959 | 18 | 3 | Relue |
 | Numérique et IA | Édouard Philippe | 47 | 993 | 11 | 4 | Relue |
 | Numérique et IA | David Lisnard | 29 | 973 | 11 | 5 | Relue |
 | Numérique et IA | Bruno Retailleau | 26 | 1017 | 18 | 3 | Relue |
-| Numérique et IA | Marine Le Pen | 0 | 789 | 11 | 4 | Relue |
+| Numérique et IA | Marine Le Pen | 0 | 791 | 11 | 4 | Relue |
 | Numérique et IA | Éric Zemmour | 0 | 993 | 10 | 4 | Relue |

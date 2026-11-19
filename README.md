@@ -27,4 +27,4 @@ Suivre le [skill d’actualisation](.agents/skills/actualiser-pour-qui-voter/SKI
 - `data/audit-couverture.tsv` relève toutes les cases et leurs lacunes quantitatives ; régénérer avec `python3 scripts/audit_coverage.py`. Un texte long n'est pas automatiquement une recherche vérifiée.
 - `data/recherches.tsv` suit les recherches effectivement relues, leurs supports et leurs limites. Les journaux détaillés disponibles sont dans `docs/recherches/`.
 
-Les positions manquantes restent visibles dans le comparateur. Les ajouts sur `main` déclenchent le workflow GitHub Pages.
+Le générateur vérifie que chaque candidat dispose d’une fiche pour chaque thème et que chaque fiche contient exactement un résumé de moins de 100 mots. Les ajouts sur `main` déclenchent le workflow GitHub Pages.
