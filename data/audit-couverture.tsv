@@ -6,6 +6,7 @@ dette|roussel|17|992|16|15|6|3|controle_qualitatif|relue
 dette|tondelier|17|955|16|10|4|6|controle_qualitatif|relue
 dette|glucksmann|858|1047|17|13|4|6|controle_qualitatif|relue
 dette|attal|849|1041|16|18|5|4|controle_qualitatif|relue
+dette|riner|0|36|3|1|0|1|insuffisant|partielle
 dette|philippe|233|1071|20|11|5|2|controle_qualitatif|relue
 dette|lisnard|200|953|17|10|4|3|controle_qualitatif|relue
 dette|retailleau|290|1085|19|13|6|4|controle_qualitatif|relue
@@ -17,6 +18,7 @@ prix|roussel|49|721|13|8|3|2|controle_qualitatif|relue
 prix|tondelier|65|826|15|9|4|2|controle_qualitatif|relue
 prix|glucksmann|113|1043|17|11|4|2|controle_qualitatif|relue
 prix|attal|20|830|17|16|3|4|controle_qualitatif|relue
+prix|riner|0|37|3|1|0|1|insuffisant|partielle
 prix|philippe|20|764|15|10|4|2|controle_qualitatif|relue
 prix|lisnard|45|782|14|10|4|2|controle_qualitatif|relue
 prix|retailleau|44|1001|19|15|3|2|controle_qualitatif|relue
@@ -28,6 +30,7 @@ retraites|roussel|77|1018|18|11|6|2|controle_qualitatif|relue
 retraites|tondelier|27|1100|21|12|5|7|controle_qualitatif|relue
 retraites|glucksmann|24|767|14|9|3|3|controle_qualitatif|relue
 retraites|attal|103|1157|17|15|4|2|controle_qualitatif|relue
+retraites|riner|0|44|3|1|0|1|insuffisant|partielle
 retraites|philippe|302|1025|18|13|4|3|controle_qualitatif|relue
 retraites|lisnard|15|873|19|10|6|4|controle_qualitatif|relue
 retraites|retailleau|196|1089|19|16|3|3|controle_qualitatif|relue
@@ -39,6 +42,7 @@ fiscalite|roussel|842|972|18|19|3|3|controle_qualitatif|relue
 fiscalite|tondelier|895|1042|19|13|4|1|controle_qualitatif|relue
 fiscalite|glucksmann|878|892|17|15|5|2|controle_qualitatif|relue
 fiscalite|attal|1000|1059|20|21|6|3|controle_qualitatif|relue
+fiscalite|riner|0|54|3|1|0|1|insuffisant|partielle
 fiscalite|philippe|916|947|17|17|5|2|controle_qualitatif|relue
 fiscalite|lisnard|952|1004|18|17|4|2|controle_qualitatif|relue
 fiscalite|retailleau|845|979|16|15|5|3|controle_qualitatif|relue
@@ -50,6 +54,7 @@ travail|roussel|72|974|14|10|3|2|controle_qualitatif|relue
 travail|tondelier|145|1045|20|9|4|4|controle_qualitatif|relue
 travail|glucksmann|33|946|17|10|5|2|controle_qualitatif|relue
 travail|attal|97|1080|18|16|4|2|controle_qualitatif|relue
+travail|riner|0|32|2|1|0|0|insuffisant|partielle
 travail|philippe|46|933|18|10|6|2|controle_qualitatif|relue
 travail|lisnard|18|1102|20|14|4|3|controle_qualitatif|relue
 travail|retailleau|39|1120|20|11|4|3|controle_qualitatif|relue
@@ -61,6 +66,7 @@ industrie|roussel|14|974|15|9|3|3|controle_qualitatif|relue
 industrie|tondelier|65|973|17|8|3|4|controle_qualitatif|relue
 industrie|glucksmann|33|996|18|8|7|3|controle_qualitatif|relue
 industrie|attal|15|958|19|11|6|4|controle_qualitatif|relue
+industrie|riner|0|48|3|1|0|1|insuffisant|partielle
 industrie|philippe|90|970|18|10|5|3|controle_qualitatif|relue
 industrie|lisnard|22|1076|16|12|4|2|controle_qualitatif|relue
 industrie|retailleau|16|1210|19|20|3|4|controle_qualitatif|relue
@@ -72,6 +78,7 @@ ecole|roussel|153|889|16|14|5|1|controle_qualitatif|relue
 ecole|tondelier|12|810|16|10|3|2|controle_qualitatif|relue
 ecole|glucksmann|58|885|18|13|4|3|controle_qualitatif|relue
 ecole|attal|151|878|19|23|3|4|controle_qualitatif|relue
+ecole|riner|0|35|2|1|0|0|insuffisant|partielle
 ecole|philippe|116|785|17|10|4|1|controle_qualitatif|relue
 ecole|lisnard|182|885|17|13|3|3|controle_qualitatif|relue
 ecole|retailleau|68|901|16|14|4|3|controle_qualitatif|relue
@@ -83,6 +90,7 @@ enfance|roussel|0|703|16|8|3|3|controle_qualitatif|relue
 enfance|tondelier|0|832|15|10|4|1|controle_qualitatif|relue
 enfance|glucksmann|0|627|14|7|3|2|controle_qualitatif|relue
 enfance|attal|0|800|14|19|4|1|controle_qualitatif|relue
+enfance|riner|0|10|1|1|0|0|insuffisant|partielle
 enfance|philippe|0|823|15|9|4|2|controle_qualitatif|relue
 enfance|lisnard|0|845|15|11|3|4|controle_qualitatif|relue
 enfance|retailleau|0|806|14|13|3|1|controle_qualitatif|relue
@@ -94,6 +102,7 @@ sante|roussel|54|767|14|13|3|2|controle_qualitatif|relue
 sante|tondelier|53|844|19|10|3|5|controle_qualitatif|relue
 sante|glucksmann|30|710|15|8|3|3|controle_qualitatif|relue
 sante|attal|16|861|18|15|4|4|controle_qualitatif|relue
+sante|riner|0|60|3|1|0|1|insuffisant|partielle
 sante|philippe|35|712|13|9|4|2|controle_qualitatif|relue
 sante|lisnard|56|806|16|14|4|3|controle_qualitatif|relue
 sante|retailleau|112|783|16|12|4|2|controle_qualitatif|relue
@@ -105,6 +114,7 @@ logement|roussel|130|928|19|11|3|4|controle_qualitatif|relue
 logement|tondelier|12|854|18|13|4|3|controle_qualitatif|relue
 logement|glucksmann|46|833|16|9|4|3|controle_qualitatif|relue
 logement|attal|154|882|18|15|5|1|controle_qualitatif|relue
+logement|riner|0|10|1|1|0|0|insuffisant|partielle
 logement|philippe|40|770|16|11|5|2|controle_qualitatif|relue
 logement|lisnard|171|836|20|16|3|1|controle_qualitatif|relue
 logement|retailleau|256|1024|19|25|4|4|controle_qualitatif|relue
@@ -116,6 +126,7 @@ services|roussel|119|993|17|13|5|3|controle_qualitatif|relue
 services|tondelier|86|839|16|8|3|3|controle_qualitatif|relue
 services|glucksmann|147|835|13|12|3|2|controle_qualitatif|relue
 services|attal|123|1031|17|18|5|3|controle_qualitatif|relue
+services|riner|0|10|1|1|0|0|insuffisant|partielle
 services|philippe|118|866|16|8|4|3|controle_qualitatif|relue
 services|lisnard|67|1018|17|14|5|3|controle_qualitatif|relue
 services|retailleau|122|1023|17|13|4|2|controle_qualitatif|relue
@@ -127,6 +138,7 @@ immigration|roussel|53|622|15|8|4|3|controle_qualitatif|relue
 immigration|tondelier|52|762|16|11|3|2|controle_qualitatif|relue
 immigration|glucksmann|65|764|16|12|3|2|controle_qualitatif|relue
 immigration|attal|121|691|14|10|4|1|controle_qualitatif|relue
+immigration|riner|0|10|1|1|0|0|insuffisant|partielle
 immigration|philippe|179|772|15|9|4|2|controle_qualitatif|relue
 immigration|lisnard|49|766|15|13|5|1|controle_qualitatif|relue
 immigration|retailleau|119|856|16|18|4|1|controle_qualitatif|relue
@@ -138,6 +150,7 @@ securite|roussel|137|875|16|7|3|2|controle_qualitatif|relue
 securite|tondelier|27|1067|18|12|5|1|controle_qualitatif|relue
 securite|glucksmann|18|1109|18|10|4|2|controle_qualitatif|relue
 securite|attal|27|1235|22|23|5|1|controle_qualitatif|relue
+securite|riner|0|27|2|1|0|0|insuffisant|partielle
 securite|philippe|35|1049|18|11|5|1|controle_qualitatif|relue
 securite|lisnard|17|976|16|14|4|1|controle_qualitatif|relue
 securite|retailleau|0|1084|18|11|5|3|controle_qualitatif|relue
@@ -149,6 +162,7 @@ justice|roussel|0|806|17|14|3|2|controle_qualitatif|relue
 justice|tondelier|71|749|15|12|5|1|controle_qualitatif|relue
 justice|glucksmann|7|763|16|11|4|2|controle_qualitatif|relue
 justice|attal|93|931|21|25|4|1|controle_qualitatif|relue
+justice|riner|0|45|2|1|0|0|insuffisant|partielle
 justice|philippe|131|845|18|11|5|3|controle_qualitatif|relue
 justice|lisnard|117|780|16|14|6|2|controle_qualitatif|relue
 justice|retailleau|86|794|17|15|4|2|controle_qualitatif|relue
@@ -160,6 +174,7 @@ institutions|roussel|0|732|15|10|4|1|controle_qualitatif|relue
 institutions|tondelier|40|646|14|9|3|1|controle_qualitatif|relue
 institutions|glucksmann|13|729|15|10|3|1|controle_qualitatif|relue
 institutions|attal|15|795|17|15|4|2|controle_qualitatif|relue
+institutions|riner|0|10|1|1|0|0|insuffisant|partielle
 institutions|philippe|14|719|15|10|4|1|controle_qualitatif|relue
 institutions|lisnard|15|693|15|11|4|2|controle_qualitatif|relue
 institutions|retailleau|51|747|17|14|4|1|controle_qualitatif|relue
@@ -171,6 +186,7 @@ droits|roussel|21|905|16|16|3|3|controle_qualitatif|relue
 droits|tondelier|16|969|17|11|4|3|controle_qualitatif|relue
 droits|glucksmann|49|892|16|10|3|4|controle_qualitatif|relue
 droits|attal|12|965|16|17|4|1|controle_qualitatif|relue
+droits|riner|0|89|3|2|1|0|insuffisant|partielle
 droits|philippe|12|1016|16|14|4|3|controle_qualitatif|relue
 droits|lisnard|0|853|15|10|3|1|controle_qualitatif|relue
 droits|retailleau|0|1068|19|13|3|3|controle_qualitatif|relue
@@ -182,6 +198,7 @@ climat|roussel|98|841|19|14|4|3|controle_qualitatif|relue
 climat|tondelier|108|840|18|16|4|3|controle_qualitatif|relue
 climat|glucksmann|209|853|18|11|3|3|controle_qualitatif|relue
 climat|attal|10|863|16|21|4|2|controle_qualitatif|relue
+climat|riner|0|10|1|1|0|0|insuffisant|partielle
 climat|philippe|21|619|12|8|3|2|controle_qualitatif|relue
 climat|lisnard|17|726|14|11|4|2|controle_qualitatif|relue
 climat|retailleau|59|830|17|16|4|3|controle_qualitatif|relue
@@ -193,6 +210,7 @@ energie|roussel|248|868|17|15|4|4|controle_qualitatif|relue
 energie|tondelier|11|867|16|11|4|2|controle_qualitatif|relue
 energie|glucksmann|91|862|18|10|4|3|controle_qualitatif|relue
 energie|attal|111|872|18|15|4|2|controle_qualitatif|relue
+energie|riner|0|10|1|1|0|0|insuffisant|partielle
 energie|philippe|13|680|14|11|4|3|controle_qualitatif|relue
 energie|lisnard|29|756|15|13|5|2|controle_qualitatif|relue
 energie|retailleau|54|900|17|15|4|1|controle_qualitatif|relue
@@ -204,6 +222,7 @@ transports|roussel|4|899|16|8|4|3|controle_qualitatif|relue
 transports|tondelier|218|850|16|9|4|4|controle_qualitatif|relue
 transports|glucksmann|104|1027|17|10|3|2|controle_qualitatif|relue
 transports|attal|528|946|16|12|5|2|controle_qualitatif|relue
+transports|riner|0|10|1|1|0|0|insuffisant|partielle
 transports|philippe|6|957|18|14|4|2|controle_qualitatif|relue
 transports|lisnard|15|834|15|10|4|3|controle_qualitatif|relue
 transports|retailleau|0|883|15|12|3|3|controle_qualitatif|relue
@@ -215,6 +234,7 @@ agriculture|roussel|0|692|16|11|3|1|controle_qualitatif|relue
 agriculture|tondelier|77|686|15|12|4|1|controle_qualitatif|relue
 agriculture|glucksmann|0|651|16|11|3|1|controle_qualitatif|relue
 agriculture|attal|43|726|16|16|6|1|controle_qualitatif|relue
+agriculture|riner|0|10|1|1|0|0|insuffisant|partielle
 agriculture|philippe|26|727|15|11|4|2|controle_qualitatif|relue
 agriculture|lisnard|42|647|13|9|3|2|controle_qualitatif|relue
 agriculture|retailleau|65|802|17|19|4|2|controle_qualitatif|relue
@@ -226,6 +246,7 @@ territoires|roussel|26|858|15|9|4|4|controle_qualitatif|relue
 territoires|tondelier|19|827|16|8|4|6|controle_qualitatif|relue
 territoires|glucksmann|0|918|16|9|4|3|controle_qualitatif|relue
 territoires|attal|47|1057|18|17|4|2|controle_qualitatif|relue
+territoires|riner|0|72|3|1|0|1|insuffisant|partielle
 territoires|philippe|85|1111|17|12|4|2|controle_qualitatif|relue
 territoires|lisnard|37|784|16|10|5|4|controle_qualitatif|relue
 territoires|retailleau|0|1062|16|12|3|4|controle_qualitatif|relue
@@ -237,6 +258,7 @@ europe|roussel|915|978|17|18|5|2|controle_qualitatif|relue
 europe|tondelier|950|1007|20|17|5|2|controle_qualitatif|relue
 europe|glucksmann|995|902|16|15|5|3|controle_qualitatif|relue
 europe|attal|885|908|16|12|5|3|controle_qualitatif|relue
+europe|riner|0|10|1|1|0|0|insuffisant|partielle
 europe|philippe|983|877|14|14|3|2|controle_qualitatif|relue
 europe|lisnard|789|1011|18|14|4|3|controle_qualitatif|relue
 europe|retailleau|829|1031|19|22|5|2|controle_qualitatif|relue
@@ -248,6 +270,7 @@ defense|roussel|18|850|15|11|3|1|controle_qualitatif|relue
 defense|tondelier|29|855|13|10|5|2|controle_qualitatif|relue
 defense|glucksmann|12|802|13|12|3|3|controle_qualitatif|relue
 defense|attal|17|977|16|15|3|2|controle_qualitatif|relue
+defense|riner|0|47|2|1|0|0|insuffisant|partielle
 defense|philippe|16|764|18|11|3|2|controle_qualitatif|relue
 defense|lisnard|27|739|14|7|4|1|controle_qualitatif|relue
 defense|retailleau|0|900|15|10|3|2|controle_qualitatif|relue
@@ -259,6 +282,7 @@ culture|roussel|0|901|15|12|3|2|controle_qualitatif|relue
 culture|tondelier|58|873|16|9|6|2|controle_qualitatif|relue
 culture|glucksmann|94|1040|19|11|5|4|controle_qualitatif|relue
 culture|attal|0|921|18|13|5|3|controle_qualitatif|relue
+culture|riner|0|10|1|1|0|0|insuffisant|partielle
 culture|philippe|0|959|18|13|5|2|controle_qualitatif|relue
 culture|lisnard|0|850|19|12|5|3|controle_qualitatif|relue
 culture|retailleau|0|733|13|10|4|2|controle_qualitatif|relue
@@ -270,6 +294,7 @@ numerique|roussel|0|802|19|12|6|2|controle_qualitatif|relue
 numerique|tondelier|35|729|14|7|3|2|controle_qualitatif|relue
 numerique|glucksmann|53|1000|20|10|5|3|controle_qualitatif|relue
 numerique|attal|79|949|18|17|3|2|controle_qualitatif|relue
+numerique|riner|0|10|1|1|0|0|insuffisant|partielle
 numerique|philippe|47|985|17|10|4|2|controle_qualitatif|relue
 numerique|lisnard|29|960|16|10|5|2|controle_qualitatif|relue
 numerique|retailleau|26|1010|18|17|3|4|controle_qualitatif|relue
