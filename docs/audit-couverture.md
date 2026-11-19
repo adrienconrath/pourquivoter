@@ -160,17 +160,17 @@ Les détails des recherches et les inconnues sont consignés dans [le journal](.
 | Justice | Bruno Retailleau | 86 | 1063 | 14 | 4 | Relue |
 | Justice | Marine Le Pen | 0 | 1130 | 12 | 3 | Relue |
 | Justice | Éric Zemmour | 179 | 1096 | 12 | 7 | Relue |
-| Institutions et démocratie | Jean-Luc Mélenchon | 0 | 1101 | 14 | 6 | Relue |
-| Institutions et démocratie | François Ruffin | 47 | 1042 | 8 | 4 | Relue |
-| Institutions et démocratie | Fabien Roussel | 0 | 941 | 10 | 4 | Relue |
-| Institutions et démocratie | Marine Tondelier | 40 | 857 | 9 | 3 | Relue |
-| Institutions et démocratie | Raphaël Glucksmann | 13 | 1029 | 10 | 3 | Relue |
-| Institutions et démocratie | Gabriel Attal | 15 | 1219 | 15 | 4 | Relue |
-| Institutions et démocratie | Édouard Philippe | 14 | 994 | 10 | 4 | Relue |
-| Institutions et démocratie | David Lisnard | 15 | 1023 | 11 | 4 | Relue |
-| Institutions et démocratie | Bruno Retailleau | 51 | 1103 | 14 | 4 | Relue |
-| Institutions et démocratie | Marine Le Pen | 20 | 1011 | 12 | 4 | Relue |
-| Institutions et démocratie | Éric Zemmour | 0 | 1055 | 11 | 4 | Relue |
+| Institutions et démocratie | Jean-Luc Mélenchon | 0 | 940 | 15 | 6 | Relue |
+| Institutions et démocratie | François Ruffin | 47 | 759 | 9 | 4 | Relue |
+| Institutions et démocratie | Fabien Roussel | 0 | 752 | 11 | 4 | Relue |
+| Institutions et démocratie | Marine Tondelier | 40 | 655 | 10 | 3 | Relue |
+| Institutions et démocratie | Raphaël Glucksmann | 13 | 754 | 11 | 3 | Relue |
+| Institutions et démocratie | Gabriel Attal | 15 | 824 | 16 | 4 | Relue |
+| Institutions et démocratie | Édouard Philippe | 14 | 744 | 11 | 4 | Relue |
+| Institutions et démocratie | David Lisnard | 15 | 701 | 12 | 4 | Relue |
+| Institutions et démocratie | Bruno Retailleau | 51 | 771 | 15 | 4 | Relue |
+| Institutions et démocratie | Marine Le Pen | 20 | 703 | 14 | 4 | Relue |
+| Institutions et démocratie | Éric Zemmour | 0 | 777 | 12 | 4 | Relue |
 | Égalité et droits | Jean-Luc Mélenchon | 0 | 962 | 12 | 4 | Relue |
 | Égalité et droits | François Ruffin | 20 | 1076 | 13 | 5 | Relue |
 | Égalité et droits | Fabien Roussel | 21 | 1016 | 16 | 3 | Relue |
