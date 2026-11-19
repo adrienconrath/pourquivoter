@@ -313,6 +313,7 @@ def build(snapshot, generated):
     for person in people.values():
         page = render(profile_template, dict(
             name=escape(person["name"]),
+            id=person["id"],
             profile=profile(person, snapshot),
             generated=replacements["generated"],
         ))
