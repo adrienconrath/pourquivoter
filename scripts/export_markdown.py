@@ -1,7 +1,7 @@
 """Génère la version Markdown du comparateur pour les agents IA.
 
 Appelé par scripts/build.py à chaque build : écrit dist/markdown/<candidat>/<theme>.md
-(275 fichiers, non liés depuis les pages du site) et dist/llms.txt qui les référence.
+(un fichier par candidature et par thème, sans lien depuis les pages du site) et dist/llms.txt qui les référence.
 Peut aussi tourner seul : python3 scripts/export_markdown.py.
 """
 
