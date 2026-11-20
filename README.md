@@ -16,7 +16,7 @@ Ouvrir [localhost:8000](http://localhost:8000). Le HTML contient le comparateur 
 
 ## Export Markdown et llms.txt
 
-Chaque build génère aussi une version texte du comparateur pour les agents IA : `dist/markdown/<candidat>/<theme>.md` (275 fichiers, non liés depuis les pages du site) et `dist/llms.txt`, qui les référence tous. Régénérable seul avec `python3 scripts/export_markdown.py`. Aucun changement visuel sur le site.
+Chaque build génère aussi une version texte du comparateur pour les agents IA : `dist/markdown/<candidat>/<theme>.md` (un fichier par candidature et par thème, sans lien depuis les pages du site) et `dist/llms.txt`, qui les référence tous. Régénérable seul avec `python3 scripts/export_markdown.py`. Aucun changement visuel sur le site.
 
 ## Explication par ChatGPT
 
