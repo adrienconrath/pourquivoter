@@ -16,6 +16,20 @@ const clearThemes = document.querySelector("#clear-themes");
 const closeColumns = document.querySelector("#close-columns");
 const resultCount = document.querySelector("#result-count");
 const emptyThemes = document.querySelector("#empty-themes");
+const hint = document.querySelector("#candidate-hint");
+const HINT_KEY = "pqv-hint-candidate";
+
+function hintSeen() {
+  try { return localStorage.getItem(HINT_KEY) === "1"; }
+  catch (e) { return false; }
+}
+function dismissHint() {
+  try { localStorage.setItem(HINT_KEY, "1"); } catch (e) {}
+  hint.hidden = true;
+}
+function updateHint() {
+  hint.hidden = expanded.length > 0 || hintSeen();
+}
 
 const defaultPeople = [];
 let expanded = [];
@@ -80,6 +94,7 @@ function updateBoard() {
   closeColumns.disabled = expanded.length === 0;
   window.dispatchEvent(new Event("pqv:selection"));
   resultCount.textContent = `${expanded.length} ${expanded.length === 1 ? "colonne ouverte" : "colonnes ouvertes"} · ${count} ${count === 1 ? "thème" : "thèmes"}`;
+  updateHint();
 }
 
 themePicker.addEventListener("click", event => {
@@ -117,9 +132,12 @@ candidatePicker.addEventListener("click", event => {
   expanded = opening ? [person, ...expanded] : expanded.filter(item => item !== person);
   saveSelection();
   updateBoard();
+  dismissHint();
   if (opening) board.scrollLeft = columnScroll.scrollLeft = 0;
   button.focus({preventScroll: true});
 });
+
+hint.addEventListener("click", dismissHint);
 
 headers.addEventListener("click", event => {
   const button = event.target.closest("[data-close-person]");
