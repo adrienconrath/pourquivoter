@@ -1,7 +1,6 @@
 # Longueur indicative : ne prouve ni exhaustivité ni exactitude.
 # theme|personne|mots_avant|mots_actuels|blocs|sources_distinctes|critiques|financement|priorite|recherche_revue
 dette|melenchon|0|929|17|11|3|4|controle_qualitatif|relue
-dette|ruffin|175|940|17|12|5|6|controle_qualitatif|relue
 dette|roussel|17|1025|16|15|6|3|controle_qualitatif|relue
 dette|tondelier|17|988|16|10|4|6|controle_qualitatif|relue
 dette|glucksmann|858|1047|17|13|4|6|controle_qualitatif|relue
@@ -13,7 +12,6 @@ dette|retailleau|290|1101|19|13|6|4|controle_qualitatif|relue
 dette|le-pen|295|923|15|11|4|4|controle_qualitatif|relue
 dette|zemmour|138|1056|19|11|7|5|controle_qualitatif|relue
 prix|melenchon|0|920|16|10|5|3|controle_qualitatif|relue
-prix|ruffin|18|932|20|8|4|4|controle_qualitatif|relue
 prix|roussel|49|731|13|8|3|2|controle_qualitatif|relue
 prix|tondelier|65|846|15|9|4|2|controle_qualitatif|relue
 prix|glucksmann|113|1084|17|11|4|2|controle_qualitatif|relue
@@ -25,7 +23,6 @@ prix|retailleau|44|1009|19|15|3|2|controle_qualitatif|relue
 prix|le-pen|155|828|14|9|5|2|controle_qualitatif|relue
 prix|zemmour|119|776|15|9|4|3|controle_qualitatif|relue
 retraites|melenchon|0|967|19|12|7|5|controle_qualitatif|relue
-retraites|ruffin|45|1094|21|11|6|4|controle_qualitatif|relue
 retraites|roussel|77|1032|18|11|6|2|controle_qualitatif|relue
 retraites|tondelier|27|1090|21|12|5|7|controle_qualitatif|relue
 retraites|glucksmann|24|771|14|9|3|3|controle_qualitatif|relue
@@ -37,7 +34,6 @@ retraites|retailleau|196|1127|19|16|3|3|controle_qualitatif|relue
 retraites|le-pen|357|1117|28|11|5|4|controle_qualitatif|relue
 retraites|zemmour|41|1026|16|11|4|4|controle_qualitatif|relue
 fiscalite|melenchon|0|822|15|10|4|3|controle_qualitatif|relue
-fiscalite|ruffin|836|933|16|10|5|1|controle_qualitatif|relue
 fiscalite|roussel|842|979|18|19|3|3|controle_qualitatif|relue
 fiscalite|tondelier|895|1051|19|13|4|1|controle_qualitatif|relue
 fiscalite|glucksmann|878|908|17|16|5|2|controle_qualitatif|relue
@@ -49,7 +45,6 @@ fiscalite|retailleau|845|1023|16|15|5|3|controle_qualitatif|relue
 fiscalite|le-pen|1016|1045|18|14|5|4|controle_qualitatif|relue
 fiscalite|zemmour|925|953|17|14|5|2|controle_qualitatif|relue
 travail|melenchon|0|828|19|12|6|3|controle_qualitatif|relue
-travail|ruffin|98|1041|16|12|3|2|controle_qualitatif|relue
 travail|roussel|72|974|14|10|3|2|controle_qualitatif|relue
 travail|tondelier|145|1069|20|9|4|4|controle_qualitatif|relue
 travail|glucksmann|33|986|17|10|5|2|controle_qualitatif|relue
@@ -61,7 +56,6 @@ travail|retailleau|39|1127|20|11|4|3|controle_qualitatif|relue
 travail|le-pen|140|1018|21|7|4|1|controle_qualitatif|relue
 travail|zemmour|12|1104|19|11|5|1|controle_qualitatif|relue
 industrie|melenchon|0|998|20|12|3|6|controle_qualitatif|relue
-industrie|ruffin|45|1088|16|11|3|2|controle_qualitatif|relue
 industrie|roussel|14|1002|15|9|3|3|controle_qualitatif|relue
 industrie|tondelier|65|988|17|8|3|4|controle_qualitatif|relue
 industrie|glucksmann|33|1014|18|8|7|3|controle_qualitatif|relue
@@ -73,7 +67,6 @@ industrie|retailleau|16|1219|19|20|3|4|controle_qualitatif|relue
 industrie|le-pen|93|1041|18|10|4|3|controle_qualitatif|relue
 industrie|zemmour|0|969|17|9|4|2|controle_qualitatif|relue
 ecole|melenchon|0|875|16|7|5|2|controle_qualitatif|relue
-ecole|ruffin|16|832|15|8|5|3|controle_qualitatif|relue
 ecole|roussel|153|889|16|14|5|1|controle_qualitatif|relue
 ecole|tondelier|12|834|16|10|3|2|controle_qualitatif|relue
 ecole|glucksmann|58|901|18|13|4|3|controle_qualitatif|relue
@@ -85,7 +78,6 @@ ecole|retailleau|68|919|16|14|4|3|controle_qualitatif|relue
 ecole|le-pen|51|867|14|10|3|2|controle_qualitatif|relue
 ecole|zemmour|21|799|16|10|6|3|controle_qualitatif|relue
 enfance|melenchon|0|866|17|15|3|2|controle_qualitatif|relue
-enfance|ruffin|0|824|17|12|3|3|controle_qualitatif|relue
 enfance|roussel|0|728|16|8|3|3|controle_qualitatif|relue
 enfance|tondelier|0|832|15|10|4|1|controle_qualitatif|relue
 enfance|glucksmann|0|640|14|7|3|2|controle_qualitatif|relue
@@ -97,7 +89,6 @@ enfance|retailleau|0|824|14|13|3|1|controle_qualitatif|relue
 enfance|le-pen|0|807|13|8|3|1|controle_qualitatif|relue
 enfance|zemmour|0|903|17|13|5|3|controle_qualitatif|relue
 sante|melenchon|0|877|19|12|3|3|controle_qualitatif|relue
-sante|ruffin|60|699|13|10|4|3|controle_qualitatif|relue
 sante|roussel|54|795|14|13|3|2|controle_qualitatif|relue
 sante|tondelier|53|842|19|10|3|5|controle_qualitatif|relue
 sante|glucksmann|30|726|15|8|3|3|controle_qualitatif|relue
@@ -109,7 +100,6 @@ sante|retailleau|112|814|16|12|4|2|controle_qualitatif|relue
 sante|le-pen|118|810|16|11|3|2|controle_qualitatif|relue
 sante|zemmour|66|804|16|12|4|3|controle_qualitatif|relue
 logement|melenchon|0|860|16|11|5|4|controle_qualitatif|relue
-logement|ruffin|178|914|18|9|4|4|controle_qualitatif|relue
 logement|roussel|130|953|19|11|3|4|controle_qualitatif|relue
 logement|tondelier|12|854|18|13|4|3|controle_qualitatif|relue
 logement|glucksmann|46|833|16|9|4|3|controle_qualitatif|relue
@@ -121,7 +111,6 @@ logement|retailleau|256|1041|19|25|4|4|controle_qualitatif|relue
 logement|le-pen|154|885|18|11|4|3|controle_qualitatif|relue
 logement|zemmour|61|811|15|11|4|3|controle_qualitatif|relue
 services|melenchon|0|843|19|13|4|2|controle_qualitatif|relue
-services|ruffin|41|1041|17|11|5|2|controle_qualitatif|relue
 services|roussel|119|1005|17|13|5|3|controle_qualitatif|relue
 services|tondelier|86|846|16|8|3|3|controle_qualitatif|relue
 services|glucksmann|147|839|13|12|3|2|controle_qualitatif|relue
@@ -133,7 +122,6 @@ services|retailleau|122|1053|17|13|4|2|controle_qualitatif|relue
 services|le-pen|74|956|14|11|4|2|controle_qualitatif|relue
 services|zemmour|97|1023|16|11|6|2|controle_qualitatif|relue
 immigration|melenchon|0|801|15|13|4|1|controle_qualitatif|relue
-immigration|ruffin|182|769|14|10|4|1|controle_qualitatif|relue
 immigration|roussel|53|629|15|8|4|3|controle_qualitatif|relue
 immigration|tondelier|52|772|16|11|3|2|controle_qualitatif|relue
 immigration|glucksmann|65|782|16|12|3|2|controle_qualitatif|relue
@@ -145,7 +133,6 @@ immigration|retailleau|119|852|16|18|4|1|controle_qualitatif|relue
 immigration|le-pen|157|903|18|12|5|2|controle_qualitatif|relue
 immigration|zemmour|90|811|15|11|4|2|controle_qualitatif|relue
 securite|melenchon|0|910|20|13|4|2|controle_qualitatif|relue
-securite|ruffin|109|927|17|9|5|2|controle_qualitatif|relue
 securite|roussel|137|900|16|7|3|2|controle_qualitatif|relue
 securite|tondelier|27|1076|18|12|5|1|controle_qualitatif|relue
 securite|glucksmann|18|1121|18|10|4|2|controle_qualitatif|relue
@@ -157,7 +144,6 @@ securite|retailleau|0|1095|18|11|5|3|controle_qualitatif|relue
 securite|le-pen|29|1094|18|18|6|2|controle_qualitatif|relue
 securite|zemmour|13|1004|20|12|7|3|controle_qualitatif|relue
 justice|melenchon|0|835|19|12|3|3|controle_qualitatif|relue
-justice|ruffin|0|707|16|8|5|1|controle_qualitatif|relue
 justice|roussel|0|806|17|14|3|2|controle_qualitatif|relue
 justice|tondelier|71|749|15|12|5|1|controle_qualitatif|relue
 justice|glucksmann|7|818|16|11|4|2|controle_qualitatif|relue
@@ -169,7 +155,6 @@ justice|retailleau|86|853|17|15|4|2|controle_qualitatif|relue
 justice|le-pen|0|807|15|12|3|2|controle_qualitatif|relue
 justice|zemmour|179|905|18|12|7|3|controle_qualitatif|relue
 institutions|melenchon|0|967|17|14|6|1|controle_qualitatif|relue
-institutions|ruffin|47|772|15|8|4|2|controle_qualitatif|relue
 institutions|roussel|0|732|15|10|4|1|controle_qualitatif|relue
 institutions|tondelier|40|669|14|9|3|1|controle_qualitatif|relue
 institutions|glucksmann|13|743|15|10|3|1|controle_qualitatif|relue
@@ -181,7 +166,6 @@ institutions|retailleau|51|782|17|14|4|1|controle_qualitatif|relue
 institutions|le-pen|20|729|16|13|4|3|controle_qualitatif|relue
 institutions|zemmour|0|788|14|11|4|1|controle_qualitatif|relue
 droits|melenchon|0|928|24|21|4|2|controle_qualitatif|relue
-droits|ruffin|20|1046|19|13|5|3|controle_qualitatif|relue
 droits|roussel|21|925|16|16|3|3|controle_qualitatif|relue
 droits|tondelier|16|987|17|11|4|3|controle_qualitatif|relue
 droits|glucksmann|49|892|16|10|3|4|controle_qualitatif|relue
@@ -193,7 +177,6 @@ droits|retailleau|0|1082|19|13|3|3|controle_qualitatif|relue
 droits|le-pen|0|1042|18|15|4|1|controle_qualitatif|relue
 droits|zemmour|0|994|20|14|5|3|controle_qualitatif|relue
 climat|melenchon|0|750|17|13|3|2|controle_qualitatif|relue
-climat|ruffin|115|851|16|11|3|2|controle_qualitatif|relue
 climat|roussel|98|851|19|14|4|3|controle_qualitatif|relue
 climat|tondelier|108|863|18|16|4|3|controle_qualitatif|relue
 climat|glucksmann|209|899|18|11|3|3|controle_qualitatif|relue
@@ -205,7 +188,6 @@ climat|retailleau|59|853|17|16|4|3|controle_qualitatif|relue
 climat|le-pen|49|863|15|15|4|2|controle_qualitatif|relue
 climat|zemmour|0|776|15|9|4|1|controle_qualitatif|relue
 energie|melenchon|0|769|15|12|4|3|controle_qualitatif|relue
-energie|ruffin|24|816|15|9|4|3|controle_qualitatif|relue
 energie|roussel|248|881|17|15|4|4|controle_qualitatif|relue
 energie|tondelier|11|884|16|11|4|2|controle_qualitatif|relue
 energie|glucksmann|91|857|18|10|4|3|controle_qualitatif|relue
@@ -217,7 +199,6 @@ energie|retailleau|54|924|17|15|4|1|controle_qualitatif|relue
 energie|le-pen|46|843|15|12|3|4|controle_qualitatif|relue
 energie|zemmour|24|830|16|13|5|3|controle_qualitatif|relue
 transports|melenchon|0|763|17|11|3|2|controle_qualitatif|relue
-transports|ruffin|13|1065|18|12|5|3|controle_qualitatif|relue
 transports|roussel|4|903|16|8|4|3|controle_qualitatif|relue
 transports|tondelier|218|857|16|9|4|4|controle_qualitatif|relue
 transports|glucksmann|104|1034|17|10|3|2|controle_qualitatif|relue
@@ -229,7 +210,6 @@ transports|retailleau|0|910|15|12|3|3|controle_qualitatif|relue
 transports|le-pen|0|991|17|13|4|1|controle_qualitatif|relue
 transports|zemmour|0|1059|18|12|4|4|controle_qualitatif|relue
 agriculture|melenchon|0|751|17|15|5|2|controle_qualitatif|relue
-agriculture|ruffin|50|679|14|9|5|2|controle_qualitatif|relue
 agriculture|roussel|0|719|16|11|3|1|controle_qualitatif|relue
 agriculture|tondelier|77|696|15|12|4|1|controle_qualitatif|relue
 agriculture|glucksmann|0|683|16|11|3|1|controle_qualitatif|relue
@@ -241,7 +221,6 @@ agriculture|retailleau|65|881|17|19|4|2|controle_qualitatif|relue
 agriculture|le-pen|0|868|18|17|4|2|controle_qualitatif|relue
 agriculture|zemmour|0|820|17|13|5|2|controle_qualitatif|relue
 territoires|melenchon|0|836|16|9|2|3|controle_qualitatif|relue
-territoires|ruffin|0|866|17|8|3|4|controle_qualitatif|relue
 territoires|roussel|26|871|15|10|4|4|controle_qualitatif|relue
 territoires|tondelier|19|849|16|8|4|6|controle_qualitatif|relue
 territoires|glucksmann|0|945|16|9|4|3|controle_qualitatif|relue
@@ -253,7 +232,6 @@ territoires|retailleau|0|1090|16|12|3|4|controle_qualitatif|relue
 territoires|le-pen|0|972|18|11|5|3|controle_qualitatif|relue
 territoires|zemmour|0|973|18|10|4|3|controle_qualitatif|relue
 europe|melenchon|0|677|12|12|4|1|controle_qualitatif|relue
-europe|ruffin|776|969|17|17|5|2|controle_qualitatif|relue
 europe|roussel|915|987|17|18|5|2|controle_qualitatif|relue
 europe|tondelier|950|1032|20|17|5|2|controle_qualitatif|relue
 europe|glucksmann|995|902|16|15|5|3|controle_qualitatif|relue
@@ -265,7 +243,6 @@ europe|retailleau|829|1045|19|22|5|2|controle_qualitatif|relue
 europe|le-pen|944|946|16|19|5|3|controle_qualitatif|relue
 europe|zemmour|832|948|17|20|4|1|controle_qualitatif|relue
 defense|melenchon|0|960|22|16|4|4|controle_qualitatif|relue
-defense|ruffin|0|825|14|10|3|2|controle_qualitatif|relue
 defense|roussel|18|860|15|11|3|1|controle_qualitatif|relue
 defense|tondelier|29|856|13|10|5|2|controle_qualitatif|relue
 defense|glucksmann|12|802|13|12|3|3|controle_qualitatif|relue
@@ -277,7 +254,6 @@ defense|retailleau|0|907|15|10|3|2|controle_qualitatif|relue
 defense|le-pen|0|972|16|12|4|2|controle_qualitatif|relue
 defense|zemmour|0|968|19|12|3|4|controle_qualitatif|relue
 culture|melenchon|0|922|18|14|6|3|controle_qualitatif|relue
-culture|ruffin|24|828|16|9|6|4|controle_qualitatif|relue
 culture|roussel|0|907|15|12|3|2|controle_qualitatif|relue
 culture|tondelier|58|900|16|9|6|2|controle_qualitatif|relue
 culture|glucksmann|94|1039|19|11|5|4|controle_qualitatif|relue
@@ -289,7 +265,6 @@ culture|retailleau|0|752|13|10|4|2|controle_qualitatif|relue
 culture|le-pen|57|979|17|10|5|4|controle_qualitatif|relue
 culture|zemmour|45|903|16|12|4|4|controle_qualitatif|relue
 numerique|melenchon|0|1032|18|11|3|1|controle_qualitatif|relue
-numerique|ruffin|40|939|15|8|4|1|controle_qualitatif|relue
 numerique|roussel|0|805|19|12|6|2|controle_qualitatif|relue
 numerique|tondelier|35|767|14|7|3|2|controle_qualitatif|relue
 numerique|glucksmann|53|1000|20|10|5|3|controle_qualitatif|relue
